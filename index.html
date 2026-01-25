@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TITAN EMPIRE | Grand Command Center</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;800&family=Space+Grotesk:wght@300;700&display=swap");
+        body { font-family: "Plus Jakarta Sans", sans-serif; background: #010409; color: white; overflow-x: hidden; }
+        .grid-bg { background-image: radial-gradient(#1e293b 0.5px, transparent 0.5px); background-size: 30px 30px; }
+        .niche-card { background: rgba(13, 17, 23, 0.8); border: 1px solid rgba(255,255,255,0.05); backdrop-filter: blur(20px); transition: 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); }
+        .niche-card:hover { border-color: #3b82f6; transform: scale(1.03); box-shadow: 0 20px 50px rgba(0,0,0,0.5); }
+        .glow-blue { box-shadow: 0 0 20px rgba(59, 130, 246, 0.2); }
+    </style>
+</head>
+<body class="grid-bg min-h-screen p-6">
+    <nav class="max-w-7xl mx-auto flex justify-between items-center mb-16 py-6 border-b border-white/5">
+        <div class="text-3xl font-black tracking-tighter">TITAN <span class="text-blue-500 italic">EMPIRE</span></div>
+        <div class="flex items-center gap-4">
+            <span class="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span>
+            <span class="text-[10px] font-bold uppercase tracking-[0.3em] text-gray-400">Global Node Active</span>
+        </div>
+    </nav>
+
+    <div class="max-w-7xl mx-auto">
+        <header class="mb-20">
+            <h1 class="text-6xl md:text-8xl font-black mb-6 tracking-tighter">The Gateway <br><span class="text-blue-600 italic font-light">to Everything.</span></h1>
+            <p class="text-slate-500 text-xl max-w-2xl">Your central hub for specialized high-performance portals powered by Titan Intelligence.</p>
+        </header>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            <div class="niche-card p-8 rounded-[2.5rem] glow-blue">
+                <span class="text-blue-500 font-bold text-xs tracking-widest uppercase">01. Real Estate</span>
+                <h3 class="text-2xl font-bold mt-2 mb-6">Property Portal</h3>
+                <a href="index_royal.html" class="block bg-blue-600 text-center py-4 rounded-2xl font-black text-xs uppercase tracking-widest hover:bg-blue-500 transition">Enter Portal</a>
+            </div>
+
+            <div class="niche-card p-8 rounded-[2.5rem] opacity-50">
+                <span class="text-purple-500 font-bold text-xs tracking-widest uppercase">02. AI & Tech</span>
+                <h3 class="text-2xl font-bold mt-2 mb-6">Titan Solutions</h3>
+                <span class="text-[10px] font-black text-slate-600 border border-slate-800 px-3 py-1 rounded-full uppercase">Deploying...</span>
+            </div>
+
+            <div class="niche-card p-8 rounded-[2.5rem] opacity-50">
+                <span class="text-orange-500 font-bold text-xs tracking-widest uppercase">03. Logistics</span>
+                <h3 class="text-2xl font-bold mt-2 mb-6">Global Shipping</h3>
+                <span class="text-[10px] font-black text-slate-600 border border-slate-800 px-3 py-1 rounded-full uppercase">Constructing...</span>
+            </div>
+
+            <div class="niche-card p-8 rounded-[2.5rem] opacity-50">
+                <span class="text-emerald-500 font-bold text-xs tracking-widest uppercase">04. Pharma</span>
+                <h3 class="text-2xl font-bold mt-2 mb-6">Lab & Medical</h3>
+                <span class="text-[10px] font-black text-slate-600 border border-slate-800 px-3 py-1 rounded-full uppercase">Constructing...</span>
+            </div>
+
+            <div class="niche-card p-8 rounded-[2.5rem] opacity-50">
+                <span class="text-yellow-500 font-bold text-xs tracking-widest uppercase">05. Market</span>
+                <h3 class="text-2xl font-bold mt-2 mb-6">E-Commerce</h3>
+                <span class="text-[10px] font-black text-slate-600 border border-slate-800 px-3 py-1 rounded-full uppercase">Constructing...</span>
+            </div>
+
+            <div class="niche-card p-8 rounded-[2.5rem] opacity-50">
+                <span class="text-cyan-400 font-bold text-xs tracking-widest uppercase">06. Tourism</span>
+                <h3 class="text-2xl font-bold mt-2 mb-6">Luxury Travels</h3>
+                <span class="text-[10px] font-black text-slate-600 border border-slate-800 px-3 py-1 rounded-full uppercase">Constructing...</span>
+            </div>
+
+            <div class="niche-card p-8 rounded-[2.5rem] opacity-50">
+                <span class="text-red-500 font-bold text-xs tracking-widest uppercase">07. Legal Pro</span>
+                <h3 class="text-2xl font-bold mt-2 mb-6">Law Firm</h3>
+                <span class="text-[10px] font-black text-slate-600 border border-slate-800 px-3 py-1 rounded-full uppercase">Constructing...</span>
+            </div>
+
+            <div class="niche-card p-8 rounded-[2.5rem] opacity-50">
+                <span class="text-pink-500 font-bold text-xs tracking-widest uppercase">08. Production</span>
+                <h3 class="text-2xl font-bold mt-2 mb-6">Cinema & Photo</h3>
+                <span class="text-[10px] font-black text-slate-600 border border-slate-800 px-3 py-1 rounded-full uppercase">Constructing...</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
