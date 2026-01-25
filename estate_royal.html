@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Titan Royal | Corporate Elite</title>
+    <title>Titan Royal | The Grand Estate</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Amiri&family=Lora&display=swap');
@@ -12,17 +12,18 @@
         .arabic { font-family: 'Amiri', serif; direction: rtl; }
         .gold-text { color: var(--gold); }
         .cinzel { font-family: 'Cinzel', serif; }
-        .nav-link { font-size: 10px; letter-spacing: 2px; transition: 0.3s; cursor: pointer; }
+        .nav-link { font-size: 11px; letter-spacing: 2px; transition: 0.3s; cursor: pointer; text-transform: uppercase; }
         .nav-link:hover { color: var(--gold); }
-        .section-padding { padding: 100px 20px; }
-        .card { background: #0a0a0a; border: 1px solid rgba(212,175,55,0.1); padding: 20px; transition: 0.3s; }
-        .card:hover { border-color: var(--gold); }
+        .section-header { text-align: center; margin-bottom: 60px; }
+        .card { background: #0a0a0a; border: 1px solid rgba(212,175,55,0.1); padding: 20px; transition: 0.3s; height: 100%; }
+        .card:hover { border-color: var(--gold); transform: translateY(-5px); }
         #modal { display: none; position: fixed; inset: 0; z-index: 9999; background: rgba(0,0,0,0.98); overflow-y: auto; }
         .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; padding: 20px; max-width: 1200px; margin: 0 auto; }
-        .gallery-item { border: 1px solid #222; position: relative; height: 280px; }
+        .gallery-item { border: 1px solid #222; position: relative; height: 300px; }
         .gallery-item img { width: 100%; height: 100%; object-fit: cover; }
-        .label { position: absolute; bottom: 0; background: rgba(0,0,0,0.8); width: 100%; font-size: 11px; padding: 8px; color: var(--gold); text-align: center; }
-        .close { position: fixed; top: 20px; right: 30px; font-size: 45px; color: var(--gold); cursor: pointer; z-index: 10000; }
+        .label { position: absolute; bottom: 0; background: rgba(0,0,0,0.85); width: 100%; font-size: 12px; padding: 10px; color: var(--gold); text-align: center; border-top: 1px solid var(--gold); }
+        .close { position: fixed; top: 20px; right: 30px; font-size: 50px; color: var(--gold); cursor: pointer; z-index: 10000; transition: 0.3s; }
+        .close:hover { transform: scale(1.2); }
     </style>
 </head>
 <body>
@@ -30,73 +31,90 @@
     <div id="modal">
         <span class="close" onclick="closeM()">&times;</span>
         <div class="pt-24 text-center">
-            <h2 id="mT" class="text-4xl gold-text cinzel uppercase"></h2>
-            <p id="mL" class="text-[12px] opacity-50 tracking-[5px] mt-2"></p>
+            <h2 id="mT" class="text-4xl gold-text cinzel mb-2"></h2>
+            <p id="mL" class="text-[11px] opacity-50 tracking-[6px] uppercase"></p>
         </div>
         <div class="gallery" id="gG"></div>
     </div>
 
-    <nav class="fixed w-full p-6 z-50 flex justify-between items-center bg-black/90 backdrop-blur-md border-b border-white/5">
-        <div class="text-xl gold-text cinzel font-bold">TITAN ROYAL</div>
-        <div class="hidden md:flex gap-8">
-            <a href="#about" id="nav-about" class="nav-link uppercase">About</a>
-            <a href="#collection" id="nav-coll" class="nav-link uppercase">Collection</a>
-            <a href="#team" id="nav-team" class="nav-link uppercase">Management</a>
-            <a href="#contact" id="nav-cont" class="nav-link uppercase">Contact</a>
+    <nav class="fixed w-full p-6 z-50 flex justify-between items-center bg-black/90 backdrop-blur-lg border-b border-white/5">
+        <div class="text-2xl gold-text cinzel font-bold tracking-tighter">TITAN ROYAL</div>
+        <div class="hidden md:flex gap-10">
+            <a href="#about" id="nav-about" class="nav-link">About</a>
+            <a href="#collection" id="nav-coll" class="nav-link">Collection</a>
+            <a href="#team" id="nav-team" class="nav-link">Management</a>
+            <a href="#contact" id="nav-cont" class="nav-link">Contact</a>
         </div>
         <div class="flex gap-4">
-            <button onclick="setL('en')" class="text-[10px] gold-text font-bold">EN</button>
-            <button onclick="setL('ar')" class="text-[10px] gold-text font-bold">AR</button>
+            <button onclick="setL('en')" class="text-[10px] gold-text font-bold border border-gold/20 px-2 py-1">EN</button>
+            <button onclick="setL('ar')" class="text-[10px] gold-text font-bold border border-gold/20 px-2 py-1">AR</button>
         </div>
     </nav>
 
-    <section class="h-screen flex flex-col justify-center items-center text-center px-6">
-        <h1 id="h-t" class="text-5xl md:text-8xl font-bold cinzel mb-4">TITAN <span class="gold-text">ESTATE</span></h1>
-        <p id="h-s" class="tracking-[15px] uppercase text-[10px] opacity-50">The Pinnacle of Luxury Living</p>
-    </section>
-
-    <section id="about" class="section-padding bg-[#080808] text-center">
-        <h2 id="a-t" class="text-3xl gold-text cinzel mb-8 uppercase">Our Legacy</h2>
-        <p id="a-p" class="max-w-3xl mx-auto opacity-70 leading-loose">Founded on the principles of absolute perfection, Titan Royal redefined global real estate by merging architectural brilliance with unprecedented luxury.</p>
-    </section>
-
-    <section id="collection" class="section-padding">
-        <h2 id="c-t" class="text-3xl gold-text cinzel text-center mb-16 uppercase">Global Collection</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 w-[95%] max-w-7xl mx-auto">
-            <div class="card" onclick="openM('p1')"><img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600" class="h-48 w-full object-cover mb-4 text-center"><h3 id="c1" class="gold-text cinzel text-center">Grand Pavilion</h3></div>
-            <div class="card" onclick="openM('p2')"><img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600" class="h-48 w-full object-cover mb-4 text-center"><h3 id="c2" class="gold-text cinzel text-center">Imperial Villa</h3></div>
-            <div class="card" onclick="openM('p3')"><img src="https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=600" class="h-48 w-full object-cover mb-4 text-center"><h3 id="c3" class="gold-text cinzel text-center">The Crown</h3></div>
-            <div class="card" onclick="openM('p4')"><img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600" class="h-48 w-full object-cover mb-4 text-center"><h3 id="c4" class="gold-text cinzel text-center">The Penthouse</h3></div>
+    <section class="h-screen flex flex-col justify-center items-center text-center px-6 bg-[url('https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1600')] bg-cover bg-center">
+        <div class="bg-black/60 p-10 backdrop-blur-sm border border-gold/10">
+            <h1 id="h-t" class="text-6xl md:text-9xl font-bold cinzel mb-6">TITAN <span class="gold-text">ROYAL</span></h1>
+            <p id="h-s" class="tracking-[12px] uppercase text-[12px] opacity-80">Redefining Global Luxury Real Estate</p>
         </div>
     </section>
 
-    <section id="team" class="section-padding bg-[#080808]">
-        <h2 id="t-t" class="text-3xl gold-text cinzel text-center mb-16 uppercase">Executive Board</h2>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-10 max-w-5xl mx-auto">
-            <div class="text-center">
-                <div class="w-32 h-32 bg-zinc-900 rounded-full mx-auto mb-4 border border-gold/30"></div>
-                <h4 class="gold-text cinzel">Titan Alpha</h4>
-                <p id="t-r1" class="text-[10px] uppercase opacity-50">Chief Executive Officer</p>
+    <section id="about" class="py-32 px-6 bg-[#030303]">
+        <div class="max-w-4xl mx-auto text-center">
+            <h2 id="a-t" class="text-4xl gold-text cinzel mb-10 uppercase">Our Legacy</h2>
+            <p id="a-p" class="text-lg opacity-70 leading-relaxed italic">"We don't just sell properties; we curate masterpieces for the world's most discerning individuals. Titan Royal stands as a testament to architectural perfection and absolute exclusivity."</p>
+        </div>
+    </section>
+
+    <section id="collection" class="py-24 px-4">
+        <div class="section-header">
+            <h2 id="c-t" class="text-4xl gold-text cinzel uppercase">Elite Portfolio</h2>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-7xl mx-auto">
+            <div class="card" onclick="openM('p1')"><img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800" class="h-56 w-full object-cover mb-6 grayscale hover:grayscale-0 transition duration-500"><h3 id="c1" class="gold-text cinzel text-xl text-center">Grand Pavilion</h3></div>
+            <div class="card" onclick="openM('p2')"><img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800" class="h-56 w-full object-cover mb-6 grayscale hover:grayscale-0 transition duration-500"><h3 id="c2" class="gold-text cinzel text-xl text-center">Imperial Villa</h3></div>
+            <div class="card" onclick="openM('p3')"><img src="https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=800" class="h-56 w-full object-cover mb-6 grayscale hover:grayscale-0 transition duration-500"><h3 id="c3" class="gold-text cinzel text-xl text-center">The Crown</h3></div>
+            <div class="card" onclick="openM('p4')"><img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800" class="h-56 w-full object-cover mb-6 grayscale hover:grayscale-0 transition duration-500"><h3 id="c4" class="gold-text cinzel text-xl text-center">The Penthouse</h3></div>
+        </div>
+    </section>
+
+    <section id="team" class="py-24 px-6 bg-[#080808]">
+        <div class="section-header">
+            <h2 id="t-t" class="text-4xl gold-text cinzel uppercase">Leadership</h2>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-12 max-w-5xl mx-auto">
+            <div class="text-center group">
+                <div class="w-40 h-40 bg-zinc-900 mx-auto mb-6 border-b-2 border-gold/40 group-hover:border-gold transition shadow-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400" class="object-cover w-full h-full grayscale hover:grayscale-0 transition">
+                </div>
+                <h4 class="gold-text cinzel text-lg">Titan Alpha</h4>
+                <p id="t-r1" class="text-[11px] uppercase opacity-50 tracking-widest mt-2">Managing Director</p>
             </div>
-            <div class="text-center">
-                <div class="w-32 h-32 bg-zinc-900 rounded-full mx-auto mb-4 border border-gold/30"></div>
-                <h4 class="gold-text cinzel">Victoria Royal</h4>
-                <p id="t-r2" class="text-[10px] uppercase opacity-50">Chief Architect</p>
+            <div class="text-center group">
+                <div class="w-40 h-40 bg-zinc-900 mx-auto mb-6 border-b-2 border-gold/40 group-hover:border-gold transition shadow-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400" class="object-cover w-full h-full grayscale hover:grayscale-0 transition">
+                </div>
+                <h4 class="gold-text cinzel text-lg">Victoria Royal</h4>
+                <p id="t-r2" class="text-[11px] uppercase opacity-50 tracking-widest mt-2">Head of Design</p>
             </div>
-            <div class="text-center">
-                <div class="w-32 h-32 bg-zinc-900 rounded-full mx-auto mb-4 border border-gold/30"></div>
-                <h4 class="gold-text cinzel">Marcus Sterling</h4>
-                <p id="t-r3" class="text-[10px] uppercase opacity-50">Global Investment Head</p>
+            <div class="text-center group">
+                <div class="w-40 h-40 bg-zinc-900 mx-auto mb-6 border-b-2 border-gold/40 group-hover:border-gold transition shadow-xl overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400" class="object-cover w-full h-full grayscale hover:grayscale-0 transition">
+                </div>
+                <h4 class="gold-text cinzel text-lg">Marcus Sterling</h4>
+                <p id="t-r3" class="text-[11px] uppercase opacity-50 tracking-widest mt-2">Director of Investments</p>
             </div>
         </div>
     </section>
 
-    <section id="contact" class="section-padding text-center">
-        <h2 id="con-t" class="text-3xl gold-text cinzel mb-8 uppercase">Get In Touch</h2>
-        <p id="con-p" class="opacity-50 mb-10 text-sm">Inquiry for private viewings and global acquisitions.</p>
-        <div class="flex flex-col gap-4 items-center">
-            <p class="gold-text">concierge@titanroyal.com</p>
-            <p class="tracking-widest opacity-50">+1 800 TITAN ROYAL</p>
+    <section id="contact" class="py-32 px-6 text-center">
+        <h2 id="con-t" class="text-4xl gold-text cinzel mb-10 uppercase">Private Inquiry</h2>
+        <div class="max-w-lg mx-auto border border-gold/10 p-10 bg-[#0a0a0a]">
+            <p id="con-p" class="opacity-60 mb-8 text-sm leading-relaxed">Exclusive access for global acquisitions and private viewings.</p>
+            <div class="space-y-4">
+                <p class="gold-text font-bold text-lg">concierge@titanroyal.com</p>
+                <div class="h-[1px] bg-gold/20 w-1/2 mx-auto"></div>
+                <p class="tracking-[5px] opacity-80">+1 800 TITAN ROYAL</p>
+            </div>
         </div>
     </section>
 
@@ -104,24 +122,24 @@
         let curL = 'en';
         const dict = {
             en: { 
-                hT: "TITAN <span class='gold-text'>ESTATE</span>", hS: "The Pinnacle of Luxury Living",
+                hT: "TITAN <span class='gold-text'>ROYAL</span>", hS: "Redefining Global Luxury Real Estate",
                 navA: "About", navC: "Collection", navT: "Management", navCont: "Contact",
-                aT: "Our Legacy", aP: "Founded on the principles of absolute perfection, Titan Royal redefined global real estate by merging architectural brilliance with unprecedented luxury.",
-                cT: "Global Collection", tT: "Executive Board", tR1: "Chief Executive Officer", tR2: "Chief Architect", tR3: "Global Investment Head",
-                conT: "Get In Touch", conP: "Inquiry for private viewings and global acquisitions.",
+                aT: "Our Legacy", aP: "\"We don't just sell properties; we curate masterpieces for the world's most discerning individuals. Titan Royal stands as a testament to architectural perfection.\"",
+                cT: "Elite Portfolio", tT: "Leadership", tR1: "Managing Director", tR2: "Head of Design", tR3: "Director of Investments",
+                conT: "Private Inquiry", conP: "Exclusive access for global acquisitions and private viewings.",
                 p1: "Grand Pavilion", l1: "Paris", p2: "Imperial Villa", l2: "Rome",
                 p3: "The Crown", l3: "London", p4: "The Penthouse", l4: "New York",
-                ext: "EXTERIOR", int: "INTERIOR", pool: "POOL AREA", blueprint: "BLUEPRINT"
+                ext: "EXTERIOR DESIGN", int: "INTERIOR ARCHITECTURE", pool: "PRIVATE AMENITIES", blueprint: "ARCHITECTURAL BLUEPRINT"
             },
             ar: { 
-                hT: "<span class='gold-text'>تايتن</span> العقارية", hS: "قمة الفخامة في العيش الملكي",
-                navA: "عن الشركة", navC: "المجموعة", navT: "المديرين", navCont: "اتصل بنا",
-                aT: "إرثنا العريق", aP: "تأسست تايتن رويال على مبادئ الكمال المطلق، وأعادت تعريف العقارات العالمية من خلال دمج البراعة المعمارية بالفخامة التي لا مثيل لها.",
-                cT: "المجموعة العالمية", tT: "مجلس الإدارة", tR1: "الرئيس التنفيذي", tR2: "كبير المهندسين", tR3: "رئيس الاستثمارات العالمية",
-                conT: "تواصل معنا", conP: "للاستفسارات حول المعاينات الخاصة وعمليات الاستحواذ العالمية.",
+                hT: "<span class='gold-text'>تايتن</span> رويال", hS: "إعادة تعريف العقارات الفاخرة عالمياً",
+                navA: "عن الشركة", navC: "المجموعة", navT: "الإدارة", navCont: "اتصل بنا",
+                aT: "إرثنا العريق", aP: "\"نحن لا نبيع مجرد عقارات؛ بل ننسق تحفاً فنية لأكثر الشخصيات تميزاً في العالم. تايتن رويال هي تجسيد للكمال المعماري والخصوصية المطلقة.\"",
+                cT: "المجموعة النخبوية", tT: "مجلس القيادة", tR1: "العضو المنتدب", tR2: "رئيسة التصميم", tR3: "مدير الاستثمارات",
+                conT: "استفسار خاص", conP: "دخول حصري لعمليات الاستحواذ العالمية والمعاينات الخاصة.",
                 p1: "جناح الجراند", l1: "باريس", p2: "فيلا إمبيريال", l2: "روما",
                 p3: "ذا كراون", l3: "لندن", p4: "ذا بنتهاوس", l4: "نيويورك",
-                ext: "التصميم الخارجي", int: "التصميم الداخلي", pool: "منطقة المسبح", blueprint: "الرسم الهندسي"
+                ext: "التصميم الخارجي", int: "العمارة الداخلية", pool: "المرافق الخاصة", blueprint: "المخطط المعماري"
             }
         };
 
