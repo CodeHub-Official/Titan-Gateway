@@ -3,31 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CODEHUB PRIME | TITAN RESTORED</title>
+    <title>TITAN INTERNATIONAL | GLOBAL GATEWAY</title>
     <style>
-        body { background: url("theme.jpg") no-repeat center center fixed; background-size: cover; color: white; font-family: "Segoe UI", sans-serif; text-align: center; margin: 0; padding: 20px; }
-        .overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.7); z-index: -1; }
-        .header { font-size: 3em; font-weight: bold; letter-spacing: 5px; margin: 50px 0; text-shadow: 0 0 20px #ff0000; }
-        .grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 600px; margin: 0 auto; }
-        .card { background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(15px); border-radius: 20px; padding: 40px; border: 1px solid rgba(255,255,255,0.2); transition: 0.3s; cursor: pointer; position: relative; overflow: hidden; }
-        .card:hover { transform: translateY(-10px); background: rgba(255, 255, 255, 0.2); border-color: #00d2ff; }
-        .icon { width: 50px; height: 50px; border-radius: 50%; margin-bottom: 15px; display: inline-block; }
-        .estate { background: #00d2ff; box-shadow: 0 0 15px #00d2ff; }
-        .auto { background: #ff0000; box-shadow: 0 0 15px #ff0000; }
-        .tourism { background: #ffea00; box-shadow: 0 0 15px #ffea00; }
-        .fashion { background: #aa00ff; box-shadow: 0 0 15px #aa00ff; }
-        .status-bar { margin-top: 50px; font-family: monospace; color: #0f0; background: rgba(0,0,0,0.5); padding: 10px; display: inline-block; border-radius: 5px; }
+        :root { --gold: #d4af37; --blue: #00d2ff; --red: #ff4b2b; }
+        body { background: #050505; color: white; font-family: "Poppins", sans-serif; margin: 0; overflow-x: hidden; }
+        .hero { height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=2070"); background-size: cover; }
+        .header { font-size: 4em; letter-spacing: 10px; text-shadow: 0 0 30px var(--gold); margin-bottom: 10px; }
+        .languages { margin-bottom: 30px; font-size: 0.9em; color: var(--gold); }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; width: 90%; max-width: 1200px; }
+        .card { height: 300px; border-radius: 15px; position: relative; overflow: hidden; cursor: pointer; border: 1px solid rgba(255,255,255,0.1); transition: 0.5s; }
+        .card:hover { transform: scale(1.03); border-color: var(--gold); box-shadow: 0 0 30px rgba(212,175,55,0.3); }
+        .card-content { position: absolute; bottom: 0; width: 100%; padding: 20px; background: linear-gradient(transparent, black); text-align: left; }
+        .card-title { font-size: 1.5em; font-weight: bold; }
+        .estate { background: url("https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070") center/cover; }
+        .auto { background: url("https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=2070") center/cover; }
+        .tourism { background: url("https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2070") center/cover; }
+        .fashion { background: url("https://images.unsplash.com/photo-1445205170230-053b83016050?q=80&w=2070") center/cover; }
     </style>
 </head>
 <body>
-    <div class="overlay"></div>
-    <div class="header">CODEHUB<br>PRIME</div>
-    <div class="grid">
-        <div class="card"><div class="icon estate"></div><br>ESTATE</div>
-        <div class="card"><div class="icon auto"></div><br>AUTO</div>
-        <div class="card"><div class="icon tourism"></div><br>TOURISM</div>
-        <div class="card"><div class="icon fashion"></div><br>FASHION</div>
+    <div class="hero">
+        <div class="header">TITAN CORE</div>
+        <div class="languages">AR | EN | FR | ES | IT | DE</div>
+        <div class="grid">
+            <div class="card estate" onclick="location.href=\"#estate\""><div class="card-content"><div class="card-title">REAL ESTATE</div><p>Global Luxury Properties</p></div></div>
+            <div class="card auto" onclick="location.href=\"#auto\""><div class="card-content"><div class="card-title">AUTOMOTIVE</div><p>Supercars & Logistics</p></div></div>
+            <div class="card tourism" onclick="location.href=\"#tourism\""><div class="card-content"><div class="card-title">TOURISM</div><p>World-Class Destinations</p></div></div>
+            <div class="card fashion" onclick="location.href=\"#fashion\""><div class="card-content"><div class="card-title">FASHION</div><p>International Trends</p></div></div>
+        </div>
     </div>
-    <div class="status-bar">● TITAN CORE: READY TO SCRAPE DATA</div>
 </body>
 </html>
