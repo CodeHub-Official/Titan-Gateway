@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Titan Royal | Global Legacy</title>
+    <title>Titan Royal | Pure Legacy</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Amiri&family=Lora&display=swap');
@@ -12,111 +12,82 @@
         .arabic { font-family: 'Amiri', serif; direction: rtl; }
         .gold-text { color: var(--gold); }
         .cinzel { font-family: 'Cinzel', serif; }
-        .card { background: #0a0a0a; border: 1px solid rgba(212, 175, 55, 0.1); cursor: pointer; transition: 0.4s; padding: 15px; text-align: center; }
-        .card:hover { border-color: var(--gold); transform: translateY(-5px); }
-        #portfolioModal { display: none; position: fixed; inset: 0; z-index: 9999; background: rgba(0,0,0,0.98); overflow-y: auto; }
-        .gallery-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; padding: 20px; max-width: 1200px; margin: 0 auto; }
-        .gallery-item { border: 1px solid #222; position: relative; height: 280px; overflow: hidden; }
+        .card { background: #0a0a0a; border: 1px solid rgba(212,175,55,0.1); cursor: pointer; transition: 0.3s; padding: 15px; }
+        .card:hover { border-color: var(--gold); }
+        #modal { display: none; position: fixed; inset: 0; z-index: 9999; background: rgba(0,0,0,0.98); overflow-y: auto; }
+        .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; padding: 20px; max-width: 1200px; margin: 0 auto; }
+        .gallery-item { border: 1px solid #222; position: relative; height: 280px; }
         .gallery-item img { width: 100%; height: 100%; object-fit: cover; }
-        .label { position: absolute; bottom: 0; background: rgba(0,0,0,0.8); width: 100%; font-size: 11px; padding: 8px; color: var(--gold); text-align: center; font-weight: bold; }
-        .close-btn { position: fixed; top: 20px; right: 30px; font-size: 45px; color: var(--gold); cursor: pointer; z-index: 10000; }
+        .label { position: absolute; bottom: 0; background: rgba(0,0,0,0.8); width: 100%; font-size: 11px; padding: 8px; color: var(--gold); text-align: center; }
+        .close { position: fixed; top: 20px; right: 30px; font-size: 45px; color: var(--gold); cursor: pointer; z-index: 10000; }
     </style>
 </head>
 <body>
 
-    <div id="portfolioModal">
-        <span class="close-btn" onclick="closePortfolio()">&times;</span>
+    <div id="modal">
+        <span class="close" onclick="closeM()">&times;</span>
         <div class="pt-24 text-center">
-            <h2 id="modalTitle" class="text-4xl gold-text cinzel uppercase"></h2>
-            <p id="modalLoc" class="text-[12px] opacity-50 tracking-[5px] mt-2"></p>
+            <h2 id="mT" class="text-3xl gold-text cinzel uppercase"></h2>
+            <p id="mL" class="text-[10px] opacity-50 tracking-[5px] mt-2"></p>
         </div>
-        <div class="gallery-grid" id="galleryGrid"></div>
+        <div class="gallery" id="gG"></div>
     </div>
 
-    <nav class="fixed w-full p-6 z-50 flex justify-between items-center bg-black/80 backdrop-blur-md border-b border-white/5">
-        <div class="text-2xl gold-text cinzel font-bold">TITAN ROYAL</div>
+    <nav class="fixed w-full p-6 z-50 flex justify-between items-center bg-black/80 backdrop-blur-md">
+        <div class="text-xl gold-text cinzel font-bold">TITAN ROYAL</div>
         <div class="flex gap-4">
-            <button onclick="setLang('en')" class="text-[11px] gold-text font-bold">EN</button>
-            <button onclick="setLang('ar')" class="text-[11px] gold-text font-bold">AR</button>
+            <button onclick="setL('en')" class="text-[10px] gold-text font-bold">EN</button>
+            <button onclick="setL('ar')" class="text-[10px] gold-text font-bold">AR</button>
         </div>
     </nav>
 
-    <section class="h-[60vh] flex flex-col justify-center items-center text-center px-6">
-        <h1 class="text-5xl md:text-8xl font-bold cinzel mb-4">TITAN <span class="gold-text">COLLECTION</span></h1>
-        <p class="tracking-[10px] uppercase text-[10px] opacity-50">Global Real Estate Masterpieces</p>
+    <section class="h-[60vh] flex flex-col justify-center items-center text-center">
+        <h1 id="h-t" class="text-6xl md:text-8xl font-bold cinzel">TITAN <span class="gold-text">COLLECTION</span></h1>
     </section>
 
-    <section id="collection" class="py-20 flex justify-center">
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 w-[95%] max-w-7xl">
-            <div class="card" onclick="openPortfolio('paris')">
-                <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=600" class="h-48 w-full object-cover mb-4">
-                <h3 class="gold-text cinzel text-lg">Grand Pavilion</h3>
-                <p class="text-[10px] opacity-40 uppercase">Paris, France</p>
-            </div>
-            <div class="card" onclick="openPortfolio('rome')">
-                <img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=600" class="h-48 w-full object-cover mb-4">
-                <h3 class="gold-text cinzel text-lg">Imperial Villa</h3>
-                <p class="text-[10px] opacity-40 uppercase">Rome, Italy</p>
-            </div>
-            <div class="card" onclick="openPortfolio('london')">
-                <img src="https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?auto=format&fit=crop&w=600" class="h-48 w-full object-cover mb-4">
-                <h3 class="gold-text cinzel text-lg">The Crown</h3>
-                <p class="text-[10px] opacity-40 uppercase">London, UK</p>
-            </div>
-            <div class="card" onclick="openPortfolio('newyork')">
-                <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=600" class="h-48 w-full object-cover mb-4">
-                <h3 class="gold-text cinzel text-lg">The Penthouse</h3>
-                <p class="text-[10px] opacity-40 uppercase">New York, USA</p>
-            </div>
+    <section class="py-10 flex justify-center">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 w-[95%]">
+            <div class="card" onclick="openM('p1')"><img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600" class="h-48 w-full object-cover mb-4"><h3 id="c1" class="gold-text cinzel">Grand Pavilion</h3></div>
+            <div class="card" onclick="openM('p2')"><img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600" class="h-48 w-full object-cover mb-4"><h3 id="c2" class="gold-text cinzel">Imperial Villa</h3></div>
+            <div class="card" onclick="openM('p3')"><img src="https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=600" class="h-48 w-full object-cover mb-4"><h3 id="c3" class="gold-text cinzel">The Crown</h3></div>
+            <div class="card" onclick="openM('p4')"><img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600" class="h-48 w-full object-cover mb-4"><h3 id="c4" class="gold-text cinzel">The Penthouse</h3></div>
         </div>
     </section>
 
     <script>
-        const data = {
-            paris: { t: "Grand Pavilion", l: "Paris, France", imgs: [
-                {u:"https://images.unsplash.com/photo-1600607687920-4e2a09cf159d", n:"EXTERIOR"},
-                {u:"https://images.unsplash.com/photo-1600210492486-724fe5c67fb0", n:"INTERIOR"},
-                {u:"https://images.unsplash.com/photo-1584622650111-993a426fbf0a", n:"POOL AREA"},
-                {u:"https://images.unsplash.com/photo-1574362848149-11496d93a7c7", n:"BLUEPRINT"}
-            ]},
-            rome: { t: "Imperial Villa", l: "Rome, Italy", imgs: [
-                {u:"https://images.unsplash.com/photo-1600573472591-ee6b68d14c68", n:"EXTERIOR"},
-                {u:"https://images.unsplash.com/photo-1600121848594-d8644e57abab", n:"INTERIOR"},
-                {u:"https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7", n:"GARDEN"},
-                {u:"https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6", n:"BLUEPRINT"}
-            ]},
-            london: { t: "The Crown", l: "London, UK", imgs: [
-                {u:"https://images.unsplash.com/photo-1512918766775-d14493390f7a", n:"EXTERIOR"},
-                {u:"https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf", n:"LIVING AREA"},
-                {u:"https://images.unsplash.com/photo-1519449556851-5720b33024e7", n:"ROYAL LOBBY"},
-                {u:"https://images.unsplash.com/photo-1506744038136-46273834b3fb", n:"BLUEPRINT"}
-            ]},
-            newyork: { t: "The Penthouse", l: "New York, USA", imgs: [
-                {u:"https://images.unsplash.com/photo-1600607687644-c7171b42498f", n:"SKY VIEW"},
-                {u:"https://images.unsplash.com/photo-1560448204-603b3fc33ddc", n:"MODERN KITCHEN"},
-                {u:"https://images.unsplash.com/photo-1554995207-c18c203602cb", n:"MASTER SUITE"},
-                {u:"https://images.unsplash.com/photo-1497366216548-37526070297c", n:"BLUEPRINT"}
-            ]}
+        let curL = 'en';
+        const dict = {
+            en: { title: "TITAN <span class='gold-text'>COLLECTION</span>", blueprint: "BLUEPRINT", ext: "EXTERIOR", int: "INTERIOR", pool: "POOL", p1: "Grand Pavilion", p2: "Imperial Villa", p3: "The Crown", p4: "The Penthouse" },
+            ar: { title: "<span class='gold-text'>مجموعة</span> تايتن", blueprint: "الرسم الهندسي", ext: "التصميم الخارجي", int: "التصميم الداخلي", pool: "المسبح", p1: "جناح الجراند", p2: "فيلا إمبيريال", p3: "ذا كراون", p4: "ذا بنتهاوس" }
         };
 
-        function openPortfolio(id) {
-            const p = data[id];
-            document.getElementById('modalTitle').innerText = p.t;
-            document.getElementById('modalLoc').innerText = p.l;
-            const grid = document.getElementById('galleryGrid');
-            grid.innerHTML = p.imgs.map(i => `<div class="gallery-item"><img src="${i.u}?auto=format&fit=crop&w=800"><div class="label cinzel">${i.n}</div></div>`).join('');
-            document.getElementById('portfolioModal').style.display = 'block';
+        const projects = {
+            p1: { t: "p1", l: "Paris", imgs: [{u:"https://images.unsplash.com/photo-1600607687920-4e2a09cf159d", n:"ext"}, {u:"https://images.unsplash.com/photo-1600210492486-724fe5c67fb0", n:"int"}, {u:"https://images.unsplash.com/photo-1584622650111-993a426fbf0a", n:"pool"}, {u:"https://images.unsplash.com/photo-1506744038136-46273834b3fb", n:"blueprint"}]},
+            p2: { t: "p2", l: "Rome", imgs: [{u:"https://images.unsplash.com/photo-1600573472591-ee6b68d14c68", n:"ext"}, {u:"https://images.unsplash.com/photo-1600121848594-d8644e57abab", n:"int"}, {u:"https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7", n:"pool"}, {u:"https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6", n:"blueprint"}]},
+            p3: { t: "p3", l: "London", imgs: [{u:"https://images.unsplash.com/photo-1512918766775-d14493390f7a", n:"ext"}, {u:"https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf", n:"int"}, {u:"https://images.unsplash.com/photo-1519449556851-5720b33024e7", n:"pool"}, {u:"https://images.unsplash.com/photo-1497366216548-37526070297c", n:"blueprint"}]},
+            p4: { t: "p4", l: "New York", imgs: [{u:"https://images.unsplash.com/photo-1600607687644-c7171b42498f", n:"ext"}, {u:"https://images.unsplash.com/photo-1560448204-603b3fc33ddc", n:"int"}, {u:"https://images.unsplash.com/photo-1554995207-c18c203602cb", n:"pool"}, {u:"https://images.unsplash.com/photo-1449156001437-af90bb451777", n:"blueprint"}]}
+        };
+
+        function setL(l) {
+            curL = l;
+            document.body.className = l === 'ar' ? 'arabic' : '';
+            document.getElementById('h-t').innerHTML = dict[l].title;
+            document.getElementById('c1').innerText = dict[l].p1;
+            document.getElementById('c2').innerText = dict[l].p2;
+            document.getElementById('c3').innerText = dict[l].p3;
+            document.getElementById('c4').innerText = dict[l].p4;
+        }
+
+        function openM(id) {
+            const p = projects[id];
+            document.getElementById('mT').innerText = dict[curL][p.t];
+            document.getElementById('mL').innerText = p.l;
+            document.getElementById('gG').innerHTML = p.imgs.map(i => `<div class="gallery-item"><img src="${i.u}?w=800"><div class="label cinzel">${dict[curL][i.n]}</div></div>`).join('');
+            document.getElementById('modal').style.display = 'block';
             document.body.style.overflow = 'hidden';
         }
 
-        function closePortfolio() {
-            document.getElementById('portfolioModal').style.display = 'none';
-            document.body.style.overflow = 'auto';
-        }
-
-        function setLang(l) {
-            document.body.className = l === 'ar' ? 'arabic' : '';
-        }
+        function closeM() { document.getElementById('modal').style.display = 'none'; document.body.style.overflow = 'auto'; }
     </script>
 </body>
 </html>
