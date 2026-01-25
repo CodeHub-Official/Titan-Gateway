@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Titan Royal | Global Elite Estates</title>
+    <title>Titan Royal | Global Legacy</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Amiri&family=Lora&display=swap');
@@ -14,7 +14,7 @@
         .hero { background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.9)), url('https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1600'); background-size: cover; background-attachment: fixed; height: 100vh; }
         .lang-float { position: fixed; top: 100px; right: 20px; z-index: 1000; }
         .card { background: #0a0a0a; border: 1px solid rgba(212, 175, 55, 0.1); transition: 0.6s; cursor: pointer; }
-        .card:hover { border-color: var(--gold); transform: scale(1.05); }
+        .card:hover { border-color: var(--gold); transform: scale(1.03); }
     </style>
 </head>
 <body>
@@ -22,6 +22,7 @@
         <button onclick="setLang('en')" class="bg-black/80 border border-[#d4af37] p-2 text-[10px] hover:bg-[#d4af37] hover:text-black">EN</button>
         <button onclick="setLang('ar')" class="bg-black/80 border border-[#d4af37] p-2 text-[10px] hover:bg-[#d4af37] hover:text-black">AR</button>
         <button onclick="setLang('fr')" class="bg-black/80 border border-[#d4af37] p-2 text-[10px] hover:bg-[#d4af37] hover:text-black">FR</button>
+        <button onclick="setLang('es')" class="bg-black/80 border border-[#d4af37] p-2 text-[10px] hover:bg-[#d4af37] hover:text-black">ES</button>
     </div>
 
     <nav class="fixed w-full p-6 z-50 flex justify-between items-center bg-black/40 backdrop-blur-lg border-b border-white/5">
@@ -33,14 +34,14 @@
         </div>
     </nav>
 
-    <section class="hero flex flex-col justify-center items-center text-center">
-        <h1 id="m-title" class="text-6xl md:text-9xl font-bold mb-4 uppercase">Royal <span class="gold-text">Manors</span></h1>
+    <section class="hero flex flex-col justify-center items-center text-center px-6">
+        <h1 id="m-title" class="text-5xl md:text-8xl font-bold mb-4 uppercase">Royal <span class="gold-text">Manors</span></h1>
         <p id="m-sub" class="tracking-[15px] uppercase text-[10px] opacity-60">The Absolute Standard of Global Luxury</p>
     </section>
 
     <section id="collection" class="py-32 px-10 max-w-7xl mx-auto">
         <h2 id="s-title" class="text-center text-3xl mb-24 gold-text tracking-[10px] uppercase">Architectural Masterpieces</h2>
-        <div class="grid md:grid-cols-2 lg:grid-cols-2 gap-16">
+        <div class="grid md:grid-cols-2 gap-12">
             <div class="card p-6">
                 <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800" class="w-full h-80 object-cover mb-6">
                 <h3 class="text-2xl gold-text mb-2">The Grand Pavilion</h3>
@@ -53,26 +54,15 @@
                 <p class="text-[10px] opacity-50 uppercase tracking-widest mb-4">Rome, Italy</p>
                 <p id="desc-2" class="text-sm opacity-70">Ancient Roman elegance meeting 21st-century billionaire lifestyle.</p>
             </div>
-            <div class="card p-6">
-                <img src="https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=800" class="w-full h-80 object-cover mb-6">
-                <h3 class="text-2xl gold-text mb-2">The Crown Estate</h3>
-                <p class="text-[10px] opacity-50 uppercase tracking-widest mb-4">London, UK</p>
-                <p id="desc-3" class="text-sm opacity-70">Exclusive living in the heart of London's royal district.</p>
-            </div>
-            <div class="card p-6">
-                <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800" class="w-full h-80 object-cover mb-6">
-                <h3 class="text-2xl gold-text mb-2">Skyline Penthouse</h3>
-                <p class="text-[10px] opacity-50 uppercase tracking-widest mb-4">New York, USA</p>
-                <p id="desc-4" class="text-sm opacity-70">A sky-high sanctuary with 360-degree views of Manhattan.</p>
-            </div>
         </div>
     </section>
 
     <script>
         const dict = {
-            en: { home:"Home", coll:"Collection", book:"Inquiry", title:"Royal <span class='gold-text'>Manors</span>", sub:"The Absolute Standard of Global Luxury", sect:"Architectural Masterpieces", d1:"A symphony of classical French architecture.", d2:"Ancient Roman elegance meeting modern lifestyle.", d3:"Exclusive living in London royal district.", d4:"Sky-high sanctuary in Manhattan.", rtl: false },
-            ar: { home:"الرئيسية", coll:"المجموعة", book:"استفسار", title:"<span class='gold-text'>رويال</span> مانورز", sub:"المعيار المطلق للفخامة العالمية", sect:"تحف معمارية عالمية", d1:"سيمفونية من العمارة الفرنسية الكلاسيكية.", d2:"أناقة روما القديمة تلتقي بنمط حياة المليارديرات.", d3:"حياة حصرية في قلب المنطقة الملكية بلندن.", d4:"ملاذ في أعالي السماء مع إطلالة على مانهاتن.", rtl: true },
-            fr: { home:"Accueil", coll:"Collection", book:"Enquête", title:"Manoirs <span class='gold-text'>Royaux</span>", sub:"Le standard absolu du luxe mondial", sect:"Chefs-d'œuvre architecturaux", d1:"Une symphonie d'architecture française.", d2:"L'élégance romaine rencontre le luxe moderne.", d3:"Vie exclusive dans le district royal de Londres.", d4:"Sanctuaire céleste avec vue sur Manhattan.", rtl: false }
+            en: { home:"Home", coll:"Collection", book:"Inquiry", title:"Royal <span class='gold-text'>Manors</span>", sub:"The Absolute Standard of Global Luxury", sect:"Architectural Masterpieces", d1:"A symphony of classical French architecture.", d2:"Ancient Roman elegance meeting modern lifestyle.", rtl: false },
+            ar: { home:"الرئيسية", coll:"المجموعة", book:"استفسار", title:"<span class='gold-text'>رويال</span> مانورز", sub:"المعيار المطلق للفخامة العالمية", sect:"تحف معمارية عالمية", d1:"سيمفونية من العمارة الفرنسية الكلاسيكية.", d2:"أناقة روما القديمة تلتقي بنمط حياة المليارديرات.", rtl: true },
+            fr: { home:"Accueil", coll:"Collection", book:"Enquête", title:"Manoirs <span class='gold-text'>Royaux</span>", sub:"Le luxe absolu", sect:"Chefs-d'œuvre", d1:"Symphonie d'architecture française.", d2:"L'élégance romaine.", rtl: false },
+            es: { home:"Inicio", coll:"Colección", book:"Consulta", title:"Mansiones <span class='gold-text'>Reales</span>", sub:"El estándar absoluto", sect:"Obras maestras", d1:"Sinfonía de arquitectura francesa.", d2:"Elegancia romana.", rtl: false }
         };
         function setLang(l) {
             document.getElementById('n-home').textContent = dict[l].home;
@@ -83,8 +73,6 @@
             document.getElementById('s-title').textContent = dict[l].sect;
             document.getElementById('desc-1').textContent = dict[l].d1;
             document.getElementById('desc-2').textContent = dict[l].d2;
-            document.getElementById('desc-3').textContent = dict[l].d3;
-            document.getElementById('desc-4').textContent = dict[l].d4;
             document.body.classList.toggle('arabic', dict[l].rtl);
         }
     </script>
