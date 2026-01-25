@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Titan Royal | Elite Portfolio</title>
+    <title>Titan Royal | Global Portfolios</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Amiri&family=Lora&display=swap');
@@ -17,16 +17,13 @@
             background-size: cover; background-position: center; height: 100vh;
             display: flex; flex-direction: column; justify-content: center; align-items: center;
         }
-        .card { background: #0a0a0a; border: 1px solid rgba(212, 175, 55, 0.15); cursor: pointer; transition: 0.4s; padding: 20px; }
+        .card { background: #0a0a0a; border: 1px solid rgba(212, 175, 55, 0.1); cursor: pointer; transition: 0.4s; padding: 15px; }
         .card:hover { border-color: var(--gold); transform: translateY(-5px); }
-        
-        /* تحسين نافذة البورتفوليو */
         #portfolioModal { display: none; position: fixed; inset: 0; z-index: 9999; background: rgba(0,0,0,0.98); overflow-y: auto; }
-        .modal-header { padding: 40px; text-align: center; border-bottom: 1px solid rgba(212,175,55,0.1); }
-        .gallery-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; padding: 30px; max-width: 1400px; margin: 0 auto; }
-        .gallery-item { border: 1px solid #222; overflow: hidden; height: 300px; }
-        .gallery-item img { width: 100%; height: 100%; object-fit: cover; transition: 0.5s; }
-        .gallery-item:hover img { transform: scale(1.1); }
+        .gallery-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; padding: 20px; max-width: 1200px; margin: 0 auto; }
+        .gallery-item { border: 1px solid #222; position: relative; height: 250px; }
+        .gallery-item img { width: 100%; height: 100%; object-fit: cover; }
+        .label { position: absolute; bottom: 0; background: rgba(0,0,0,0.7); width: 100%; font-size: 10px; padding: 5px; color: var(--gold); text-align: center; }
         .close-btn { position: fixed; top: 20px; right: 30px; font-size: 40px; color: var(--gold); cursor: pointer; z-index: 10000; }
         .cinzel { font-family: 'Cinzel', serif; }
     </style>
@@ -35,83 +32,68 @@
 
     <div id="portfolioModal">
         <span class="close-btn" onclick="closePortfolio()">&times;</span>
-        <div class="modal-header">
-            <h2 id="modalTitle" class="text-4xl gold-text cinzel uppercase mb-2">Project Portfolio</h2>
-            <p id="modalLoc" class="tracking-[5px] uppercase text-[10px] opacity-50">Location Details</p>
+        <div class="pt-20 text-center">
+            <h2 id="modalTitle" class="text-3xl gold-text cinzel uppercase"></h2>
+            <p id="modalLoc" class="text-[10px] opacity-50 tracking-widest mt-2"></p>
         </div>
         <div class="gallery-grid" id="galleryGrid"></div>
     </div>
 
     <nav class="fixed w-full p-6 z-50 flex justify-between items-center bg-black/80 backdrop-blur-md">
         <div class="text-xl gold-text cinzel font-bold">TITAN ROYAL</div>
-        <div class="flex gap-4">
-            <button onclick="setLang('en')" class="text-[10px] gold-text px-2">EN</button>
-            <button onclick="setLang('ar')" class="text-[10px] gold-text px-2">AR</button>
-        </div>
+        <div class="flex gap-4"><button onclick="setLang('en')" class="text-[10px] gold-text">EN</button><button onclick="setLang('ar')" class="text-[10px] gold-text">AR</button></div>
     </nav>
 
     <section class="hero text-center px-6">
-        <h1 id="h-title" class="text-6xl md:text-9xl font-bold mb-4 cinzel">ROYAL <span class="gold-text">MANORS</span></h1>
-        <p id="h-sub" class="tracking-[15px] uppercase text-[10px] opacity-60">Architectural Masterpieces</p>
+        <h1 class="text-6xl md:text-8xl font-bold cinzel">WORLD <span class="gold-text">COLLECTION</span></h1>
     </section>
 
-    <section id="collection" class="py-32 flex flex-col items-center">
-        <h2 id="s-title" class="text-3xl mb-20 gold-text tracking-[10px] uppercase cinzel">Our Collection</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-12 w-[90%] max-w-6xl">
-            <div class="card" onclick="openPortfolio('paris')">
-                <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800" class="w-full h-64 object-cover mb-6">
-                <h3 class="text-xl gold-text cinzel">Grand Pavilion</h3>
-                <p class="text-[10px] opacity-50 uppercase tracking-widest mt-2">Paris | View Portfolio</p>
-            </div>
-            <div class="card" onclick="openPortfolio('rome')">
-                <img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800" class="w-full h-64 object-cover mb-6">
-                <h3 class="text-xl gold-text cinzel">Imperial Villa</h3>
-                <p class="text-[10px] opacity-50 uppercase tracking-widest mt-2">Rome | View Portfolio</p>
-            </div>
+    <section id="collection" class="py-20 flex flex-col items-center">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 w-[95%]">
+            <div class="card" onclick="openPortfolio('paris')"><img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600" class="h-40 w-full object-cover mb-4"><h3 class="gold-text cinzel text-center">Grand Pavilion</h3></div>
+            <div class="card" onclick="openPortfolio('rome')"><img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600" class="h-40 w-full object-cover mb-4"><h3 class="gold-text cinzel text-center">Imperial Villa</h3></div>
+            <div class="card" onclick="openPortfolio('london')"><img src="https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=600" class="h-40 w-full object-cover mb-4"><h3 class="gold-text cinzel text-center">The Crown</h3></div>
+            <div class="card" onclick="openPortfolio('newyork')"><img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600" class="h-40 w-full object-cover mb-4"><h3 class="gold-text cinzel text-center">The Penthouse</h3></div>
         </div>
     </section>
 
     <script>
         const data = {
-            paris: {
-                t: "Grand Pavilion", l: "Paris, France",
-                imgs: [
-                    "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800", // Exterior
-                    "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800", // Interior
-                    "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800", // Pool
-                    "https://images.unsplash.com/photo-1600566753190-17f0bb2a6c3e?w=800"  // Night
-                ]
-            },
-            rome: {
-                t: "Imperial Villa", l: "Rome, Italy",
-                imgs: [
-                    "https://images.unsplash.com/photo-1600573472591-ee6b68d14c68?w=800", // Exterior
-                    "https://images.unsplash.com/photo-1600121848594-d8644e57abab?w=800", // Interior
-                    "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?w=800", // Garden
-                    "https://images.unsplash.com/photo-1512918766775-d14493390f7a?w=800"  // Design
-                ]
-            }
+            paris: { t: "Grand Pavilion", l: "Paris", imgs: [
+                {u:"https://images.unsplash.com/photo-1600607687920-4e2a09cf159d", n:"Exterior"},
+                {u:"https://images.unsplash.com/photo-1600210492486-724fe5c67fb0", n:"Interior"},
+                {u:"https://images.unsplash.com/photo-1584622650111-993a426fbf0a", n:"Pool"},
+                {u:"https://images.unsplash.com/photo-1574362848149-11496d93a7c7", n:"Blueprint"}
+            ]},
+            rome: { t: "Imperial Villa", l: "Rome", imgs: [
+                {u:"https://images.unsplash.com/photo-1600573472591-ee6b68d14c68", n:"Exterior"},
+                {u:"https://images.unsplash.com/photo-1600121848594-d8644e57abab", n:"Interior"},
+                {u:"https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7", n:"Garden"},
+                {u:"https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6", n:"Blueprint"}
+            ]},
+            london: { t: "The Crown", l: "London", imgs: [
+                {u:"https://images.unsplash.com/photo-1512918766775-d14493390f7a", n:"Exterior"},
+                {u:"https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf", n:"Interior"},
+                {u:"https://images.unsplash.com/photo-1519449556851-5720b33024e7", n:"Lobby"},
+                {u:"https://images.unsplash.com/photo-1506744038136-46273834b3fb", n:"Blueprint"}
+            ]},
+            newyork: { t: "The Penthouse", l: "New York", imgs: [
+                {u:"https://images.unsplash.com/photo-1512917774080-9991f1c4c750", n:"Sky View"},
+                {u:"https://images.unsplash.com/photo-1600607687644-c7171b42498f", n:"Living Room"},
+                {u:"https://images.unsplash.com/photo-1560448204-603b3fc33ddc", n:"Terrace"},
+                {u:"https://images.unsplash.com/photo-1554995207-c18c203602cb", n:"Blueprint"}
+            ]}
         };
-
         function openPortfolio(id) {
             const p = data[id];
             document.getElementById('modalTitle').innerText = p.t;
             document.getElementById('modalLoc').innerText = p.l;
             const grid = document.getElementById('galleryGrid');
-            grid.innerHTML = p.imgs.map(i => `<div class="gallery-item"><img src="${i}"></div>`).join('');
+            grid.innerHTML = p.imgs.map(i => `<div class="gallery-item"><img src="${i.u}?w=800"><div class="label cinzel">${i.n}</div></div>`).join('');
             document.getElementById('portfolioModal').style.display = 'block';
             document.body.style.overflow = 'hidden';
         }
-
-        function closePortfolio() {
-            document.getElementById('portfolioModal').style.display = 'none';
-            document.body.style.overflow = 'auto';
-        }
-
-        function setLang(l) {
-            document.body.className = l === 'ar' ? 'arabic' : '';
-            document.getElementById('h-title').innerHTML = l === 'ar' ? '<span class="gold-text">رويال</span> مانورز' : 'ROYAL <span class="gold-text">MANORS</span>';
-        }
+        function closePortfolio() { document.getElementById('portfolioModal').style.display = 'none'; document.body.style.overflow = 'auto'; }
     </script>
 </body>
 </html>
