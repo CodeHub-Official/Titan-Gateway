@@ -3,93 +3,112 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Royal Estate | The Crown of Architecture</title>
+    <title>Royal Manors | Global Luxury Real Estate</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lora:ital,wght@0,400;1,500&display=swap');
-        :root { --gold: #d4af37; --gold-light: #f1d592; --dark: #050505; }
-        body { background-color: var(--dark); color: white; font-family: 'Lora', serif; overflow-x: hidden; }
+        :root { --gold: #d4af37; --dark-bg: #050505; --panel: #0a0a0a; }
+        body { background-color: var(--dark-bg); color: white; font-family: 'Lora', serif; scroll-behavior: smooth; }
         .cinzel { font-family: 'Cinzel', serif; }
-        .hero-bg { 
-            background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)), 
-            url('https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80');
+        .gold-text { color: var(--gold); }
+        .gold-border { border-color: var(--gold); }
+        .hero-video { 
+            background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.8)), 
+            url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80');
             background-size: cover; background-position: center; background-attachment: fixed;
         }
-        .gold-glow { text-shadow: 0 0 15px rgba(212, 175, 55, 0.5); }
-        .gold-button { 
-            border: 1px solid var(--gold); 
-            transition: all 0.5s ease;
-            position: relative; overflow: hidden;
-        }
-        .gold-button:hover { 
-            background: var(--gold); color: black; 
-            box-shadow: 0 0 30px rgba(212, 175, 55, 0.4);
-        }
-        .luxury-card {
-            border: 1px solid rgba(212, 175, 55, 0.1);
-            transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
-        }
-        .luxury-card:hover {
-            transform: translateY(-15px);
-            border-color: var(--gold);
-        }
+        .stat-card { border-left: 1px solid var(--gold); padding-left: 20px; }
     </style>
 </head>
 <body>
 
-    <section class="hero-bg h-screen flex items-center justify-center text-center relative">
-        <div class="animate__animated animate__fadeIn">
-            <p class="text-[--gold] tracking-[15px] text-[10px] mb-6 uppercase gold-glow">The Elite Standard</p>
-            <h1 class="cinzel text-6xl md:text-9xl mb-8 leading-tight font-bold">ROYAL <span class="block md:inline italic font-normal">MANORS</span></h1>
-            <div class="h-[1px] w-48 bg-[--gold] mx-auto mb-10 opacity-50"></div>
-            <div class="flex flex-col md:flex-row justify-center gap-8">
-                <button class="gold-button px-14 py-4 text-[10px] uppercase tracking-[4px] font-bold">Explore Collection</button>
-            </div>
+    <nav class="flex justify-between items-center px-10 py-6 fixed w-full z-50 bg-black/50 backdrop-blur-md border-b border-white/5">
+        <div class="cinzel text-xl font-bold gold-text tracking-widest">ROYAL MANORS</div>
+        <div class="hidden md:flex space-x-10 text-[10px] uppercase tracking-[3px]">
+            <a href="#about" class="hover:gold-text transition">About</a>
+            <a href="#services" class="hover:gold-text transition">Services</a>
+            <a href="#portfolio" class="hover:gold-text transition">Portfolio</a>
+            <a href="#contact" class="hover:gold-text transition">Contact</a>
         </div>
-        <div class="absolute bottom-10 animate-bounce">
-            <div class="w-[1px] h-16 bg-[--gold] mx-auto opacity-30"></div>
+        <button class="border gold-border px-6 py-2 text-[10px] uppercase gold-text hover:bg-[--gold] hover:text-black transition">Private Access</button>
+    </nav>
+
+    <section class="hero-video h-screen flex items-center justify-center text-center">
+        <div class="animate__animated animate__fadeInUp">
+            <p class="gold-text tracking-[15px] text-[10px] mb-6 uppercase">Since 1920 | London • Paris • Rome</p>
+            <h1 class="cinzel text-5xl md:text-8xl mb-8 font-bold leading-tight">CRAFTING <span class="italic font-light text-white">LEGACIES</span></h1>
+            <div class="h-[1px] w-40 bg-[--gold] mx-auto mb-10"></div>
+            <a href="#portfolio" class="text-[11px] uppercase tracking-[5px] border-b border-[--gold] pb-2 hover:text-[--gold] transition">View Collection</a>
         </div>
     </section>
 
-    <section class="py-32 px-6 max-w-7xl mx-auto">
-        <h2 class="cinzel text-4xl text-center mb-20 text-[--gold]">Architectural Masterpieces</h2>
-        <div class="grid md:grid-cols-3 gap-10">
-            <div class="luxury-card bg-[#0a0a0a] overflow-hidden group">
-                <div class="h-80 overflow-hidden">
-                    <img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600" class="w-full h-full object-cover group-hover:scale-110 transition duration-1000">
-                </div>
-                <div class="p-8">
-                    <h3 class="cinzel text-xl mb-2 text-[--gold]">The Grand Pavilion</h3>
-                    <p class="text-xs opacity-50 uppercase tracking-widest mb-4">Paris, France</p>
-                    <p class="text-sm italic opacity-70">A symphony of classical French architecture and modern luxury.</p>
-                </div>
+    <section id="about" class="py-24 bg-[--panel]">
+        <div class="max-w-7xl mx-auto px-10 grid md:grid-cols-4 gap-12">
+            <div class="stat-card">
+                <h3 class="cinzel text-3xl gold-text mb-2">104</h3>
+                <p class="text-[10px] uppercase tracking-widest opacity-50">Years of Excellence</p>
             </div>
-            <div class="luxury-card bg-[#0a0a0a] overflow-hidden group">
-                <div class="h-80 overflow-hidden">
-                    <img src="https://images.unsplash.com/photo-1580587767303-9fef00803114?w=600" class="w-full h-full object-cover group-hover:scale-110 transition duration-1000">
-                </div>
-                <div class="p-8">
-                    <h3 class="cinzel text-xl mb-2 text-[--gold]">The Royal Manor</h3>
-                    <p class="text-xs opacity-50 uppercase tracking-widest mb-4">London, UK</p>
-                    <p class="text-sm italic opacity-70">Historical elegance preserved for the modern sovereign.</p>
-                </div>
+            <div class="stat-card">
+                <h3 class="cinzel text-3xl gold-text mb-2">$4.2B</h3>
+                <p class="text-[10px] uppercase tracking-widest opacity-50">Assets Managed</p>
             </div>
-            <div class="luxury-card bg-[#0a0a0a] overflow-hidden group">
-                <div class="h-80 overflow-hidden">
-                    <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600" class="w-full h-full object-cover group-hover:scale-110 transition duration-1000">
-                </div>
-                <div class="p-8">
-                    <h3 class="cinzel text-xl mb-2 text-[--gold]">Imperial Villa</h3>
-                    <p class="text-xs opacity-50 uppercase tracking-widest mb-4">Rome, Italy</p>
-                    <p class="text-sm italic opacity-70">An artistic retreat with panoramic views of the eternal city.</p>
-                </div>
+            <div class="stat-card">
+                <h3 class="cinzel text-3xl gold-text mb-2">12</h3>
+                <p class="text-[10px] uppercase tracking-widest opacity-50">Global Offices</p>
+            </div>
+            <div class="stat-card">
+                <h3 class="cinzel text-3xl gold-text mb-2">250+</h3>
+                <p class="text-[10px] uppercase tracking-widest opacity-50">Palaces Sold</p>
             </div>
         </div>
     </section>
 
-    <footer class="py-20 text-center border-t border-gray-900">
-        <p class="text-[8px] tracking-[10px] uppercase opacity-30">© 2026 CodeHub Prime - Royal Division</p>
+    <section id="services" class="py-32 px-10 max-w-7xl mx-auto">
+        <div class="text-center mb-24">
+            <h2 class="cinzel text-4xl mb-4">Bespoke Services</h2>
+            <p class="italic opacity-50 italic">Tailored for the world's most discerning collectors.</p>
+        </div>
+        <div class="grid md:grid-cols-3 gap-16">
+            <div class="text-center group">
+                <div class="mb-8 overflow-hidden"><img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=400" class="grayscale group-hover:grayscale-0 transition duration-700"></div>
+                <h4 class="cinzel text-lg mb-4 gold-text uppercase">Architectural Design</h4>
+                <p class="text-sm opacity-60 leading-relaxed">Collaborating with Pritzker-winning architects to create timeless structures.</p>
+            </div>
+            <div class="text-center group">
+                <div class="mb-8 overflow-hidden"><img src="https://images.unsplash.com/photo-1600566753190-17f0bb2a6c3e?w=400" class="grayscale group-hover:grayscale-0 transition duration-700"></div>
+                <h4 class="cinzel text-lg mb-4 gold-text uppercase">Wealth Management</h4>
+                <p class="text-sm opacity-60 leading-relaxed">Strategic real estate investment portfolios with guaranteed long-term growth.</p>
+            </div>
+            <div class="text-center group">
+                <div class="mb-8 overflow-hidden"><img src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=400" class="grayscale group-hover:grayscale-0 transition duration-700"></div>
+                <h4 class="cinzel text-lg mb-4 gold-text uppercase">Private Concierge</h4>
+                <p class="text-sm opacity-60 leading-relaxed">24/7 world-class management for your estates, wherever you are in the world.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer id="contact" class="bg-[--panel] pt-32 pb-10 px-10 border-t border-white/5">
+        <div class="max-w-7xl mx-auto grid md:grid-cols-3 gap-20 mb-20">
+            <div>
+                <h3 class="cinzel gold-text text-xl mb-8">Royal Manors</h3>
+                <p class="text-sm opacity-50 leading-loose">The world leader in luxury real estate, providing unparalleled service to our sovereign clients since 1920.</p>
+            </div>
+            <div>
+                <h4 class="text-[10px] uppercase tracking-[4px] mb-8">Global HQ</h4>
+                <p class="text-sm opacity-50 italic leading-loose">15 Park Lane, Mayfair<br>London W1K 1RA, UK<br>+44 20 7946 0000</p>
+            </div>
+            <div>
+                <h4 class="text-[10px] uppercase tracking-[4px] mb-8">Newsletter</h4>
+                <div class="flex border-b gold-border pb-2">
+                    <input type="email" placeholder="Your Email" class="bg-transparent border-none text-xs w-full focus:outline-none">
+                    <button class="gold-text text-xs uppercase tracking-widest font-bold">Join</button>
+                </div>
+            </div>
+        </div>
+        <div class="text-center pt-10 border-t border-white/5">
+            <p class="text-[8px] tracking-[8px] uppercase opacity-30">© 2026 CodeHub Official - Titan Engine Deployment</p>
+        </div>
     </footer>
 
 </body>
