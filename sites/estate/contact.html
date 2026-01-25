@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TITAN ESTATES | CONTACT</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="brand">TITAN<span>ESTATES</span></div>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="listings.html">Listings</a>
+            <a href="about.html">About</a>
+            <a href="contact.html" class="active">Contact</a>
+        </nav>
+    </header>
+
+    <div class="container">
+        <h2 class="title">START THE DEAL</h2>
+        
+        <div class="grid-3">
+            <div class="card" style="grid-column: span 2;">
+                <h3>SEND REQUEST</h3>
+                <form onsubmit="event.preventDefault(); alert('Request sent to Titan HQ!');">
+                    <input type="text" placeholder="YOUR NAME" style="width:100%; padding:15px; margin-bottom:10px; background:#111; border:1px solid #333; color:#fff;">
+                    <input type="email" placeholder="EMAIL ADDRESS" style="width:100%; padding:15px; margin-bottom:10px; background:#111; border:1px solid #333; color:#fff;">
+                    <textarea placeholder="MESSAGE" style="width:100%; height:100px; padding:15px; margin-bottom:10px; background:#111; border:1px solid #333; color:#fff;"></textarea>
+                    <button class="btn">SEND MESSAGE</button>
+                </form>
+            </div>
+
+            <div class="card" style="text-align: center;">
+                <h3>DIRECT LINE</h3>
+                <p>Speak with a Senior Broker immediately.</p>
+                <br>
+                <div class="price">VIP AGENT</div>
+                <button onclick="window.open('https://wa.me/201012345678','_blank')" class="btn gold">WHATSAPP NOW</button>
+            </div>
+        </div>
+    </div>
+
+    <footer>TITAN ESTATES INTERNATIONAL © 2026</footer>
+</body>
+</html>

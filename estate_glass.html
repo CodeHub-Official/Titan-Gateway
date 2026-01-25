@@ -1,47 +1,99 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>HORIZON | FUTURE ESTATES</title>
-    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Royal Estate | The Pinnacle of Futuristic</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;900&family=Rajdhani:wght@300;600&display=swap');
-        body { background: #000; color: #0ff; font-family: 'Rajdhani', sans-serif; }
-        h1, h2, .cyber { font-family: 'Orbitron', sans-serif; }
-        .neon-box { box-shadow: 0 0 10px #0ff, inset 0 0 10px #0ff; border: 1px solid #0ff; }
-        .hero { height: 100vh; background: url('https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1920') center/cover; }
+        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Montserrat:wght@300;400;600&display=swap');
+        body { background: #050505; color: white; font-family: 'Montserrat', sans-serif; scroll-behavior: smooth; }
+        h1, h2, h3, .nav-font { font-family: 'Cinzel', serif; }
+        .gold-text { color: #00f2ff; }
+        .gold-border { border-color: #00f2ff; }
+        .gold-bg { background: #00f2ff; }
+        .hero-royal { background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80'); background-attachment: fixed; background-size: cover; height: 100vh; }
+        .card-hover:hover { transform: translateY(-10px); border-color: #00f2ff; box-shadow: 0 10px 30px rgba(212, 175, 55, 0.1); }
     </style>
 </head>
 <body>
-    <div class="fixed inset-0 bg-blue-900/10 pointer-events-none z-0"></div>
-    
-    <nav class="fixed w-full z-50 p-6 flex justify-between items-center backdrop-blur-lg border-b border-[#0ff]/30">
-        <div class="cyber text-2xl text-[#0ff]">HORIZON</div>
-        <a href="estate.html" class="text-[#0ff] border border-[#0ff] px-6 py-1 text-sm hover:bg-[#0ff] hover:text-black transition duration-300 clip-path-slant">SYSTEM EXIT</a>
+    <nav class="fixed w-full z-50 bg-black/80 backdrop-blur-md border-b gold-border/30 px-6 py-4 flex justify-between items-center">
+        <div class="nav-font text-xl gold-text font-bold">HORIZON GLASS</div>
+        <div class="hidden md:flex gap-8 text-[10px] tracking-widest">
+            <a href="#about" class="hover:gold-text transition">THE HERITAGE</a>
+            <a href="#projects" class="hover:gold-text transition">COLLECTION</a>
+            <a href="#contact" class="hover:gold-text transition">CONCIERGE</a>
+            <a href="estate.html" class="gold-text border gold-border px-3 py-1 italic">EXIT HUB</a>
+        </div>
     </nav>
 
-    <header class="hero flex items-center px-10 relative z-10">
-        <div class="bg-black/80 p-10 border-l-4 border-[#0ff] backdrop-blur-xl max-w-2xl">
-            <div class="text-xs tracking-[5px] text-white mb-2">YEAR 2030 ARCHITECTURE</div>
-            <h1 class="text-5xl md:text-7xl font-black mb-6 text-white uppercase">Sky is not<br><span class="text-[#0ff]">the limit</span></h1>
-            <p class="text-gray-300 text-xl mb-8">Automated Penthouses & Vertical Cities.</p>
-            <button class="bg-[#0ff] text-black font-bold px-8 py-3 cyber tracking-widest hover:bg-white transition shadow-[0_0_20px_#0ff]">INITIALIZE TOUR</button>
-        </div>
-    </header>
-
-    <section class="py-20 px-5 z-10 relative">
-        <div class="grid md:grid-cols-2 gap-10 max-w-6xl mx-auto">
-            <div class="border border-[#0ff]/30 p-5 bg-black/50 hover:bg-[#0ff]/10 transition duration-500">
-                <img src="https://images.unsplash.com/photo-1479839672679-a455b180eda8?q=80&w=800" class="w-full h-64 object-cover opacity-80 mb-4">
-                <h3 class="cyber text-2xl text-white">The Shard Apt</h3>
-                <p class="text-[#0ff]">London • Cyber-Smart Unit</p>
-            </div>
-            <div class="border border-[#0ff]/30 p-5 bg-black/50 hover:bg-[#0ff]/10 transition duration-500">
-                <img src="https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?q=80&w=800" class="w-full h-64 object-cover opacity-80 mb-4">
-                <h3 class="cyber text-2xl text-white">Neon Tower</h3>
-                <p class="text-[#0ff]">Hong Kong • Level 88</p>
+    <section class="hero-royal flex items-center justify-center text-center px-4">
+        <div>
+            <p class="gold-text tracking-[8px] text-xs mb-4 uppercase">Excellence Since 1985</p>
+            <h1 class="text-5xl md:text-8xl mb-6">UNRIVALED<br><span class="gold-text">OPULENCE</span></h1>
+            <div class="flex justify-center gap-4">
+                <a href="#projects" class="gold-bg text-black px-8 py-3 font-bold text-xs tracking-widest hover:bg-white transition">VIEW ESTATES</a>
             </div>
         </div>
     </section>
+
+    <section id="about" class="py-24 px-6 max-w-6xl mx-auto">
+        <div class="grid md:grid-cols-2 gap-16 items-center">
+            <div>
+                <h2 class="text-4xl mb-6">A LEGACY OF <span class="gold-text">TRUST</span></h2>
+                <p class="text-gray-400 leading-relaxed mb-8">With over three decades of experience in the luxury market, Royal Estate has curated the world's most exclusive portfolio of palaces and private islands for the global elite.</p>
+                <div class="grid grid-cols-3 gap-4 text-center">
+                    <div><div class="gold-text text-3xl font-bold">450+</div><div class="text-[8px] tracking-widest text-gray-500 uppercase">Estates Sold</div></div>
+                    <div><div class="gold-text text-3xl font-bold">12</div><div class="text-[8px] tracking-widest text-gray-500 uppercase">Global Offices</div></div>
+                    <div><div class="gold-text text-3xl font-bold">$4B+</div><div class="text-[8px] tracking-widest text-gray-500 uppercase">Asset Value</div></div>
+                </div>
+            </div>
+            <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800" class="border gold-border/20 p-2 grayscale hover:grayscale-0 transition duration-1000">
+        </div>
+    </section>
+
+    <section id="projects" class="py-24 bg-[#0a0a0a]">
+        <div class="max-w-7xl mx-auto px-6">
+            <h2 class="text-3xl text-center mb-16 nav-font tracking-[5px]">PRIVATE <span class="gold-text">COLLECTION</span></h2>
+            <div class="grid md:grid-cols-3 gap-8">
+                <div class="border border-white/5 p-4 card-hover transition duration-500">
+                    <img src="https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=600" class="mb-4">
+                    <h3 class="text-xl gold-text mb-2">The Amber Mansion</h3>
+                    <p class="text-[10px] text-gray-500 uppercase mb-4">Dubai, Palm Jumeirah</p>
+                    <div class="flex justify-between border-t border-white/10 pt-4 text-xs">
+                        <span>$18.5M</span><span>6,500 Sq.Ft</span>
+                    </div>
+                </div>
+                <div class="border border-white/5 p-4 card-hover transition duration-500">
+                    <img src="https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=600" class="mb-4">
+                    <h3 class="text-xl gold-text mb-2">Majestic Heights</h3>
+                    <p class="text-[10px] text-gray-500 uppercase mb-4">Beverly Hills, CA</p>
+                    <div class="flex justify-between border-t border-white/10 pt-4 text-xs">
+                        <span>$24.0M</span><span>12,000 Sq.Ft</span>
+                    </div>
+                </div>
+                <div class="border border-white/5 p-4 card-hover transition duration-500">
+                    <img src="https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=600" class="mb-4">
+                    <h3 class="text-xl gold-text mb-2">Imperial Villa</h3>
+                    <p class="text-[10px] text-gray-500 uppercase mb-4">Zurich, Switzerland</p>
+                    <div class="flex justify-between border-t border-white/10 pt-4 text-xs">
+                        <span>$12.2M</span><span>4,200 Sq.Ft</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer id="contact" class="py-20 border-t gold-border/20 text-center">
+        <div class="max-w-xl mx-auto px-6">
+            <h2 class="nav-font text-2xl gold-text mb-8 tracking-widest">ESTABLISH CONTACT</h2>
+            <p class="text-gray-500 text-xs mb-10 leading-loose uppercase tracking-[2px]">London • Dubai • New York • Singapore</p>
+            <form class="grid gap-4">
+                <input type="text" placeholder="FULL NAME" class="bg-transparent border border-white/10 p-4 text-[10px] tracking-widest focus:border-gold-text outline-none">
+                <input type="email" placeholder="EMAIL ADDRESS" class="bg-transparent border border-white/10 p-4 text-[10px] tracking-widest focus:border-gold-text outline-none">
+                <button class="gold-bg text-black py-4 font-bold text-[10px] tracking-[4px] hover:bg-white transition">INQUIRE PRIVATELY</button>
+            </form>
+        </div>
+    </footer>
 </body>
 </html>

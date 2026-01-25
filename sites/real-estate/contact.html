@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CONTACT | CODEHUB</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="brand">CONTACT</div>
+        <button id="open-dict" class="square-btn">🌐 DICTIONARY</button>
+    </header>
+    <nav class="sub-nav"><a href="index.html">HOME</a><a href="projects.html">PROJECTS</a><a href="contact.html">CONTACT</a></nav>
+
+    <section class="contact-area">
+        <h2>CONNECT WITH US</h2>
+        <input type="text" placeholder="NAME">
+        <input type="email" placeholder="EMAIL">
+        <textarea placeholder="MESSAGE"></textarea>
+        <button class="square-btn white">SEND REQUEST</button>
+    </section>
+
+    <div id="dict-modal" class="modal">
+        <div class="modal-card">
+            <h3>SELECT LANGUAGE</h3>
+            <div class="lang-grid">
+                <button onclick="applyLang('ARABIC')">ARABIC</button>
+                <button onclick="applyLang('ENGLISH')">ENGLISH</button>
+            </div>
+            <button id="close-dict" class="square-btn outline">CLOSE</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

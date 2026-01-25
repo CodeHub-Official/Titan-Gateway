@@ -1,0 +1,48 @@
+/*
+Theme Name: CodeHub Pro Theme
+Theme URI: https://codehub.com
+Author: CodeHub Team
+Description: Ultra-fast, SEO-optimized, and conversion-ready WordPress theme.
+Version: 1.0.0
+Text Domain: codehub
+*/
+
+:root { 
+    --primary: #2563eb; 
+    --dark: #0f172a; 
+    --bg: #f8fafc; 
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif; }
+
+body { background-color: var(--bg); color: var(--dark); line-height: 1.6; }
+
+/* SEO-Friendly Header */
+header { 
+    background: #ffffff; padding: 1rem 5%; display: flex; 
+    justify-content: space-between; align-items: center; 
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    position: sticky; top: 0; z-index: 1000;
+}
+
+.logo { font-size: 1.5rem; font-weight: 800; color: var(--primary); letter-spacing: -1px; }
+
+/* Grid for Max Sales */
+.container { 
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); 
+    gap: 20px; padding: 20px; max-width: 1200px; margin: auto;
+}
+
+.card { 
+    background: #fff; border-radius: 20px; padding: 15px; 
+    transition: transform 0.3s ease; border: 1px solid #f1f5f9;
+}
+.card:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.05); }
+
+/* Viral Footer */
+footer { 
+    margin-top: 4rem; background: var(--dark); color: #fff; 
+    padding: 3rem 1rem; text-align: center; border-radius: 30px 30px 0 0;
+}
+.brand-mark { color: var(--primary); font-weight: 900; font-size: 1.8rem; display: block; margin-top: 10px; }
+

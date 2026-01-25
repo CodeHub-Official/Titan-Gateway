@@ -1,0 +1,74 @@
+import requests
+import json
+from bs4 import BeautifulSoup
+from http.server import BaseHTTPRequestHandler, HTTPServer
+from urllib.parse import urlparse, parse_qs
+
+# API KEYS
+G_KEY = "AIzaSyBgCEldsNHNiotHgsVv5WLh0NXYAra5E04"
+S_KEY = "76e81a979fbf89f79e66c26c560be2b1c95b1004"
+
+class TitanIntelligence(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header('Content-type', 'text/html; charset=utf-8')
+        self.end_headers()
+        
+        # UI Interface
+        html = """
+        <html>
+        <head><title>Titan Intelligence System</title><meta name="viewport" content="width=device-width, initial-scale=1"></head>
+        <body style="font-family: sans-serif; background: #1a1a2e; color: white; text-align: center; padding: 20px;">
+            <div style="max-width: 700px; margin: auto; background: #16213e; padding: 30px; border-radius: 15px; box-shadow: 0 0 20px rgba(0,255,150,0.2);">
+                <h1 style="color: #0f3460; background: #00d2ff; display: inline-block; padding: 5px 20px; border-radius: 5px;">TITAN AI ENGINE</h1>
+                <p>Enter Subject to Scrape & Analyze</p>
+                <form method="GET" action="/mission">
+                    <input type="text" name="q" placeholder="Example: Real estate in Dubai" style="width: 80%; padding: 12px; border-radius: 5px; border: none; margin-bottom: 10px;">
+                    <br>
+                    <button type="submit" style="padding: 12px 30px; background: #e94560; color: white; border: none; border-radius: 5px; cursor: pointer; font-weight: bold;">START MISSION</button>
+                </form>
+        """
+        
+        path = urlparse(self.path).path
+        query = parse_qs(urlparse(self.path).query)
+        
+        if path == "/mission" and 'q' in query:
+            subject = query['q'][0]
+            html += f"<div style='text-align: left; background: #0f3460; padding: 15px; border-radius: 10px;'><h3>Mission: {subject}</h3>"
+            
+            # 1. Search Phase
+            search_url = "https://google.serper.dev/search"
+            try:
+                res = requests.post(search_url, headers={'X-API-KEY': S_KEY}, json={"q": subject})
+                search_results = res.json().get('organic', [])
+                
+                for item in search_results[:3]: # Scrape top 3
+                    html += f"<p style='color: #00d2ff;'>[Infiltrating]: {item['link'][:50]}...</p>"
+                    
+                    # 2. Scrape Phase
+                    page = requests.get(item['link'], timeout=10, headers={'User-Agent': 'Mozilla/5.0'})
+                    text_content = BeautifulSoup(page.text, 'html.parser').get_text()[:3000]
+                    
+                    # 3. AI Analysis Phase (Gemini)
+                    gemini_url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={G_KEY}"
+                    prompt = f"Extract emails and phone numbers from this text as a list: {text_content}"
+                    ai_res = requests.post(gemini_url, json={"contents": [{"parts": [{"text": prompt}]}]})
+                    analysis = ai_res.json()['candidates'][0]['content']['parts'][0]['text']
+                    
+                    html += f"<div style='background: white; color: black; padding: 10px; margin-bottom: 10px; border-radius: 5px;'>{analysis}</div>"
+                    
+            except Exception as e:
+                html += f"<p style='color: red;'>Critical Error: {str(e)}</p>"
+            
+            html += "</div>"
+            
+        html += "</div></body></html>"
+        self.wfile.write(html.encode('utf-8'))
+
+def run(port=8080):
+    print(f"Titan Monster is Awake on port {port}...")
+    HTTPServer(('', port), TitanIntelligence).serve_forever()
+
+if __name__ == '__main__':
+    run()
+
