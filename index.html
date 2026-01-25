@@ -3,158 +3,136 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>TITAN CORE | THE EMPIRE</title>
+    <title>TITAN | SUPREMACY</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;900&family=Cairo:wght@400;700&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Syncopate:wght@400;700&family=Cairo:wght@400;900&display=swap');
         
-        :root { --gold: #d4af37; }
-        body { background: #000; color: white; overflow-x: hidden; margin: 0; font-family: 'Orbitron', sans-serif; }
+        :root { --gold: #c5a059; --dark-bg: #050505; }
+        body { background: var(--dark-bg); color: white; font-family: 'Syncopate', sans-serif; overflow: hidden; margin: 0; }
         body.rtl { font-family: 'Cairo', sans-serif; direction: rtl; }
 
-        /* Animated Background Core */
-        #bg-canvas { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; filter: blur(2px); opacity: 0.6; }
+        /* Cinematic Background */
+        .stars-container { position: fixed; width: 100%; height: 100%; background: radial-gradient(circle at center, #111 0%, #000 100%); z-index: -1; }
+        .glow { position: absolute; width: 2px; height: 2px; background: white; border-radius: 50%; opacity: 0.3; animation: blink 3s infinite; }
 
-        /* Responsive Hero Section */
-        .hero { height: 40vh; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; padding: 20px; }
-        
-        /* Grid System for Mobile vs Desktop */
-        .showcase-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 25px; padding: 20px; max-width: 1400px; margin: 0 auto;
+        @keyframes blink { 0%, 100% { opacity: 0.2; transform: scale(1); } 50% { opacity: 0.8; transform: scale(1.5); } }
+
+        /* Floating Imperial Cards */
+        .throne-grid {
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 40px; padding: 100px 50px; perspective: 1000px;
         }
 
-        /* Glass Motion Cards */
-        .card-pro {
-            position: relative; height: 350px; border-radius: 25px; overflow: hidden;
-            border: 1px solid rgba(255,255,255,0.1); background: rgba(0,0,0,0.5);
-            backdrop-filter: blur(15px); transition: 0.6s cubic-bezier(0.23, 1, 0.32, 1);
-        }
-        .card-pro:hover { transform: scale(1.03) translateY(-10px); border-color: var(--gold); box-shadow: 0 15px 40px rgba(212, 175, 55, 0.2); }
-
-        .card-img {
-            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
-            object-fit: cover; opacity: 0.4; transition: 0.8s; z-index: 1;
-        }
-        .card-pro:hover .card-img { opacity: 0.8; transform: scale(1.1); }
-
-        .card-content {
-            position: relative; z-index: 2; height: 100%; padding: 30px;
-            display: flex; flex-direction: column; justify-content: flex-end;
-            background: linear-gradient(to top, rgba(0,0,0,0.9) 20%, transparent);
+        .imperial-card {
+            position: relative; height: 500px; border-radius: 0; transform-style: preserve-3d;
+            transition: 1s cubic-bezier(0.075, 0.82, 0.165, 1); cursor: pointer;
+            border-left: 1px solid rgba(197, 160, 89, 0.3);
         }
 
-        /* Language Switcher Float */
-        .lang-bar { position: fixed; top: 20px; right: 20px; z-index: 100; display: flex; gap: 8px; }
-        .l-btn { background: rgba(255,255,255,0.1); padding: 5px 12px; border-radius: 8px; font-size: 12px; cursor: pointer; border: 1px solid transparent; }
-        .l-btn.active { border-color: var(--gold); color: var(--gold); }
+        .imperial-card:hover { transform: rotateY(10deg) rotateX(5deg) scale(1.05); }
+
+        .card-inner {
+            position: absolute; width: 100%; height: 100%; background: rgba(255,255,255,0.02);
+            backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.05);
+            display: flex; flex-direction: column; justify-content: flex-end; padding: 40px;
+        }
+
+        .card-number {
+            position: absolute; top: 20px; right: 20px; font-size: 80px; font-weight: 900;
+            color: rgba(197, 160, 89, 0.05); pointer-events: none;
+        }
+
+        .luxury-line { width: 40px; height: 2px; background: var(--gold); margin-bottom: 20px; transition: 0.5s; }
+        .imperial-card:hover .luxury-line { width: 100%; }
+
+        .btn-enter {
+            background: transparent; border: 1px solid var(--gold); color: var(--gold);
+            padding: 10px 30px; font-size: 10px; letter-spacing: 5px; transition: 0.5s;
+            margin-top: 20px; overflow: hidden; position: relative;
+        }
+        .btn-enter:hover { background: var(--gold); color: black; }
+
+        /* Navigation Bar */
+        .nav-imperial {
+            position: fixed; top: 0; width: 100%; padding: 40px; display: flex;
+            justify-content: space-between; align-items: center; z-index: 100;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
 
         @media (max-width: 768px) {
-            .hero h1 { font-size: 2.5rem; }
-            .showcase-grid { grid-template-columns: 1fr; padding: 15px; }
-            .card-pro { height: 280px; }
+            .throne-grid { grid-template-columns: 1fr; padding: 120px 20px; }
+            .imperial-card { height: 400px; }
         }
     </style>
 </head>
 <body>
 
-    <div class="lang-bar">
-        <div class="l-btn active" onclick="changeLang('en', this)">EN</div>
-        <div class="l-btn" onclick="changeLang('ar', this)">AR</div>
-        <div class="l-btn" onclick="changeLang('fr', this)">FR</div>
-    </div>
+    <div class="stars-container" id="stars"></div>
 
-    <canvas id="bg-canvas"></canvas>
+    <nav class="nav-imperial backdrop-blur-md">
+        <div class="text-xl font-bold tracking-[10px]">TITAN <span class="text-[#c5a059]">SUPREME</span></div>
+        <div class="flex gap-10 text-[10px] tracking-widest text-gray-500">
+            <span onclick="setLang('ar')" class="cursor-pointer hover:text-white">AR</span>
+            <span onclick="setLang('en')" class="cursor-pointer hover:text-white">EN</span>
+        </div>
+    </nav>
 
-    <div class="hero">
-        <h1 class="text-5xl md:text-7xl font-black mb-4 tracking-tighter" id="main-title">TITAN CORE</h1>
-        <p class="text-[#d4af37] tracking-[0.4em] text-xs md:text-sm" id="main-slogan">INTERNATIONAL DIGITAL SHOWROOM</p>
-    </div>
-
-    <div class="showcase-grid">
-        <a href="estate.html" class="card-pro">
-            <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070" class="card-img">
-            <div class="card-content">
-                <h2 class="text-2xl font-bold text-white mb-2" id="t-estate">REAL ESTATE</h2>
-                <p class="text-gray-400 text-xs" id="d-estate">Global Luxury Properties. Automated by Titan.</p>
+    <main class="throne-grid">
+        <div class="imperial-card" onclick="location.href='estate.html'">
+            <div class="card-number">01</div>
+            <div class="card-inner">
+                <div class="luxury-line"></div>
+                <h2 class="text-2xl mb-2 font-bold tracking-widest" id="t-estate">ESTATE ARCHIVE</h2>
+                <p class="text-[10px] text-gray-500 leading-loose" id="d-estate">GLOBAL LUXURY ASSETS. SECURED BY TITAN PROTOCOL.</p>
+                <button class="btn-enter" id="b-estate">ENTER CORE</button>
             </div>
-        </a>
+        </div>
 
-        <a href="auto.html" class="card-pro">
-            <img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=2070" class="card-img">
-            <div class="card-content">
-                <h2 class="text-2xl font-bold text-white mb-2" id="t-auto">AUTOMOTIVE</h2>
-                <p class="text-gray-400 text-xs" id="d-auto">Supercars & Logistics. Real-time Inventory.</p>
+        <div class="imperial-card" onclick="location.href='auto.html'">
+            <div class="card-number">02</div>
+            <div class="card-inner">
+                <div class="luxury-line"></div>
+                <h2 class="text-2xl mb-2 font-bold tracking-widest" id="t-auto">AUTO GENESIS</h2>
+                <p class="text-[10px] text-gray-400 leading-loose" id="d-auto">HIGH-PERFORMANCE INVENTORY. REAL-TIME DATA.</p>
+                <button class="btn-enter" id="b-auto">ENTER CORE</button>
             </div>
-        </a>
+        </div>
 
-        <a href="#" class="card-pro">
-            <img src="https://images.unsplash.com/photo-1506929199175-6091e7861b51?q=80&w=1990" class="card-img">
-            <div class="card-content">
-                <h2 class="text-2xl font-bold text-white mb-2" id="t-tourism">TOURISM</h2>
-                <p class="text-gray-400 text-xs" id="d-tourism">Premium Destination Search. Global Core.</p>
+        <div class="imperial-card">
+            <div class="card-number">03</div>
+            <div class="card-inner">
+                <div class="luxury-line"></div>
+                <h2 class="text-2xl mb-2 font-bold tracking-widest" id="t-fashion">ELITE FASHION</h2>
+                <p class="text-[10px] text-gray-500 leading-loose" id="d-fashion">CURATED TRENDS. GLOBAL MARKET ANALYTICS.</p>
+                <button class="btn-enter" id="b-fashion">ENTER CORE</button>
             </div>
-        </a>
-    </div>
+        </div>
+    </main>
 
     <script>
-        // Particle Background System
-        const canvas = document.getElementById('bg-canvas');
-        const ctx = canvas.getContext('2d');
-        let particles = [];
-        
-        function resize() { canvas.width = window.innerWidth; canvas.height = window.innerHeight; }
-        window.onresize = resize; resize();
-
-        class Particle {
-            constructor() {
-                this.x = Math.random() * canvas.width;
-                this.y = Math.random() * canvas.height;
-                this.size = Math.random() * 2 + 1;
-                this.speedX = Math.random() * 0.5 - 0.25;
-                this.speedY = Math.random() * 0.5 - 0.25;
-            }
-            update() {
-                this.x += this.speedX; this.y += this.speedY;
-                if(this.x > canvas.width) this.x = 0; if(this.x < 0) this.x = canvas.width;
-                if(this.y > canvas.height) this.y = 0; if(this.y < 0) this.y = canvas.height;
-            }
-            draw() {
-                ctx.fillStyle = '#d4af37'; ctx.beginPath();
-                ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2); ctx.fill();
-            }
+        // Generate Background Stars
+        const starsContainer = document.getElementById('stars');
+        for (let i = 0; i < 150; i++) {
+            const star = document.createElement('div');
+            star.className = 'glow';
+            star.style.top = Math.random() * 100 + '%';
+            star.style.left = Math.random() * 100 + '%';
+            star.style.animationDelay = Math.random() * 5 + 's';
+            starsContainer.appendChild(star);
         }
 
-        for(let i=0; i<100; i++) particles.push(new Particle());
-
-        function animate() {
-            ctx.clearRect(0,0,canvas.width, canvas.height);
-            particles.forEach(p => { p.update(); p.draw(); });
-            requestAnimationFrame(animate);
-        }
-        animate();
-
-        // Language Engine
-        const langs = {
-            ar: { title: "قلب تايتن", slogan: "معرض الأصول الرقمية العالمي", t_estate: "العقارات", d_estate: "عقارات فاخرة حول العالم. أتمتة كاملة.", t_auto: "السيارات", d_auto: "سيارات سوبر ولوجستيات. مخزون حي.", t_tourism: "السياحة", d_tourism: "أرقى الوجهات العالمية. بحث ذكي." },
-            en: { title: "TITAN CORE", slogan: "INTERNATIONAL DIGITAL SHOWROOM", t_estate: "REAL ESTATE", d_estate: "Global Luxury Properties. Automated by Titan.", t_auto: "AUTOMOTIVE", d_auto: "Supercars & Logistics. Real-time Inventory.", t_tourism: "TOURISM", d_tourism: "Premium Destination Search. Global Core." }
+        // Language System
+        const translations = {
+            ar: { t_estate: "أرشيف العقارات", d_estate: "أصول فاخرة عالمية. محمية ببروتوكول تايتن.", b_estate: "دخول المركز", t_auto: "نشأة السيارات", d_auto: "مخزون عالي الأداء. بيانات فورية.", b_auto: "دخول المركز" },
+            en: { t_estate: "ESTATE ARCHIVE", d_estate: "GLOBAL LUXURY ASSETS. SECURED BY TITAN PROTOCOL.", b_estate: "ENTER CORE", t_auto: "AUTO GENESIS", d_auto: "HIGH-PERFORMANCE INVENTORY. REAL-TIME DATA.", b_auto: "ENTER CORE" }
         };
 
-        function changeLang(l, btn) {
-            document.querySelectorAll('.l-btn').forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-            const d = langs[l];
-            document.getElementById('main-title').innerText = d.title;
-            document.getElementById('main-slogan').innerText = d.slogan;
-            document.getElementById('t-estate').innerText = d.t_estate;
-            document.getElementById('d-estate').innerText = d.d_estate;
-            document.getElementById('t-auto').innerText = d.t_auto;
-            document.getElementById('d-auto').innerText = d.d_auto;
-            document.getElementById('t-tourism').innerText = d.t_tourism;
-            document.getElementById('d-tourism').innerText = d.d_tourism;
-            document.body.className = l === 'ar' ? 'rtl' : '';
+        function setLang(lang) {
+            const d = translations[lang];
+            for (let key in d) { document.getElementById(key).innerText = d[key]; }
+            document.body.className = lang === 'ar' ? 'rtl' : '';
         }
     </script>
 </body>
