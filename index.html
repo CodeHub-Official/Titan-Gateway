@@ -3,13 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CODEHUB PRIME | THE GATEWAY</title>
+    <title>CODEHUB PRIME | TITAN GATEWAY</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;900&family=Orbitron:wght@400;900&family=Cinzel:wght@700&display=swap" rel="stylesheet">
     <style>
         :root { --neon: #00f2ff; --dark: #020202; }
-        body { background: var(--dark); color: white; font-family: "Cairo", sans-serif; transition: 0.8s cubic-bezier(0.4, 0, 0.2, 1); overflow-x: hidden; }
-        .prime-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 30px; padding: 40px; }
+        body { background: var(--dark); color: white; transition: 0.5s; overflow-x: hidden; }
+        
+        /* Force Centering regardless of DIR */
+        .center-all { display: flex; flex-direction: column; align-items: center; text-align: center; }
+        
+        .prime-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 30px; padding: 40px; width: 100%; }
         
         .prime-card { 
             height: 650px; border-radius: 50px; position: relative; overflow: hidden; 
@@ -17,25 +21,25 @@
             border: 1px solid rgba(255,255,255,0.03); transition: 0.6s;
         }
         
-        .prime-card:hover { border-color: var(--neon); box-shadow: 0 0 50px rgba(0, 242, 255, 0.2); transform: scale(1.02); }
-        .card-img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; object-fit: cover; opacity: 0.3; filter: grayscale(1); transition: 0.8s; }
-        .prime-card:hover .card-img { opacity: 0.7; filter: grayscale(0); scale: 1.1; }
+        .prime-card:hover { border-color: var(--neon); box-shadow: 0 0 50px rgba(0, 242, 255, 0.2); transform: translateY(-10px); }
+        .card-img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; object-fit: cover; opacity: 0.3; transition: 0.8s; }
+        .prime-card:hover .card-img { opacity: 0.7; scale: 1.1; }
 
-        /* Neon Logic */
+        /* Multi-Language Logic */
         .lang-en { display: none; font-family: "Orbitron", sans-serif; }
         [dir="ltr"] .lang-en { display: block; }
         [dir="ltr"] .lang-ar { display: none; }
         [dir="ltr"] { --neon: #bc00ff; }
         [dir="rtl"] { --neon: #00f2ff; }
 
-        .neon-btn { border: 1px solid var(--neon); color: var(--neon); transition: 0.3s; text-shadow: 0 0 5px var(--neon); }
+        .neon-btn { border: 1px solid var(--neon); color: var(--neon); transition: 0.3s; text-shadow: 0 0 5px var(--neon); width: 100%; max-width: 250px; margin: 0 auto; }
         .neon-btn:hover { background: var(--neon); color: black; box-shadow: 0 0 20px var(--neon); }
         
-        .royal-label { font-family: "Cinzel", serif; letter-spacing: 0.2em; color: var(--neon); }
+        .royal-label { font-family: "Cinzel", serif; color: var(--neon); text-align: center; width: 100%; }
     </style>
 </head>
-<body class="grid-bg">
-    <nav class="p-12 flex justify-between items-center relative z-50">
+<body class="center-all">
+    <nav class="w-full p-12 flex flex-col items-center gap-6 relative z-50">
         <div class="text-3xl font-black tracking-tighter royal-label uppercase">CODEHUB <span class="text-white">PRIME</span></div>
         <button onclick="switchSystem()" class="neon-btn px-10 py-3 rounded-full text-[10px] font-black tracking-[0.3em]">
             <span class="lang-ar">SWITCH TO ENGLISH</span><span class="lang-en">التحويل للعربية</span>
@@ -43,39 +47,30 @@
     </nav>
 
     <div class="prime-grid max-w-[1600px] mx-auto">
-        <div class="prime-card group">
+        <div class="prime-card group center-all justify-end pb-16">
             <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c" class="card-img" />
-            <div class="absolute bottom-16 w-full text-center px-10">
+            <div class="w-full px-10">
                 <span class="royal-label text-[10px] font-bold block mb-4 uppercase">Sovereign Assets</span>
                 <h2 class="text-5xl font-black mb-8 lang-ar">العقارات الملكية</h2>
                 <h2 class="text-4xl font-black mb-8 lang-en text-white uppercase italic">Royal Estates</h2>
                 
-                <div class="flex flex-col gap-3">
-                    <a href="index_royal.html" class="neon-btn py-4 rounded-2xl text-[10px] font-black uppercase tracking-widest">
-                        <span class="lang-ar">الدخول للقالب الأول (V1)</span><span class="lang-en">Enter Royal V1</span>
+                <div class="flex flex-col items-center gap-4">
+                    <a href="index_royal.html" class="neon-btn py-4 rounded-2xl text-[10px] font-black uppercase tracking-widest block text-center">
+                        <span class="lang-ar">رؤية الملك 1</span><span class="lang-en">Royal Legacy 1</span>
                     </a>
-                    <a href="royal_v2.html" class="neon-btn py-4 rounded-2xl text-[10px] font-black uppercase tracking-widest" style="opacity: 0.8">
-                        <span class="lang-ar">الدخول للقالب المطور (V2)</span><span class="lang-en">Enter Royal V2</span>
+                    <a href="royal_v2.html" class="neon-btn py-4 rounded-2xl text-[10px] font-black uppercase tracking-widest block text-center" style="opacity: 0.8">
+                        <span class="lang-ar">رؤية الملك 2</span><span class="lang-en">Royal Legacy 2</span>
                     </a>
                 </div>
             </div>
         </div>
 
-        <div class="prime-card opacity-40">
+        <div class="prime-card opacity-40 center-all justify-end pb-16">
             <img src="https://images.unsplash.com/photo-1512069772995-ec65ed45afd6" class="card-img" />
-            <div class="absolute bottom-16 w-full text-center px-10">
+            <div class="w-full px-10">
                 <h2 class="text-4xl font-black mb-4 lang-ar">الأدوية والتجميل</h2>
                 <h2 class="text-3xl font-black mb-4 lang-en uppercase">Pharma & Beauty</h2>
-                <span class="text-[9px] tracking-[0.5em] text-gray-500 uppercase">System Initializing</span>
-            </div>
-        </div>
-
-        <div class="prime-card opacity-40">
-            <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" class="card-img" />
-            <div class="absolute bottom-16 w-full text-center px-10">
-                <h2 class="text-4xl font-black mb-4 lang-ar">السياحة النخبوية</h2>
-                <h2 class="text-3xl font-black mb-4 lang-en uppercase">Elite Tourism</h2>
-                <span class="text-[9px] tracking-[0.5em] text-gray-500 uppercase">Constructing Node</span>
+                <span class="text-[9px] tracking-[0.5em] text-gray-500 uppercase block w-full text-center">Constructing...</span>
             </div>
         </div>
     </div>
