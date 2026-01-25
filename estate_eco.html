@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>EDEN | NATURE SANCTUARY</title>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;1,400&family=Montserrat:wght@300;500&display=swap');
+        body { background: #f4f4f4; color: #1a3c34; font-family: 'Montserrat', sans-serif; }
+        h1, h2, .serif { font-family: 'Playfair Display', serif; }
+        .green { color: #2e8b57; } .bg-green { background: #2e8b57; }
+        .hero { height: 100vh; background: url('https://images.unsplash.com/photo-1518780664697-55e3ad937233?q=80&w=1920') center/cover; }
+    </style>
+</head>
+<body>
+    <nav class="absolute w-full p-8 flex justify-between items-center text-white z-50">
+        <div class="serif text-3xl italic">Eden.</div>
+        <a href="estate.html" class="text-sm tracking-widest hover:underline">RETURN</a>
+    </nav>
+
+    <header class="hero flex items-center justify-center text-center text-white relative">
+        <div class="absolute inset-0 bg-black/20"></div>
+        <div class="relative z-10">
+            <h1 class="text-6xl md:text-8xl mb-6 italic">Live Naturally</h1>
+            <p class="text-lg tracking-widest uppercase mb-10">Sustainable Luxury • Bali • Costa Rica • Maldives</p>
+            <a href="#retreats" class="border border-white px-8 py-3 rounded-full hover:bg-white hover:text-green transition duration-500">DISCOVER RETREATS</a>
+        </div>
+    </header>
+
+    <section id="retreats" class="py-24 px-5 max-w-6xl mx-auto">
+        <div class="text-center mb-16">
+            <span class="text-green tracking-widest text-xs font-bold">OUR SANCTUARIES</span>
+            <h2 class="text-5xl mt-4 serif">Harmony with Nature</h2>
+        </div>
+        <div class="grid md:grid-cols-3 gap-10">
+            <div class="bg-white p-4 shadow-xl rounded-sm">
+                <img src="https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=800" class="h-60 w-full object-cover mb-4 rounded-sm">
+                <h3 class="serif text-2xl">The Forest Cabin</h3>
+                <p class="text-gray-500 text-sm mt-2">Canada • $450,000</p>
+            </div>
+            <div class="bg-white p-4 shadow-xl rounded-sm">
+                <img src="https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?q=80&w=800" class="h-60 w-full object-cover mb-4 rounded-sm">
+                <h3 class="serif text-2xl">Ocean Villa</h3>
+                <p class="text-gray-500 text-sm mt-2">Maldives • $2,100,000</p>
+            </div>
+            <div class="bg-white p-4 shadow-xl rounded-sm">
+                <img src="https://images.unsplash.com/photo-1542718610-a1d656d1884c?q=80&w=800" class="h-60 w-full object-cover mb-4 rounded-sm">
+                <h3 class="serif text-2xl">Eco Resort</h3>
+                <p class="text-gray-500 text-sm mt-2">Costa Rica • Investment</p>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

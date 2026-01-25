@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ROYAL ESTATE | ELITE LIVING</title>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lato:wght@300;400&display=swap');
+        :root { --gold: #d4af37; --bg: #0a0a0a; }
+        body { background: var(--bg); color: #f0f0f0; font-family: 'Lato', sans-serif; overflow-x: hidden; }
+        h1, h2, h3, .brand { font-family: 'Cinzel', serif; }
+        .text-gold { color: var(--gold); } .bg-gold { background: var(--gold); } .border-gold { border-color: var(--gold); }
+        .hero { height: 100vh; background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1577495508048-b635879837f1?q=80&w=1920'); background-attachment: fixed; background-size: cover; display: flex; align-items: center; justify-content: center; text-align: center; }
+        .btn-royal { padding: 15px 40px; border: 1px solid var(--gold); color: var(--gold); letter-spacing: 3px; transition: 0.5s; text-transform: uppercase; font-size: 12px; }
+        .btn-royal:hover { background: var(--gold); color: black; }
+        .prop-card { transition: 0.5s; border: 1px solid rgba(212, 175, 55, 0.2); }
+        .prop-card:hover { transform: translateY(-10px); border-color: var(--gold); }
+    </style>
+</head>
+<body>
+    <nav class="fixed w-full z-50 bg-black/90 border-b border-[#d4af37]/30 px-10 py-5 flex justify-between items-center backdrop-blur-md">
+        <div class="brand text-2xl text-gold tracking-widest">ROYAL <span class="text-white">ESTATE</span></div>
+        <div class="hidden md:flex gap-8 text-xs tracking-[2px] text-gray-300">
+            <a href="#collection" class="hover:text-gold transition">COLLECTION</a>
+            <a href="#world" class="hover:text-gold transition">GLOBAL</a>
+            <a href="#contact" class="hover:text-gold transition">CONCIERGE</a>
+            <a href="estate.html" class="text-gold border border-gold px-4 py-2">EXIT</a>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <div>
+            <div class="text-gold tracking-[5px] text-sm mb-4">ESTABLISHED 1985 • LONDON</div>
+            <h1 class="text-5xl md:text-7xl mb-8">LEGACY OF<br>LUXURY</h1>
+            <a href="#contact" class="btn-royal">Private Consultation</a>
+        </div>
+    </header>
+
+    <section id="collection" class="py-20 px-5 md:px-20 max-w-7xl mx-auto">
+        <div class="text-center mb-16"><h2 class="text-4xl text-gold mb-2">THE MAJESTIC COLLECTION</h2><div class="w-20 h-1 bg-gold mx-auto"></div></div>
+        <div class="grid md:grid-cols-3 gap-10">
+            <div class="prop-card">
+                <img src="https://images.unsplash.com/photo-1613490493576-7fde63acd811?q=80&w=800" class="h-64 w-full object-cover grayscale hover:grayscale-0 transition duration-700">
+                <div class="p-6">
+                    <div class="text-gold text-xs tracking-widest mb-2">DUBAI, PALM JUMEIRAH</div>
+                    <h3 class="text-2xl mb-2">The Golden Villa</h3>
+                    <p class="text-gray-400 text-sm mb-4">$12,500,000 • 8 Beds • Private Beach</p>
+                </div>
+            </div>
+            <div class="prop-card">
+                <img src="https://images.unsplash.com/photo-1613977257363-707ba9348227?q=80&w=800" class="h-64 w-full object-cover grayscale hover:grayscale-0 transition duration-700">
+                <div class="p-6">
+                    <div class="text-gold text-xs tracking-widest mb-2">BEVERLY HILLS, CA</div>
+                    <h3 class="text-2xl mb-2">Mansion No. 5</h3>
+                    <p class="text-gray-400 text-sm mb-4">$24,000,000 • 12 Beds • Cinema</p>
+                </div>
+            </div>
+            <div class="prop-card">
+                <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=800" class="h-64 w-full object-cover grayscale hover:grayscale-0 transition duration-700">
+                <div class="p-6">
+                    <div class="text-gold text-xs tracking-widest mb-2">LONDON, KENSINGTON</div>
+                    <h3 class="text-2xl mb-2">Royal Palace</h3>
+                    <p class="text-gray-400 text-sm mb-4">£18,000,000 • Historic Estate</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="py-20 bg-[#111] border-t border-gold/20">
+        <div class="max-w-4xl mx-auto px-5 text-center">
+            <h2 class="text-3xl text-gold mb-8">PRIVATE CONCIERGE</h2>
+            <p class="text-gray-400 mb-10 text-sm">For ultra-high-net-worth individuals, discretion is paramount.</p>
+            <form class="grid gap-4 max-w-lg mx-auto">
+                <input type="text" placeholder="Your Name" class="bg-black border border-gold/30 p-4 text-white focus:border-gold outline-none">
+                <input type="text" placeholder="Direct Line" class="bg-black border border-gold/30 p-4 text-white focus:border-gold outline-none">
+                <button class="bg-gold text-black font-bold py-4 tracking-widest hover:bg-white transition">REQUEST ACCESS</button>
+            </form>
+        </div>
+    </section>
+
+    <footer class="py-10 text-center text-[10px] tracking-[4px] text-gray-600">ROYAL ESTATE © 2026 | LONDON - NEW YORK - DUBAI</footer>
+</body>
+</html>

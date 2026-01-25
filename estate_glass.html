@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>HORIZON | FUTURE ESTATES</title>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;900&family=Rajdhani:wght@300;600&display=swap');
+        body { background: #000; color: #0ff; font-family: 'Rajdhani', sans-serif; }
+        h1, h2, .cyber { font-family: 'Orbitron', sans-serif; }
+        .neon-box { box-shadow: 0 0 10px #0ff, inset 0 0 10px #0ff; border: 1px solid #0ff; }
+        .hero { height: 100vh; background: url('https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1920') center/cover; }
+    </style>
+</head>
+<body>
+    <div class="fixed inset-0 bg-blue-900/10 pointer-events-none z-0"></div>
+    
+    <nav class="fixed w-full z-50 p-6 flex justify-between items-center backdrop-blur-lg border-b border-[#0ff]/30">
+        <div class="cyber text-2xl text-[#0ff]">HORIZON</div>
+        <a href="estate.html" class="text-[#0ff] border border-[#0ff] px-6 py-1 text-sm hover:bg-[#0ff] hover:text-black transition duration-300 clip-path-slant">SYSTEM EXIT</a>
+    </nav>
+
+    <header class="hero flex items-center px-10 relative z-10">
+        <div class="bg-black/80 p-10 border-l-4 border-[#0ff] backdrop-blur-xl max-w-2xl">
+            <div class="text-xs tracking-[5px] text-white mb-2">YEAR 2030 ARCHITECTURE</div>
+            <h1 class="text-5xl md:text-7xl font-black mb-6 text-white uppercase">Sky is not<br><span class="text-[#0ff]">the limit</span></h1>
+            <p class="text-gray-300 text-xl mb-8">Automated Penthouses & Vertical Cities.</p>
+            <button class="bg-[#0ff] text-black font-bold px-8 py-3 cyber tracking-widest hover:bg-white transition shadow-[0_0_20px_#0ff]">INITIALIZE TOUR</button>
+        </div>
+    </header>
+
+    <section class="py-20 px-5 z-10 relative">
+        <div class="grid md:grid-cols-2 gap-10 max-w-6xl mx-auto">
+            <div class="border border-[#0ff]/30 p-5 bg-black/50 hover:bg-[#0ff]/10 transition duration-500">
+                <img src="https://images.unsplash.com/photo-1479839672679-a455b180eda8?q=80&w=800" class="w-full h-64 object-cover opacity-80 mb-4">
+                <h3 class="cyber text-2xl text-white">The Shard Apt</h3>
+                <p class="text-[#0ff]">London • Cyber-Smart Unit</p>
+            </div>
+            <div class="border border-[#0ff]/30 p-5 bg-black/50 hover:bg-[#0ff]/10 transition duration-500">
+                <img src="https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?q=80&w=800" class="w-full h-64 object-cover opacity-80 mb-4">
+                <h3 class="cyber text-2xl text-white">Neon Tower</h3>
+                <p class="text-[#0ff]">Hong Kong • Level 88</p>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

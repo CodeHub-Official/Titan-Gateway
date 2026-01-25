@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>URBAN CORE | MODERN LIVING</title>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&family=Roboto:wght@300;500&display=swap');
+        body { background: #1a1a1a; color: white; font-family: 'Roboto', sans-serif; }
+        h1, h2, .brand { font-family: 'Oswald', sans-serif; text-transform: uppercase; }
+        .accent { color: #ff5722; } .bg-accent { background: #ff5722; }
+        .hero { height: 90vh; background: url('https://images.unsplash.com/photo-1493809842364-78817add7ffb?q=80&w=1920') center/cover; position: relative; }
+        .overlay { position: absolute; inset: 0; background: rgba(26,26,26,0.7); }
+    </style>
+</head>
+<body>
+    <nav class="fixed w-full z-50 bg-[#1a1a1a] p-5 flex justify-between items-center border-b border-gray-800">
+        <div class="brand text-3xl font-bold">URBAN<span class="accent">CORE</span></div>
+        <a href="estate.html" class="text-xs bg-white text-black px-4 py-2 font-bold hover:bg-accent transition">BACK TO HUB</a>
+    </nav>
+
+    <header class="hero flex items-center px-10 md:px-32">
+        <div class="overlay"></div>
+        <div class="relative z-10 max-w-2xl">
+            <div class="bg-accent text-black inline-block px-2 py-1 text-sm font-bold mb-4">NEW LISTINGS</div>
+            <h1 class="text-6xl md:text-8xl font-bold leading-tight mb-6">CITY<br>LIVING<br>REDEFINED</h1>
+            <p class="text-gray-300 text-lg mb-8 border-l-4 border-accent pl-4">Premium Lofts, Penthouses, and Smart Apartments in the heart of the metropolis.</p>
+            <button class="bg-white text-black px-8 py-3 font-bold hover:bg-accent transition">EXPLORE UNITS</button>
+        </div>
+    </header>
+
+    <section class="py-20 px-5 md:px-20 bg-[#222]">
+        <div class="flex justify-between items-end mb-10">
+            <h2 class="text-4xl font-bold">FEATURED<br><span class="accent">LOFTS</span></h2>
+            <div class="text-gray-500 text-sm">BERLIN - TOKYO - NYC</div>
+        </div>
+        <div class="grid md:grid-cols-2 gap-8">
+            <div class="group cursor-pointer">
+                <div class="overflow-hidden h-80 relative">
+                    <img src="https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?q=80&w=800" class="w-full h-full object-cover transition duration-500 group-hover:scale-110">
+                    <div class="absolute top-4 left-4 bg-black text-white text-xs px-3 py-1">FOR SALE</div>
+                </div>
+                <h3 class="text-2xl mt-4 font-bold group-hover:text-accent transition">The Industrial Loft</h3>
+                <p class="text-gray-400">$850,000 • New York, Brooklyn</p>
+            </div>
+            <div class="group cursor-pointer">
+                <div class="overflow-hidden h-80 relative">
+                    <img src="https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800" class="w-full h-full object-cover transition duration-500 group-hover:scale-110">
+                    <div class="absolute top-4 left-4 bg-black text-white text-xs px-3 py-1">RENTAL</div>
+                </div>
+                <h3 class="text-2xl mt-4 font-bold group-hover:text-accent transition">Skyline Penthouse</h3>
+                <p class="text-gray-400">$1,200,000 • Tokyo, Shibuya</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-accent py-16 text-center text-black">
+        <h2 class="text-4xl font-bold mb-4">READY TO MOVE IN?</h2>
+        <p class="mb-8 font-medium">Book a viewing with our city agents today.</p>
+        <button class="bg-black text-white px-10 py-4 font-bold hover:bg-white hover:text-black transition">CONTACT AGENT</button>
+    </section>
+</body>
+</html>
