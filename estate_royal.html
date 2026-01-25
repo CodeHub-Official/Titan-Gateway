@@ -3,69 +3,93 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Royal Estate | The Crown of Real Estate</title>
+    <title>Royal Estate | The Crown of Architecture</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Lora:ital@0;1&display=swap');
-        :root { --gold: #d4af37; --dark: #0a0a0a; }
+        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Lora:ital,wght@0,400;1,500&display=swap');
+        :root { --gold: #d4af37; --gold-light: #f1d592; --dark: #050505; }
         body { background-color: var(--dark); color: white; font-family: 'Lora', serif; overflow-x: hidden; }
-        .playfair { font-family: 'Playfair Display', serif; }
+        .cinzel { font-family: 'Cinzel', serif; }
         .hero-bg { 
-            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), 
+            background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)), 
             url('https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80');
-            background-size: cover; background-position: center;
+            background-size: cover; background-position: center; background-attachment: fixed;
         }
-        .gold-border { border: 1px solid var(--gold); }
-        .gold-text { color: var(--gold); }
+        .gold-glow { text-shadow: 0 0 15px rgba(212, 175, 55, 0.5); }
+        .gold-button { 
+            border: 1px solid var(--gold); 
+            transition: all 0.5s ease;
+            position: relative; overflow: hidden;
+        }
+        .gold-button:hover { 
+            background: var(--gold); color: black; 
+            box-shadow: 0 0 30px rgba(212, 175, 55, 0.4);
+        }
+        .luxury-card {
+            border: 1px solid rgba(212, 175, 55, 0.1);
+            transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+        }
+        .luxury-card:hover {
+            transform: translateY(-15px);
+            border-color: var(--gold);
+        }
     </style>
 </head>
 <body>
 
-    <nav class="flex justify-between items-center p-8 absolute w-full z-10">
-        <div class="playfair text-2xl font-bold gold-text">ROYAL ESTATE</div>
-        <div class="hidden md:flex space-x-8 text-xs uppercase tracking-widest">
-            <a href="#" class="hover:gold-text">Collections</a>
-            <a href="#" class="hover:gold-text">The Heritage</a>
-            <a href="#" class="hover:gold-text">Contact</a>
-        </div>
-    </nav>
-
-    <section class="hero-bg h-screen flex items-center justify-center text-center px-4">
-        <div class="max-w-4xl">
-            <p class="gold-text tracking-[12px] text-sm mb-6 uppercase">Since 1920</p>
-            <h1 class="playfair text-5xl md:text-8xl mb-8 leading-tight">Defining Luxury Architecture</h1>
-            <div class="h-[1px] w-32 bg-[#d4af37] mx-auto mb-10"></div>
-            <p class="text-xl italic mb-12 opacity-80">Exclusive palaces for those who appreciate the art of living.</p>
-            <div class="flex flex-col md:flex-row justify-center gap-6">
-                <button class="bg-[#d4af37] text-black px-12 py-4 font-bold uppercase text-xs tracking-widest hover:bg-white transition">Explore Palaces</button>
-                <button class="border border-white px-12 py-4 font-bold uppercase text-xs tracking-widest hover:bg-white hover:text-black transition">Private Tour</button>
+    <section class="hero-bg h-screen flex items-center justify-center text-center relative">
+        <div class="animate__animated animate__fadeIn">
+            <p class="text-[--gold] tracking-[15px] text-[10px] mb-6 uppercase gold-glow">The Elite Standard</p>
+            <h1 class="cinzel text-6xl md:text-9xl mb-8 leading-tight font-bold">ROYAL <span class="block md:inline italic font-normal">MANORS</span></h1>
+            <div class="h-[1px] w-48 bg-[--gold] mx-auto mb-10 opacity-50"></div>
+            <div class="flex flex-col md:flex-row justify-center gap-8">
+                <button class="gold-button px-14 py-4 text-[10px] uppercase tracking-[4px] font-bold">Explore Collection</button>
             </div>
+        </div>
+        <div class="absolute bottom-10 animate-bounce">
+            <div class="w-[1px] h-16 bg-[--gold] mx-auto opacity-30"></div>
         </div>
     </section>
 
-    <section class="py-24 px-8 max-w-7xl mx-auto">
-        <div class="grid md:grid-cols-2 gap-16 items-center">
-            <div class="relative">
-                <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80" class="rounded-sm shadow-2xl z-0">
-                <div class="absolute -bottom-10 -right-10 gold-border p-10 bg-[#0a0a0a] hidden md:block">
-                    <p class="gold-text text-4xl playfair">01</p>
-                    <p class="text-xs uppercase tracking-widest mt-2">The Manor</p>
+    <section class="py-32 px-6 max-w-7xl mx-auto">
+        <h2 class="cinzel text-4xl text-center mb-20 text-[--gold]">Architectural Masterpieces</h2>
+        <div class="grid md:grid-cols-3 gap-10">
+            <div class="luxury-card bg-[#0a0a0a] overflow-hidden group">
+                <div class="h-80 overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600" class="w-full h-full object-cover group-hover:scale-110 transition duration-1000">
+                </div>
+                <div class="p-8">
+                    <h3 class="cinzel text-xl mb-2 text-[--gold]">The Grand Pavilion</h3>
+                    <p class="text-xs opacity-50 uppercase tracking-widest mb-4">Paris, France</p>
+                    <p class="text-sm italic opacity-70">A symphony of classical French architecture and modern luxury.</p>
                 </div>
             </div>
-            <div>
-                <h2 class="playfair text-4xl mb-6 gold-text">The Heritage Collection</h2>
-                <p class="leading-loose opacity-70 mb-8 text-lg">Our properties are more than just buildings; they are legacies passed through generations. Each stone is selected for its history and every room is a masterpiece of classical design.</p>
-                <ul class="space-y-4 mb-10">
-                    <li class="flex items-center space-x-4"><span class="h-2 w-2 bg-[#d4af37] rounded-full"></span> <span>Prime Locations in London & Paris</span></li>
-                    <li class="flex items-center space-x-4"><span class="h-2 w-2 bg-[#d4af37] rounded-full"></span> <span>24/7 Concierge & Security</span></li>
-                    <li class="flex items-center space-x-4"><span class="h-2 w-2 bg-[#d4af37] rounded-full"></span> <span>Historical Restoration Specialists</span></li>
-                </ul>
+            <div class="luxury-card bg-[#0a0a0a] overflow-hidden group">
+                <div class="h-80 overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1580587767303-9fef00803114?w=600" class="w-full h-full object-cover group-hover:scale-110 transition duration-1000">
+                </div>
+                <div class="p-8">
+                    <h3 class="cinzel text-xl mb-2 text-[--gold]">The Royal Manor</h3>
+                    <p class="text-xs opacity-50 uppercase tracking-widest mb-4">London, UK</p>
+                    <p class="text-sm italic opacity-70">Historical elegance preserved for the modern sovereign.</p>
+                </div>
+            </div>
+            <div class="luxury-card bg-[#0a0a0a] overflow-hidden group">
+                <div class="h-80 overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600" class="w-full h-full object-cover group-hover:scale-110 transition duration-1000">
+                </div>
+                <div class="p-8">
+                    <h3 class="cinzel text-xl mb-2 text-[--gold]">Imperial Villa</h3>
+                    <p class="text-xs opacity-50 uppercase tracking-widest mb-4">Rome, Italy</p>
+                    <p class="text-sm italic opacity-70">An artistic retreat with panoramic views of the eternal city.</p>
+                </div>
             </div>
         </div>
     </section>
 
-    <footer class="border-t border-gray-800 p-12 text-center">
-        <p class="text-[10px] tracking-[5px] opacity-40 uppercase">© 2026 Royal Estate Global Heritage</p>
+    <footer class="py-20 text-center border-t border-gray-900">
+        <p class="text-[8px] tracking-[10px] uppercase opacity-30">© 2026 CodeHub Prime - Royal Division</p>
     </footer>
 
 </body>
