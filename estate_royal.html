@@ -3,45 +3,45 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Royal Manors | Titan Empire</title>
+    <title>Titan Royal | The Elite Legacy</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Amiri&family=Lora&display=swap');
-        :root { --gold: #d4af37; --bg: #050505; }
-        body { background: var(--bg); color: white; font-family: 'Lora', serif; transition: 0.5s; }
-        .arabic { font-family: 'Amiri', serif; direction: rtl; }
-        .gold-text { color: var(--gold); }
-        .nav-link { font-size: 10px; letter-spacing: 2px; transition: 0.3s; }
-        .nav-link:hover { color: var(--gold); }
-        .hero-bg { background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.9)), url('https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1600'); background-size: cover; background-attachment: fixed; height: 100vh; }
+        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Lora&display=swap');
+        body { background: #050505; color: white; font-family: 'Lora', serif; }
+        .gold-text { color: #d4af37; }
+        .cinzel { font-family: 'Cinzel', serif; }
+        .hero { background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.8)), url('https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1600'); background-size: cover; height: 100vh; }
+        .nav-btn { font-size: 10px; letter-spacing: 3px; transition: 0.4s; }
+        .nav-btn:hover { color: #d4af37; border-bottom: 1px solid #d4af37; }
     </style>
 </head>
 <body>
-    <nav class="fixed w-full p-8 z-50 flex justify-between items-center bg-black/50 backdrop-blur-md">
-        <div class="font-bold tracking-widest text-xl cinzel gold-text">TITAN ROYAL</div>
-        <div class="flex gap-8">
-            <a href="estate_royal.html" class="nav-link uppercase">Home</a>
-            <a href="about_royal.html" class="nav-link uppercase">Legacy</a>
-            <a href="#collection" class="nav-link uppercase">Collection</a>
+    <nav class="fixed w-full p-8 z-50 flex justify-between items-center bg-black/40 backdrop-blur-md">
+        <div class="cinzel text-xl gold-text tracking-widest">TITAN ROYAL</div>
+        <div class="hidden md:flex gap-10">
+            <a href="estate_royal.html" class="nav-btn uppercase">Home</a>
+            <a href="about_royal.html" class="nav-btn uppercase">The Legacy</a>
+            <a href="#collection" class="nav-btn uppercase">Collection</a>
         </div>
     </nav>
 
-    <section class="hero-bg flex flex-col justify-center items-center text-center">
-        <h1 class="cinzel text-7xl md:text-9xl font-bold mb-4">THE <span class="gold-text">LEGACY</span></h1>
-        <p class="tracking-[15px] uppercase text-[10px] opacity-60">Defining Ultra-Luxury Since 1920</p>
+    <section class="hero flex flex-col justify-center items-center text-center px-6">
+        <h1 class="cinzel text-6xl md:text-9xl font-bold mb-4 animate-pulse">ROYAL <span class="gold-text">MANORS</span></h1>
+        <p class="tracking-[15px] uppercase text-[10px] opacity-60">Mastering The Art of Living Since 1920</p>
     </section>
 
     <section id="collection" class="py-32 px-10 max-w-7xl mx-auto">
-        <div class="grid md:grid-cols-2 gap-20">
-            <div onclick="window.location.href='property_paris.html'" class="group cursor-pointer">
-                <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800" class="w-full h-[500px] object-cover mb-6 grayscale group-hover:grayscale-0 transition duration-700">
-                <h3 class="cinzel gold-text text-3xl mb-2">The Grand Pavilion</h3>
-                <p class="text-[10px] tracking-widest opacity-50 uppercase">Paris, France</p>
+        <h2 class="cinzel text-center text-3xl mb-20 gold-text tracking-[10px] uppercase">Architectural Masterpieces</h2>
+        <div class="grid md:grid-cols-2 gap-16">
+            <div onclick="window.location.href='property_paris.html'" class="group cursor-pointer border border-white/5 p-4 hover:border-[#d4af37] transition duration-500">
+                <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800" class="w-full h-[400px] object-cover mb-6 grayscale group-hover:grayscale-0 transition duration-700">
+                <h3 class="cinzel gold-text text-2xl">The Grand Pavilion</h3>
+                <p class="text-[10px] opacity-50 uppercase tracking-widest">Paris, France</p>
             </div>
-            <div onclick="window.location.href='property_rome.html'" class="group cursor-pointer">
-                <img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800" class="w-full h-[500px] object-cover mb-6 grayscale group-hover:grayscale-0 transition duration-700">
-                <h3 class="cinzel gold-text text-3xl mb-2">The Imperial Villa</h3>
-                <p class="text-[10px] tracking-widest opacity-50 uppercase">Rome, Italy</p>
+            <div onclick="window.location.href='property_rome.html'" class="group cursor-pointer border border-white/5 p-4 hover:border-[#d4af37] transition duration-500">
+                <img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800" class="w-full h-[400px] object-cover mb-6 grayscale group-hover:grayscale-0 transition duration-700">
+                <h3 class="cinzel gold-text text-2xl">The Imperial Villa</h3>
+                <p class="text-[10px] opacity-50 uppercase tracking-widest">Rome, Italy</p>
             </div>
         </div>
     </section>
