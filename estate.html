@@ -3,51 +3,69 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TITAN ESTATE | Global Luxury</title>
+    <meta name="description" content="Global Estate Empire - Luxury Properties Worldwide">
+    <title>TITAN ESTATE | International Luxury</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
-        body { background: #0a0a0a; color: white; font-family: 'Poppins', sans-serif; }
-        .glass { background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(15px); border: 1px solid rgba(255,255,255,0.05); }
+        :root { --accent: #d4af37; }
+        body { background: #080808; color: white; font-family: 'Inter', sans-serif; }
+        .hero-bg { background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=2070'); background-size: cover; }
+        .glass-card { background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.05); transition: 0.4s; }
+        .glass-card:hover { border-color: var(--accent); transform: translateY(-5px); }
     </style>
 </head>
 <body>
-    <nav class="p-6 flex justify-between items-center glass sticky top-0 z-50">
-        <div class="text-2xl font-bold">TITAN <span class="text-yellow-600">ESTATE</span></div>
-        <div class="flex space-x-4 text-[10px] md:text-sm">
-            <button onclick="changeLang('ar')">العربية</button>
-            <button onclick="changeLang('en')">EN</button>
-            <button onclick="changeLang('fr')">FR</button>
-            <button onclick="changeLang('es')">ES</button>
-            <button onclick="changeLang('it')">IT</button>
+    <nav class="flex justify-between items-center p-8 sticky top-0 z-50 bg-black/50 backdrop-blur-md">
+        <div class="text-3xl font-black tracking-tighter text-white">CODEHUB <span class="text-yellow-600">ESTATE</span></div>
+        <div class="hidden md:flex space-x-8 text-sm font-medium uppercase tracking-widest">
+            <a href="#" class="hover:text-yellow-500">Home</a>
+            <a href="#" class="hover:text-yellow-500">Listings</a>
+            <a href="#" class="hover:text-yellow-500">Contact</a>
+            <div class="flex space-x-2 border-l pl-4 border-gray-700">
+                <span class="cursor-pointer hover:text-yellow-500">AR</span>
+                <span class="cursor-pointer hover:text-yellow-500">EN</span>
+                <span class="cursor-pointer hover:text-yellow-500">FR</span>
+            </div>
         </div>
     </nav>
-    <header class="h-[50vh] flex items-center justify-center relative">
-        <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070" class="absolute w-full h-full object-cover opacity-40">
-        <div class="relative text-center">
-            <h1 id="h-title" class="text-4xl md:text-6xl font-bold">Find Your Dream Estate</h1>
-            <p id="h-desc" class="text-gray-400">Global Luxury Real Estate Network</p>
+
+    <section class="h-[80vh] hero-bg flex flex-col items-center justify-center text-center px-4">
+        <h1 class="text-6xl md:text-8xl font-bold mb-6 tracking-tight">INVEST IN <br><span class="text-yellow-600">THE FUTURE</span></h1>
+        <p class="max-w-2xl text-gray-400 text-lg mb-10">Premium Real Estate Solutions across Europe, Dubai, and the USA. SEO Optimized for Global Reach.</p>
+        <div class="flex space-x-4">
+            <button class="bg-yellow-600 text-black px-10 py-4 font-bold rounded-full hover:bg-yellow-500 transition">VIEW PROPERTIES</button>
+            <button class="border border-white/20 px-10 py-4 font-bold rounded-full hover:bg-white/10">TALK TO EXPERT</button>
         </div>
-    </header>
-    <main class="max-w-6xl mx-auto py-10 px-4 grid grid-cols-1 md:grid-cols-3 gap-8">
-        <div class="glass p-6 rounded-2xl text-center">
-            <div class="h-40 bg-gray-900 rounded-xl mb-4 animate-pulse"></div>
-            <h3 class="font-bold">TITAN SEARCHING...</h3>
-            <p class="text-sm text-gray-500">Connecting to global servers</p>
+    </section>
+
+    <section class="max-w-7xl mx-auto py-32 px-6">
+        <div class="flex justify-between items-end mb-16">
+            <div>
+                <h2 class="text-4xl font-bold mb-2">Featured Listings</h2>
+                <p class="text-gray-500">Hand-picked luxury assets for the elite investor.</p>
+            </div>
+            <div class="text-yellow-600 font-bold cursor-pointer">Explore All <i class="fas fa-arrow-right ml-2"></i></div>
         </div>
-    </main>
-    <script>
-        const trans = {
-            ar: {t:"جد عقار أحلامك", d:"شبكة العقارات الفاخرة العالمية"},
-            en: {t:"Find Your Dream Estate", d:"Global Luxury Real Estate Network"},
-            fr: {t:"Trouvez votre domaine", d:"Réseau immobilier de luxe"},
-            es: {t:"Encuentre su propiedad", d:"Red inmobiliaria de lujo"},
-            it: {t:"Trova la tua proprietà", d:"Rete immobiliare di lusso"}
-        };
-        function changeLang(l){
-            document.getElementById('h-title').innerText = trans[l].t;
-            document.getElementById('h-desc').innerText = trans[l].d;
-            document.body.dir = (l === 'ar' ? 'rtl' : 'ltr');
-        }
-    </script>
+
+        <div id="property-container" class="grid grid-cols-1 md:grid-cols-3 gap-10">
+            <div class="glass-card rounded-3xl overflow-hidden">
+                <div class="h-64 bg-cover bg-center" style="background-image: url('https://images.unsplash.com/photo-1613490493576-7fde63acd811?q=80&w=2071');"></div>
+                <div class="p-8">
+                    <div class="text-yellow-600 text-sm font-bold mb-2">DUBAI, UAE</div>
+                    <h3 class="text-2xl font-bold mb-4">Palm Jumeirah Villa</h3>
+                    <div class="flex justify-between text-gray-400 border-t border-white/10 pt-4">
+                        <span><i class="fas fa-bed mr-2"></i>6 Beds</span>
+                        <span><i class="fas fa-bath mr-2"></i>5 Baths</span>
+                        <span class="text-white font-bold">$12,500,000</span>
+                    </div>
+                </div>
+            </div>
+            </div>
+    </section>
+
+    <footer class="p-20 bg-zinc-950 text-center border-t border-white/5">
+        <p class="text-gray-600">&copy; 2026 CODEHUB PRIME EMPIRE. All Rights Reserved.</p>
+    </footer>
 </body>
 </html>
