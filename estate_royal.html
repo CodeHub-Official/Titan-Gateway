@@ -3,83 +3,81 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Titan Royal | Global Masterpieces</title>
+    <title>Titan Royal | Absolute Luxury</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Amiri&family=Lora&display=swap');
         :root { --gold: #d4af37; --bg: #050505; }
-        body { background: var(--bg); color: white; font-family: 'Lora', serif; margin: 0; overflow-x: hidden; }
-        .arabic { font-family: 'Amiri', serif; direction: rtl; }
+        body { background: var(--bg); color: white; font-family: 'Lora', serif; margin: 0; overflow-x: hidden; width: 100%; }
+        .arabic { font-family: 'Amiri', serif; direction: rtl; text-align: right; }
         .gold-text { color: var(--gold); }
+        /* الضبط المركزي الحديدي */
+        .fixed-center { display: flex; flex-direction: column; align-items: center; text-align: center; width: 100%; }
         .hero { 
             background: linear-gradient(rgba(0,0,0,0.85), rgba(0,0,0,0.95)), 
             url('https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1600');
             background-size: cover; background-position: center; height: 100vh;
-            display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;
         }
         .lang-float { position: fixed; top: 120px; right: 20px; z-index: 1000; }
         .card-container { 
-            display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); 
+            display: grid; 
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); 
             gap: 40px; width: 90%; max-width: 1400px; margin: 0 auto;
+            justify-content: center;
         }
         .card { 
             background: #0a0a0a; border: 1px solid rgba(212, 175, 55, 0.15); 
-            transition: 0.5s; cursor: pointer; padding: 25px; text-align: center;
+            transition: 0.5s; cursor: pointer; padding: 25px; 
+            display: flex; flex-direction: column; align-items: center;
         }
-        .card:hover { border-color: var(--gold); transform: translateY(-15px); }
+        .card:hover { border-color: var(--gold); transform: translateY(-10px); }
         .img-box { width: 100%; height: 250px; overflow: hidden; margin-bottom: 20px; }
-        .img-box img { width: 100%; height: 100%; object-fit: cover; transition: 1s; filter: grayscale(100%); }
-        .card:hover img { transform: scale(1.1); filter: grayscale(0%); }
+        .img-box img { width: 100%; height: 100%; object-fit: cover; filter: grayscale(100%); transition: 0.8s; }
+        .card:hover img { filter: grayscale(0%); transform: scale(1.05); }
         .cinzel { font-family: 'Cinzel', serif; }
     </style>
 </head>
 <body>
     <div class="lang-float flex flex-col gap-2">
-        <button onclick="setLang('en')" class="bg-black/90 border border-[#d4af37] p-2 text-[10px] gold-text hover:bg-[#d4af37] hover:text-black transition">ENGLISH</button>
-        <button onclick="setLang('ar')" class="bg-black/90 border border-[#d4af37] p-2 text-[10px] gold-text hover:bg-[#d4af37] hover:text-black transition">العربية</button>
-        <button onclick="setLang('fr')" class="bg-black/90 border border-[#d4af37] p-2 text-[10px] gold-text hover:bg-[#d4af37] hover:text-black transition">FRANÇAIS</button>
+        <button onclick="setLang('en')" class="bg-black/90 border border-[#d4af37] p-2 text-[10px] gold-text hover:bg-[#d4af37] hover:text-black">ENGLISH</button>
+        <button onclick="setLang('ar')" class="bg-black/90 border border-[#d4af37] p-2 text-[10px] gold-text hover:bg-[#d4af37] hover:text-black">العربية</button>
     </div>
 
-    <nav class="fixed w-full p-6 z-50 flex justify-between items-center bg-black/70 backdrop-blur-xl border-b border-white/5">
-        <div class="text-xl font-bold tracking-widest gold-text uppercase cinzel">Titan Royal</div>
+    <nav class="fixed w-full p-6 z-50 flex justify-between items-center bg-black/80 backdrop-blur-md border-b border-white/5">
+        <div class="text-xl font-bold gold-text cinzel uppercase">Titan Royal</div>
         <div class="flex gap-8 text-[10px] tracking-widest uppercase items-center">
-            <a href="#" id="n-home" class="hover:text-[#d4af37]">Home</a>
-            <a href="#collection" id="n-coll" class="hover:text-[#d4af37]">Collection</a>
+            <a href="#" id="n-home">Home</a>
+            <a href="#collection" id="n-coll">Collection</a>
             <button class="gold-text border border-[#d4af37] px-4 py-2 hover:bg-[#d4af37] hover:text-black" id="n-book">Inquiry</button>
         </div>
     </nav>
 
-    <section class="hero px-6">
-        <p id="m-top" class="gold-text tracking-[10px] uppercase text-[12px] mb-4">The Elite Standard</p>
-        <h1 id="m-title" class="text-5xl md:text-9xl font-bold mb-6 cinzel">ROYAL <span class="gold-text">MANORS</span></h1>
-        <p id="m-sub" class="tracking-[15px] uppercase text-[10px] opacity-60">Architectural Masterpieces</p>
+    <section class="hero fixed-center justify-center">
+        <h1 id="m-title" class="text-5xl md:text-9xl font-bold mb-6 cinzel uppercase">ROYAL <span class="gold-text">MANORS</span></h1>
+        <p id="m-sub" class="tracking-[15px] uppercase text-[10px] opacity-60">The Absolute Standard of Luxury</p>
     </section>
 
-    <section id="collection" class="py-32 bg-[#050505]">
-        <h2 id="s-title" class="text-center text-4xl mb-24 gold-text tracking-[10px] uppercase cinzel">Global Collection</h2>
+    <section id="collection" class="py-32 bg-[#050505] fixed-center">
+        <h2 id="s-title" class="text-4xl mb-24 gold-text tracking-[10px] uppercase cinzel">Global Collection</h2>
         <div class="card-container">
             <div class="card">
                 <div class="img-box"><img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800"></div>
                 <h3 class="text-2xl gold-text mb-2 cinzel">Grand Pavilion</h3>
-                <p class="text-[10px] opacity-50 uppercase tracking-widest mb-4">Paris, France</p>
                 <p id="d1" class="text-sm opacity-70">A symphony of classical French architecture.</p>
             </div>
             <div class="card">
                 <div class="img-box"><img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800"></div>
                 <h3 class="text-2xl gold-text mb-2 cinzel">Imperial Villa</h3>
-                <p class="text-[10px] opacity-50 uppercase tracking-widest mb-4">Rome, Italy</p>
                 <p id="d2" class="text-sm opacity-70">Ancient Roman elegance meeting modern lifestyle.</p>
             </div>
             <div class="card">
                 <div class="img-box"><img src="https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=800"></div>
                 <h3 class="text-2xl gold-text mb-2 cinzel">The Crown</h3>
-                <p class="text-[10px] opacity-50 uppercase tracking-widest mb-4">London, UK</p>
-                <p id="d3" class="text-sm opacity-70">Exclusive living in the heart of the royal district.</p>
+                <p id="d3" class="text-sm opacity-70">Exclusive living in London's royal district.</p>
             </div>
             <div class="card">
                 <div class="img-box"><img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800"></div>
                 <h3 class="text-2xl gold-text mb-2 cinzel">The Penthouse</h3>
-                <p class="text-[10px] opacity-50 uppercase tracking-widest mb-4">New York, USA</p>
                 <p id="d4" class="text-sm opacity-70">Luxury sky-high living with Manhattan views.</p>
             </div>
         </div>
@@ -87,15 +85,13 @@
 
     <script>
         const dict = {
-            en: { home:"Home", coll:"Collection", book:"Inquiry", top:"The Elite Standard", title:"ROYAL <span class='gold-text'>MANORS</span>", sub:"Architectural Masterpieces", sect:"Global Collection", d1:"Classical French architecture.", d2:"Ancient Roman elegance.", d3:"Heart of royal district.", d4:"Manhattan luxury views.", rtl: false },
-            ar: { home:"الرئيسية", coll:"المجموعة", book:"استفسار", top:"معيار النخبة", title:"<span class='gold-text'>رويال</span> مانورز", sub:"تحف معمارية خالدة", sect:"المجموعة العالمية", d1:"عمارة فرنسية كلاسيكية.", d2:"أناقة رومانية قديمة.", d3:"قلب المنطقة الملكية.", d4:"إطلالات مانهاتن الفاخرة.", rtl: true },
-            fr: { home:"Accueil", coll:"Collection", book:"Enquête", top:"Le Standard d'Élite", title:"MANOIRS <span class='gold-text'>ROYAUX</span>", sub:"Chefs-d'œuvre", sect:"Collection Globale", d1:"Architecture française.", d2:"Élégance romaine.", d3:"District royal.", d4:"Vues de Manhattan.", rtl: false }
+            en: { home:"Home", coll:"Collection", book:"Inquiry", title:"ROYAL <span class='gold-text'>MANORS</span>", sub:"The Absolute Standard of Luxury", sect:"Global Collection", d1:"Classical French architecture.", d2:"Ancient Roman elegance.", d3:"Heart of royal district.", d4:"Manhattan luxury views.", rtl: false },
+            ar: { home:"الرئيسية", coll:"المجموعة", book:"استفسار", title:"<span class='gold-text'>رويال</span> مانورز", sub:"المعيار المطلق للفخامة", sect:"المجموعة العالمية", d1:"عمارة فرنسية كلاسيكية.", d2:"أناقة رومانية قديمة.", d3:"قلب المنطقة الملكية.", d4:"إطلالات مانهاتن الفاخرة.", rtl: true }
         };
         function setLang(l) {
             document.getElementById('n-home').textContent = dict[l].home;
             document.getElementById('n-coll').textContent = dict[l].coll;
             document.getElementById('n-book').textContent = dict[l].book;
-            document.getElementById('m-top').textContent = dict[l].top;
             document.getElementById('m-title').innerHTML = dict[l].title;
             document.getElementById('m-sub').textContent = dict[l].sub;
             document.getElementById('s-title').textContent = dict[l].sect;
@@ -103,7 +99,10 @@
             document.getElementById('d2').textContent = dict[l].d2;
             document.getElementById('d3').textContent = dict[l].d3;
             document.getElementById('d4').textContent = dict[l].d4;
-            document.body.classList.toggle('arabic', dict[l].rtl);
+            document.body.className = dict[l].rtl ? 'arabic' : '';
+            // جبر المحتوى على البقاء في المنتصف
+            const sections = document.querySelectorAll('section');
+            sections.forEach(s => s.className = dict[l].rtl ? 'py-32 bg-[#050505] fixed-center' : 'py-32 bg-[#050505] fixed-center');
         }
     </script>
 </body>
