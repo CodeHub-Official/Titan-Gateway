@@ -1,39 +1,31 @@
 <!DOCTYPE html>
-<html lang="ar" dir="rtl">
+<html lang="ar" dir="rtl" id="primeHtml">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TITAN EMPIRE | CODEHUB PRIME</title>
+    <title>TITAN EMPIRE | GLOBAL GATEWAY</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;900&family=Orbitron:wght@900&display=swap" rel="stylesheet">
     <style>
         :root { --neon: #00f2ff; }
-        body { background: #000; color: white; margin: 0; padding: 0; overflow-x: hidden; display: flex; flex-direction: column; align-items: center; }
-        .fixed-center { width: 100%; display: flex; flex-direction: column; align-items: center; text-align: center !important; direction: ltr !important; }
-        
+        body { background: #000; color: white; margin: 0; padding: 0; display: flex; flex-direction: column; align-items: center; min-height: 100vh; overflow-x: hidden; }
+        .stable-center { width: 100%; display: flex; flex-direction: column; align-items: center; text-align: center !important; direction: ltr !important; }
         .prime-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 30px; padding: 40px; width: 100%; max-width: 1600px; justify-items: center; }
-        
-        .prime-card { 
-            width: 340px; height: 620px; border-radius: 50px; background: #080808; 
-            border: 1px solid rgba(255,255,255,0.05); position: relative; overflow: hidden;
-            display: flex; flex-direction: column; justify-content: flex-end; padding-bottom: 50px; transition: 0.5s;
-        }
+        .prime-card { width: 340px; height: 620px; border-radius: 50px; background: #080808; border: 1px solid rgba(255,255,255,0.05); position: relative; overflow: hidden; display: flex; flex-direction: column; justify-content: flex-end; padding-bottom: 50px; transition: 0.5s; }
         .prime-card:hover { border-color: var(--neon); box-shadow: 0 0 40px var(--neon); transform: translateY(-15px); }
         .card-bg { position: absolute; top:0; left:0; width:100%; height:100%; background-size: cover; background-position: center; opacity: 0.3; z-index: -1; transition: 0.5s; }
         .prime-card:hover .card-bg { opacity: 0.6; scale: 1.1; }
-
         [lang="en"] { --neon: #bc00ff; }
         [lang="ar"] { --neon: #00f2ff; }
         .lang-en, .lang-ar { width: 100%; display: block; }
         [lang="ar"] .lang-en { display: none; }
         [lang="en"] .lang-ar { display: none; }
-
-        .neon-btn { border: 1px solid var(--neon); color: var(--neon); display: block; width: 240px; margin: 10px auto; padding: 15px; border-radius: 20px; text-decoration: none; font-size: 10px; font-weight: 900; letter-spacing: 1px; text-transform: uppercase; transition: 0.3s; text-align: center; }
+        .neon-btn { border: 1px solid var(--neon); color: var(--neon); display: block; width: 240px; margin: 10px auto; padding: 15px; border-radius: 20px; font-size: 10px; font-weight: 900; text-transform: uppercase; transition: 0.3; text-align: center; text-decoration: none; }
         .neon-btn:hover { background: var(--neon); color: black; box-shadow: 0 0 20px var(--neon); }
     </style>
 </head>
-<body id="masterBody" lang="ar" class="fixed-center">
-    <nav class="p-10 fixed-center">
+<body id="masterBody" lang="ar" class="stable-center">
+    <nav class="p-12 stable-center">
         <h1 style="font-size: 35px; font-weight: 900; letter-spacing: -2px; font-family: 'Orbitron';">CODEHUB <span style="color:var(--neon)">PRIME</span></h1>
         <button onclick="swap()" style="border: 1px solid var(--neon); color: var(--neon); background: none; padding: 12px 35px; border-radius: 50px; margin-top: 20px; font-weight: 900; cursor: pointer; font-size: 10px; letter-spacing: 2px;">
             <span class="lang-ar">SWITCH TO ENGLISH</span><span class="lang-en">التحويل للعربية</span>
@@ -41,7 +33,7 @@
     </nav>
 
     <div class="prime-grid">
-        <div class="prime-card fixed-center">
+        <div class="prime-card stable-center">
             <div class="card-bg" style="background-image: url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c');"></div>
             <h2 class="lang-ar text-4xl font-black mb-6">العقارات</h2>
             <h2 class="lang-en text-3xl font-black mb-6">REAL ESTATE</h2>
@@ -49,31 +41,52 @@
             <a href="royal_v2.html" class="neon-btn"><span class="lang-ar">رؤية الملك 2</span><span class="lang-en">ROYAL V2</span></a>
         </div>
 
-        <div class="prime-card fixed-center opacity-60">
+        <div class="prime-card stable-center">
             <div class="card-bg" style="background-image: url('https://images.unsplash.com/photo-1512069772995-ec65ed45afd6');"></div>
             <h2 class="lang-ar text-3xl font-black mb-6">الأدوية والتجميل</h2>
             <h2 class="lang-en text-3xl font-black mb-6">PHARMA</h2>
             <div class="neon-btn opacity-50"><span class="lang-ar">قريباً</span><span class="lang-en">COMING SOON</span></div>
         </div>
 
-        <div class="prime-card fixed-center opacity-60">
+        <div class="prime-card stable-center">
             <div class="card-bg" style="background-image: url('https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d');"></div>
             <h2 class="lang-ar text-3xl font-black mb-6">العيادات</h2>
             <h2 class="lang-en text-3xl font-black mb-6">CLINICS</h2>
-            <div class="neon-btn opacity-50"><span class="lang-ar">تحت الإنشاء</span><span class="lang-en">BUILDING...</span></div>
+            <div class="neon-btn opacity-50"><span class="lang-ar">تحت الإنشاء</span><span class="lang-en">CONSTRUCTING</span></div>
         </div>
 
-        <div class="prime-card fixed-center opacity-60">
+        <div class="prime-card stable-center">
+            <div class="card-bg" style="background-image: url('https://images.unsplash.com/photo-1557821552-17105176677c');"></div>
+            <h2 class="lang-ar text-3xl font-black mb-6">المتاجر</h2>
+            <h2 class="lang-en text-3xl font-black mb-6">E-COMMERCE</h2>
+            <div class="neon-btn opacity-50"><span class="lang-ar">قريباً</span><span class="lang-en">COMING SOON</span></div>
+        </div>
+
+        <div class="prime-card stable-center">
+            <div class="card-bg" style="background-image: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e');"></div>
+            <h2 class="lang-ar text-3xl font-black mb-6">السياحة</h2>
+            <h2 class="lang-en text-3xl font-black mb-6">TOURISM</h2>
+            <div class="neon-btn opacity-50"><span class="lang-ar">قريباً</span><span class="lang-en">COMING SOON</span></div>
+        </div>
+
+        <div class="prime-card stable-center">
+            <div class="card-bg" style="background-image: url('https://images.unsplash.com/photo-1490481651871-ab68de25d43d');"></div>
+            <h2 class="lang-ar text-3xl font-black mb-6">الموضة</h2>
+            <h2 class="lang-en text-3xl font-black mb-6">FASHION</h2>
+            <div class="neon-btn opacity-50"><span class="lang-ar">قريباً</span><span class="lang-en">COMING SOON</span></div>
+        </div>
+
+        <div class="prime-card stable-center">
             <div class="card-bg" style="background-image: url('https://images.unsplash.com/photo-1485846234645-a62644f84728');"></div>
-            <h2 class="lang-ar text-3xl font-black mb-6">السينما والإنتاج</h2>
+            <h2 class="lang-ar text-3xl font-black mb-6">الإنتاج الفني</h2>
             <h2 class="lang-en text-3xl font-black mb-6">CINEMA</h2>
             <div class="neon-btn opacity-50"><span class="lang-ar">قريباً</span><span class="lang-en">COMING SOON</span></div>
         </div>
 
-        <div class="prime-card fixed-center opacity-60">
-            <div class="card-bg" style="background-image: url('https://images.unsplash.com/photo-1490481651871-ab68de25d43d');"></div>
-            <h2 class="lang-ar text-3xl font-black mb-6">الموضة</h2>
-            <h2 class="lang-en text-3xl font-black mb-6">FASHION</h2>
+        <div class="prime-card stable-center">
+            <div class="card-bg" style="background-image: url('https://images.unsplash.com/photo-1542038784456-1ea8e935640e');"></div>
+            <h2 class="lang-ar text-3xl font-black mb-6">المصورين</h2>
+            <h2 class="lang-en text-3xl font-black mb-6">PHOTOGRAPHY</h2>
             <div class="neon-btn opacity-50"><span class="lang-ar">قريباً</span><span class="lang-en">COMING SOON</span></div>
         </div>
     </div>
