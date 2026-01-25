@@ -2,148 +2,51 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>TITAN | QUAD MULTIVERSE</title>
-    <script src="https://cdn.tailwindcss.com?v=11.0"></script>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Titan Estate | Portal V2 Luxury</title>
+    <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Syncopate:wght@400;700&family=Cairo:wght@400;900&display=swap');
-        
-        :root { --accent: #00f2ff; --glow: rgba(0, 242, 255, 0.5); --bg: #010101; }
-        body { background: var(--bg); color: white; font-family: 'Syncopate', sans-serif; margin: 0; transition: 0.8s cubic-bezier(0.4, 0, 0.2, 1); overflow-x: hidden; }
-        body.rtl { font-family: 'Cairo', sans-serif; direction: rtl; }
-
-        /* Smooth Color Shifts */
-        body.lang-en { --accent: #00f2ff; --glow: rgba(0, 242, 255, 0.5); }
-        body.lang-ar { --accent: #39ff14; --glow: rgba(57, 255, 20, 0.5); }
-        body.lang-fr { --accent: #bc13fe; --glow: rgba(188, 19, 254, 0.5); }
-        body.lang-es { --accent: #ffae00; --glow: rgba(255, 174, 0, 0.5); }
-
-        #canvas { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.5; }
-
-        header {
-            position: fixed; top: 0; width: 100%; padding: 15px 25px;
-            background: rgba(0,0,0,0.85); backdrop-filter: blur(20px);
-            border-bottom: 2px solid var(--accent); display: flex;
-            justify-content: space-between; align-items: center; z-index: 1000;
-            box-shadow: 0 0 25px var(--glow); transition: 0.8s;
-        }
-
-        .logo-ch { 
-            width: 35px; height: 35px; background: var(--accent); border-radius: 8px; 
-            display: flex; align-items: center; justify-content: center; 
-            color: black; font-weight: 900; box-shadow: 0 0 15px var(--accent); transition: 0.8s;
-        }
-
-        .lang-pill {
-            font-size: 9px; border: 1px solid rgba(255,255,255,0.1); padding: 4px 10px;
-            cursor: pointer; transition: 0.4s; color: white; opacity: 0.5;
-        }
-        .lang-pill.active { opacity: 1; border-color: var(--accent); background: var(--accent); color: black; box-shadow: 0 0 10px var(--accent); }
-
-        .grid-master {
-            display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;
-            padding: 110px 12px 40px; max-width: 1400px; margin: 0 auto;
-        }
-        @media (min-width: 1024px) { .grid-master { grid-template-columns: repeat(4, 1fr); gap: 25px; padding-top: 140px; } }
-
-        .titan-card {
-            position: relative; height: 260px; border-radius: 25px; overflow: hidden;
-            border: 1px solid rgba(255,255,255,0.1); background: #000;
-            transition: 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-        }
-        @media (min-width: 1024px) { .titan-card { height: 460px; } }
-
-        .titan-card:hover { transform: translateY(-10px) rotate(1deg); border-color: var(--accent); box-shadow: 0 0 40px var(--glow); }
-        .card-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.2; transition: 0.8s; filter: grayscale(1); }
-        .titan-card:hover .card-img { opacity: 0.6; filter: grayscale(0); transform: scale(1.1); }
-
-        .neon-text { color: var(--accent); text-shadow: 0 0 10px var(--accent); transition: 0.8s; }
-
-        footer {
-            padding: 30px; border-top: 2px solid var(--accent);
-            text-align: center; background: #000; box-shadow: 0 -10px 30px var(--glow); transition: 0.8s;
-        }
+        @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;700;800&display=swap");
+        body { font-family: "Plus Jakarta Sans", sans-serif; background: #fcfcfd; }
+        .glass-header { background: rgba(255, 255, 255, 0.7); backdrop-filter: blur(20px); border-bottom: 1px solid rgba(0,0,0,0.05); }
+        .luxury-card { transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); border: 1px solid rgba(0,0,0,0.03); }
+        .luxury-card:hover { transform: translateY(-10px); shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1); }
+        .shimmer { background: linear-gradient(90deg, #f0f0f0 25%, #f8f8f8 50%, #f0f0f0 75%); background-size: 200% 100%; animation: shimmer 2s infinite; }
+        @keyframes shimmer { 0% { background-position: -200% 0; } 100% { background-position: 200% 0; } }
     </style>
 </head>
-<body class="lang-en">
-    <canvas id="canvas"></canvas>
-    <header>
-        <div class="flex items-center gap-3">
-            <div class="logo-ch">CH</div>
-            <div class="text-xs font-black tracking-widest neon-text">TITAN HUB</div>
+<body class="text-slate-900">
+    <nav class="fixed w-full z-50 glass-header p-5 px-10 flex justify-between items-center">
+        <div class="text-2xl font-black tracking-tighter text-blue-600">TITAN <span class="text-slate-800">V2</span></div>
+        <div class="hidden md:flex space-x-8 text-sm font-bold uppercase tracking-widest text-slate-500">
+            <a href="#" class="hover:text-blue-600 transition">Market</a>
+            <a href="#" class="hover:text-blue-600 transition">Developments</a>
+            <a href="#" class="hover:text-blue-600 transition">Titan Scraper</a>
         </div>
-        <div class="flex gap-1">
-            <div class="lang-pill active" onclick="setMode('en', this)">EN</div>
-            <div class="lang-pill" onclick="setMode('ar', this)">AR</div>
-            <div class="lang-pill" onclick="setMode('fr', this)">FR</div>
-            <div class="lang-pill" onclick="setMode('es', this)">ES</div>
+        <button class="bg-slate-900 text-white px-8 py-3 rounded-full text-xs font-black hover:bg-blue-600 transition shadow-xl">PORTAL ACTIVE</button>
+    </nav>
+    <main class="pt-32 pb-20 px-6 max-w-7xl mx-auto">
+        <div class="mb-16">
+            <h1 class="text-5xl md:text-7xl font-black tracking-tight mb-4">The New Standard <br><span class="text-blue-600">of Real Estate.</span></h1>
+            <p class="text-xl text-slate-400 max-w-2xl font-medium">Fast, secure, and powered by Titan Engine. No more waiting for slow listings.</p>
         </div>
-    </header>
-
-    <div class="grid-master">
-        <div class="titan-card" onclick="location.href='estate.html'">
-            <img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d" class="card-img">
-            <div class="absolute inset-0 p-5 flex flex-col justify-end bg-gradient-to-t from-black to-transparent">
-                <h3 class="text-lg font-black neon-text" id="t1">ESTATE</h3>
-                <p class="text-[8px] opacity-60 mt-1 uppercase" id="d1">Luxury Global Assets</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div class="luxury-card bg-white rounded-[2.5rem] overflow-hidden p-4 shadow-sm">
+                <div class="h-72 shimmer rounded-[2rem] mb-6"></div>
+                <div class="px-4 pb-4">
+                    <div class="flex justify-between items-start mb-4">
+                        <div>
+                            <h3 class="text-2xl font-bold">The Glass House</h3>
+                            <p class="text-slate-400 font-medium italic">Beverly Hills, CA</p>
+                        </div>
+                        <span class="bg-blue-50 text-blue-600 px-4 py-1 rounded-full text-xs font-black">$8,500,000</span>
+                    </div>
+                    <div class="flex gap-6 text-xs font-bold text-slate-400 border-t border-slate-50 pt-4">
+                        <span>5 BEDS</span><span>6 BATHS</span><span>4,200 SQFT</span>
+                    </div>
+                </div>
             </div>
         </div>
-        <div class="titan-card" onclick="location.href='auto.html'">
-            <img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70" class="card-img">
-            <div class="absolute inset-0 p-5 flex flex-col justify-end bg-gradient-to-t from-black to-transparent">
-                <h3 class="text-lg font-black neon-text" id="t2">AUTO</h3>
-                <p class="text-[8px] opacity-60 mt-1 uppercase" id="d2">High-Speed Core</p>
-            </div>
-        </div>
-        <div class="titan-card"><img src="https://images.unsplash.com/photo-1483985988355-763728e1935b" class="card-img"><div class="absolute inset-0 p-5 flex flex-col justify-end bg-gradient-to-t from-black to-transparent"><h3 class="text-lg font-black neon-text" id="t3">FASHION</h3><p class="text-[8px] opacity-60 mt-1 uppercase" id="d3">Elite Analytics</p></div></div>
-        <div class="titan-card"><img src="https://images.unsplash.com/photo-1506929199175-6091e7861b51" class="card-img"><div class="absolute inset-0 p-5 flex flex-col justify-end bg-gradient-to-t from-black to-transparent"><h3 class="text-lg font-black neon-text" id="t4">TOURISM</h3><p class="text-[8px] opacity-60 mt-1 uppercase" id="d4">Premium Data</p></div></div>
-    </div>
-
-    <footer>
-        <div class="text-[9px] tracking-[6px] neon-text">PROUDLY CRAFTED IN CODEHUB</div>
-    </footer>
-
-    <script>
-        const lexicon = {
-            en: { t1:"ESTATE", d1:"Luxury Global Assets", t2:"AUTO", d2:"High-Speed Core", t3:"FASHION", d3:"Elite Analytics", t4:"TOURISM", d4:"Premium Data" },
-            ar: { t1:"العقارات", d1:"الأصول العالمية الفاخرة", t2:"السيارات", d2:"جوهر السرعة العالية", t3:"الأزياء", d3:"تحليلات النخبة", t4:"السياحة", d4:"البيانات الممتازة" },
-            fr: { t1:"IMMOBILIER", d1:"Actifs de Luxe Mondiaux", t2:"AUTO", d2:"Noyau Haute Vitesse", t3:"MODE", d3:"Analyses d'Élite", t4:"TOURISME", d4:"Données Premium" },
-            es: { t1:"INMUEBLES", d1:"Activos de Lujo Globales", t2:"AUTO", d2:"Núcleo de Alta Velocidad", t3:"MODA", d3:"Analítica de Élite", t4:"TURISMO", d4:"Datos Premium" }
-        };
-
-        function setMode(lang, btn) {
-            document.querySelectorAll('.lang-pill').forEach(p => p.classList.remove('active'));
-            btn.classList.add('active');
-            document.body.className = 'lang-' + lang + (lang === 'ar' ? ' rtl' : '');
-            for(let key in lexicon[lang]) document.getElementById(key).innerText = lexicon[lang][key];
-            init(); // Refresh particle colors
-        }
-
-        const canvas = document.getElementById('canvas'), ctx = canvas.getContext('2d');
-        let pts = [];
-        function init() {
-            canvas.width = window.innerWidth; canvas.height = window.innerHeight;
-            pts = [];
-            const clr = getComputedStyle(document.body).getPropertyValue('--accent');
-            for(let i=0; i<70; i++) pts.push({x: Math.random()*canvas.width, y: Math.random()*canvas.height, vx: Math.random()-0.5, vy: Math.random()-0.5});
-        }
-        function animate() {
-            ctx.clearRect(0,0,canvas.width, canvas.height);
-            const clr = getComputedStyle(document.body).getPropertyValue('--accent');
-            ctx.fillStyle = clr; ctx.strokeStyle = clr; ctx.globalAlpha = 0.25;
-            pts.forEach((p, idx) => {
-                p.x += p.vx; p.y += p.vy;
-                if(p.x<0 || p.x>canvas.width) p.vx*=-1; if(p.y<0 || p.y>canvas.height) p.vy*=-1;
-                ctx.beginPath(); ctx.arc(p.x, p.y, 1.5, 0, Math.PI*2); ctx.fill();
-                for(let j=idx+1; j<pts.length; j++) {
-                    let d = Math.hypot(p.x-pts[j].x, p.y-pts[j].y);
-                    if(d<140) { ctx.beginPath(); ctx.moveTo(p.x, p.y); ctx.lineTo(pts[j].x, pts[j].y); ctx.stroke(); }
-                }
-            });
-            requestAnimationFrame(animate);
-        }
-        window.onresize = init; init(); animate();
-    </script>
+    </main>
 </body>
 </html>
