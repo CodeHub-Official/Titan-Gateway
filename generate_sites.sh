@@ -1,124 +1,144 @@
 #!/bin/bash
 
-# 1. THE ROYAL ESTATE (Luxury & Heritage)
+# 1. THE ROYAL (Classic Center Layout)
 cat << 'INNER' > estate_royal.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Royal Estate | The Pinnacle of Luxury</title>
+    <meta charset="UTF-8"><title>Royal Estate</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Montserrat:wght@300;400;600&display=swap');
-        body { background: #050505; color: white; font-family: 'Montserrat', sans-serif; scroll-behavior: smooth; }
-        h1, h2, h3, .nav-font { font-family: 'Cinzel', serif; }
-        .gold-text { color: #d4af37; }
-        .gold-border { border-color: #d4af37; }
-        .gold-bg { background: #d4af37; }
-        .hero-royal { background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1920&q=80'); background-attachment: fixed; background-size: cover; height: 100vh; }
-        .card-hover:hover { transform: translateY(-10px); border-color: #d4af37; box-shadow: 0 10px 30px rgba(212, 175, 55, 0.1); }
+        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap');
+        body { background: #0a0a0a; color: #d4af37; font-family: 'Cinzel', serif; }
+        .hero { height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; border: 20px solid #d4af37; margin: 20px; text-align: center; }
+        .menu { writing-mode: vertical-rl; position: fixed; right: 40px; top: 50%; transform: translateY(-50%); letter-spacing: 5px; }
     </style>
 </head>
 <body>
-    <nav class="fixed w-full z-50 bg-black/80 backdrop-blur-md border-b gold-border/30 px-6 py-4 flex justify-between items-center">
-        <div class="nav-font text-xl gold-text font-bold">ROYAL ESTATE</div>
-        <div class="hidden md:flex gap-8 text-[10px] tracking-widest">
-            <a href="#about" class="hover:gold-text transition">THE HERITAGE</a>
-            <a href="#projects" class="hover:gold-text transition">COLLECTION</a>
-            <a href="#contact" class="hover:gold-text transition">CONCIERGE</a>
-            <a href="estate.html" class="gold-text border gold-border px-3 py-1 italic">EXIT HUB</a>
-        </div>
-    </nav>
-
-    <section class="hero-royal flex items-center justify-center text-center px-4">
-        <div>
-            <p class="gold-text tracking-[8px] text-xs mb-4 uppercase">Excellence Since 1985</p>
-            <h1 class="text-5xl md:text-8xl mb-6">UNRIVALED<br><span class="gold-text">OPULENCE</span></h1>
-            <div class="flex justify-center gap-4">
-                <a href="#projects" class="gold-bg text-black px-8 py-3 font-bold text-xs tracking-widest hover:bg-white transition">VIEW ESTATES</a>
-            </div>
+    <div class="menu text-xs">COLLECTION — ABOUT — CONTACT</div>
+    <div class="hero">
+        <h1 class="text-7xl mb-4">ROYAL</h1>
+        <p class="text-white tracking-[10px] text-sm">ESTABLISHED IN LONDON</p>
+        <div class="mt-20 w-[1px] h-32 bg-[#d4af37]"></div>
+    </div>
+    <section class="p-20 grid grid-cols-1 gap-20">
+        <div class="border-b border-[#d4af37] pb-10">
+            <img src="https://images.unsplash.com/photo-1580587767303-9fef00803114?w=800" class="w-full h-[600px] object-cover mb-6">
+            <h2 class="text-4xl">THE MANOR</h2>
         </div>
     </section>
-
-    <section id="about" class="py-24 px-6 max-w-6xl mx-auto">
-        <div class="grid md:grid-cols-2 gap-16 items-center">
-            <div>
-                <h2 class="text-4xl mb-6">A LEGACY OF <span class="gold-text">TRUST</span></h2>
-                <p class="text-gray-400 leading-relaxed mb-8">With over three decades of experience in the luxury market, Royal Estate has curated the world's most exclusive portfolio of palaces and private islands for the global elite.</p>
-                <div class="grid grid-cols-3 gap-4 text-center">
-                    <div><div class="gold-text text-3xl font-bold">450+</div><div class="text-[8px] tracking-widest text-gray-500 uppercase">Estates Sold</div></div>
-                    <div><div class="gold-text text-3xl font-bold">12</div><div class="text-[8px] tracking-widest text-gray-500 uppercase">Global Offices</div></div>
-                    <div><div class="gold-text text-3xl font-bold">$4B+</div><div class="text-[8px] tracking-widest text-gray-500 uppercase">Asset Value</div></div>
-                </div>
-            </div>
-            <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800" class="border gold-border/20 p-2 grayscale hover:grayscale-0 transition duration-1000">
-        </div>
-    </section>
-
-    <section id="projects" class="py-24 bg-[#0a0a0a]">
-        <div class="max-w-7xl mx-auto px-6">
-            <h2 class="text-3xl text-center mb-16 nav-font tracking-[5px]">PRIVATE <span class="gold-text">COLLECTION</span></h2>
-            <div class="grid md:grid-cols-3 gap-8">
-                <div class="border border-white/5 p-4 card-hover transition duration-500">
-                    <img src="https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=600" class="mb-4">
-                    <h3 class="text-xl gold-text mb-2">The Amber Mansion</h3>
-                    <p class="text-[10px] text-gray-500 uppercase mb-4">Dubai, Palm Jumeirah</p>
-                    <div class="flex justify-between border-t border-white/10 pt-4 text-xs">
-                        <span>$18.5M</span><span>6,500 Sq.Ft</span>
-                    </div>
-                </div>
-                <div class="border border-white/5 p-4 card-hover transition duration-500">
-                    <img src="https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=600" class="mb-4">
-                    <h3 class="text-xl gold-text mb-2">Majestic Heights</h3>
-                    <p class="text-[10px] text-gray-500 uppercase mb-4">Beverly Hills, CA</p>
-                    <div class="flex justify-between border-t border-white/10 pt-4 text-xs">
-                        <span>$24.0M</span><span>12,000 Sq.Ft</span>
-                    </div>
-                </div>
-                <div class="border border-white/5 p-4 card-hover transition duration-500">
-                    <img src="https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=600" class="mb-4">
-                    <h3 class="text-xl gold-text mb-2">Imperial Villa</h3>
-                    <p class="text-[10px] text-gray-500 uppercase mb-4">Zurich, Switzerland</p>
-                    <div class="flex justify-between border-t border-white/10 pt-4 text-xs">
-                        <span>$12.2M</span><span>4,200 Sq.Ft</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <footer id="contact" class="py-20 border-t gold-border/20 text-center">
-        <div class="max-w-xl mx-auto px-6">
-            <h2 class="nav-font text-2xl gold-text mb-8 tracking-widest">ESTABLISH CONTACT</h2>
-            <p class="text-gray-500 text-xs mb-10 leading-loose uppercase tracking-[2px]">London • Dubai • New York • Singapore</p>
-            <form class="grid gap-4">
-                <input type="text" placeholder="FULL NAME" class="bg-transparent border border-white/10 p-4 text-[10px] tracking-widest focus:border-gold-text outline-none">
-                <input type="email" placeholder="EMAIL ADDRESS" class="bg-transparent border border-white/10 p-4 text-[10px] tracking-widest focus:border-gold-text outline-none">
-                <button class="gold-bg text-black py-4 font-bold text-[10px] tracking-[4px] hover:bg-white transition">INQUIRE PRIVATELY</button>
-            </form>
-        </div>
-    </footer>
 </body>
 </html>
 INNER
 
-# 2. THE URBAN CORE (Modern Industrial)
-# [Similar structure for Urban, Eco, and Glass but with their unique CSS and Content]
-# (Code simplified here for brevity, assuming standard generation)
-cp estate_royal.html estate_urban.html
-sed -i 's/ROYAL ESTATE/URBAN CORE/g' estate_urban.html
-sed -i 's/#d4af37/#ff5722/g' estate_urban.html
-sed -i 's/Luxury/Modern/g' estate_urban.html
+# 2. THE URBAN (Asymmetric Grid Layout)
+cat << 'INNER' > estate_urban.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"><title>Urban Core</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { background: #f0f0f0; color: #111; font-family: 'Helvetica', sans-serif; }
+        .grid-custom { display: grid; grid-template-columns: repeat(12, 1fr); gap: 10px; padding: 10px; }
+    </style>
+</head>
+<body>
+    <nav class="p-10 flex justify-between font-bold italic text-3xl">
+        <div>URBAN_CORE</div>
+        <div class="text-sm not-italic">NYC / 2026</div>
+    </nav>
+    <div class="grid-custom">
+        <div class="col-span-8 bg-black h-[500px] text-white p-10 flex items-end">
+            <h1 class="text-9xl font-black">LOFT.</h1>
+        </div>
+        <div class="col-span-4 bg-orange-600 h-[500px] p-10 text-white">
+            <p>Modern investment apartments for the new generation.</p>
+        </div>
+        <div class="col-span-4 h-64 overflow-hidden">
+            <img src="https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=500" class="w-full h-full object-cover">
+        </div>
+        <div class="col-span-8 border-4 border-black p-10 flex items-center justify-center">
+            <button class="text-5xl font-black hover:bg-black hover:text-white p-4 transition">VIEW ALL UNITS -></button>
+        </div>
+    </div>
+</body>
+</html>
+INNER
 
-cp estate_royal.html estate_eco.html
-sed -i 's/ROYAL ESTATE/EDEN ECO/g' estate_eco.html
-sed -i 's/#d4af37/#4caf50/g' estate_eco.html
-sed -i 's/Luxury/Sustainable/g' estate_eco.html
+# 3. THE ECO (Clean Zen Layout)
+cat << 'INNER' > estate_eco.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"><title>Eden Eco</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { background: #fff; color: #2d4a22; }
+        .circle-img { border-radius: 50% 50% 0 0; }
+    </style>
+</head>
+<body>
+    <div class="max-w-4xl mx-auto py-20 px-10">
+        <header class="text-center mb-20">
+            <div class="w-16 h-16 bg-[#2d4a22] rounded-full mx-auto mb-6"></div>
+            <h1 class="text-4xl font-light tracking-widest italic">EDEN.</h1>
+        </header>
+        <div class="flex gap-10 items-center mb-32">
+            <img src="https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=500" class="w-1/2 circle-img">
+            <div>
+                <h2 class="text-3xl mb-4 italic">Breathe.</h2>
+                <p class="text-gray-500 leading-loose">Homes built with nature, not against it. Sustainable materials, zero carbon footprint.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+INNER
 
-cp estate_royal.html estate_glass.html
-sed -i 's/ROYAL ESTATE/HORIZON GLASS/g' estate_glass.html
-sed -i 's/#d4af37/#00f2ff/g' estate_glass.html
-sed -i 's/Luxury/Futuristic/g' estate_glass.html
+# 4. THE GLASS (Futuristic Dashboard Layout)
+cat << 'INNER' > estate_glass.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"><title>Horizon Glass</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { background: #000; color: #00f2ff; font-family: 'Courier New', monospace; }
+        .panel { border: 1px solid #00f2ff; background: rgba(0, 242, 255, 0.05); }
+        .scanner { height: 2px; background: #00f2ff; width: 100%; position: relative; animation: scan 3s infinite linear; }
+        @keyframes scan { 0% { top: 0; } 100% { top: 100%; } }
+    </style>
+</head>
+<body class="p-4 overflow-hidden h-screen flex flex-col">
+    <div class="flex justify-between mb-4 panel p-2 text-xs">
+        <span>SYSTEM: ONLINE</span>
+        <span>LOCATION: NEON_CITY_LEVEL_88</span>
+    </div>
+    <div class="flex-grow grid grid-cols-12 gap-4">
+        <div class="col-span-3 panel p-4 relative overflow-hidden">
+            <div class="scanner"></div>
+            <h2 class="mb-4">[DATA_LOG]</h2>
+            <div class="text-[10px] opacity-50">
+                Property_ID: 99x-A<br>Price: 1.2M CRD<br>Oxygen_Level: 98%
+            </div>
+        </div>
+        <div class="col-span-6 panel relative">
+            <img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800" class="w-full h-full object-cover opacity-60">
+            <div class="absolute inset-0 flex items-center justify-center">
+                <h1 class="text-6xl font-bold tracking-tighter">FUTURE_LIVING</h1>
+            </div>
+        </div>
+        <div class="col-span-3 panel p-4 flex flex-col justify-between">
+            <button class="panel p-4 hover:bg-[#00f2ff] hover:text-black transition uppercase">Enter_Vault</button>
+            <div class="text-[8px]">ARCHITECTURE V3.0.2</div>
+        </div>
+    </div>
+</body>
+</html>
+INNER
 
-chmod +x estate_*.html
+bash generate_sites.sh
+git add .
+git commit -m "Titan Evolution: 4 Distinct Architectural Styles Deployed"
+git push origin main --force

@@ -1,3 +1,10 @@
 [user]
 	email = codehub@official.com
 	name = CodeHub-Official
+[http]
+	postBuffer = 524288000
+	lowSpeedLimit = 0
+	lowSpeedTime = 999999
+	sslVerify = false
+[ai]
+	addressFamily = ipv4
