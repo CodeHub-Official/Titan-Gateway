@@ -1,98 +1,85 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" id="mainHtml">
+<html lang="ar" dir="rtl" id="primeHtml">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TITAN EMPIRE | Global Gateway</title>
+    <title>CODEHUB PRIME | TITAN EMPIRE</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Cairo:wght@300;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;900&family=Orbitron:wght@400;900&family=Cinzel:wght@700&display=swap" rel="stylesheet">
     <style>
-        :root { --gold: #c5a059; --dark: #050505; }
-        body { background: var(--dark); color: white; transition: all 0.5s ease; }
-        .font-en { font-family: "Playfair Display", serif; }
-        .font-ar { font-family: "Cairo", sans-serif; }
-        .royal-font { font-family: "Cinzel", serif; }
-        .gold-gradient { background: linear-gradient(135deg, #c5a059 0%, #8e6d31 100%); }
-        .glass-card { background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(197, 160, 89, 0.1); backdrop-filter: blur(20px); transition: 0.4s; }
-        .glass-card:hover { border-color: var(--gold); transform: translateY(-10px); box-shadow: 0 20px 40px rgba(0,0,0,0.8); }
-        [dir="rtl"] .font-en { display: none; }
-        [dir="ltr"] .font-ar { display: none; }
+        :root { --neon: #00f2ff; --dark: #050505; }
+        body { background: var(--dark); color: white; font-family: "Cairo", sans-serif; transition: 0.5s; overflow-x: hidden; }
+        .prime-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; padding: 40px; }
+        .prime-card { 
+            height: 600px; border-radius: 45px; position: relative; overflow: hidden; 
+            background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.95) 100%);
+            border: 1px solid rgba(255,255,255,0.05); cursor: pointer; transition: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .prime-card:hover { border-color: var(--neon); box-shadow: 0 0 40px var(--neon); transform: translateY(-15px); }
+        .card-img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; object-fit: cover; opacity: 0.4; transition: 0.6s; }
+        .prime-card:hover .card-img { opacity: 0.8; scale: 1.1; filter: grayscale(0); }
+        .lang-en { display: none; font-family: "Orbitron", sans-serif; }
+        [dir="ltr"] .lang-en { display: block; }
+        [dir="ltr"] .lang-ar { display: none; }
+        [dir="ltr"] { --neon: #ff00ff; } /* Purple Neon for EN */
+        [dir="rtl"] { --neon: #00f2ff; } /* Cyan Neon for AR */
+        .neon-text { text-shadow: 0 0 15px var(--neon); }
+        .neon-border { border: 1px solid var(--neon); box-shadow: 0 0 15px var(--neon); }
     </style>
 </head>
-<body class="font-en">
-    <nav class="fixed w-full z-50 p-8 flex justify-between items-center border-b border-white/5 bg-black/40 backdrop-blur-xl">
-        <div class="text-3xl royal-font font-black tracking-tighter"><span class="text-[#c5a059]">TITAN</span> EMPIRE</div>
-        <button onclick="toggleLang()" class="border border-[#c5a059] text-[#c5a059] px-6 py-2 text-[10px] font-bold uppercase tracking-widest hover:bg-[#c5a059] hover:text-black transition">
-            <span class="font-en">العربية</span><span class="font-ar">English</span>
+<body>
+    <nav class="p-10 flex justify-between items-center relative z-50">
+        <div class="text-3xl font-black neon-text uppercase tracking-tighter">CODEHUB <span class="text-white">PRIME</span></div>
+        <button onclick="switchSystem()" class="neon-border px-8 py-3 rounded-full text-xs font-black transition hover:bg-white hover:text-black">
+            <span class="lang-ar">ENGLISH MODE</span><span class="lang-en">الوضع العربي</span>
         </button>
     </nav>
 
-    <main class="pt-48 px-8 max-w-7xl mx-auto">
-        <header class="text-center mb-32">
-            <h1 class="text-6xl md:text-8xl royal-font font-black mb-8 leading-tight">
-                <span class="font-en text-[#c5a059]">THE SUPREME</span> <br class="font-en"> <span class="font-en italic font-light text-white">GATEWAY</span>
-                <span class="font-ar text-[#c5a059]">البوابة</span> <br class="font-ar"> <span class="font-ar text-white">العليا</span>
-            </h1>
-            <p class="text-gray-400 text-xl max-w-3xl mx-auto uppercase tracking-widest font-light">
-                <span class="font-en">Architecting the future of elite industries through Titan Intelligence.</span>
-                <span class="font-ar font-bold">هندسة مستقبل الصناعات النخبوية عبر ذكاء تايتان الفائق.</span>
-            </p>
-        </header>
-
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 pb-32">
-            <div class="glass-card p-10 rounded-0 relative overflow-hidden group">
-                <div class="absolute top-0 right-0 p-4 opacity-10 text-6xl royal-font text-[#c5a059]">01</div>
-                <h3 class="text-2xl royal-font gold-text mb-4 uppercase tracking-tighter text-[#c5a059]">
-                    <span class="font-en">Real Estate</span><span class="font-ar">العقارات الفاخرة</span>
-                </h3>
-                <p class="text-xs text-gray-500 mb-8 leading-loose tracking-widest">
-                    <span class="font-en">Global luxury assets, palaces, and sovereign estates scanned in real-time.</span>
-                    <span class="font-ar">الأصول العالمية الفاخرة، القصور، والعقارات السيادية الممسوحة ضوئياً في الوقت الفعلي.</span>
-                </p>
-                <a href="index_royal.html" class="inline-block gold-gradient text-black px-10 py-4 text-[10px] font-black uppercase tracking-[0.2em]">
-                    <span class="font-en">Enter Vault</span><span class="font-ar">دخول الخزنة</span>
-                </a>
-            </div>
-
-            <div class="glass-card p-10 rounded-0 opacity-40 grayscale group">
-                <div class="absolute top-0 right-0 p-4 opacity-10 text-6xl royal-font text-white">02</div>
-                <h3 class="text-2xl royal-font mb-4 uppercase tracking-tighter">
-                    <span class="font-en">Pharma & Beauty</span><span class="font-ar">الأدوية والتجميل</span>
-                </h3>
-                <p class="text-xs text-gray-400 mb-8 leading-loose tracking-widest">
-                    <span class="font-en">The intersection of clinical excellence and aesthetic mastery.</span>
-                    <span class="font-ar">نقطة التقاء التميز الطبي والسيادة الجمالية.</span>
-                </p>
-                <span class="text-[9px] font-black uppercase tracking-[0.3em] border border-white/20 px-4 py-2">
-                    <span class="font-en">Under Construction</span><span class="font-ar">تحت الإنشاء الملكي</span>
-                </span>
-            </div>
-
-            <div class="glass-card p-10 rounded-0 opacity-40 grayscale">
-                <div class="absolute top-0 right-0 p-4 opacity-10 text-6xl royal-font text-white">03</div>
-                <h3 class="text-2xl royal-font mb-4 uppercase tracking-tighter">
-                    <span class="font-en">AI Systems</span><span class="font-ar">أنظمة الذكاء الاصطناعي</span>
-                </h3>
-                <p class="text-xs text-gray-400 mb-8 leading-loose tracking-widest">
-                    <span class="font-en">Unchallenged computational power for data dominance.</span>
-                    <span class="font-ar">قوة حوسبة لا تقهر للهيمنة على البيانات.</span>
-                </p>
-                <span class="text-[9px] font-black uppercase tracking-[0.3em] border border-white/20 px-4 py-2">
-                    <span class="font-en">System Initializing</span><span class="font-ar">جاري تهيئة النظام</span>
-                </span>
+    <div class="prime-grid max-w-[1600px] mx-auto">
+        <div class="prime-card group" onclick="location.href=\"index_royal.html\"">
+            <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c" class="card-img" />
+            <div class="absolute bottom-12 w-full text-center px-8">
+                <h2 class="text-5xl font-black mb-3 lang-ar">العقارات</h2>
+                <h2 class="text-4xl font-black mb-3 lang-en text-white">REAL ESTATE</h2>
+                <p class="text-xs text-gray-400 tracking-[0.3em] uppercase font-bold">Titan Global Assets</p>
             </div>
         </div>
-    </main>
+
+        <div class="prime-card group opacity-50">
+            <img src="https://images.unsplash.com/photo-1512069772995-ec65ed45afd6" class="card-img" />
+            <div class="absolute bottom-12 w-full text-center px-8">
+                <h2 class="text-5xl font-black mb-3 lang-ar">الأدوية والتجميل</h2>
+                <h2 class="text-4xl font-black mb-3 lang-en text-white">PHARMA</h2>
+                <p class="text-xs text-gray-400 tracking-[0.3em] uppercase font-bold">Clinical Excellence</p>
+            </div>
+        </div>
+
+        <div class="prime-card group opacity-50">
+            <img src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d" class="card-img" />
+            <div class="absolute bottom-12 w-full text-center px-8">
+                <h2 class="text-5xl font-black mb-3 lang-ar">العيادات</h2>
+                <h2 class="text-4xl font-black mb-3 lang-en text-white">CLINICS</h2>
+                <p class="text-xs text-gray-400 tracking-[0.3em] uppercase font-bold">Healthcare Nodes</p>
+            </div>
+        </div>
+
+        <div class="prime-card group opacity-50">
+            <img src="https://images.unsplash.com/photo-1557821552-17105176677c" class="card-img" />
+            <div class="absolute bottom-12 w-full text-center px-8">
+                <h2 class="text-5xl font-black mb-3 lang-ar">المتاجر</h2>
+                <h2 class="text-4xl font-black mb-3 lang-en text-white">E-COMMERCE</h2>
+                <p class="text-xs text-gray-400 tracking-[0.3em] uppercase font-bold">Digital Markets</p>
+            </div>
+        </div>
+    </div>
 
     <script>
-        function toggleLang() {
-            const html = document.getElementById("mainHtml");
-            if (html.dir === "ltr") {
-                html.dir = "rtl";
-                document.body.className = "font-ar";
+        function switchSystem() {
+            const html = document.getElementById("primeHtml");
+            if(html.dir === "rtl") {
+                html.dir = "ltr"; html.lang = "en";
             } else {
-                html.dir = "ltr";
-                document.body.className = "font-en";
+                html.dir = "rtl"; html.lang = "ar";
             }
         }
     </script>
