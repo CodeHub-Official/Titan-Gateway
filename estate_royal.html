@@ -3,69 +3,78 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Royal Manors | Titan Elite Edition</title>
+    <title>Royal Manors | Titan Elite</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Amiri&family=Lora&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Amiri&family=Lora&display=swap');
         :root { --gold: #d4af37; --bg: #050505; }
-        body { background: var(--bg); color: white; font-family: 'Lora', serif; transition: all 0.5s ease; }
+        body { background: var(--bg); color: white; font-family: 'Lora', serif; transition: 0.5s; overflow-x: hidden; }
         .arabic { font-family: 'Amiri', serif; direction: rtl; }
         .cinzel { font-family: 'Cinzel', serif; }
-        .gold-text { color: var(--gold); text-shadow: 0 0 10px rgba(212, 175, 55, 0.3); }
+        .gold-text { color: var(--gold); }
         .hero-bg { 
-            background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.8)), 
-            url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070');
+            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.9)), 
+            url('https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070');
             background-size: cover; background-position: center; background-attachment: fixed;
+            height: 100vh;
         }
-        .lang-btn { border: 1px solid rgba(212, 175, 55, 0.3); padding: 5px 12px; font-size: 10px; cursor: pointer; transition: 0.3s; }
+        .lang-panel { position: fixed; top: 100px; right: 20px; z-index: 1000; display: flex; flex-direction: column; gap: 10px; }
+        .lang-btn { border: 1px solid var(--gold); padding: 8px 15px; font-size: 12px; background: rgba(0,0,0,0.8); cursor: pointer; transition: 0.3s; }
         .lang-btn:hover { background: var(--gold); color: black; }
+        .card { border: 1px solid rgba(255,255,255,0.05); transition: 0.5s; cursor: pointer; }
+        .card:hover { border-color: var(--gold); transform: translateY(-10px); }
     </style>
 </head>
 <body>
 
-    <div class="fixed top-24 right-5 z-[100] flex flex-col gap-2">
-        <button onclick="setLang('en')" class="lang-btn">EN</button>
-        <button onclick="setLang('ar')" class="lang-btn">AR</button>
-        <button onclick="setLang('fr')" class="lang-btn">FR</button>
-        <button onclick="setLang('es')" class="lang-btn">ES</button>
+    <div class="lang-panel">
+        <button onclick="changeLang('en')" class="lang-btn">ENGLISH</button>
+        <button onclick="changeLang('ar')" class="lang-btn">العربية</button>
+        <button onclick="changeLang('fr')" class="lang-btn">FRANÇAIS</button>
+        <button onclick="changeLang('es')" class="lang-btn">ESPAÑOL</button>
     </div>
 
-    <section class="hero-bg h-screen flex flex-col justify-center items-center text-center px-6">
-        <h1 id="main-title" class="cinzel text-6xl md:text-9xl font-bold mb-4 animate__animated animate__fadeInDown">ROYAL <span class="gold-text">MANORS</span></h1>
-        <p id="hero-sub" class="tracking-[10px] uppercase text-xs mb-12 opacity-80">The Elite Standard of Living</p>
-        <button onclick="window.location.href='#collection'" id="explore-btn" class="border border-[#d4af37] px-12 py-4 uppercase tracking-[5px] text-[10px] hover:bg-[#d4af37] hover:text-black transition duration-500">Explore Collection</button>
+    <section class="hero-bg flex flex-col justify-center items-center text-center px-6">
+        <h1 id="main-title" class="cinzel text-5xl md:text-8xl font-bold mb-4 animate__animated animate__fadeInDown">ROYAL <span class="gold-text">MANORS</span></h1>
+        <p id="hero-sub" class="tracking-[10px] uppercase text-[10px] mb-12 opacity-80">The Elite Standard of Living</p>
+        <a href="#collection" id="explore-btn" class="border border-[--gold] px-10 py-4 uppercase tracking-[5px] text-[10px] hover:bg-[--gold] hover:text-black transition duration-500">Explore Collection</a>
     </section>
 
     <section id="collection" class="py-32 px-10 max-w-7xl mx-auto">
-        <h2 id="section-title" class="cinzel text-center text-4xl mb-20 gold-text tracking-widest uppercase">Masterpieces</h2>
+        <h2 id="sect-title" class="cinzel text-center text-3xl mb-20 gold-text tracking-widest uppercase">Masterpieces</h2>
+        
         <div class="grid md:grid-cols-2 gap-16">
-            <div onclick="window.location.href='property_grand_pavilion.html'" class="group cursor-pointer border border-white/5 p-4 hover:border-[#d4af37] transition duration-700">
-                <div class="overflow-hidden mb-6"><img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800" class="group-hover:scale-110 transition duration-1000"></div>
+            <div onclick="alert('Redirecting to Details...')" class="card bg-[#0a0a0a] p-5 group">
+                <div class="overflow-hidden mb-6">
+                    <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070" class="w-full h-80 object-cover group-hover:scale-110 transition duration-1000">
+                </div>
                 <h3 class="cinzel gold-text text-2xl mb-2">The Grand Pavilion</h3>
                 <p id="prop-loc" class="text-[10px] uppercase tracking-widest opacity-50 mb-4">Paris, France</p>
-                <span id="view-details" class="text-[10px] font-bold gold-text uppercase tracking-widest">View Details →</span>
+                <p id="prop-desc" class="opacity-60 text-sm leading-loose mb-6">A symphony of classical architecture and modern luxury. Every detail is a legacy.</p>
+                <span id="view-btn" class="gold-text text-[10px] font-bold uppercase tracking-widest">View Details →</span>
             </div>
         </div>
     </section>
 
     <script>
-        const translations = {
-            en: { title: "ROYAL MANORS", sub: "The Elite Standard of Living", explore: "Explore Collection", section: "Masterpieces", details: "View Details →", loc: "Paris, France", bodyClass: "" },
-            ar: { title: "رويال مانورز", sub: "المعيار النخبة للحياة الفاخرة", explore: "استكشف المجموعة", section: "تحف معمارية", details: "عرض التفاصيل ←", loc: "باريس، فرنسا", bodyClass: "arabic" },
-            fr: { title: "MANOIRS ROYAUX", sub: "Le Standard d'Élite", explore: "Explorer la Collection", section: "Chefs-d'œuvre", details: "Voir Détails →", loc: "Paris, France", bodyClass: "" },
-            es: { title: "MANSIONES REALES", sub: "El Estándar de Élite", explore: "Explorar Colección", section: "Obras Maestras", details: "Ver Detalles →", loc: "París, Francia", bodyClass: "" }
+        const data = {
+            en: { title: "ROYAL <span class='gold-text'>MANORS</span>", sub: "The Elite Standard of Living", btn: "Explore Collection", sect: "Masterpieces", loc: "Paris, France", desc: "A symphony of classical architecture and modern luxury.", view: "View Details →", rtl: false },
+            ar: { title: "<span class='gold-text'>رويال</span> مانورز", sub: "المعيار النخبة للحياة الفاخرة", btn: "استكشف المجموعة", sect: "تحف معمارية", loc: "باريس، فرنسا", desc: "سيمفونية من العمارة الكلاسيكية والفخامة الحديثة. كل تفصيلة هي إرث.", view: "عرض التفاصيل ←", rtl: true },
+            fr: { title: "MANOIRS <span class='gold-text'>ROYAUX</span>", sub: "Le Standard d'Élite", btn: "Explorer la Collection", sect: "Chefs-d'œuvre", loc: "Paris, France", desc: "Une symphonie d'architecture classique et de luxe moderne.", view: "Voir Détails →", rtl: false },
+            es: { title: "MANSIONES <span class='gold-text'>REALES</span>", sub: "El Estándar de Élite", btn: "Explorar Colección", sect: "Obras Maestras", loc: "París, Francia", desc: "Una sinfonía de arquitectura clásica y lujo moderno.", view: "Ver Detalles →", rtl: false }
         };
 
-        function setLang(lang) {
-            const t = translations[lang];
-            document.getElementById('main-title').innerHTML = t.title.includes('ROYAL') ? `ROYAL <span class="gold-text">MANORS</span>` : `<span class="gold-text">${t.title}</span>`;
-            document.getElementById('hero-sub').textContent = t.sub;
-            document.getElementById('explore-btn').textContent = t.explore;
-            document.getElementById('section-title').textContent = t.section;
-            document.getElementById('view-details').textContent = t.details;
-            document.getElementById('prop-loc').textContent = t.loc;
-            document.body.className = t.bodyClass;
+        function changeLang(lang) {
+            const l = data[lang];
+            document.getElementById('main-title').innerHTML = l.title;
+            document.getElementById('hero-sub').textContent = l.sub;
+            document.getElementById('explore-btn').textContent = l.btn;
+            document.getElementById('sect-title').textContent = l.sect;
+            document.getElementById('prop-loc').textContent = l.loc;
+            document.getElementById('prop-desc').textContent = l.desc;
+            document.getElementById('view-btn').textContent = l.view;
+            document.body.classList.toggle('arabic', l.rtl);
         }
     </script>
 </body>
