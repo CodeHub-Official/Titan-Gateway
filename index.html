@@ -3,28 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CODEHUB PRIME | TITAN CORE</title>
+    <title>CODEHUB PRIME | TITAN RESTORED</title>
     <style>
-        body { background: radial-gradient(circle, #1a1a1a, #000); color: white; font-family: "Segoe UI", sans-serif; text-align: center; margin: 0; padding: 20px; }
-        .header { font-size: 3em; font-weight: bold; letter-spacing: 5px; margin: 50px 0; text-shadow: 0 0 20px rgba(255,0,0,0.5); }
+        body { background: url("theme.jpg") no-repeat center center fixed; background-size: cover; color: white; font-family: "Segoe UI", sans-serif; text-align: center; margin: 0; padding: 20px; }
+        .overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.7); z-index: -1; }
+        .header { font-size: 3em; font-weight: bold; letter-spacing: 5px; margin: 50px 0; text-shadow: 0 0 20px #ff0000; }
         .grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 600px; margin: 0 auto; }
-        .card { background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 20px; padding: 40px; border: 1px solid rgba(255,255,255,0.1); transition: 0.3s; cursor: pointer; }
-        .card:hover { transform: scale(1.05); background: rgba(255, 255, 255, 0.2); }
-        .icon { width: 60px; height: 60px; border-radius: 50%; margin: 0 auto 15px; }
-        .estate { box-shadow: 0 0 20px #00d2ff; background: #00d2ff; }
-        .auto { box-shadow: 0 0 20px #ff0000; background: #ff0000; }
-        .tourism { box-shadow: 0 0 20px #ffea00; background: #ffea00; }
-        .fashion { box-shadow: 0 0 20px #aa00ff; background: #aa00ff; }
+        .card { background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(15px); border-radius: 20px; padding: 40px; border: 1px solid rgba(255,255,255,0.2); transition: 0.3s; cursor: pointer; position: relative; overflow: hidden; }
+        .card:hover { transform: translateY(-10px); background: rgba(255, 255, 255, 0.2); border-color: #00d2ff; }
+        .icon { width: 50px; height: 50px; border-radius: 50%; margin-bottom: 15px; display: inline-block; }
+        .estate { background: #00d2ff; box-shadow: 0 0 15px #00d2ff; }
+        .auto { background: #ff0000; box-shadow: 0 0 15px #ff0000; }
+        .tourism { background: #ffea00; box-shadow: 0 0 15px #ffea00; }
+        .fashion { background: #aa00ff; box-shadow: 0 0 15px #aa00ff; }
+        .status-bar { margin-top: 50px; font-family: monospace; color: #0f0; background: rgba(0,0,0,0.5); padding: 10px; display: inline-block; border-radius: 5px; }
     </style>
 </head>
 <body>
+    <div class="overlay"></div>
     <div class="header">CODEHUB<br>PRIME</div>
     <div class="grid">
-        <div class="card"><div class="icon estate"></div>ESTATE</div>
-        <div class="card"><div class="icon auto"></div>AUTO</div>
-        <div class="card"><div class="icon tourism"></div>TOURISM</div>
-        <div class="card"><div class="icon fashion"></div>FASHION</div>
+        <div class="card"><div class="icon estate"></div><br>ESTATE</div>
+        <div class="card"><div class="icon auto"></div><br>AUTO</div>
+        <div class="card"><div class="icon tourism"></div><br>TOURISM</div>
+        <div class="card"><div class="icon fashion"></div><br>FASHION</div>
     </div>
-    <p style="margin-top:40px; color:#0f0; font-family:monospace;">● SYSTEM LINKED VIA TITAN TOKEN</p>
+    <div class="status-bar">● TITAN CORE: READY TO SCRAPE DATA</div>
 </body>
 </html>
