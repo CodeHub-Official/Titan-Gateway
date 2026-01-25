@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Titan Royal | Interactive Portfolio</title>
+    <title>Titan Royal | Elite Portfolio</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Amiri&family=Lora&display=swap');
@@ -11,30 +11,23 @@
         body { background: var(--bg); color: white; font-family: 'Lora', serif; margin: 0; overflow-x: hidden; }
         .arabic { font-family: 'Amiri', serif; direction: rtl; }
         .gold-text { color: var(--gold); }
-        .fixed-center { display: flex; flex-direction: column; align-items: center; text-align: center; width: 100%; }
         .hero { 
             background: linear-gradient(rgba(0,0,0,0.85), rgba(0,0,0,0.95)), 
             url('https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1600');
             background-size: cover; background-position: center; height: 100vh;
+            display: flex; flex-direction: column; justify-content: center; align-items: center;
         }
-        .card { 
-            background: #0a0a0a; border: 1px solid rgba(212, 175, 55, 0.15); 
-            transition: 0.5s; cursor: pointer; padding: 25px; 
-            display: flex; flex-direction: column; align-items: center;
-        }
-        .card:hover { border-color: var(--gold); transform: translateY(-10px); }
-        .img-box { width: 100%; height: 250px; overflow: hidden; margin-bottom: 20px; position: relative; }
-        .img-box img { width: 100%; height: 100%; object-fit: cover; transition: 0.8s; }
-        .overlay { position: absolute; inset: 0; background: rgba(0,0,0,0.5); display: flex; align-items: center; justify-content: center; opacity: 0; transition: 0.3s; }
-        .card:hover .overlay { opacity: 1; }
+        .card { background: #0a0a0a; border: 1px solid rgba(212, 175, 55, 0.15); cursor: pointer; transition: 0.4s; padding: 20px; }
+        .card:hover { border-color: var(--gold); transform: translateY(-5px); }
         
-        /* Modal Style - نافذة البورتفوليو */
-        #portfolioModal { display: none; position: fixed; inset: 0; z-index: 9999; background: rgba(0,0,0,0.95); backdrop-blur: 10px; overflow-y: auto; padding: 40px 20px; }
-        .modal-content { max-width: 1200px; margin: 0 auto; }
-        .gallery-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 30px; }
-        .gallery-item { border: 1px solid #333; height: 250px; }
-        .gallery-item img { width: 100%; height: 100%; object-fit: cover; }
-        .close-btn { position: fixed; top: 30px; right: 30px; font-size: 30px; color: var(--gold); cursor: pointer; z-index: 10001; }
+        /* تحسين نافذة البورتفوليو */
+        #portfolioModal { display: none; position: fixed; inset: 0; z-index: 9999; background: rgba(0,0,0,0.98); overflow-y: auto; }
+        .modal-header { padding: 40px; text-align: center; border-bottom: 1px solid rgba(212,175,55,0.1); }
+        .gallery-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; padding: 30px; max-width: 1400px; margin: 0 auto; }
+        .gallery-item { border: 1px solid #222; overflow: hidden; height: 300px; }
+        .gallery-item img { width: 100%; height: 100%; object-fit: cover; transition: 0.5s; }
+        .gallery-item:hover img { transform: scale(1.1); }
+        .close-btn { position: fixed; top: 20px; right: 30px; font-size: 40px; color: var(--gold); cursor: pointer; z-index: 10000; }
         .cinzel { font-family: 'Cinzel', serif; }
     </style>
 </head>
@@ -42,78 +35,70 @@
 
     <div id="portfolioModal">
         <span class="close-btn" onclick="closePortfolio()">&times;</span>
-        <div class="modal-content fixed-center">
-            <h2 id="modalTitle" class="text-4xl gold-text cinzel uppercase mb-4">Project Details</h2>
-            <p id="modalLoc" class="tracking-widest uppercase text-xs opacity-50 mb-10">Location</p>
-            <div class="gallery-grid" id="galleryGrid">
-                </div>
+        <div class="modal-header">
+            <h2 id="modalTitle" class="text-4xl gold-text cinzel uppercase mb-2">Project Portfolio</h2>
+            <p id="modalLoc" class="tracking-[5px] uppercase text-[10px] opacity-50">Location Details</p>
         </div>
+        <div class="gallery-grid" id="galleryGrid"></div>
     </div>
 
-    <nav class="fixed w-full p-6 z-50 flex justify-between items-center bg-black/80 backdrop-blur-md border-b border-white/5">
-        <div class="text-xl font-bold gold-text cinzel uppercase">Titan Royal</div>
+    <nav class="fixed w-full p-6 z-50 flex justify-between items-center bg-black/80 backdrop-blur-md">
+        <div class="text-xl gold-text cinzel font-bold">TITAN ROYAL</div>
         <div class="flex gap-4">
             <button onclick="setLang('en')" class="text-[10px] gold-text px-2">EN</button>
             <button onclick="setLang('ar')" class="text-[10px] gold-text px-2">AR</button>
         </div>
     </nav>
 
-    <section class="hero fixed-center justify-center">
-        <h1 id="m-title" class="text-5xl md:text-9xl font-bold mb-6 cinzel uppercase">ROYAL <span class="gold-text">MANORS</span></h1>
-        <p id="m-sub" class="tracking-[15px] uppercase text-[10px] opacity-60">The Absolute Standard of Luxury</p>
+    <section class="hero text-center px-6">
+        <h1 id="h-title" class="text-6xl md:text-9xl font-bold mb-4 cinzel">ROYAL <span class="gold-text">MANORS</span></h1>
+        <p id="h-sub" class="tracking-[15px] uppercase text-[10px] opacity-60">Architectural Masterpieces</p>
     </section>
 
-    <section id="collection" class="py-32 bg-[#050505] fixed-center">
-        <h2 id="s-title" class="text-4xl mb-24 gold-text tracking-[10px] uppercase cinzel">Global Collection</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-10 w-[90%] max-w-7xl">
+    <section id="collection" class="py-32 flex flex-col items-center">
+        <h2 id="s-title" class="text-3xl mb-20 gold-text tracking-[10px] uppercase cinzel">Our Collection</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-12 w-[90%] max-w-6xl">
             <div class="card" onclick="openPortfolio('paris')">
-                <div class="img-box">
-                    <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800">
-                    <div class="overlay"><span class="cinzel gold-text">VIEW PORTFOLIO</span></div>
-                </div>
-                <h3 class="text-2xl gold-text mb-2 cinzel">Grand Pavilion</h3>
-                <p class="text-xs opacity-50 uppercase">Paris, France</p>
+                <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800" class="w-full h-64 object-cover mb-6">
+                <h3 class="text-xl gold-text cinzel">Grand Pavilion</h3>
+                <p class="text-[10px] opacity-50 uppercase tracking-widest mt-2">Paris | View Portfolio</p>
             </div>
-
             <div class="card" onclick="openPortfolio('rome')">
-                <div class="img-box">
-                    <img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800">
-                    <div class="overlay"><span class="cinzel gold-text">VIEW PORTFOLIO</span></div>
-                </div>
-                <h3 class="text-2xl gold-text mb-2 cinzel">Imperial Villa</h3>
-                <p class="text-xs opacity-50 uppercase">Rome, Italy</p>
+                <img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800" class="w-full h-64 object-cover mb-6">
+                <h3 class="text-xl gold-text cinzel">Imperial Villa</h3>
+                <p class="text-[10px] opacity-50 uppercase tracking-widest mt-2">Rome | View Portfolio</p>
             </div>
         </div>
     </section>
 
     <script>
-        const projectData = {
+        const data = {
             paris: {
-                title: "Grand Pavilion", loc: "Paris, France",
-                images: [
-                    "https://images.unsplash.com/photo-1600566753190-17f0bb2a6c3e?w=800", // خارجي
-                    "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800", // داخلي
-                    "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800", // حمام سباحة
-                    "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?w=800"  // رسم هندسي/ديكور
+                t: "Grand Pavilion", l: "Paris, France",
+                imgs: [
+                    "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800", // Exterior
+                    "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800", // Interior
+                    "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800", // Pool
+                    "https://images.unsplash.com/photo-1600566753190-17f0bb2a6c3e?w=800"  // Night
                 ]
             },
             rome: {
-                title: "Imperial Villa", loc: "Rome, Italy",
-                images: [
-                    "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800", // خارجي
-                    "https://images.unsplash.com/photo-1600121848594-d8644e57abab?w=800", // داخلي
-                    "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?w=800", // حمام سباحة
-                    "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=800"  // تصميم
+                t: "Imperial Villa", l: "Rome, Italy",
+                imgs: [
+                    "https://images.unsplash.com/photo-1600573472591-ee6b68d14c68?w=800", // Exterior
+                    "https://images.unsplash.com/photo-1600121848594-d8644e57abab?w=800", // Interior
+                    "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?w=800", // Garden
+                    "https://images.unsplash.com/photo-1512918766775-d14493390f7a?w=800"  // Design
                 ]
             }
         };
 
         function openPortfolio(id) {
-            const data = projectData[id];
-            document.getElementById('modalTitle').innerText = data.title;
-            document.getElementById('modalLoc').innerText = data.loc;
+            const p = data[id];
+            document.getElementById('modalTitle').innerText = p.t;
+            document.getElementById('modalLoc').innerText = p.l;
             const grid = document.getElementById('galleryGrid');
-            grid.innerHTML = data.images.map(img => `<div class="gallery-item"><img src="${img}"></div>`).join('');
+            grid.innerHTML = p.imgs.map(i => `<div class="gallery-item"><img src="${i}"></div>`).join('');
             document.getElementById('portfolioModal').style.display = 'block';
             document.body.style.overflow = 'hidden';
         }
@@ -125,8 +110,7 @@
 
         function setLang(l) {
             document.body.className = l === 'ar' ? 'arabic' : '';
-            // تحديث نصوص الواجهة
-            document.getElementById('m-title').innerHTML = l === 'ar' ? '<span class="gold-text">رويال</span> مانورز' : 'ROYAL <span class="gold-text">MANORS</span>';
+            document.getElementById('h-title').innerHTML = l === 'ar' ? '<span class="gold-text">رويال</span> مانورز' : 'ROYAL <span class="gold-text">MANORS</span>';
         }
     </script>
 </body>
