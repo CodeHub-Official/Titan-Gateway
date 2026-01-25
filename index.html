@@ -1,83 +1,100 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr" id="mainHtml">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TITAN EMPIRE | Grand Command Center</title>
+    <title>TITAN EMPIRE | Global Gateway</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Cairo:wght@300;700;900&display=swap" rel="stylesheet">
     <style>
-        @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;800&family=Space+Grotesk:wght@300;700&display=swap");
-        body { font-family: "Plus Jakarta Sans", sans-serif; background: #010409; color: white; overflow-x: hidden; }
-        .grid-bg { background-image: radial-gradient(#1e293b 0.5px, transparent 0.5px); background-size: 30px 30px; }
-        .niche-card { background: rgba(13, 17, 23, 0.8); border: 1px solid rgba(255,255,255,0.05); backdrop-filter: blur(20px); transition: 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); }
-        .niche-card:hover { border-color: #3b82f6; transform: scale(1.03); box-shadow: 0 20px 50px rgba(0,0,0,0.5); }
-        .glow-blue { box-shadow: 0 0 20px rgba(59, 130, 246, 0.2); }
+        :root { --gold: #c5a059; --dark: #050505; }
+        body { background: var(--dark); color: white; transition: all 0.5s ease; }
+        .font-en { font-family: "Playfair Display", serif; }
+        .font-ar { font-family: "Cairo", sans-serif; }
+        .royal-font { font-family: "Cinzel", serif; }
+        .gold-gradient { background: linear-gradient(135deg, #c5a059 0%, #8e6d31 100%); }
+        .glass-card { background: rgba(255, 255, 255, 0.02); border: 1px solid rgba(197, 160, 89, 0.1); backdrop-filter: blur(20px); transition: 0.4s; }
+        .glass-card:hover { border-color: var(--gold); transform: translateY(-10px); box-shadow: 0 20px 40px rgba(0,0,0,0.8); }
+        [dir="rtl"] .font-en { display: none; }
+        [dir="ltr"] .font-ar { display: none; }
     </style>
 </head>
-<body class="grid-bg min-h-screen p-6">
-    <nav class="max-w-7xl mx-auto flex justify-between items-center mb-16 py-6 border-b border-white/5">
-        <div class="text-3xl font-black tracking-tighter">TITAN <span class="text-blue-500 italic">EMPIRE</span></div>
-        <div class="flex items-center gap-4">
-            <span class="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span>
-            <span class="text-[10px] font-bold uppercase tracking-[0.3em] text-gray-400">Global Node Active</span>
-        </div>
+<body class="font-en">
+    <nav class="fixed w-full z-50 p-8 flex justify-between items-center border-b border-white/5 bg-black/40 backdrop-blur-xl">
+        <div class="text-3xl royal-font font-black tracking-tighter"><span class="text-[#c5a059]">TITAN</span> EMPIRE</div>
+        <button onclick="toggleLang()" class="border border-[#c5a059] text-[#c5a059] px-6 py-2 text-[10px] font-bold uppercase tracking-widest hover:bg-[#c5a059] hover:text-black transition">
+            <span class="font-en">العربية</span><span class="font-ar">English</span>
+        </button>
     </nav>
 
-    <div class="max-w-7xl mx-auto">
-        <header class="mb-20">
-            <h1 class="text-6xl md:text-8xl font-black mb-6 tracking-tighter">The Gateway <br><span class="text-blue-600 italic font-light">to Everything.</span></h1>
-            <p class="text-slate-500 text-xl max-w-2xl">Your central hub for specialized high-performance portals powered by Titan Intelligence.</p>
+    <main class="pt-48 px-8 max-w-7xl mx-auto">
+        <header class="text-center mb-32">
+            <h1 class="text-6xl md:text-8xl royal-font font-black mb-8 leading-tight">
+                <span class="font-en text-[#c5a059]">THE SUPREME</span> <br class="font-en"> <span class="font-en italic font-light text-white">GATEWAY</span>
+                <span class="font-ar text-[#c5a059]">البوابة</span> <br class="font-ar"> <span class="font-ar text-white">العليا</span>
+            </h1>
+            <p class="text-gray-400 text-xl max-w-3xl mx-auto uppercase tracking-widest font-light">
+                <span class="font-en">Architecting the future of elite industries through Titan Intelligence.</span>
+                <span class="font-ar font-bold">هندسة مستقبل الصناعات النخبوية عبر ذكاء تايتان الفائق.</span>
+            </p>
         </header>
 
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-            <div class="niche-card p-8 rounded-[2.5rem] glow-blue">
-                <span class="text-blue-500 font-bold text-xs tracking-widest uppercase">01. Real Estate</span>
-                <h3 class="text-2xl font-bold mt-2 mb-6">Property Portal</h3>
-                <a href="index_royal.html" class="block bg-blue-600 text-center py-4 rounded-2xl font-black text-xs uppercase tracking-widest hover:bg-blue-500 transition">Enter Portal</a>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 pb-32">
+            <div class="glass-card p-10 rounded-0 relative overflow-hidden group">
+                <div class="absolute top-0 right-0 p-4 opacity-10 text-6xl royal-font text-[#c5a059]">01</div>
+                <h3 class="text-2xl royal-font gold-text mb-4 uppercase tracking-tighter text-[#c5a059]">
+                    <span class="font-en">Real Estate</span><span class="font-ar">العقارات الفاخرة</span>
+                </h3>
+                <p class="text-xs text-gray-500 mb-8 leading-loose tracking-widest">
+                    <span class="font-en">Global luxury assets, palaces, and sovereign estates scanned in real-time.</span>
+                    <span class="font-ar">الأصول العالمية الفاخرة، القصور، والعقارات السيادية الممسوحة ضوئياً في الوقت الفعلي.</span>
+                </p>
+                <a href="index_royal.html" class="inline-block gold-gradient text-black px-10 py-4 text-[10px] font-black uppercase tracking-[0.2em]">
+                    <span class="font-en">Enter Vault</span><span class="font-ar">دخول الخزنة</span>
+                </a>
             </div>
 
-            <div class="niche-card p-8 rounded-[2.5rem] opacity-50">
-                <span class="text-purple-500 font-bold text-xs tracking-widest uppercase">02. AI & Tech</span>
-                <h3 class="text-2xl font-bold mt-2 mb-6">Titan Solutions</h3>
-                <span class="text-[10px] font-black text-slate-600 border border-slate-800 px-3 py-1 rounded-full uppercase">Deploying...</span>
+            <div class="glass-card p-10 rounded-0 opacity-40 grayscale group">
+                <div class="absolute top-0 right-0 p-4 opacity-10 text-6xl royal-font text-white">02</div>
+                <h3 class="text-2xl royal-font mb-4 uppercase tracking-tighter">
+                    <span class="font-en">Pharma & Beauty</span><span class="font-ar">الأدوية والتجميل</span>
+                </h3>
+                <p class="text-xs text-gray-400 mb-8 leading-loose tracking-widest">
+                    <span class="font-en">The intersection of clinical excellence and aesthetic mastery.</span>
+                    <span class="font-ar">نقطة التقاء التميز الطبي والسيادة الجمالية.</span>
+                </p>
+                <span class="text-[9px] font-black uppercase tracking-[0.3em] border border-white/20 px-4 py-2">
+                    <span class="font-en">Under Construction</span><span class="font-ar">تحت الإنشاء الملكي</span>
+                </span>
             </div>
 
-            <div class="niche-card p-8 rounded-[2.5rem] opacity-50">
-                <span class="text-orange-500 font-bold text-xs tracking-widest uppercase">03. Logistics</span>
-                <h3 class="text-2xl font-bold mt-2 mb-6">Global Shipping</h3>
-                <span class="text-[10px] font-black text-slate-600 border border-slate-800 px-3 py-1 rounded-full uppercase">Constructing...</span>
-            </div>
-
-            <div class="niche-card p-8 rounded-[2.5rem] opacity-50">
-                <span class="text-emerald-500 font-bold text-xs tracking-widest uppercase">04. Pharma</span>
-                <h3 class="text-2xl font-bold mt-2 mb-6">Lab & Medical</h3>
-                <span class="text-[10px] font-black text-slate-600 border border-slate-800 px-3 py-1 rounded-full uppercase">Constructing...</span>
-            </div>
-
-            <div class="niche-card p-8 rounded-[2.5rem] opacity-50">
-                <span class="text-yellow-500 font-bold text-xs tracking-widest uppercase">05. Market</span>
-                <h3 class="text-2xl font-bold mt-2 mb-6">E-Commerce</h3>
-                <span class="text-[10px] font-black text-slate-600 border border-slate-800 px-3 py-1 rounded-full uppercase">Constructing...</span>
-            </div>
-
-            <div class="niche-card p-8 rounded-[2.5rem] opacity-50">
-                <span class="text-cyan-400 font-bold text-xs tracking-widest uppercase">06. Tourism</span>
-                <h3 class="text-2xl font-bold mt-2 mb-6">Luxury Travels</h3>
-                <span class="text-[10px] font-black text-slate-600 border border-slate-800 px-3 py-1 rounded-full uppercase">Constructing...</span>
-            </div>
-
-            <div class="niche-card p-8 rounded-[2.5rem] opacity-50">
-                <span class="text-red-500 font-bold text-xs tracking-widest uppercase">07. Legal Pro</span>
-                <h3 class="text-2xl font-bold mt-2 mb-6">Law Firm</h3>
-                <span class="text-[10px] font-black text-slate-600 border border-slate-800 px-3 py-1 rounded-full uppercase">Constructing...</span>
-            </div>
-
-            <div class="niche-card p-8 rounded-[2.5rem] opacity-50">
-                <span class="text-pink-500 font-bold text-xs tracking-widest uppercase">08. Production</span>
-                <h3 class="text-2xl font-bold mt-2 mb-6">Cinema & Photo</h3>
-                <span class="text-[10px] font-black text-slate-600 border border-slate-800 px-3 py-1 rounded-full uppercase">Constructing...</span>
+            <div class="glass-card p-10 rounded-0 opacity-40 grayscale">
+                <div class="absolute top-0 right-0 p-4 opacity-10 text-6xl royal-font text-white">03</div>
+                <h3 class="text-2xl royal-font mb-4 uppercase tracking-tighter">
+                    <span class="font-en">AI Systems</span><span class="font-ar">أنظمة الذكاء الاصطناعي</span>
+                </h3>
+                <p class="text-xs text-gray-400 mb-8 leading-loose tracking-widest">
+                    <span class="font-en">Unchallenged computational power for data dominance.</span>
+                    <span class="font-ar">قوة حوسبة لا تقهر للهيمنة على البيانات.</span>
+                </p>
+                <span class="text-[9px] font-black uppercase tracking-[0.3em] border border-white/20 px-4 py-2">
+                    <span class="font-en">System Initializing</span><span class="font-ar">جاري تهيئة النظام</span>
+                </span>
             </div>
         </div>
-    </div>
+    </main>
+
+    <script>
+        function toggleLang() {
+            const html = document.getElementById("mainHtml");
+            if (html.dir === "ltr") {
+                html.dir = "rtl";
+                document.body.className = "font-ar";
+            } else {
+                html.dir = "ltr";
+                document.body.className = "font-en";
+            }
+        }
+    </script>
 </body>
 </html>
