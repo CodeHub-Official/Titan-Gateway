@@ -2,275 +2,159 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Titan Gateway: The world's #1 marketplace for premium digital assets, ready-made niche websites, and AI-powered scraping solutions.">
-    <meta name="keywords" content="Ready-made websites, SEO tools, Titan Scraper, Digital Real Estate, Luxury Web Design, مواقع جاهزة, تصميم مواقع">
-    <meta name="author" content="CodeHub Prime">
-    <meta property="og:title" content="TITAN EMPIRE | Premium Digital Solutions">
-    <meta property="og:image" content="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072">
-    
-    <link rel="alternate" hreflang="ar" href="index.html?lang=ar" />
-    <link rel="alternate" hreflang="en" href="index.html?lang=en" />
-    <link rel="alternate" hreflang="fr" href="index.html?lang=fr" />
-    
-    <title>CODEHUB PRIME | TITAN EMPIRE</title>
-    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>TITAN CORE | THE EMPIRE</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&family=Rajdhani:wght@400;600;700&display=swap" rel="stylesheet">
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "SoftwareApplication",
-      "name": "Titan Gateway",
-      "applicationCategory": "BusinessApplication",
-      "operatingSystem": "Web",
-      "offers": {
-        "@type": "Offer",
-        "price": "20000",
-        "priceCurrency": "USD"
-      },
-      "description": "Premium AI-powered ready-made websites for Real Estate, Automotive, and Fashion industries."
-    }
-    </script>
-
     <style>
-        :root { --gold: #d4af37; --glass: rgba(20, 20, 20, 0.8); }
-        body { background-color: #000; color: white; font-family: 'Rajdhani', sans-serif; overflow-x: hidden; transition: 0.5s; }
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;900&family=Cairo:wght@400;700&display=swap');
         
-        /* Language Fonts */
+        :root { --gold: #d4af37; }
+        body { background: #000; color: white; overflow-x: hidden; margin: 0; font-family: 'Orbitron', sans-serif; }
         body.rtl { font-family: 'Cairo', sans-serif; direction: rtl; }
+
+        /* Animated Background Core */
+        #bg-canvas { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; filter: blur(2px); opacity: 0.6; }
+
+        /* Responsive Hero Section */
+        .hero { height: 40vh; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; padding: 20px; }
         
-        /* Premium Backgrounds */
-        .bg-layer {
-            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-            background-size: cover; background-position: center;
-            opacity: 0; transition: opacity 0.8s ease; z-index: -2;
-            filter: brightness(0.3);
-        }
-        .bg-active { opacity: 1; }
-
-        /* Tech Mesh Overlay */
-        .mesh {
-            position: fixed; width: 100%; height: 100%; z-index: -1;
-            background-image: radial-gradient(rgba(212, 175, 55, 0.1) 1px, transparent 1px);
-            background-size: 30px 30px;
+        /* Grid System for Mobile vs Desktop */
+        .showcase-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px; padding: 20px; max-width: 1400px; margin: 0 auto;
         }
 
-        /* Luxury Cards */
-        .card {
-            background: rgba(255, 255, 255, 0.03);
-            backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            transition: all 0.4s ease;
-            position: relative; overflow: hidden;
+        /* Glass Motion Cards */
+        .card-pro {
+            position: relative; height: 350px; border-radius: 25px; overflow: hidden;
+            border: 1px solid rgba(255,255,255,0.1); background: rgba(0,0,0,0.5);
+            backdrop-filter: blur(15px); transition: 0.6s cubic-bezier(0.23, 1, 0.32, 1);
         }
-        .card:hover {
-            transform: translateY(-10px);
-            border-color: var(--gold);
-            box-shadow: 0 0 30px rgba(212, 175, 55, 0.2);
-        }
-        .card::after {
-            content: ''; position: absolute; top: -50%; left: -50%; width: 200%; height: 200%;
-            background: linear-gradient(45deg, transparent, rgba(255,255,255,0.05), transparent);
-            transform: rotate(45deg); transition: 0.5s; opacity: 0;
-        }
-        .card:hover::after { opacity: 1; transform: rotate(45deg) translate(50%, 50%); }
+        .card-pro:hover { transform: scale(1.03) translateY(-10px); border-color: var(--gold); box-shadow: 0 15px 40px rgba(212, 175, 55, 0.2); }
 
-        /* Language Switcher */
-        .lang-btn { 
-            cursor: pointer; padding: 5px 10px; border: 1px solid rgba(255,255,255,0.2); 
-            border-radius: 5px; transition: 0.3s; font-size: 0.8rem;
+        .card-img {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover; opacity: 0.4; transition: 0.8s; z-index: 1;
         }
-        .lang-btn:hover, .lang-active { background: var(--gold); color: black; border-color: var(--gold); font-weight: bold; }
+        .card-pro:hover .card-img { opacity: 0.8; transform: scale(1.1); }
+
+        .card-content {
+            position: relative; z-index: 2; height: 100%; padding: 30px;
+            display: flex; flex-direction: column; justify-content: flex-end;
+            background: linear-gradient(to top, rgba(0,0,0,0.9) 20%, transparent);
+        }
+
+        /* Language Switcher Float */
+        .lang-bar { position: fixed; top: 20px; right: 20px; z-index: 100; display: flex; gap: 8px; }
+        .l-btn { background: rgba(255,255,255,0.1); padding: 5px 12px; border-radius: 8px; font-size: 12px; cursor: pointer; border: 1px solid transparent; }
+        .l-btn.active { border-color: var(--gold); color: var(--gold); }
+
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 2.5rem; }
+            .showcase-grid { grid-template-columns: 1fr; padding: 15px; }
+            .card-pro { height: 280px; }
+        }
     </style>
 </head>
-<body class="flex flex-col min-h-screen">
+<body>
 
-    <div id="bg-main" class="bg-layer bg-active" style="background-image: url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072');"></div>
-    <div id="bg-estate" class="bg-layer" style="background-image: url('https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070');"></div>
-    <div id="bg-auto" class="bg-layer" style="background-image: url('https://images.unsplash.com/photo-1494976388531-d1058494cdd8?q=80&w=2070');"></div>
-    <div id="bg-fashion" class="bg-layer" style="background-image: url('https://images.unsplash.com/photo-1469334031218-e382a71b716b?q=80&w=2070');"></div>
+    <div class="lang-bar">
+        <div class="l-btn active" onclick="changeLang('en', this)">EN</div>
+        <div class="l-btn" onclick="changeLang('ar', this)">AR</div>
+        <div class="l-btn" onclick="changeLang('fr', this)">FR</div>
+    </div>
 
-    <div class="mesh"></div>
+    <canvas id="bg-canvas"></canvas>
 
-    <header class="p-6 md:p-10 flex flex-col md:flex-row justify-between items-center border-b border-white/5 bg-black/60 backdrop-blur-lg sticky top-0 z-50">
-        <div class="mb-4 md:mb-0 text-center md:text-left">
-            <h1 class="text-4xl md:text-5xl font-black tracking-tighter text-white">CODEHUB <span class="text-[#d4af37]">PRIME</span></h1>
-            <p data-key="slogan" class="text-xs text-gray-400 tracking-[0.3em] uppercase mt-1">Premium Digital Assets Ecosystem</p>
-        </div>
-        
-        <div class="flex flex-col items-center md:items-end">
-            <div class="flex space-x-2 mb-2 rtl:space-x-reverse">
-                <span class="lang-btn" onclick="setLang('ar')">AR</span>
-                <span class="lang-btn" onclick="setLang('en')">EN</span>
-                <span class="lang-btn" onclick="setLang('fr')">FR</span>
-                <span class="lang-btn" onclick="setLang('es')">ES</span>
-                <span class="lang-btn" onclick="setLang('it')">IT</span>
+    <div class="hero">
+        <h1 class="text-5xl md:text-7xl font-black mb-4 tracking-tighter" id="main-title">TITAN CORE</h1>
+        <p class="text-[#d4af37] tracking-[0.4em] text-xs md:text-sm" id="main-slogan">INTERNATIONAL DIGITAL SHOWROOM</p>
+    </div>
+
+    <div class="showcase-grid">
+        <a href="estate.html" class="card-pro">
+            <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070" class="card-img">
+            <div class="card-content">
+                <h2 class="text-2xl font-bold text-white mb-2" id="t-estate">REAL ESTATE</h2>
+                <p class="text-gray-400 text-xs" id="d-estate">Global Luxury Properties. Automated by Titan.</p>
             </div>
-            <div class="flex items-center text-[#00ff88] text-xs font-mono">
-                <span class="w-2 h-2 bg-[#00ff88] rounded-full mr-2 rtl:ml-2 animate-pulse"></span>
-                <span data-key="status">TITAN ENGINE: ONLINE</span>
+        </a>
+
+        <a href="auto.html" class="card-pro">
+            <img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=2070" class="card-img">
+            <div class="card-content">
+                <h2 class="text-2xl font-bold text-white mb-2" id="t-auto">AUTOMOTIVE</h2>
+                <p class="text-gray-400 text-xs" id="d-auto">Supercars & Logistics. Real-time Inventory.</p>
             </div>
-        </div>
-    </header>
+        </a>
 
-    <main class="flex-grow flex items-center justify-center p-6">
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 w-full max-w-7xl">
-            
-            <a href="estate.html" class="card p-8 rounded-2xl group" onmouseenter="bg('bg-estate')" onmouseleave="bg('bg-main')">
-                <div class="flex justify-between mb-8 text-[#00d2ff]">
-                    <i class="fas fa-building text-4xl"></i>
-                    <i class="fas fa-chart-line"></i>
-                </div>
-                <h2 data-key="estate_title" class="text-3xl font-bold mb-2">REAL ESTATE</h2>
-                <p data-key="estate_desc" class="text-gray-400 text-sm mb-6 h-10">Global property platforms with SEO dominance.</p>
-                <div class="text-[#d4af37] text-xs font-bold tracking-widest flex items-center">
-                    <span data-key="enter">ACCESS CORE</span> <i class="fas fa-arrow-right ml-2 rtl:rotate-180"></i>
-                </div>
-            </a>
-
-            <a href="auto.html" class="card p-8 rounded-2xl group" onmouseenter="bg('bg-auto')" onmouseleave="bg('bg-main')">
-                <div class="flex justify-between mb-8 text-[#ff0000]">
-                    <i class="fas fa-car text-4xl"></i>
-                    <i class="fas fa-tachometer-alt"></i>
-                </div>
-                <h2 data-key="auto_title" class="text-3xl font-bold mb-2">AUTOMOTIVE</h2>
-                <p data-key="auto_desc" class="text-gray-400 text-sm mb-6 h-10">Luxury car showrooms with live inventory data.</p>
-                <div class="text-[#d4af37] text-xs font-bold tracking-widest flex items-center">
-                    <span data-key="enter">ACCESS CORE</span> <i class="fas fa-arrow-right ml-2 rtl:rotate-180"></i>
-                </div>
-            </a>
-
-            <a href="#" class="card p-8 rounded-2xl group" onmouseenter="bg('bg-main')" onmouseleave="bg('bg-main')">
-                <div class="flex justify-between mb-8 text-[#ffea00]">
-                    <i class="fas fa-plane text-4xl"></i>
-                    <i class="fas fa-globe"></i>
-                </div>
-                <h2 data-key="tourism_title" class="text-3xl font-bold mb-2">TOURISM</h2>
-                <p data-key="tourism_desc" class="text-gray-400 text-sm mb-6 h-10">Booking engines for world-class destinations.</p>
-                <div class="text-[#d4af37] text-xs font-bold tracking-widest flex items-center">
-                    <span data-key="enter">ACCESS CORE</span> <i class="fas fa-arrow-right ml-2 rtl:rotate-180"></i>
-                </div>
-            </a>
-
-            <a href="#" class="card p-8 rounded-2xl group" onmouseenter="bg('bg-fashion')" onmouseleave="bg('bg-main')">
-                <div class="flex justify-between mb-8 text-[#aa00ff]">
-                    <i class="fas fa-tshirt text-4xl"></i>
-                    <i class="fas fa-crown"></i>
-                </div>
-                <h2 data-key="fashion_title" class="text-3xl font-bold mb-2">FASHION</h2>
-                <p data-key="fashion_desc" class="text-gray-400 text-sm mb-6 h-10">Trend-setting e-commerce for luxury brands.</p>
-                <div class="text-[#d4af37] text-xs font-bold tracking-widest flex items-center">
-                    <span data-key="enter">ACCESS CORE</span> <i class="fas fa-arrow-right ml-2 rtl:rotate-180"></i>
-                </div>
-            </a>
-
-        </div>
-    </main>
-
-    <footer class="p-6 text-center text-gray-600 text-[10px] font-mono border-t border-white/5">
-        &copy; 2026 CODEHUB PRIME. TITAN TECHNOLOGY V4.1
-    </footer>
+        <a href="#" class="card-pro">
+            <img src="https://images.unsplash.com/photo-1506929199175-6091e7861b51?q=80&w=1990" class="card-img">
+            <div class="card-content">
+                <h2 class="text-2xl font-bold text-white mb-2" id="t-tourism">TOURISM</h2>
+                <p class="text-gray-400 text-xs" id="d-tourism">Premium Destination Search. Global Core.</p>
+            </div>
+        </a>
+    </div>
 
     <script>
-        // Language Dictionary
-        const langData = {
-            en: {
-                slogan: "Premium Digital Assets Ecosystem",
-                status: "TITAN ENGINE: ONLINE",
-                estate_title: "REAL ESTATE",
-                estate_desc: "Global property platforms with SEO dominance.",
-                auto_title: "AUTOMOTIVE",
-                auto_desc: "Luxury car showrooms with live inventory data.",
-                tourism_title: "TOURISM",
-                tourism_desc: "Booking engines for world-class destinations.",
-                fashion_title: "FASHION",
-                fashion_desc: "Trend-setting e-commerce for luxury brands.",
-                enter: "ACCESS CORE"
-            },
-            ar: {
-                slogan: "منظومة الأصول الرقمية الفاخرة",
-                status: "محرك تايتن: متصل",
-                estate_title: "العقارات",
-                estate_desc: "منصات عقارية عالمية مدعومة بأقوى تقنيات السيو.",
-                auto_title: "السيارات",
-                auto_desc: "معارض سيارات فاخرة مع تحديث مخزون فوري.",
-                tourism_title: "السياحة",
-                tourism_desc: "محركات حجز لأرقى الوجهات العالمية.",
-                fashion_title: "الأزياء",
-                fashion_desc: "متاجر إلكترونية تحدد مسار الموضة العالمية.",
-                enter: "دخول النظام"
-            },
-            fr: {
-                slogan: "Écosystème d'actifs numériques premium",
-                status: "MOTEUR TITAN: EN LIGNE",
-                estate_title: "IMMOBILIER",
-                estate_desc: "Plateformes immobilières mondiales avec référencement SEO.",
-                auto_title: "AUTOMOBILE",
-                auto_desc: "Showrooms de luxe avec inventaire en direct.",
-                tourism_title: "TOURISME",
-                tourism_desc: "Moteurs de réservation pour destinations de classe mondiale.",
-                fashion_title: "MODE",
-                fashion_desc: "E-commerce tendance pour les marques de luxe.",
-                enter: "ACCÉDER"
-            },
-            es: {
-                slogan: "Ecosistema de Activos Digitales Premium",
-                status: "MOTOR TITAN: EN LÍNEA",
-                estate_title: "INMOBILIARIA",
-                estate_desc: "Plataformas globales con dominio SEO.",
-                auto_title: "AUTOMOTRIZ",
-                auto_desc: "Showrooms de lujo con inventario en vivo.",
-                tourism_title: "TURISMO",
-                tourism_desc: "Motores de reserva para destinos de clase mundial.",
-                fashion_title: "MODA",
-                fashion_desc: "Comercio electrónico de tendencia para marcas de lujo.",
-                enter: "ACCEDER"
-            },
-            it: {
-                slogan: "Ecosistema di Risorse Digitali Premium",
-                status: "MOTORE TITAN: ONLINE",
-                estate_title: "IMMOBILIARE",
-                estate_desc: "Piattaforme immobiliari globali con dominio SEO.",
-                auto_title: "AUTOMOBILISTICO",
-                auto_desc: "Showroom di lusso con inventario in tempo reale.",
-                tourism_title: "TURISMO",
-                tourism_desc: "Motori di prenotazione per destinazioni di classe mondiale.",
-                fashion_title: "MODA",
-                fashion_desc: "E-commerce di tendenza per marchi di lusso.",
-                enter: "ACCEDERE"
-            }
-        };
+        // Particle Background System
+        const canvas = document.getElementById('bg-canvas');
+        const ctx = canvas.getContext('2d');
+        let particles = [];
+        
+        function resize() { canvas.width = window.innerWidth; canvas.height = window.innerHeight; }
+        window.onresize = resize; resize();
 
-        function bg(id) {
-            document.querySelectorAll('.bg-layer').forEach(el => el.classList.remove('bg-active'));
-            document.getElementById(id).classList.add('bg-active');
+        class Particle {
+            constructor() {
+                this.x = Math.random() * canvas.width;
+                this.y = Math.random() * canvas.height;
+                this.size = Math.random() * 2 + 1;
+                this.speedX = Math.random() * 0.5 - 0.25;
+                this.speedY = Math.random() * 0.5 - 0.25;
+            }
+            update() {
+                this.x += this.speedX; this.y += this.speedY;
+                if(this.x > canvas.width) this.x = 0; if(this.x < 0) this.x = canvas.width;
+                if(this.y > canvas.height) this.y = 0; if(this.y < 0) this.y = canvas.height;
+            }
+            draw() {
+                ctx.fillStyle = '#d4af37'; ctx.beginPath();
+                ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2); ctx.fill();
+            }
         }
 
-        function setLang(lang) {
-            // Update Text
-            const data = langData[lang];
-            for (let key in data) {
-                const el = document.querySelector(`[data-key="${key}"]`);
-                if(el) el.innerText = data[key]; // Update only one element per key for simplicity in demo
-                // More robust selection for multiple elements:
-                document.querySelectorAll(`[data-key="${key}"]`).forEach(e => e.innerText = data[key]);
-            }
+        for(let i=0; i<100; i++) particles.push(new Particle());
 
-            // Update Direction & Font
-            if (lang === 'ar') {
-                document.body.classList.add('rtl');
-                document.body.dir = "rtl";
-            } else {
-                document.body.classList.remove('rtl');
-                document.body.dir = "ltr";
-            }
+        function animate() {
+            ctx.clearRect(0,0,canvas.width, canvas.height);
+            particles.forEach(p => { p.update(); p.draw(); });
+            requestAnimationFrame(animate);
+        }
+        animate();
 
-            // Highlight Active Button
-            document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('lang-active'));
-            event.target.classList.add('lang-active');
+        // Language Engine
+        const langs = {
+            ar: { title: "قلب تايتن", slogan: "معرض الأصول الرقمية العالمي", t_estate: "العقارات", d_estate: "عقارات فاخرة حول العالم. أتمتة كاملة.", t_auto: "السيارات", d_auto: "سيارات سوبر ولوجستيات. مخزون حي.", t_tourism: "السياحة", d_tourism: "أرقى الوجهات العالمية. بحث ذكي." },
+            en: { title: "TITAN CORE", slogan: "INTERNATIONAL DIGITAL SHOWROOM", t_estate: "REAL ESTATE", d_estate: "Global Luxury Properties. Automated by Titan.", t_auto: "AUTOMOTIVE", d_auto: "Supercars & Logistics. Real-time Inventory.", t_tourism: "TOURISM", d_tourism: "Premium Destination Search. Global Core." }
+        };
+
+        function changeLang(l, btn) {
+            document.querySelectorAll('.l-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            const d = langs[l];
+            document.getElementById('main-title').innerText = d.title;
+            document.getElementById('main-slogan').innerText = d.slogan;
+            document.getElementById('t-estate').innerText = d.t_estate;
+            document.getElementById('d-estate').innerText = d.d_estate;
+            document.getElementById('t-auto').innerText = d.t_auto;
+            document.getElementById('d-auto').innerText = d.d_auto;
+            document.getElementById('t-tourism').innerText = d.t_tourism;
+            document.getElementById('d-tourism').innerText = d.d_tourism;
+            document.body.className = l === 'ar' ? 'rtl' : '';
         }
     </script>
 </body>
