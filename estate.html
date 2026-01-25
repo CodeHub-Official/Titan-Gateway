@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TITAN ESTATE | Global Luxury</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { background: #0a0a0a; color: white; font-family: 'Poppins', sans-serif; }
+        .glass { background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(15px); border: 1px solid rgba(255,255,255,0.05); }
+    </style>
+</head>
+<body>
+    <nav class="p-6 flex justify-between items-center glass sticky top-0 z-50">
+        <div class="text-2xl font-bold">TITAN <span class="text-yellow-600">ESTATE</span></div>
+        <div class="flex space-x-4 text-[10px] md:text-sm">
+            <button onclick="changeLang('ar')">العربية</button>
+            <button onclick="changeLang('en')">EN</button>
+            <button onclick="changeLang('fr')">FR</button>
+            <button onclick="changeLang('es')">ES</button>
+            <button onclick="changeLang('it')">IT</button>
+        </div>
+    </nav>
+    <header class="h-[50vh] flex items-center justify-center relative">
+        <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070" class="absolute w-full h-full object-cover opacity-40">
+        <div class="relative text-center">
+            <h1 id="h-title" class="text-4xl md:text-6xl font-bold">Find Your Dream Estate</h1>
+            <p id="h-desc" class="text-gray-400">Global Luxury Real Estate Network</p>
+        </div>
+    </header>
+    <main class="max-w-6xl mx-auto py-10 px-4 grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div class="glass p-6 rounded-2xl text-center">
+            <div class="h-40 bg-gray-900 rounded-xl mb-4 animate-pulse"></div>
+            <h3 class="font-bold">TITAN SEARCHING...</h3>
+            <p class="text-sm text-gray-500">Connecting to global servers</p>
+        </div>
+    </main>
+    <script>
+        const trans = {
+            ar: {t:"جد عقار أحلامك", d:"شبكة العقارات الفاخرة العالمية"},
+            en: {t:"Find Your Dream Estate", d:"Global Luxury Real Estate Network"},
+            fr: {t:"Trouvez votre domaine", d:"Réseau immobilier de luxe"},
+            es: {t:"Encuentre su propiedad", d:"Red inmobiliaria de lujo"},
+            it: {t:"Trova la tua proprietà", d:"Rete immobiliare di lusso"}
+        };
+        function changeLang(l){
+            document.getElementById('h-title').innerText = trans[l].t;
+            document.getElementById('h-desc').innerText = trans[l].d;
+            document.body.dir = (l === 'ar' ? 'rtl' : 'ltr');
+        }
+    </script>
+</body>
+</html>
