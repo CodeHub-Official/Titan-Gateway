@@ -1,30 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8"><title>Urban Core</title>
+    <meta charset="UTF-8"><title>Urban Core | NYC</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        body { background: #f0f0f0; color: #111; font-family: 'Helvetica', sans-serif; }
-        .grid-custom { display: grid; grid-template-columns: repeat(12, 1fr); gap: 10px; padding: 10px; }
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap');
+        body { background: #f4f4f4; color: #000; font-family: 'Inter', sans-serif; }
+        .grid-box { border-bottom: 5px solid #000; border-right: 5px solid #000; }
     </style>
 </head>
-<body>
-    <nav class="p-10 flex justify-between font-bold italic text-3xl">
-        <div>URBAN_CORE</div>
-        <div class="text-sm not-italic">NYC / 2026</div>
-    </nav>
-    <div class="grid-custom">
-        <div class="col-span-8 bg-black h-[500px] text-white p-10 flex items-end">
-            <h1 class="text-9xl font-black">LOFT.</h1>
+<body class="p-0 m-0">
+    <div class="grid grid-cols-12 h-screen">
+        <div class="col-span-12 md:col-span-8 bg-black p-12 flex flex-col justify-between">
+            <h1 class="text-white text-[15vw] leading-none tracking-tighter">URBAN<br>CORE.</h1>
+            <div class="text-orange-500 text-2xl">LATEST LISTINGS / 2026</div>
         </div>
-        <div class="col-span-4 bg-orange-600 h-[500px] p-10 text-white">
-            <p>Modern investment apartments for the new generation.</p>
-        </div>
-        <div class="col-span-4 h-64 overflow-hidden">
-            <img src="https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=500" class="w-full h-full object-cover">
-        </div>
-        <div class="col-span-8 border-4 border-black p-10 flex items-center justify-center">
-            <button class="text-5xl font-black hover:bg-black hover:text-white p-4 transition">VIEW ALL UNITS -></button>
+        <div class="col-span-12 md:col-span-4 p-12 flex flex-col justify-between border-l-8 border-black">
+            <p class="text-3xl font-bold italic leading-tight">High-yield real estate in the world's most aggressive markets.</p>
+            <button class="bg-black text-white p-6 text-center hover:bg-orange-600 transition">INVEST NOW -></button>
         </div>
     </div>
 </body>

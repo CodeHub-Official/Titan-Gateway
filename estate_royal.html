@@ -1,27 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8"><title>Royal Estate</title>
+    <meta charset="UTF-8"><title>Royal Estate | Legacy</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap');
-        body { background: #0a0a0a; color: #d4af37; font-family: 'Cinzel', serif; }
-        .hero { height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; border: 20px solid #d4af37; margin: 20px; text-align: center; }
-        .menu { writing-mode: vertical-rl; position: fixed; right: 40px; top: 50%; transform: translateY(-50%); letter-spacing: 5px; }
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Lora&display=swap');
+        body { background: #0c0c0c; color: #c5a059; font-family: 'Lora', serif; }
+        h1 { font-family: 'Playfair Display', serif; letter-spacing: 0.2em; }
+        .hero { height: 100vh; display: flex; align-items: center; justify-content: center; background: radial-gradient(circle, #1a1a1a 0%, #000 100%); border: 1px solid #c5a059; margin: 30px; }
+        .nav-royal { position: absolute; top: 60px; width: 100%; text-align: center; text-transform: uppercase; font-size: 10px; letter-spacing: 4px; }
     </style>
 </head>
 <body>
-    <div class="menu text-xs">COLLECTION — ABOUT — CONTACT</div>
-    <div class="hero">
-        <h1 class="text-7xl mb-4">ROYAL</h1>
-        <p class="text-white tracking-[10px] text-sm">ESTABLISHED IN LONDON</p>
-        <div class="mt-20 w-[1px] h-32 bg-[#d4af37]"></div>
+    <div class="nav-royal underline decoration-1">The Collection — Heritage — Global Offices</div>
+    <div class="hero flex-col">
+        <h1 class="text-6xl md:text-8xl mb-4">ROYAL</h1>
+        <div class="h-[1px] w-24 bg-[#c5a059] mb-8"></div>
+        <p class="text-white italic opacity-50">Estates for the Sovereigns</p>
+        <button class="mt-12 border border-[#c5a059] px-10 py-3 hover:bg-[#c5a059] hover:text-black transition duration-700 uppercase text-[10px]">Private Entrance</button>
     </div>
-    <section class="p-20 grid grid-cols-1 gap-20">
-        <div class="border-b border-[#d4af37] pb-10">
-            <img src="https://images.unsplash.com/photo-1580587767303-9fef00803114?w=800" class="w-full h-[600px] object-cover mb-6">
-            <h2 class="text-4xl">THE MANOR</h2>
-        </div>
-    </section>
 </body>
 </html>
