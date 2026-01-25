@@ -2,20 +2,24 @@
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
-    <title>ROYAL ESTATE V1 | THE LEGACY</title>
+    <title>TITAN ROYAL ESTATE | THE MASTERPIECE</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@900&family=Cinzel:wght@900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;900&family=Cinzel:wght@900&display=swap" rel="stylesheet">
     <style>
         body { background: #000; color: #fff; font-family: 'Cairo', sans-serif; }
-        .hero { height: 100vh; background: linear-gradient(to bottom, rgba(0,0,0,0.4), #000), url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c'); background-size: cover; background-position: center; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; }
-        .gold { color: #c5a059; font-family: 'Cinzel'; }
+        .royal-gold { color: #c5a059; font-family: 'Cinzel'; }
+        .hero { height: 100vh; background: linear-gradient(rgba(0,0,0,0.7), #000), url('https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80'); background-size: cover; background-position: center; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; }
+        .glass { background: rgba(255,255,255,0.03); backdrop-filter: blur(10px); border: 1px solid rgba(197, 160, 89, 0.2); }
     </style>
 </head>
 <body>
     <div class="hero">
-        <h1 class="text-7xl font-black gold mb-4">ROYAL V1</h1>
-        <p class="text-xl tracking-widest uppercase opacity-70">Legacy Estate Portal</p>
-        <a href="index.html" class="mt-10 px-8 py-3 border border-[#c5a059] text-[#c5a059] font-bold uppercase text-xs">Back to Ship</a>
+        <h1 class="text-7xl md:text-9xl font-black royal-gold mb-6 tracking-tighter">TITAN ROYAL</h1>
+        <p class="text-xl md:text-2xl uppercase tracking-[0.5em] opacity-80">عصر جديد من الفخامة العقارية</p>
+        <div class="mt-12 flex gap-6">
+            <a href="index.html" class="px-10 py-4 border border-[#c5a059] text-[#c5a059] font-bold uppercase text-[10px] tracking-widest hover:bg-[#c5a059] hover:text-black transition">العودة للبوابة</a>
+            <button class="px-10 py-4 glass text-white font-bold uppercase text-[10px] tracking-widest">استكشاف القصور</button>
+        </div>
     </div>
 </body>
 </html>
