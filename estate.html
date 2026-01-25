@@ -2,70 +2,132 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Global Estate Empire - Luxury Properties Worldwide">
-    <title>TITAN ESTATE | International Luxury</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>TITAN ESTATE | SELECT ARCHITECTURE</title>
+    <script src="https://cdn.tailwindcss.com?v=12.0"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     <style>
-        :root { --accent: #d4af37; }
-        body { background: #080808; color: white; font-family: 'Inter', sans-serif; }
-        .hero-bg { background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=2070'); background-size: cover; }
-        .glass-card { background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.05); transition: 0.4s; }
-        .glass-card:hover { border-color: var(--accent); transform: translateY(-5px); }
+        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Montserrat:wght@300;600&display=swap');
+        
+        :root { --gold: #c5a059; --dark: #050505; }
+        body { background: var(--dark); color: white; font-family: 'Montserrat', sans-serif; overflow-x: hidden; margin: 0; }
+
+        /* Background Grid */
+        #arch-bg { 
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; 
+            background-image: radial-gradient(rgba(197, 160, 89, 0.15) 1px, transparent 1px);
+            background-size: 30px 30px; opacity: 0.5;
+        }
+
+        /* Header */
+        header {
+            padding: 30px; display: flex; justify-content: space-between; align-items: center;
+            border-bottom: 1px solid rgba(197, 160, 89, 0.2); backdrop-filter: blur(10px);
+            position: sticky; top: 0; z-index: 100; background: rgba(5,5,5,0.8);
+        }
+        .brand { font-family: 'Cinzel', serif; font-size: 24px; color: var(--gold); letter-spacing: 2px; }
+
+        /* The Templates Grid */
+        .templates-grid {
+            display: grid; grid-template-columns: 1fr; gap: 20px;
+            padding: 50px 20px; max-width: 1200px; margin: 0 auto;
+        }
+        @media (min-width: 1024px) { .templates-grid { grid-template-columns: repeat(2, 1fr); gap: 40px; } }
+
+        /* Template Card */
+        .tmpl-card {
+            position: relative; height: 350px; border-radius: 4px; overflow: hidden;
+            border: 1px solid rgba(255,255,255,0.1); transition: 0.6s ease; cursor: pointer;
+            group: isolate;
+        }
+        .tmpl-card:hover { transform: scale(1.02); box-shadow: 0 0 30px rgba(0,0,0,0.5); }
+
+        .tmpl-img { width: 100%; height: 100%; object-fit: cover; transition: 0.8s; filter: grayscale(100%); opacity: 0.4; }
+        .tmpl-card:hover .tmpl-img { filter: grayscale(0%); opacity: 1; transform: scale(1.1); }
+
+        .tmpl-info {
+            position: absolute; bottom: 0; left: 0; width: 100%; padding: 30px;
+            background: linear-gradient(to top, #000 10%, transparent);
+            transform: translateY(20px); transition: 0.5s;
+        }
+        .tmpl-card:hover .tmpl-info { transform: translateY(0); }
+
+        /* Specific Theme Colors (Hover) */
+        .theme-royal:hover { border-color: #c5a059; box-shadow: 0 0 20px rgba(197, 160, 89, 0.4); }
+        .theme-urban:hover { border-color: #ff5722; box-shadow: 0 0 20px rgba(255, 87, 34, 0.4); }
+        .theme-eco:hover { border-color: #4caf50; box-shadow: 0 0 20px rgba(76, 175, 80, 0.4); }
+        .theme-glass:hover { border-color: #00bcd4; box-shadow: 0 0 20px rgba(0, 188, 212, 0.4); }
+
+        .title { font-family: 'Cinzel', serif; font-size: 28px; font-weight: 700; margin-bottom: 5px; text-transform: uppercase; }
+        .desc { font-size: 10px; letter-spacing: 2px; opacity: 0.8; text-transform: uppercase; }
+        .btn-view {
+            margin-top: 15px; display: inline-block; padding: 10px 25px;
+            border: 1px solid white; font-size: 10px; letter-spacing: 2px;
+            opacity: 0; transition: 0.5s 0.1s;
+        }
+        .tmpl-card:hover .btn-view { opacity: 1; background: white; color: black; }
+        
+        /* Back Button */
+        .back-nav { position: fixed; bottom: 30px; left: 30px; z-index: 100; }
+        .btn-back { width: 50px; height: 50px; border-radius: 50%; border: 1px solid var(--gold); display: flex; justify-content: center; align-items: center; color: var(--gold); background: black; transition: 0.3s; }
+        .btn-back:hover { background: var(--gold); color: black; transform: rotate(90deg); }
+
     </style>
 </head>
 <body>
-    <nav class="flex justify-between items-center p-8 sticky top-0 z-50 bg-black/50 backdrop-blur-md">
-        <div class="text-3xl font-black tracking-tighter text-white">CODEHUB <span class="text-yellow-600">ESTATE</span></div>
-        <div class="hidden md:flex space-x-8 text-sm font-medium uppercase tracking-widest">
-            <a href="#" class="hover:text-yellow-500">Home</a>
-            <a href="#" class="hover:text-yellow-500">Listings</a>
-            <a href="#" class="hover:text-yellow-500">Contact</a>
-            <div class="flex space-x-2 border-l pl-4 border-gray-700">
-                <span class="cursor-pointer hover:text-yellow-500">AR</span>
-                <span class="cursor-pointer hover:text-yellow-500">EN</span>
-                <span class="cursor-pointer hover:text-yellow-500">FR</span>
+
+    <div id="arch-bg"></div>
+
+    <header>
+        <div class="brand">TITAN <span style="color:white">ESTATE</span></div>
+        <div class="text-[10px] tracking-[3px] text-gray-400">SELECT YOUR MODEL</div>
+    </header>
+
+    <div class="templates-grid">
+        <div class="tmpl-card theme-royal" onclick="location.href='estate_royal.html'">
+            <img src="https://images.unsplash.com/photo-1577495508048-b635879837f1?q=80&w=1000" class="tmpl-img">
+            <div class="tmpl-info">
+                <div class="title text-[#c5a059]">The Royal</div>
+                <div class="desc">Classic Luxury & Palaces</div>
+                <div class="btn-view">ENTER MODEL</div>
             </div>
         </div>
-    </nav>
 
-    <section class="h-[80vh] hero-bg flex flex-col items-center justify-center text-center px-4">
-        <h1 class="text-6xl md:text-8xl font-bold mb-6 tracking-tight">INVEST IN <br><span class="text-yellow-600">THE FUTURE</span></h1>
-        <p class="max-w-2xl text-gray-400 text-lg mb-10">Premium Real Estate Solutions across Europe, Dubai, and the USA. SEO Optimized for Global Reach.</p>
-        <div class="flex space-x-4">
-            <button class="bg-yellow-600 text-black px-10 py-4 font-bold rounded-full hover:bg-yellow-500 transition">VIEW PROPERTIES</button>
-            <button class="border border-white/20 px-10 py-4 font-bold rounded-full hover:bg-white/10">TALK TO EXPERT</button>
-        </div>
-    </section>
-
-    <section class="max-w-7xl mx-auto py-32 px-6">
-        <div class="flex justify-between items-end mb-16">
-            <div>
-                <h2 class="text-4xl font-bold mb-2">Featured Listings</h2>
-                <p class="text-gray-500">Hand-picked luxury assets for the elite investor.</p>
+        <div class="tmpl-card theme-urban" onclick="location.href='estate_urban.html'">
+            <img src="https://images.unsplash.com/photo-1493809842364-78817add7ffb?q=80&w=1000" class="tmpl-img">
+            <div class="tmpl-info">
+                <div class="title text-[#ff5722]">The Urban</div>
+                <div class="desc">Modern Lofts & Smart City</div>
+                <div class="btn-view">ENTER MODEL</div>
             </div>
-            <div class="text-yellow-600 font-bold cursor-pointer">Explore All <i class="fas fa-arrow-right ml-2"></i></div>
         </div>
 
-        <div id="property-container" class="grid grid-cols-1 md:grid-cols-3 gap-10">
-            <div class="glass-card rounded-3xl overflow-hidden">
-                <div class="h-64 bg-cover bg-center" style="background-image: url('https://images.unsplash.com/photo-1613490493576-7fde63acd811?q=80&w=2071');"></div>
-                <div class="p-8">
-                    <div class="text-yellow-600 text-sm font-bold mb-2">DUBAI, UAE</div>
-                    <h3 class="text-2xl font-bold mb-4">Palm Jumeirah Villa</h3>
-                    <div class="flex justify-between text-gray-400 border-t border-white/10 pt-4">
-                        <span><i class="fas fa-bed mr-2"></i>6 Beds</span>
-                        <span><i class="fas fa-bath mr-2"></i>5 Baths</span>
-                        <span class="text-white font-bold">$12,500,000</span>
-                    </div>
-                </div>
+        <div class="tmpl-card theme-eco" onclick="location.href='estate_eco.html'">
+            <img src="https://images.unsplash.com/photo-1518780664697-55e3ad937233?q=80&w=1000" class="tmpl-img">
+            <div class="tmpl-info">
+                <div class="title text-[#4caf50]">The Eco</div>
+                <div class="desc">Nature Resorts & Sustainable</div>
+                <div class="btn-view">ENTER MODEL</div>
             </div>
-            </div>
-    </section>
+        </div>
 
-    <footer class="p-20 bg-zinc-950 text-center border-t border-white/5">
-        <p class="text-gray-600">&copy; 2026 CODEHUB PRIME EMPIRE. All Rights Reserved.</p>
+        <div class="tmpl-card theme-glass" onclick="location.href='estate_glass.html'">
+            <img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1000" class="tmpl-img">
+            <div class="tmpl-info">
+                <div class="title text-[#00bcd4]">The Future</div>
+                <div class="desc">Skyscrapers & Glass Horizon</div>
+                <div class="btn-view">ENTER MODEL</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="back-nav">
+        <a href="index.html" class="btn-back"><i class="fa-solid fa-arrow-left"></i></a>
+    </div>
+
+    <footer class="text-center py-10 text-[9px] tracking-[4px] text-gray-600 border-t border-gray-900 mt-10">
+        POWERED BY CODEHUB OFFICIAL
     </footer>
+
 </body>
 </html>
