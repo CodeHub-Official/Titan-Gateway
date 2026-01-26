@@ -1,5 +1,5 @@
 [user]
-	email = codehub@official.com
+	email = codehub@titan.com
 	name = CodeHub-Official
 [http]
 	postBuffer = 524288000
@@ -8,3 +8,5 @@
 	sslVerify = false
 [ai]
 	addressFamily = ipv4
+[credential]
+	helper = store
