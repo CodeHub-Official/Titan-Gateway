@@ -3,34 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TITAN GATEWAY | Central Hub</title>
+    <title>TITAN GATEWAY</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap" rel="stylesheet">
     <style>
-        :root { --neon: #00f2ff; }
-        body { background: #000; color: white; display: flex; flex-direction: column; align-items: center; min-height: 100vh; margin: 0; }
-        .grid-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 30px; padding: 40px; width: 100%; max-width: 1600px; justify-items: center; }
-        .card { width: 340px; height: 620px; border-radius: 50px; background: #080808; border: 1px solid rgba(255,255,255,0.05); position: relative; overflow: hidden; display: flex; flex-direction: column; justify-content: flex-end; padding-bottom: 50px; transition: 0.5s; align-items: center; }
-        .card:hover { border-color: var(--neon); box-shadow: 0 0 40px var(--neon); transform: translateY(-10px); }
-        .bg-img { position: absolute; top:0; left:0; width:100%; height:100%; background-size: cover; background-position: center; opacity: 0.3; z-index: -1; }
-        .neon-btn { border: 1px solid var(--neon); color: var(--neon); display: block; width: 240px; margin: 8px auto; padding: 14px; border-radius: 20px; font-size: 10px; font-weight: 900; text-transform: uppercase; text-align: center; text-decoration: none; transition: 0.3s; }
-        .neon-btn:hover { background: var(--neon); color: black; box-shadow: 0 0 20px var(--neon); }
+        body { background: #000; color: white; display: flex; flex-direction: column; align-items: center; min-height: 100vh; font-family: 'Orbitron', sans-serif; }
+        .grid-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; padding: 40px; width: 100%; max-width: 1200px; }
+        .v-btn { border: 2px solid #c5a059; color: #c5a059; padding: 20px; text-align: center; border-radius: 15px; transition: 0.5s; text-decoration: none; font-size: 1.5rem; }
+        .v-btn:hover { background: #c5a059; color: black; box-shadow: 0 0 30px #c5a059; transform: scale(1.05); }
+        .v3-special { border-color: #0047ab; color: #0047ab; }
+        .v3-special:hover { background: #0047ab; color: white; box-shadow: 0 0 30px #0047ab; }
     </style>
 </head>
 <body>
-    <nav class="p-12 text-center">
-        <h1 style="font-size: 35px; font-weight: 900; font-family: 'Orbitron';">TITAN <span style="color:var(--neon)">GATEWAY</span></h1>
-    </nav>
-
+    <h1 class="mt-20 text-5xl mb-12">TITAN <span class="text-[#c5a059]">GATEWAY</span></h1>
     <div class="grid-container">
-        <div class="card">
-            <div class="bg-img" style="background-image: url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800');"></div>
-            <h2 class="text-4xl font-black mb-6">REAL ESTATE</h2>
-            <a href="royal_v1.html" class="neon-btn">ROYAL V1</a>
-            <a href="royal_v2.html" class="neon-btn">ROYAL V2</a>
-            <a href="royal_v3.html" class="neon-btn">ROYAL V3</a>
-            <a href="royal_v4.html" class="neon-btn" style="border-color: #d4af37; color: #d4af37;">ROYAL V4 (PREMIUM)</a>
-        </div>
+        <a href="royal_v1.html" class="v-btn">ROYAL V1</a>
+        <a href="royal_v2.html" class="v-btn">ROYAL V2</a>
+        <a href="royal_v3.html" class="v-btn v3-special">ROYAL V3 (BLUE)</a>
+        <a href="royal_v4.html" class="v-btn">ROYAL V4</a>
     </div>
 </body>
 </html>
