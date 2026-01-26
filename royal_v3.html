@@ -3,43 +3,82 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TITAN ROYAL V3 | الإمبراطورية الكاملة</title>
+    <title>TITAN ROYAL V3 | العواصم العالمية</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&family=Cinzel:wght@900&display=swap" rel="stylesheet">
     <style>
-        body { background: #050505; color: #fff; font-family: 'Cairo', sans-serif; scroll-behavior: smooth; }
-        .gold { color: #c5a059; font-family: 'Cinzel'; }
-        .glass { background: rgba(255,255,255,0.03); backdrop-filter: blur(15px); border: 1px solid rgba(197, 160, 89, 0.2); }
-        .hero { height: 100vh; background: linear-gradient(rgba(0,0,0,0.8), #050505), url('https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1920'); background-size: cover; background-position: center; display: flex; align-items: center; justify-content: center; text-align: center; }
+        :root { --gold: #c5a059; }
+        body { background: #000; color: #fff; font-family: 'Cairo', sans-serif; scroll-behavior: smooth; }
+        .gold-text { color: var(--gold); font-family: 'Cinzel'; }
+        .glass { background: rgba(255,255,255,0.02); border: 1px solid rgba(197, 160, 89, 0.1); backdrop-filter: blur(10px); }
+        .city-card { height: 500px; border-radius: 30px; overflow: hidden; position: relative; transition: 0.5s; }
+        .city-card:hover { transform: scale(1.02); border: 1px solid var(--gold); }
+        .city-img { width: 100%; height: 100%; object-fit: cover; opacity: 0.4; transition: 0.5s; }
+        .city-card:hover .city-img { opacity: 0.8; }
     </style>
 </head>
 <body>
-    <header class="hero">
-        <div>
-            <h1 class="text-7xl md:text-9xl font-black gold mb-6 tracking-tighter">ROYAL V3</h1>
-            <p class="text-xl md:text-2xl uppercase tracking-[0.5em] opacity-60 mb-12">إمبراطورية الأمس المستعادة بالكامل</p>
-            <div class="flex justify-center gap-6">
-                <a href="#details" class="px-12 py-4 bg-[#c5a059] text-black font-black uppercase text-xs rounded-full">تفاصيل الإمبراطورية</a>
-                <a href="index.html" class="px-12 py-4 border border-white text-white font-bold uppercase text-xs rounded-full">العودة للبوابة</a>
-            </div>
-        </div>
+
+    <header class="h-screen flex flex-col justify-center items-center text-center px-6">
+        <h1 class="text-7xl md:text-9xl font-black gold-text mb-6">GLOBAL TITAN</h1>
+        <p class="text-xl md:text-2xl uppercase tracking-[0.4em] opacity-70">المشروعات العالمية: باريس • لندن • أمريكا • روما</p>
+        <a href="#cities" class="mt-12 px-10 py-4 bg-[#c5a059] text-black font-black rounded-full uppercase text-xs">استعراض العواصم</a>
     </header>
 
-    <section id="details" class="py-24 px-10">
-        <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div class="glass p-10 rounded-[40px] text-center">
-                <h3 class="gold text-2xl mb-4 italic">المديرين والقيادة</h3>
-                <p class="text-gray-500 italic">كل الكروت والبيانات التي صممناها بالأمس.</p>
+    <section id="cities" class="py-24 px-10">
+        <h2 class="text-5xl font-black gold-text mb-16 text-center">مشروعاتنا حول العالم</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-7xl mx-auto">
+            <div class="city-card">
+                <img src="https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800" class="city-img">
+                <div class="absolute bottom-10 right-10">
+                    <h3 class="text-4xl font-black gold-text">باريس</h3>
+                    <p class="text-white font-bold">مشروع الرفاهية الفرنسي</p>
+                </div>
             </div>
-            <div class="glass p-10 rounded-[40px] text-center">
-                <h3 class="gold text-2xl mb-4 italic">الرسومات الهندسية</h3>
-                <p class="text-gray-500 italic">الخرائط والتصاميم الفنية V.3</p>
+            <div class="city-card">
+                <img src="https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800" class="city-img">
+                <div class="absolute bottom-10 right-10">
+                    <h3 class="text-4xl font-black gold-text">لندن</h3>
+                    <p class="text-white font-bold">التراث الإنجليزي الحديث</p>
+                </div>
             </div>
-            <div class="glass p-10 rounded-[40px] text-center">
-                <h3 class="gold text-2xl mb-4 italic">المشاريع الكبرى</h3>
-                <p class="text-gray-400 italic">صور القصور والمجمعات السكنية.</p>
+            <div class="city-card">
+                <img src="https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=800" class="city-img">
+                <div class="absolute bottom-10 right-10">
+                    <h3 class="text-4xl font-black gold-text">أمريكا</h3>
+                    <p class="text-white font-bold">ناطحات سحاب تايتان</p>
+                </div>
+            </div>
+            <div class="city-card">
+                <img src="https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800" class="city-img">
+                <div class="absolute bottom-10 right-10">
+                    <h3 class="text-4xl font-black gold-text">روما</h3>
+                    <p class="text-white font-bold">الفن الهندسي الإيطالي</p>
+                </div>
             </div>
         </div>
     </section>
+
+    <section class="py-24 px-10 bg-[#050505]">
+        <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-10">
+            <div class="glass p-10 rounded-[40px] text-right">
+                <h3 class="gold-text text-3xl mb-6 font-black">نبذة عن Titan</h3>
+                <p class="text-gray-400">إمبراطورية عالمية بدأت بحلم لتغيير خريطة العقارات والرسومات الهندسية في أهم عواصم العالم.</p>
+            </div>
+            <div class="glass p-10 rounded-[40px] text-right">
+                <h3 class="gold-text text-3xl mb-6 font-black">المدير العام</h3>
+                <p class="text-gray-400">قيادة طموحة تسعى للكمال في كل تفصيلة معمارية، من الأساس وحتى القمة.</p>
+            </div>
+            <div class="glass p-10 rounded-[40px] text-right">
+                <h3 class="gold-text text-3xl mb-6 font-black">تواصل معنا</h3>
+                <p class="text-gray-400">مكاتبنا مفتوحة في باريس ولندن والولايات المتحدة لخدمة عملائنا الملوك.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer class="py-10 text-center">
+        <a href="index.html" class="gold-text font-black uppercase tracking-widest text-xs">Back to Gateway</a>
+    </footer>
+
 </body>
 </html>
