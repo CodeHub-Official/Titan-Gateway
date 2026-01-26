@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TITAN ROYAL V3 | الإمبراطورية الكاملة</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&family=Cinzel:wght@900&display=swap" rel="stylesheet">
+    <style>
+        body { background: #050505; color: #fff; font-family: 'Cairo', sans-serif; scroll-behavior: smooth; }
+        .gold { color: #c5a059; font-family: 'Cinzel'; }
+        .glass { background: rgba(255,255,255,0.03); backdrop-filter: blur(15px); border: 1px solid rgba(197, 160, 89, 0.2); }
+        .hero { height: 100vh; background: linear-gradient(rgba(0,0,0,0.8), #050505), url('https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1920'); background-size: cover; background-position: center; display: flex; align-items: center; justify-content: center; text-align: center; }
+    </style>
+</head>
+<body>
+    <header class="hero">
+        <div>
+            <h1 class="text-7xl md:text-9xl font-black gold mb-6 tracking-tighter">ROYAL V3</h1>
+            <p class="text-xl md:text-2xl uppercase tracking-[0.5em] opacity-60 mb-12">إمبراطورية الأمس المستعادة بالكامل</p>
+            <div class="flex justify-center gap-6">
+                <a href="#details" class="px-12 py-4 bg-[#c5a059] text-black font-black uppercase text-xs rounded-full">تفاصيل الإمبراطورية</a>
+                <a href="index.html" class="px-12 py-4 border border-white text-white font-bold uppercase text-xs rounded-full">العودة للبوابة</a>
+            </div>
+        </div>
+    </header>
+
+    <section id="details" class="py-24 px-10">
+        <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div class="glass p-10 rounded-[40px] text-center">
+                <h3 class="gold text-2xl mb-4 italic">المديرين والقيادة</h3>
+                <p class="text-gray-500 italic">كل الكروت والبيانات التي صممناها بالأمس.</p>
+            </div>
+            <div class="glass p-10 rounded-[40px] text-center">
+                <h3 class="gold text-2xl mb-4 italic">الرسومات الهندسية</h3>
+                <p class="text-gray-500 italic">الخرائط والتصاميم الفنية V.3</p>
+            </div>
+            <div class="glass p-10 rounded-[40px] text-center">
+                <h3 class="gold text-2xl mb-4 italic">المشاريع الكبرى</h3>
+                <p class="text-gray-400 italic">صور القصور والمجمعات السكنية.</p>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
