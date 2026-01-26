@@ -1,8 +1,0 @@
-body { background: #f0faff; color: #00aaff; font-family: 'Cairo'; overflow: hidden; }
-.ice-shimmer { position: fixed; width: 100%; height: 100%; z-index: -1; background: linear-gradient(135deg, #f0faff 0%, #ffffff 100%); }
-.neural-flash { position: fixed; width:100%; height:100%; background:#000; opacity:0; z-index:100; animation: flash 15s infinite; }
-@keyframes flash { 0%, 98% { opacity:0; } 99% { opacity:0.1; } 100% { opacity:0; } }
-header { text-align: center; padding: 60px; }
-h1 { font-size: 3rem; font-weight: 900; letter-spacing: 5px; }
-.grid { display: flex; justify-content: center; padding: 50px; }
-.card { border: 1px solid #00aaff; padding: 80px; background: #fff; box-shadow: 0 0 50px rgba(0,170,255,0.1); border-radius: 50%; }

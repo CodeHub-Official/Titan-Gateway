@@ -1,1 +1,4 @@
 .vercel
+.cache/
+.npm/
+titan_memory/*.hash
