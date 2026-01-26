@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;500;700&display=swap');
+
+:root {
+    --primary: #00f3ff;
+    --gold: #ffd700;
+    --dark: #050505;
+    --glass: rgba(255, 255, 255, 0.08);
+    --border: rgba(255, 255, 255, 0.15);
+}
+
+/* Reset & Base */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { overflow-x: hidden; }
+body { 
+    background: var(--dark); 
+    color: #fff; 
+    font-family: 'Rajdhani', sans-serif; 
+    overflow-x: hidden;
+    width: 100%;
+}
+
+/* Mobile Friendly Header */
+header {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 15px 20px; border-bottom: 1px solid var(--border);
+    background: rgba(5, 5, 5, 0.95); position: sticky; top: 0; z-index: 1000;
+}
+.brand { font-family: 'Orbitron'; font-size: 1.2rem; font-weight: 900; }
+.brand span { color: var(--primary); }
+
+nav { display: flex; gap: 15px; }
+nav a { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; }
+nav a.active { color: var(--primary); }
+
+/* Responsive Hero */
+.hero {
+    min-height: 70vh; display: flex; flex-direction: column; justify-content: center; align-items: center;
+    background: radial-gradient(circle, #111 0%, #000 100%);
+    text-align: center; padding: 40px 20px;
+}
+.hero h1 { font-family: 'Orbitron'; font-size: 2.5rem; margin-bottom: 20px; line-height: 1.2; width: 100%; }
+.hero span { color: var(--gold); display: block; }
+.hero p { font-size: 1rem; color: #888; max-width: 100%; margin-bottom: 30px; line-height: 1.5; }
+
+/* Responsive Container */
+.container { width: 100%; max-width: 1200px; margin: 40px auto; padding: 0 20px; }
+.title { font-family: 'Orbitron'; font-size: 1.8rem; margin-bottom: 30px; border-left: 4px solid var(--primary); padding-left: 15px; }
+
+/* Grid System - Fixed for Mobile */
+.grid-3 { 
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); 
+    gap: 20px; 
+    width: 100%;
+}
+
+/* Enhanced Cards */
+.card {
+    background: var(--glass); border: 1px solid var(--border); padding: 20px;
+    transition: 0.3s; position: relative; width: 100%;
+}
+.card-img { 
+    height: 200px; background-color: #222; margin-bottom: 15px; 
+    background-size: cover; background-position: center; 
+}
+.card h3 { font-family: 'Orbitron'; font-size: 1.2rem; margin-bottom: 10px; }
+.price { font-size: 1.5rem; font-weight: 900; color: var(--gold); margin: 10px 0; }
+.specs { display: flex; flex-wrap: wrap; gap: 8px; font-size: 0.7rem; color: #aaa; margin-bottom: 15px; }
+.specs span { border: 1px solid #333; padding: 4px 8px; }
+
+/* Buttons */
+.btn {
+    display: inline-block; padding: 12px 30px; border: 1px solid var(--primary); 
+    color: var(--primary); font-family: 'Orbitron'; font-weight: bold; 
+    text-align: center; width: 100%; cursor: pointer; background: transparent;
+}
+.btn:hover { background: var(--primary); color: #000; }
+
+/* Footer */
+footer { padding: 40px 20px; text-align: center; border-top: 1px solid var(--border); font-size: 0.7rem; color: #555; }
+
+/* Tablet & Desktop Adjustments */
+@media (min-width: 768px) {
+    .hero h1 { font-size: 4rem; }
+    .brand { font-size: 1.5rem; }
+    nav { gap: 30px; }
+    nav a { font-size: 0.9rem; }
+    .btn { width: auto; }
+}

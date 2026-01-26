@@ -2,3 +2,5 @@
 .cache/
 .npm/
 titan_memory/*.hash
+.git-credentials
+.bash_history

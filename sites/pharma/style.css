@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;900&family=Rajdhani:wght@300;700&display=swap');
+:root { --primary: #00ffd5; --dark: #0a0a0a; --glass: rgba(255,255,255,0.05); }
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background: var(--dark); color:#fff; font-family:'Rajdhani'; overflow-x:hidden; }
+header { display:flex; justify-content:space-between; padding:20px; background:rgba(0,0,0,0.9); position:sticky; top:0; z-index:100; border-bottom:1px solid #222; }
+.brand { font-family:'Orbitron'; color:var(--primary); font-weight:900; }
+nav a { color:#fff; text-decoration:none; margin-left:15px; font-size:0.8rem; font-weight:700; }
+.hero { height:70vh; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; padding:20px; background:radial-gradient(circle, #111, #000); }
+.hero h1 { font-family:'Orbitron'; font-size:2.5rem; margin-bottom:15px; }
+.container { padding:40px 20px; max-width:1200px; margin:auto; }
+.grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:20px; }
+.card { background:var(--glass); border:1px solid #222; padding:20px; transition:0.3s; }
+.card:hover { border-color:var(--primary); transform:translateY(-5px); }
+.price { font-size:1.5rem; color:var(--primary); margin:15px 0; font-weight:900; }
+.btn { display:block; padding:15px; background:var(--primary); color:#000; text-align:center; text-decoration:none; font-family:'Orbitron'; font-weight:900; font-size:0.7rem; margin-top:10px; }
+footer { padding:40px; text-align:center; border-top:1px solid #222; color:#444; font-size:0.7rem; }
+@media (min-width:768px) { .hero h1 { font-size:4rem; } }

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TITAN ROYAL V3 | CODEHUB OFFICIAL</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Amiri&family=Lora&family=Orbitron:wght@700&display=swap');
+        
+        :root { 
+            --midnight: #00040a; 
+            --deep-blue: #000c1f;
+            --gold: #d4af37; 
+            --codehub-neon: #00d4ff;
+        }
+        
+        body { 
+            background: var(--midnight); 
+            color: white; 
+            font-family: 'Lora', serif; 
+            margin: 0; 
+            overflow-x: hidden;
+        }
+
+        .arabic { font-family: 'Amiri', serif; direction: rtl; }
+        .gold-text { color: var(--gold); }
+        .cinzel { font-family: 'Cinzel', serif; }
+        .codehub-font { font-family: 'Orbitron', sans-serif; }
+
+        /* OFFICIAL CODEHUB HEADER */
+        .official-header {
+            background: linear-gradient(to right, #000, var(--deep-blue));
+            border-bottom: 2px solid var(--gold);
+            padding: 10px 40px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+        }
+
+        /* FIX: Inquiry Box Container */
+        .inquiry-box { 
+            max-width: 650px; 
+            width: 90%; 
+            background: var(--deep-blue); 
+            border: 1px solid var(--gold); 
+            padding: 60px 40px; 
+            margin: 0 auto;
+            word-wrap: break-word; 
+            overflow: hidden;
+            position: relative;
+        }
+
+        .project-card {
+            background: var(--deep-blue);
+            border: 1px solid rgba(212,175,55,0.2);
+            transition: 0.5s;
+        }
+        .project-card:hover { border-color: var(--gold); box-shadow: 0 0 30px rgba(212,175,55,0.2); }
+
+        /* OFFICIAL CODEHUB FOOTER */
+        .official-footer {
+            background: #000;
+            border-top: 2px solid var(--gold);
+            padding: 40px 20px;
+            text-align: center;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="official-header">
+        <div class="flex items-center gap-4">
+            <div class="codehub-font text-white text-xl tracking-tighter">CODE<span class="text-[#00d4ff]">HUB</span></div>
+            <div class="h-6 w-[1px] bg-gold/50"></div>
+            <div class="cinzel gold-text text-[10px] tracking-[3px]">TITAN DIVISION</div>
+        </div>
+        <div class="flex gap-6 items-center">
+            <button onclick="setL('en')" class="text-[10px] gold-text font-bold">EN</button>
+            <button onclick="setL('ar')" class="text-[10px] gold-text font-bold">AR</button>
+            <div class="text-[10px] text-white/50 codehub-font uppercase">Secure Access</div>
+        </div>
+    </header>
+
+    <section class="h-screen flex justify-center items-center text-center w-full" 
+             style="background: radial-gradient(circle, var(--deep-blue) 0%, var(--midnight) 100%);">
+        <div class="max-w-4xl px-4 mt-20">
+            <div class="codehub-font text-[#00d4ff] text-xs tracking-[10px] mb-4 uppercase">Official Deployment</div>
+            <h1 id="hT" class="text-6xl md:text-8xl font-bold cinzel mb-6 uppercase">Royal <span class="gold-text">V3</span></h1>
+            <p id="hS" class="tracking-[15px] uppercase text-[11px] opacity-60">Elite Midnight Architecture</p>
+        </div>
+    </section>
+
+    <section id="projects" class="py-32 w-full px-6 bg-[#00040a]">
+        <h2 id="pT" class="text-4xl gold-text cinzel text-center mb-20 uppercase tracking-[12px]">The Sovereign Assets</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-16 max-w-7xl mx-auto">
+            <div class="project-card">
+                <img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1200" class="h-[400px] w-full object-cover opacity-80 hover:opacity-100 transition duration-700">
+                <div class="p-10 text-center">
+                    <h3 class="gold-text cinzel text-2xl">Project Paris</h3>
+                    <p class="text-[9px] opacity-40 tracking-[5px] mt-2">CODEHUB ESTATE 001</p>
+                </div>
+            </div>
+            <div class="project-card">
+                <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200" class="h-[400px] w-full object-cover opacity-80 hover:opacity-100 transition duration-700">
+                <div class="p-10 text-center">
+                    <h3 class="gold-text cinzel text-2xl">Project London</h3>
+                    <p class="text-[9px] opacity-40 tracking-[5px] mt-2">CODEHUB ESTATE 002</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-40 px-6 text-center w-full">
+        <div class="inquiry-box">
+            <div class="absolute top-0 left-0 w-full h-[2px] bg-gradient-to-right from-transparent via-gold to-transparent"></div>
+            <h2 id="conT" class="text-3xl gold-text cinzel mb-10 uppercase tracking-[5px]">Private Inquiry</h2>
+            <p id="conP" class="opacity-70 mb-10 text-sm italic">Reserved for sovereign clients and institutional partners.</p>
+            <p class="gold-text text-xl codehub-font mb-10 border-b border-gold/20 pb-4">CONCIERGE@TITANROYAL.COM</p>
+            <div class="codehub-font text-[9px] text-[#00d4ff] tracking-[4px]">PROTECTED BY CODEHUB ENCRYPTION</div>
+        </div>
+    </section>
+
+    <footer class="official-footer">
+        <div class="codehub-font text-white text-2xl mb-4 tracking-tighter">CODE<span class="text-[#00d4ff]">HUB</span></div>
+        <p class="text-[9px] gold-text cinzel tracking-[5px] mb-8">TITAN DIVISION | GLOBAL REAL ESTATE ADVISORY</p>
+        <div class="flex justify-center gap-8 text-[10px] opacity-40 uppercase tracking-widest">
+            <span>Security</span>
+            <span>Privacy</span>
+            <span>Terms</span>
+        </div>
+        <div class="mt-10 text-[8px] opacity-30">© 2026 CODEHUB SYSTEMS. ALL RIGHTS RESERVED.</div>
+    </footer>
+
+    <script>
+        const dict = {
+            en: {
+                hT: "Royal <span class='gold-text'>V3</span>", hS: "Elite Midnight Architecture",
+                pT: "The Sovereign Assets", conT: "Private Inquiry",
+                conP: "Reserved for sovereign clients and institutional partners."
+            },
+            ar: {
+                hT: "رويال <span class='gold-text'>V3</span>", hS: "هندسة النخبة باللون الليلي",
+                pT: "الأصول السيادية", conT: "استفسار خاص",
+                conP: "مخصص للعملاء السياديين والشركاء المؤسسيين."
+            }
+        };
+
+        function setL(l) {
+            document.body.className = l === 'ar' ? 'arabic' : '';
+            const d = dict[l];
+            document.getElementById('hT').innerHTML = d.hT;
+            document.getElementById('hS').innerText = d.hS;
+            document.getElementById('pT').innerText = d.pT;
+            document.getElementById('conT').innerText = d.conT;
+            document.getElementById('conP').innerText = d.conP;
+        }
+    </script>
+</body>
+</html>

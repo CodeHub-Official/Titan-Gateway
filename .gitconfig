@@ -1,0 +1,12 @@
+[user]
+	email = your-email@example.com
+	name = CodeHub-Titan
+[http]
+	postBuffer = 524288000
+	lowSpeedLimit = 0
+	lowSpeedTime = 999999
+	sslVerify = false
+[ai]
+	addressFamily = ipv4
+[credential]
+	helper = store
