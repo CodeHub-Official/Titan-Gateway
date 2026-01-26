@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Titan Royal V4 | Anti-Drift System</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Lora&display=swap');
+        :root { --gold: #d4af37; --bg: #050505; }
+        html { scroll-behavior: smooth; overflow-x: hidden; width: 100%; }
+        
+        body { 
+            background: var(--bg); 
+            color: white; 
+            font-family: 'Lora', serif; 
+            margin: 0; 
+            display: flex; 
+            flex-direction: column; 
+            align-items: center; 
+            width: 100%; 
+            overflow-x: hidden; 
+        }
+
+        nav {
+            left: 0;
+            right: 0;
+            width: 100%;
+            max-width: 100%;
+        }
+
+        .gold-text { color: var(--gold); }
+        .cinzel { font-family: 'Cinzel', serif; }
+        .nav-link { font-size: 10px; letter-spacing: 2px; transition: 0.3s; cursor: pointer; text-transform: uppercase; }
+        .nav-link:hover { color: var(--gold); }
+        
+        .card { background: #0a0a0a; border: 1px solid rgba(212,175,55,0.1); padding: 20px; transition: 0.5s; width: 100%; height: 100%; display: flex; flex-direction: column; align-items: center; cursor: pointer; }
+        .card:hover { border-color: var(--gold); transform: translateY(-10px); }
+        
+        #modal { display: none; position: fixed; inset: 0; z-index: 9999; background: rgba(0,0,0,0.98); overflow-y: auto; width: 100%; }
+        
+        .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; padding: 20px; max-width: 1200px; width: 100%; margin: 0 auto; }
+        .gallery-item { border: 1px solid #222; position: relative; height: 300px; width: 100%; }
+        .gallery-item img { width: 100%; height: 100%; object-fit: cover; }
+        
+        .label { position: absolute; bottom: 0; background: rgba(0,0,0,0.85); width: 100%; font-size: 12px; padding: 12px; color: var(--gold); text-align: center; border-top: 1px solid var(--gold); left: 0; right: 0; }
+        .close { position: fixed; top: 20px; right: 30px; font-size: 50px; color: var(--gold); cursor: pointer; z-index: 10000; }
+        
+        footer { border-top: 1px solid rgba(212,175,55,0.1); padding: 60px 20px; text-align: center; background: #030303; width: 100%; }
+        .hub-seal { border: 1px solid var(--gold); padding: 5px 15px; display: inline-block; margin-top: 20px; font-size: 10px; letter-spacing: 3px; color: var(--gold); opacity: 0.8; }
+        
+        section { width: 100%; max-width: 1400px; display: flex; flex-direction: column; align-items: center; }
+    </style>
+</head>
+<body>
+
+    <div id="modal">
+        <span class="close" onclick="closeM()">&times;</span>
+        <div class="pt-24 text-center w-full">
+            <h2 id="mT" class="text-4xl gold-text cinzel mb-2 uppercase"></h2>
+            <p id="mL" class="text-[11px] opacity-50 tracking-[6px] uppercase"></p>
+        </div>
+        <div class="gallery" id="gG"></div>
+    </div>
+
+    <nav class="fixed p-6 z-50 flex justify-between items-center bg-black/90 backdrop-blur-xl border-b border-white/5">
+        <div class="text-xl gold-text cinzel font-bold tracking-tighter">TITAN ROYAL V4</div>
+        <div class="hidden md:flex gap-8 absolute left-1/2 transform -translate-x-1/2">
+            <a href="#about" class="nav-link">About</a>
+            <a href="#collection" class="nav-link">Collection</a>
+            <a href="#team" class="nav-link">Management</a>
+            <a href="#contact" class="nav-link">Contact</a>
+        </div>
+        <div class="text-[10px] gold-text font-bold tracking-[3px]">PREMIUM ACCESS</div>
+    </nav>
+
+    <section class="h-screen justify-center px-6 bg-[url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600')] bg-cover bg-fixed bg-center relative w-full">
+        <div class="bg-black/70 p-12 backdrop-blur-md border border-gold/20 max-w-4xl text-center z-10">
+            <h1 class="text-5xl md:text-8xl font-bold cinzel mb-6 uppercase">Titan <span class="gold-text">Royal</span></h1>
+            <p class="tracking-[12px] uppercase text-[10px] opacity-90 mb-8">Architectural Sovereign Edition V4</p>
+            <a href="#collection" class="border border-gold px-10 py-3 text-[10px] tracking-[4px] gold-text hover:bg-gold hover:text-black transition uppercase cinzel inline-block">Explore Legacy</a>
+        </div>
+    </section>
+
+    <section id="about" class="py-32 px-6 bg-[#030303] text-center">
+        <h2 class="text-3xl gold-text cinzel mb-10 uppercase">Our Global Legacy</h2>
+        <p class="max-w-3xl text-lg opacity-80 leading-relaxed italic mx-auto">"At Titan Royal, we don't just build homes; we craft legacies. Every stone is laid with the intention of outlasting time itself."</p>
+    </section>
+
+    <section id="collection" class="py-24 px-4 text-center w-full">
+        <h2 class="text-3xl gold-text cinzel mb-16 uppercase">The Global Collection</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-7xl mx-auto w-full px-4">
+            <div class="card" onclick="openM('p1')"><img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800" class="h-64 w-full object-cover mb-6 grayscale hover:grayscale-0 transition-all duration-700"><h3 class="gold-text cinzel text-center text-lg mt-auto">Grand Pavilion</h3></div>
+            <div class="card" onclick="openM('p2')"><img src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800" class="h-64 w-full object-cover mb-6 grayscale hover:grayscale-0 transition-all duration-700"><h3 class="gold-text cinzel text-center text-lg mt-auto">Imperial Villa</h3></div>
+            <div class="card" onclick="openM('p3')"><img src="https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=800" class="h-64 w-full object-cover mb-6 grayscale hover:grayscale-0 transition-all duration-700"><h3 class="gold-text cinzel text-center text-lg mt-auto">The Crown</h3></div>
+            <div class="card" onclick="openM('p4')"><img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800" class="h-64 w-full object-cover mb-6 grayscale hover:grayscale-0 transition-all duration-700"><h3 class="gold-text cinzel text-center text-lg mt-auto">The Penthouse</h3></div>
+        </div>
+    </section>
+
+    <section id="team" class="py-24 px-6 bg-[#080808] text-center w-full">
+        <h2 class="text-3xl gold-text cinzel mb-16 uppercase">Executive Leadership</h2>
+        <div class="flex flex-wrap justify-center gap-16 max-w-5xl mx-auto">
+            <div class="w-48 group flex flex-col items-center">
+                <div class="w-40 h-40 mb-6 border border-gold/20 overflow-hidden grayscale group-hover:grayscale-0 transition duration-700">
+                    <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400" class="w-full h-full object-cover">
+                </div>
+                <h4 class="gold-text cinzel">Titan Alpha</h4>
+                <p class="text-[9px] uppercase opacity-50 tracking-[3px] mt-2">Managing Director</p>
+            </div>
+            <div class="w-48 group flex flex-col items-center">
+                <div class="w-40 h-40 mb-6 border border-gold/20 overflow-hidden grayscale group-hover:grayscale-0 transition duration-700">
+                    <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400" class="w-full h-full object-cover">
+                </div>
+                <h4 class="gold-text cinzel">Victoria Royal</h4>
+                <p class="text-[9px] uppercase opacity-50 tracking-[3px] mt-2">Head Architect</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="py-24 px-6 text-center">
+        <h2 class="text-3xl gold-text cinzel mb-10 uppercase">Private Inquiry</h2>
+        <div class="max-w-xl mx-auto bg-[#0a0a0a] border border-gold/10 p-12 w-full">
+            <p class="opacity-70 mb-8 text-sm tracking-wide">Reserved for institutional inquiries and global acquisitions.</p>
+            <p class="gold-text text-lg cinzel mb-4">concierge@titanroyal.com</p>
+            <div class="w-16 h-[1px] bg-gold/30 mb-4 mx-auto"></div>
+            <p class="tracking-[6px] opacity-80 text-xs">+1 800 TITAN ROYAL</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="cinzel gold-text text-sm mb-4 tracking-[5px]">TITAN ROYAL ESTATE</div>
+        <div class="hub-seal cinzel">CODEHUB CERTIFIED</div>
+        <p class="text-[9px] opacity-40 uppercase tracking-[2px] mt-6">&copy; 2026 Architectural Sovereign. All Rights Reserved.</p>
+    </footer>
+
+    <script>
+        const projects = {
+            p1: { t: "Grand Pavilion", l: "Paris", imgs: [{u:"https://images.unsplash.com/photo-1600607687920-4e2a09cf159d", n:"EXTERIOR"}, {u:"https://images.unsplash.com/photo-1600210492486-724fe5c67fb0", n:"INTERIOR"}, {u:"https://images.unsplash.com/photo-1584622650111-993a426fbf0a", n:"POOL"}, {u:"https://images.unsplash.com/photo-1574362848149-11496d93a7c7", n:"BLUEPRINT"}]},
+            p2: { t: "Imperial Villa", l: "Rome", imgs: [{u:"https://images.unsplash.com/photo-1600573472591-ee6b68d14c68", n:"EXTERIOR"}, {u:"https://images.unsplash.com/photo-1600121848594-d8644e57abab", n:"INTERIOR"}, {u:"https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7", n:"POOL"}, {u:"https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6", n:"BLUEPRINT"}]},
+            p3: { t: "The Crown", l: "London", imgs: [{u:"https://images.unsplash.com/photo-1512918766775-d14493390f7a", n:"EXTERIOR"}, {u:"https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf", n:"INTERIOR"}, {u:"https://images.unsplash.com/photo-1519449556851-5720b33024e7", n:"POOL"}, {u:"https://images.unsplash.com/photo-1506744038136-46273834b3fb", n:"BLUEPRINT"}]},
+            p4: { t: "The Penthouse", l: "New York", imgs: [{u:"https://images.unsplash.com/photo-1600607687644-c7171b42498f", n:"EXTERIOR"}, {u:"https://images.unsplash.com/photo-1560448204-603b3fc33ddc", n:"INTERIOR"}, {u:"https://images.unsplash.com/photo-1554995207-c18c203602cb", n:"POOL"}, {u:"https://images.unsplash.com/photo-1449156001437-af90bb451777", n:"BLUEPRINT"}]}
+        };
+
+        function openM(id) {
+            const p = projects[id];
+            document.getElementById('mT').innerText = p.t;
+            document.getElementById('mL').innerText = p.l;
+            document.getElementById('gG').innerHTML = p.imgs.map(i => `<div class="gallery-item"><img src="${i.u}?w=800"><div class="label cinzel">${i.n}</div></div>`).join('');
+            document.getElementById('modal').style.display = 'block';
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeM() { document.getElementById('modal').style.display = 'none'; document.body.style.overflow = 'auto'; }
+    </script>
+</body>
+</html>
