@@ -2,3 +2,5 @@ alias run-titan='python ~/Titan-Lab/ant_army.py && cd /data/data/com.termux/file
 alias run-titan='python ~/Titan-Lab/ant_army.py && cd ~ && git add . && git commit -m "Auto-Backup Titan Intel" && git push origin main'
 alias run-titan='python ~/Titan-Lab/ant_army.py && cd ~ && git add . && git commit -m "Auto-Backup Titan Intel" && git push origin main'
 alias run-titan='python ~/Titan-Lab/ant_army.py && cd ~ && git add . && git commit -m "Auto-Backup Titan Intel" && git push origin main'
+alias codehub='~/codehub.sh'
+alias map='~/show_map.sh'
