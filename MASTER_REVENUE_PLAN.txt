@@ -1,0 +1,94 @@
+=== 👑 THE IMPERIAL REVENUE MASTER PLAN 👑 ===
+
+--- Tier_SSS (High Priority to Low) ---
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AA45EA6F709541C21015829DE24AFC34 | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AE490C9963AC6DC01966CF7BDEA2436 | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:BF031174ECFECAAD6AE4684AB0D6431838 | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:CE79B9C8AAE265C5B771B9BC2 | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:DD50EE2683BD6FAE4974745C8119E5 | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:DE75CD6F4D11D67030746E6E63 | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:DQ96RBAAAEEEEAAAQQQQAABBBBAAAEEEC | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:EA1374D679306CDEDE0A19CB | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:ED18A64863FB94A3A3DC5630B1A9DE77DF | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:EL53VFVXDEOGAJWKKWWNI | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:FA00000000FFAECBFA | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:FD50151CD88ABC125035BA0AED6A3C670D | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:GK639RW4RQAABBBBAAAEEEEAAAQQQQACB | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:HZ22OUY8KSA7KQ1EWY9Q | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:KJ67GBBFYJLNRAW32LW5YPY | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:NC44ODZDMTU1NC42OSA | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:NC45NTE3IDE2NS45N | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:NS44NCA1OC40NDU1IDE1MD | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:OC41NDA2IDE3OS42NCA | EST. VALUE: $500
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:OS40MTA4IDE0TDI1IDE5L | EST. VALUE: $500
+... and 3 more assets in this tier.
+
+--- Tier_SS (High Priority to Low) ---
+[🌐 TECH] TYPE:Endpoints | DATA:http://admin.google.com | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://admin.google.com/.env | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://admin.google.com/backup.sql | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://admin.google.com/config.php | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://admin.google.com/wp-config.php | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://appdeum.banquemisr.com:7001'; | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://console.cloud.google.com | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://console.cloud.google.com/.env | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://console.cloud.google.com/.git/config | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://facebook.com | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://facebook.com/.env | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://facebook.com/backup.sql | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://facebook.com/config.php | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://facebook.com/wp-config.php | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://fonts.googleapis.com/css?family=Montserrat%3A400%2C700&amp;ver=4.6.1' | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://google.com | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://graph.facebook.com | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://groups.google.com | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://maps.google.com.eg | EST. VALUE: $1,000/Bundle
+[🌐 TECH] TYPE:Endpoints | DATA:http://msdn.microsoft.com | EST. VALUE: $1,000/Bundle
+... and 4831 more assets in this tier.
+
+--- Tier_S (High Priority to Low) ---
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AA10A1824CE88116BB0 | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AA226AA3A7181457B7606A71145BA88 | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AA56ADAAQAAAABAAAAK | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AB02C4C50884C56A9E | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AB13CFA14F9885894D3E88501634C | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AB13CFA14F9885894D3E88501634F | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AB13CFA14F9885894D3E88501634ID | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AB77FA4C49562E3 | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AC2246109FB8CE93A6080700E3DD0EDCC1 | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AC620E2BEAD58F08769DA5DB653133BF13 | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AC68F6F1C361EE01437E18F02D60FB | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AD06H7SNS78IMS1 | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AD36B13F3B8638499B43 | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AD63C729A7361E085B624F | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AF0686D02C13C26F00 | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AF29B349D3504416EF891B473387CD2EA9 | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AF74DBDBA0A4C35F8E42CA7C | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AF74DBDBA0A4C35F8E42CA7F | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AF74DBDBA0A4C35F8E42CA7ID | EST. VALUE: $150
+[🏦 BANK] TYPE:IBAN_Accounts | DATA:AF85BC56431F8D2FA5E3117DB806 | EST. VALUE: $150
+... and 111 more assets in this tier.
+
+--- Tier_A (High Priority to Low) ---
+[🌐 TECH] TYPE:Endpoints | DATA:http://2glux.com/projects/jumi">Jumi</a>.</noscript></body> | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://2glux.com/projects/jumi">Jumi</a>.</noscript></div></div></div></div><div | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://2glux.com/projects/jumi">Jumi</a>.</noscript></div></div></div><div | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://LL8IZ711CS-dsn.algolia.net"/><link | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://ads.twitter.com | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://adserver.webads.nl/adclick/"]',"#semilo-lrectangle"]},{key:23,list:["#LxWerbeteaser",'a[href^="http://www.kontakt-vermittler.de/?wm="]',".werbung301",".ads_bueroklammer","#Werbung_Sky"]}, | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://affiliazioniads.snai.it/"]','a[href^="https://adserver.html.it/"]','a[href^="https://affiliazioniads.snai.it/"]']},{key:25,list:[".reklamos_tarpas",".reklamos_nuorodos",'img[alt="Reklaminis | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://angular.io/license | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://au.canadiansolar.com/">Australia</option> | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://auspost.com.au/", | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://axiabanners.exodus.gr/"]','A[href*="http://interactive.forthnet.gr/click?"]',"DIV.agores300","TABLE.advright"]},{key:33,list:['A[href*="ad.eval.hu"]','A[href*="ad.netmedia.hu"]','A[href*="daserver.ultraweb.hu"]',"#cemp_doboz",".optimonk-iframe-container"]},{key:34,list:['.alert-info[data-block-track*="CookieNotice"]',".ModuleTemplateCookieIndicator", | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://bet-staging.office.ponte.hu/sites/bet-site/Magyar/Esemenyek/Jelentkezesi-feltetelek\" | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://biolab.applifyme.comfavicon-32x32.png"> | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://bit.ly/2IjWDjE" | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://blog.linkedin.com" | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://blog.schema.org | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://breadfast.com/contact-us/" | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://breadfast.com/frequently-asked-questions/" | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://catalogue.auspost.com.au/" | EST. VALUE: $50
+[🌐 TECH] TYPE:Endpoints | DATA:http://cdn.appdynamics.com",e=b.userConf.adrumExtUrlHttps||"https://cdn.appdynamics.com"; | EST. VALUE: $50
+... and 26548 more assets in this tier.
+
