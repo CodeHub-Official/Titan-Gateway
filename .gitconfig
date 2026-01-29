@@ -9,4 +9,4 @@
 [ai]
 	addressFamily = ipv4
 [credential]
-	helper = store
+	protectProtocol = false
