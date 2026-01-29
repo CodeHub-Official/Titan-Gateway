@@ -1,0 +1,42 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/npm
+1 info using npm@11.6.2
+2 info using node@v25.3.0
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/.npmrc
+5 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+6 verbose title npm i vercel@latest
+7 verbose argv "i" "--global" "vercel@latest"
+8 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2026-01-28T14_30_33_641Z-
+9 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2026-01-28T14_30_33_641Z-debug-0.log
+10 silly packumentCache heap:808452096 maxSize:202113024 maxEntrySize:101056512
+11 silly logfile done cleaning log files
+12 silly packumentCache corgi:https://registry.npmjs.org/vercel cache-miss
+13 http fetch GET https://registry.npmjs.org/vercel attempt 1 failed with ECONNRESET
+14 http fetch GET https://registry.npmjs.org/vercel attempt 2 failed with ECONNRESET
+15 http fetch GET https://registry.npmjs.org/vercel attempt 3 failed with ECONNRESET
+16 verbose type system
+17 verbose stack FetchError: request to https://registry.npmjs.org/vercel failed, reason: Client network socket disconnected before secure TLS connection was established
+17 verbose stack     at ClientRequest.<anonymous> (/data/data/com.termux/files/usr/lib/node_modules/npm/node_modules/minipass-fetch/lib/index.js:130:14)
+17 verbose stack     at ClientRequest.emit (node:events:508:28)
+17 verbose stack     at emitErrorEvent (node:_http_client:108:11)
+17 verbose stack     at _destroy (node:_http_client:962:9)
+17 verbose stack     at onSocketNT (node:_http_client:982:5)
+17 verbose stack     at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+18 error code ECONNRESET
+19 error errno ECONNRESET
+20 error network request to https://registry.npmjs.org/vercel failed, reason: Client network socket disconnected before secure TLS connection was established
+21 error network This is a problem related to network connectivity.
+21 error network In most cases you are behind a proxy or have bad network settings.
+21 error network
+21 error network If you are behind a proxy, please make sure that the
+21 error network 'proxy' config is set properly.  See: 'npm help config'
+22 silly unfinished npm timer reify 1769610637519
+23 silly unfinished npm timer reify:loadTrees 1769610637540
+24 silly unfinished npm timer idealTree:userRequests 1769610637599
+25 verbose cwd /data/data/com.termux/files/home/Titan-Lab
+26 verbose os Linux 4.19.198-28701120-abA047FXXSDEYL1
+27 verbose node v25.3.0
+28 verbose npm  v11.6.2
+29 verbose exit 1
+30 verbose code 1
+31 error A complete log of this run can be found in: /data/data/com.termux/files/home/.npm/_logs/2026-01-28T14_30_33_641Z-debug-0.log

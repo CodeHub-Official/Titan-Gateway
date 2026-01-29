@@ -1,6 +1,4 @@
-.vercel
-.cache/
-.npm/
-titan_memory/*.hash
-.git-credentials
-.bash_history
+venv/
+__pycache__/
+*.pyc
+.env
