@@ -1,1 +1,15 @@
-{"version": 2, "builds": [{"src": "titan_membership.py", "use": "@vercel/python"}], "routes": [{"src": "/(.*)", "dest": "titan_membership.py"}]}
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "titan_membership.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "titan_membership.py"
+    }
+  ]
+}
