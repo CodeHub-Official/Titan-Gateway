@@ -1,0 +1,770 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	
+	
+			<title>Directory of Open Access Books</title>
+	<link rel="stylesheet" href="/static-assets/css/styles.css?v=1.10"/>
+	<link rel="stylesheet" href="/static-assets/css/contenttypes.css?v=1.10"/>
+	
+	<link rel="stylesheet" href="/static-assets/fontawesome-pro-6.latest-web/css/all.min.css?v=1.00"/>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.4/dist/css/bulma-carousel.min.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+	
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">	
+	
+    <meta property="og:title" content="Directory of Open Access Books"/>
+    <meta property="og:image" content="//doabooks.org/static-assets/images/layout/doablogo-banner.png"/>
+    
+	
+</head>
+
+<body class="doab-home">
+
+	<!--
+		HEADER
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+	<header id="Doab-header">
+
+		<div class="container">
+
+			<!-- logo, search/deposit/join -->
+			<nav class="doab-topnav" role="navigation">
+
+				<div class="level topnav">
+
+					<div class="level-left">
+
+						<a href="/en">
+							<img src="/static-assets/images/layout/doab.png" width="250" alt="Logo Doab" class="doab-logo">
+							<div class="is-hidden">
+								<span>directory of</span><span>open access</span><span>books</span>
+							</div>
+						</a>
+
+					</div>
+
+					<div class="level-right">
+
+						<ul class="buttons">
+
+							<li>
+								<a href="https://directory.doabooks.org/?locale-attribute=en"
+								   class="button doab-btn-search">Search</a>
+							</li>
+
+							<li>
+								<a href="https://directory.doabooks.org/login?locale-attribute=en"
+								   class="button doab-btn-join">Publisher login</a>
+							</li>
+							
+							
+							
+							<li>
+								<div class="control has-icons-left">
+									<div class="select doab-langswitch">
+										<select name="setlanguage"
+										    onchange="window.location.href=this.options[this.selectedIndex].value">
+											<option value="/setlanguage?lang=en">Language </option>
+											<option value="/setlanguage?lang=en">English</option>
+											<option value="/setlanguage?lang=fr">Français</option>
+										</select>
+									</div>
+									<span class="icon is-left">
+										<i class="doab-lang-icon fas fa-globe"></i>
+									</span>
+								</div>	
+							</li>						
+
+						</ul>
+
+					</div>
+
+				</div>
+
+			</nav>
+
+		</div><!-- /container -->
+
+		<nav class="navbar doab-mainnav" role="navigation">
+
+			<div class="container">
+
+				<div class="navbar-brand">
+
+					<!-- hamburger -->
+					<a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarMain">
+						<span aria-hidden="true"></span> <span aria-hidden="true"></span> <span aria-hidden="true"></span>
+					</a>
+
+				</div>
+
+				<div id="navbarMain" class="navbar-menu">
+
+					<ul class="navbar-start">
+
+						<li class="doab-nav-dropdown">
+							
+
+	<a href="/en/librarians"
+	   class="navbar-item navbar-link">Librarians</a>
+	
+	<div class="navbar-dropdown">
+		<div class="container is-fluid">
+			<ul>
+				<li>
+					<a href="/en/librarians/metadata-harvesting-and-content-dissemination"
+					   class="navbar-item">DOAB metadata</a>
+				</li>
+				<li>
+					<a href="/en/librarians/how-to-become-a-doab-supporter"
+					   class="navbar-item">Support DOAB</a>
+				</li>
+				<li>
+					<a href="/en/librarians/doab-members"
+					   class="navbar-item">List of DOAB Supporters</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+
+						</li>
+
+						<li class="doab-nav-dropdown">
+							
+
+	<a href="/en/researchers"
+	   class="navbar-item navbar-link">Researchers</a>
+	
+	<div class="navbar-dropdown">
+		<div class="container is-fluid">
+			<ul>
+				<li>
+					<a href="/en/researchers/oa-books-toolkit"
+					   class="navbar-item">OA Books Toolkit</a>
+				</li>
+				<li>
+					<a href="/en/researchers/full-faq"
+					   class="navbar-item">FAQ</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+
+						</li>
+
+						<li class="doab-nav-dropdown">
+							
+
+	<a href="/en/publishers"
+	   class="navbar-item navbar-link">Publishers</a>
+	
+	<div class="navbar-dropdown">
+		<div class="container is-fluid">
+			<ul>
+				<li>
+					<a href="/en/publishers/join-doab"
+					   class="navbar-item">Join DOAB: Requirements and Application</a>
+				</li>
+				<li>
+					<a href="/en/publishers/guidance"
+					   class="navbar-item">Guidance for participating publishers</a>
+				</li>
+				<li>
+					<a href="/en/publishers/prism"
+					   class="navbar-item">PRISM: Peer Review Information Service for Monographs</a>
+				</li>
+				<li>
+					<a href="/en/publishers/sponsor-doab"
+					   class="navbar-item">Sponsor DOAB</a>
+				</li>
+				<li>
+					<a href="/en/publishers/doab-sponsors"
+					   class="navbar-item">DOAB Sponsors</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+
+						</li>
+
+						<li class="doab-nav-dropdown">
+							
+
+	<a href="/en/trusted-platform-network"
+	   class="navbar-item navbar-link">Trusted Platform Network</a>
+	
+	<div class="navbar-dropdown">
+		<div class="container is-fluid">
+			<ul>
+				<li>
+					<a href="/en/trusted-platform-network/doab-trusted-platform-network"
+					   class="navbar-item">DOAB Trusted Platform Network</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+
+						</li>
+
+					</ul>
+					
+					<ul class="navbar-end doab-nav-right">
+
+						<li class="doab-nav-dropdown">
+							
+
+	<a href="/en/doab"
+	   class="navbar-item navbar-link">About</a>
+	
+	<div class="navbar-dropdown">
+		<div class="container is-fluid">
+			<ul>
+				<li>
+					<a href="/en/doab/purpose-of-doab"
+					   class="navbar-item">About us</a>
+				</li>
+				<li>
+					<a href="/en/doab/doab-strategic-plan-2025-2028"
+					   class="navbar-item">DOAB Strategic Plan 2025 – 2028</a>
+				</li>
+				<li>
+					<a href="/en/doab/annual-reports"
+					   class="navbar-item">Annual Reports</a>
+				</li>
+				<li>
+					<a href="/en/doab/posi-self-audit"
+					   class="navbar-item">POSI self-audit</a>
+				</li>
+				<li>
+					<a href="/en/doab/partnerships"
+					   class="navbar-item">Partnerships</a>
+				</li>
+				<li>
+					<a href="/en/doab/projects"
+					   class="navbar-item">Projects</a>
+				</li>
+				<li>
+					<a href="/en/doab/the-oapen-and-doab-ambassador-programme"
+					   class="navbar-item">Ambassador Programme</a>
+				</li>
+				<li>
+					<a href="/en/doab/accessibility"
+					   class="navbar-item">Accessibility and policies</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+
+						</li>
+
+					</ul>
+
+				</div>
+
+			</div>
+
+		</nav>
+
+	</header>
+	
+	
+
+	<!--
+		HERO
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+	<div class="doab-home-hero">
+
+		<div class="container">
+	
+			<div class="columns">
+			
+				<div class="column is-three-fifths">
+					<h1 class="title is-1">Directory of <br/>Open Access Books</h1>
+					<div class="doab-hero-sub">Over 101,500 academic peer-reviewed books</div>
+				</div>
+				
+				<form action="https://directory.doabooks.org/discover" class="column doab-hero-search-form" method="get">
+				
+					<div>
+		
+						<div class="field has-addons doab-hero-search-input">
+							<div class="control">
+								<label for="ipt_search" class="is-hidden">Search query</label>
+								<input class="input" type="text" name="query" placeholder="find books in DOAB..." id="ipt_search">
+								<input type="hidden" name="locale-attribute" value="en" />
+							</div>
+							<div class="control">
+								<button type="submit" class="button is-dark">search</button>
+							</div>
+						</div>
+			
+						<div class="field doab-hero-search-browse">
+			
+							<span>Browse by</span>
+							<ul>
+								<li><a href="https://directory.doabooks.org/browse?type=classification_text&amp;locale-attribute=en">subject</a></li>
+								<li><a href="https://directory.doabooks.org/browse?type=language&amp;locale-attribute=en">language</a></li>
+								<li><a href="https://directory.doabooks.org/browse?type=publisher&amp;locale-attribute=en">publisher</a></li>
+							</ul>
+			
+						</div>
+					
+					</div>	
+		
+				</form>
+		
+			</div>
+			
+		</div>
+		
+	</div>		
+
+
+
+	<!--
+		MAIN
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+	<div class="doab-page-wrapper" id="Doab-main">
+	
+		<main class="doab-main home">
+
+		<section class="section doab-home-intro">
+
+			<div class="container">
+				<p class="is-size-5">DOAB is a community-driven discovery service that indexes and provides access to scholarly, peer-reviewed open access books and helps users to find trusted open access book publishers. All DOAB services are free of charge and all data is freely available.</p>
+				<!-- /* 
+				<p>
+					<img th:src="@{/static-assets/images/layout/doab-peerreview-no-fonts.svg}" 
+					 alt="Peer Review Certified by Doab" class="doab-peer-review">
+				</p> */ -->
+			</div>
+
+		</section>
+		
+		
+		<section class="section doab-home-featured">
+		
+			<div class="container">
+			
+				<a class="is-hidden" href="/en/featuredtitles">Featured Titles</a>
+		
+				<div class="carouselloader" data-src="/en/featuredtitles #FeaturedTitles">
+				</div>
+				
+			</div>	
+	
+		</section>
+		
+		
+		<div class="section">
+
+			<div class="container">
+
+				<div class="columns">
+
+					<!-- Left column ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+					<div class="column doab-home-showcases">
+
+						<div class="container">
+							
+
+	<div class="title is-6 doab-section-caption is-hidden">Showcase</div>
+	
+	<hr class="is-hidden"/>
+
+	<div class="doab-home-showcase content doab-faq">
+
+		<h2 class="title is-4">
+			<a href="/en/article/prism">PRISM: Peer Review Information Service for Monographs</a>
+		</h2>
+		<p>The Peer Review Information Service for Monographs (PRISM) aims to provide information from open access (OA) book publishers, based on their peer review procedure. The goal of the service is to support trust in OA book publishing, by improving transparency around quality assurance of OA book publishers and their publications.</p>
+
+		<a href="/en/article/prism" class="doab-more">read more </a>
+
+	</div>
+
+
+						</div>
+				
+					</div>
+					
+					<!-- Right column ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+					<div class="column is-4 doab-home-serviceof">
+				
+						<div class="container">
+						
+							
+
+	<div class="title is-6 doab-section-caption">DOAB is a service of</div>
+	
+	<div class="columns is-multiline is-desktop is-vcentered doab-serviceof">
+
+		<div class="column is-half-desktop">
+			<a href="https://www.oapen.org/">
+				<img src="/static-assets/images/oapenlogo_01_colour_no_text.png" alt="logo oapen"/>
+			</a>
+		</div>
+		<div class="column is-half-desktop">
+			<a href="https://www.openedition.org/">
+				<img src="/static-assets/images/openedition_300dpi_small.png" alt="logo open edition"/>
+			</a>
+		</div>
+		<div class="column is-half-desktop">
+			<a href="https://www.cnrs.fr/">
+				<img src="/static-assets/images/Logo_AMU_RVB.png" alt="logo AMU"/>
+			</a>
+		</div>
+		<div class="column is-half-desktop">
+			<a href="https://www.univ-amu.fr/">
+				<img src="/static-assets/images/LOGO_CNRS_2019_RVB.png" alt="logo CNRS"/>
+			</a>
+		</div>
+		
+	</div>	
+
+
+
+						</div>
+					
+					</div>
+					
+				</div>
+				
+			</div>
+		
+			
+			<div class="container">
+
+				<div class="columns">
+
+					<!-- Left column ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+					<div class="column">
+
+						<div class="container">
+						
+							<div class="columns is-multiline is-desktop">
+
+								
+
+	<!-- spotlights -->
+	<div class="column is-one-third-desktop doab-home-spotlight">
+	
+		<div class="title is-6 doab-section-caption">spotlight</div>
+
+		<hr class="is-hidden">
+
+		<h2 class="title is-5">
+			<a href="/en/article/updating-our-publisher-requirements-enhancing-transparency-and-global-inclusivity">Updating our publisher requirements: enhancing transparency and global inclusivity</a>
+		</h2>
+
+		<p>As DOAB continues to engage with many different stakeholder groups across a globally diverse community, and as the scholarly communications landscape continues to evolve, there is also a corresponding need to revisit the workflows and standards that inform our own work at DOAB. DOAB&rsquo;s revised and updated <a href="https://doabooks.org/en/publishers/join-doab">criteria and requirements</a> for publishers - which are only applicable to publishers submitting applications to DOAB after 1 March 2025 - are available <a href="https://doabooks.org/en/publishers/join-doab">here</a>. </p>
+
+
+	</div>
+								
+
+								
+								
+
+	<!-- blogposts -->
+	<div class="column is-one-third-desktop doab-home-spotlight">
+
+		<div class="title is-6 doab-section-caption">blogpost</div>
+
+		<hr class="is-hidden">
+	
+		<h2 class="title is-5">
+			<a href="/blog/?link=https%3A%2F%2Foapen.hypotheses.org%2F1988">Temui Para Duta OAPEN &amp; DOABWawancara dengan Maria Lamury, Duta DOAB untuk Indonesia</a>
+		</h2>
+
+		<p>Apa motivasi anda untuk bergabung sebagai duta DOAB? Pada saat saya bekerja sebagai pustakawan, dana untuk pembelian buku cetak atau melanggan platform e-book tidak terlalu besar untuk pengembangan koleksi perpustakaan. Meskipun banyak e-book gratis yang tersedia di internet, kredibilitas pengarang dan...</p>
+
+	</div>
+	<div class="column is-one-third-desktop doab-home-spotlight">
+
+		<div class="title is-6 doab-section-caption">blogpost</div>
+
+		<hr class="is-hidden">
+	
+		<h2 class="title is-5">
+			<a href="/blog/?link=https%3A%2F%2Foapen.hypotheses.org%2F1985">Meet the OAPEN&amp;DOAB Ambassadors An Interview with Maria Lamury DOAB Ambassador for Indonesia </a>
+		</h2>
+
+		<p>What motivated you to join DOAB as an ambassador? When I worked as&#160; librarian, I found it was difficult for the library to get sufficient budget to purchase printed books or subscribe to e-book platforms to enhance our library collections. Although many free e-books are available on the internet,...</p>
+
+	</div>
+
+
+
+							</div>	
+							
+						</div>
+						
+					</div>
+
+					
+
+				</div>
+
+			</div>
+
+		</div>
+		
+								
+
+		<span style="display:none">127.0.0.1</span>
+
+	</main>	
+
+	</div>
+
+
+	<!--
+		FOOTER
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+	<footer class="footer" id="Doab-footer">
+
+		<div class="container">
+
+			<div class="doab-ftr-header">
+				<div class="is-sr-only">Doabooks</div>
+				<hr class="is-hidden"/>
+			</div>
+
+			<div class="columns doab-footer-columns">
+
+		  		<div class="column doab-footer-nav">
+
+		  			<ul class="menu-list">
+
+						<li>
+							<a href="/en/librarians">Librarians</a>
+						</li>
+
+						<li>
+							<a href="/en/researchers">Researchers</a>
+						</li>
+
+						<li>
+							<a href="/en/publishers">Publishers</a>
+						</li>
+
+						<li>
+							<a href="/en/trusted-platform-network">Trusted Platform Network</a>
+						</li>
+
+						<li>
+							<a href="/en/doab">About</a>
+						</li>
+
+					</ul>
+
+				</div><!-- /footer-nav -->
+
+				<div class="column">
+
+					<div class="doab-footer-licence">
+						
+						<div class="title is-6">Licence</div>
+						
+						<hr class="is-hidden"/>
+						
+						<p>
+							If not noted otherwise all contents are available under Attribution 4.0 International  
+							<a href="https://creativecommons.org/licenses/by/4.0/">(CC BY 4.0)</a>
+						</p> 
+						
+						<p>
+							<a href="https://creativecommons.org/licenses/by/4.0/">
+								<img src="/static-assets/images/CC-BY-300x105.png" width="100" alt="CC-BY"/>
+							</a>
+						</p>
+					
+					</div>
+
+					<div class="doab-newsletter">
+
+						<div class="title">newsletter</div>
+						
+						<hr class="is-hidden"/>
+
+						<i class="fal fa-envelope-open-text"></i>
+
+						<ul>
+							<li>
+								<a href="https://oapen.us4.list-manage.com/subscribe?u=314fa411ba5eaaee7244c95e1&id=a362459f54">subscribe to our newsletter </a>
+							</li>
+							<li>
+								<a href="https://us4.campaign-archive.com/home/?u=314fa411ba5eaaee7244c95e1&id=a362459f54">view our news archive</a>
+							</li>
+						</ul>
+
+					</div>
+
+					<div class="doab-social-links" style="margin-bottom:2rem">
+
+						<div class="title">follow us on</div>
+						
+						<hr class="is-hidden"/>
+
+						<ul>
+							<li>
+								<a href="https://bsky.app/profile/doabooks.bsky.social">
+									<i class="fa-brands fa-bluesky"></i>
+									<span class="is-sr-only">Bluesky</span>
+								</a>
+							</li>
+						</ul>
+
+					</div>
+					
+					<div>
+					
+						<div class="title is-6">donate</div>
+						
+						<hr class="is-hidden"/>
+	
+						<ul style="text-align:center">
+							<li>
+								<img src="/static-assets/images/donation-qr-code.png" alt="Donate"
+									style="width:128px;height:128px;max-height:none;max-width:none;"/>
+									<br/>
+								<small class="is-size-7">Support DOAB and the OAPEN Library </small>
+							</li>
+							<li>
+								<form action="https://www.paypal.com/donate" method="post" target="_top" style="margin-top:1em;">
+									<input type="hidden" name="hosted_button_id" value="VPW4DRBLBM9J8" />
+									<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" style="border:none" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+									<img alt="" border="0" src="https://www.paypal.com/en_NL/i/scr/pixel.gif" width="1" height="1" />
+								</form>
+							</li>
+						</ul>
+						
+					</div>						
+
+				</div>
+
+				<div class="column doab-credits">
+
+					<div class="title">credits</div>
+					
+					<hr class="is-hidden"/>
+
+					<ul>
+						<li>
+							<a href="https://www.enseignementsup-recherche.gouv.fr/pid24578/investissements-d-avenir.html/">
+								<img src="/static-assets/images/investirlavenir.png" width="100" alt="logo Investir l'avenir"/>
+								<span class="is-sr-only">Investir l'avenir</span>
+							</a>
+						</li>
+						<li>
+							<a href="https://www.enseignementsup-recherche.gouv.fr/fr">
+								<img src="/static-assets/images/logo_MESRI_2021.jpg" width="100" alt="logo MESRI"/>
+								<span class="is-sr-only">MESRI</span>
+							</a>
+						</li>
+						<li>
+							<a href="https://europa.eu/european-union/index_en">
+								<img src="/static-assets/images/eu-flag.png" width="100" alt="logo EU"/>
+								<span class="is-sr-only">European Union</span>
+								<br/>
+								<small class="is-size-7">DOAB received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 683680, 810640, 871069 and 964352.</small>
+							</a>
+						</li>
+					</ul>
+					
+				</div>
+
+				<div class="column doab-addresses">
+
+					<hr class="is-sr-only"/>
+					
+					<p>Directory of Open Access Books is based in the Netherlands, with its registered office in the National Library in The Hague. <br/><br/> Directory of Open Access Books is a joint service of <a href="https://www.oapen.org/">OAPEN</a>, <a href="https://www.openedition.org/">OpenEdition</a>, <a href="https://www.cnrs.fr/">CNRS</a> and <a href="https://www.univ-amu.fr/">Aix-Marseille Université</a>, provided by DOAB Foundation. <br/><br/> Co-directors: Pierre Mounier and Niels Stern </p>
+					
+					<p><b>Address:</b></p>
+					<address>
+						Directory of Open Access Books<br/>
+						Prins Willem-Alexanderhof 5<br/>
+						2595 BE The Hague
+					</address>
+					
+					<p><b>Websites:</b></p>
+					<p>
+						DOAB<br>
+						<a href="https://www.doabooks.org">www.doabooks.org</a>
+					</p>
+					<p>	
+						OAPEN Home<br>
+						<a href="https://www.oapen.org">www.oapen.org</a><br>
+					</p>
+					<p>
+						OA Books Toolkit<br>
+						<a href="https://www.oabooks-toolkit.org">www.oabooks-toolkit.org</a>
+					</p>					
+
+				</div>
+
+			</div><!-- /footer columns -->
+
+
+			<div class="doab-footermsg has-text-centered">
+
+				<div class="is-size-7">
+					<a href="https://www.trilobiet.nl">website by Trilobiet</a>
+				</div>
+
+			</div>
+
+		</div>
+
+	</footer>
+
+	<!-- / Local version of the cdn scripts are available in static-assets/js/ in case the CDN disappears / -->
+
+	<script src="/static-assets/js/jquery-3.4.1.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.4/dist/js/bulma-carousel.min.js"></script>
+	<script src="/static-assets/js/scripts.js?v=1.02"></script>
+	<script src="/static-assets/js/menu.js"></script>
+	<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+	<!-- /* Loaded locally <script src="https://kit.fontawesome.com/33a853ba11.js" crossorigin="anonymous"></script> */ -->
+	
+	
+	
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-30594439-1"></script>
+		
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', "UA-30594439-1");
+		</script>
+	
+	
+	
+	<!----------------------------------- 
+	Website by	 
+    _____     _ _       _     _      _   
+   |_   _| __(_) | ___ | |__ (_) ___| |_ 
+     | || '__| | |/ _ \| '_ \| |/ _ \ __|
+     | || |  | | | (_) | |_) | |  __/ |_ 
+     |_||_|  |_|_|\___/|_.__/|_|\___|\__|
+                                       	
+	2020 www.trilobiet.nl
+	------------------------------------>
+
+</body>
+</html>
+

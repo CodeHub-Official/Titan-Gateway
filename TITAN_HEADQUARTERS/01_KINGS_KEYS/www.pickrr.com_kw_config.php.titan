@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <!-- Google Tag Manager (noscript) -->
+ <script async src="https://www.googletagmanager.com/gtag/js?id=UA-217424226-1"></script>
+ <script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments);}
+   gtag('js', new Date());
+
+   gtag('config', 'UA-217424226-1');
+ </script>
+ <!-- End Google Tag Manager (noscript) -->
+ <!-- OG tags start -->
+ <meta property="og:site_name" content="Pickrr" />
+ <meta property="og:title" content="Page Not Found - Pickrr" />
+ <!-- OG tags ends -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1" />
+  <link rel="stylesheet" type="text/css" href="/static/homepage-assets/css/header.css" />
+  <link rel="stylesheet" type="text/css" href="/static/homepage-assets/css/common.css" />
+  <link rel="stylesheet" href="https://use.typekit.net/chg2scz.css" />
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet"
+  integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous" />
+  <link rel="shortcut icon" type="image/x-icon" href="https://d10srchmli830n.cloudfront.net/1639730525608_Group-19262.png" />
+  <!--[if lt IE 9]>
+      <script src="http://localhost/pickrr/wp-content/themes/pickrr/js/html5.js"></script>
+    <![endif]-->
+
+  <title>Page Not Found - Pickrr</title>
+  <script type="text/javascript"> window.ymConfig = {"bot":"x1656317566713","host":"https://cloud.yellow.ai"};(function () {var w=window,ic=w.YellowMessenger;if("function"===typeof ic)ic("reattach_activator"),ic("update",ymConfig);else{var d=document,i=function(){i.c(arguments)};function l(){var e=d.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://cdn.yellowmessenger.com/plugin/widget-v2/latest/dist/main.min.js";var t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}i.q=[],i.c=function(e){i.q.push(e)},w.YellowMessenger=i,w.attachEvent?w.attachEvent("onload",l):w.addEventListener("load",l,!1)}})(); </script>
+</head>
+
+<body class="">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W76HX9D" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <header>
+    <div class="offer-container">Get Guaranteed Rs.300 Cashback on Your First Recharge With Pickrr | Use Code: ‘PICKRR300’ | *T&C Apply</div>
+
+    <div id="topheader">
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+          <div class="d-flex">
+            <button class="navbar-toggler navbar-toggler-right collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+              aria-label="Toggle navigation" style="border: unset">
+              <span class="my-1 mx-2 close">X</span>
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          <a class="navbar-brand" href="https://pickrr.com/">
+            <img src="https://d10srchmli830n.cloudfront.net/1639134978873_New-logo_c.png" class="desktop-only" alt="pickrr-logo" />
+            <img src="https://d10srchmli830n.cloudfront.net/1639730525608_Group-19262.png" class="mobile-only" alt="pickrr-mobile-logo" />
+          </a>
+        </div>
+          <div class="d-flex login-signup-mobile">
+            <li
+            class="
+              orangeBtn nav-item peach-gradient
+            "
+            style="margin-right: 8px;"
+          >
+            <a href="https://dashboard.pickrr.com/" class="color-white" target="_blank"
+              >Free Sign Up</a
+            >
+          </li>
+            <li
+            class="blueBtn nav-item mobile-only"
+            >
+            <a href="https://dashboard.pickrr.com/sign-in" class="color-pickrr"  target="_blank"
+              >Login</a
+            >
+          </li>
+        </div>
+          <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+            <div>
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <!-- <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Solutions
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item" href="#">Early COD</a></li>
+                  <li><a class="dropdown-item" href="#">Pickrr Select</a></li>
+                  <li><a class="dropdown-item" href="#">Pickrr Connect</a></li>
+                  <li><a class="dropdown-item" href="#">RTO Reduction Suite</a></li>
+                  <li><a class="dropdown-item" href="#">Open API</a></li>
+                </ul>
+              </li> -->
+              <li class=" nav-item active header-menu-item d-none d-none">
+                <a class="nav-link" href="#">About</a>
+              </li>
+              <li class="nav-item header-menu-item">
+                <a class="nav-link" href="/product">Solutions</a>
+              </li>
+              <li class="nav-item header-menu-item dropdown">
+                <a class="nav-link dropdown-toggle "  href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Integrations
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item" href="https://pickrr.com/carrier-int">Carrier Integration</a></li>
+                  <li><a class="dropdown-item" href="/pickrr-integration">Channel Integration</a></li>
+                  <!-- <li><hr class="dropdown-divider"></li>
+                  <li><a class="dropdown-item" href="#">Something else here</a></li> -->
+                </ul>
+              </li>
+              <li class="nav-item header-menu-item">
+                <a class="nav-link"   href="/pickrr-plus">Fullfillment</a>
+              </li>
+              <li class="nav-item header-menu-item">
+                <a class="nav-link" href="https://pickrr.com/blogs">Blogs</a>
+              </li>
+              <li class="nav-item header-menu-item">
+                <a class="nav-link" href="/pricing">Rate Calculator</a>
+              </li>
+              <li class="nav-item header-menu-item">
+                <a class="nav-link" href="https://pickrr.com/tracking/#/">Track Order</a>
+              </li>
+              <li class="nav-item header-menu-item">
+                <a class="nav-link" href="https://pickrr.com/notice/">Investor Relations</a>
+              </li>
+              <li
+              class="
+                orangeBtn nav-item desktop-only-cust peach-gradient
+              "
+              style="margin-right: 12px; margin-left: 12px;"
+            >
+              <a href="https://dashboard.pickrr.com/" class="color-white" target="_blank"
+                >Free Sign Up</a
+              >
+            </li>
+              <li
+              class="blueBtn nav-item desktop-only-cust"
+              >
+              <a href="https://dashboard.pickrr.com/sign-in"  class="color-pickrr" target="_blank"
+                >Login</a
+              >
+            </li>
+            </ul>
+          </div>
+          </div>
+          
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <section id="banner" class="error-banner-background">
+    <div class="d-flex justify-content-center align-items-center">
+        <div class="text-center" style="color: #fff; padding-top: 70px;">
+          <img src="https://pickrr.s3.amazonaws.com:443/2022-02-14T15:29:26.720611_Group 19548.svg" alt="404" height="350px"/>
+        </div>
+    </div>
+    <div class="text-center">
+      <h1 class="error-text">Uh-oh! You’re lost</h1>
+        <p class="mt-2 mb-4 error-text-subheading">The page you are looking for does not exist...</p>
+        <div class="d-flex justify-content-center align-items-center mt-3">
+          <a href="https://pickrr.com/" target="_blank" class="peachBtn color-white pt-2 pb-2 p-3 mr-2 ">Home</a>
+          <!-- <a href="https://pickrr.com/" target="_blank" class="peachBtn color-white pt-2 pb-2 p-3">Go Back</a> -->
+        </div>
+    </div>
+  </section>
+
+
+<section class="container-fluid pt-5 pl-5 pr-5 pickrr-download-background">
+  <div class="row pl-5 pr-5 pt-5">
+      <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 d-flex justify-content-center">
+          <div class="d-flex justify-content-center align-items-center">
+              <div class="text-center">
+                <h3 class="download-app-text">Download Pickrr App <br> and manage all your orders
+                </h3>
+                  <a href="https://play.google.com/store/apps/details?id=com.pickrr" target="_blank">
+                  <img src="https://d10srchmli830n.cloudfront.net/1639123771625_Group-11206-(1).png" alt="google play" height="auto" style="margin: auto" />
+                </a>
+              </div>
+          </div>
+      </div>
+      <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12" style="text-align: center;">
+        <div>  
+        <img src="https://d10srchmli830n.cloudfront.net/1639125169753_Group-19108-(1).png"
+        height="auto" alt="mobile" style="margin: auto; height: 350px;" class="img-fluid" />  
+      </div>
+      </div>
+  </div>
+</section>
+
+<footer>
+  <div class="upper-footer mt-5 margin-top-16-mobile-only">
+    <div class="upper-footer-wrapper">
+      <h4 class="start-shipping-free">Start shipping with Pickrr for free</h4>
+      <div class="group-btn">
+        <a href="https://dashboard.pickrr.com/" target="_blank" class="peachBtn color-white">Free Sign Up</a>
+        <a href="#" onclick="modalOpen(event)" class="emptyBtn">Get in Touch</a>
+      </div>
+    </div>
+  </div>
+  <div class="bottom-footer">
+    <div>
+        <div class="pb-3">
+          <a href="/" id="footer-home">
+            <img src="https://d10srchmli830n.cloudfront.net/1639134978873_New-logo_c.png" alt="pickrr logo" />
+          </a>
+        </div>
+      <div class="address-text text-start">3rd & 4th floor, Enkay Square,<br /> 448-A, Udyog Vihar Phase V,<br /> Gurugram, Haryana 122022</div> 
+      <!-- <div class="pt-2 address-text" style="font-weight: bold;">Visit us at:</div> 
+      <div>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14025.677716872146!2d77.0856535!3d28.497026!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf6120c54e56480a6!2sPickrr%20Technologies!5e0!3m2!1sen!2sin!4v1639135219388!5m2!1sen!2sin" width="260" height="164" style="border:0; border-radius: 12px;" allowfullscreen="" loading="lazy"></iframe>
+      </div> -->
+      <div class="d-flex pt-2 pb-4 address-text">
+        <div style="font-weight: bold; padding-right: 4px;">Email us at:</div>
+        <div>support@pickrr.com</div>
+      </div> 
+      <div class="desktop-only">
+        <div class="address-text">Join our Social Community</div>
+        <div class="d-flex align-items-center" style="width: 100%;">
+          <div style="margin-right: 8px;">
+            <a href="https://instagram.com/pickrr_?utm_medium=copy_link" target="_blank">
+              <img class="social-media-icon-height" src="https://d10srchmli830n.cloudfront.net/1639142330358_Vector-(1).png" alt="instagram" />
+            </a>
+          </div>
+          <div style="margin-right: 8px;">
+            <a href="https://www.facebook.com/pickrr/" target="_blank">
+              <img class="social-media-icon-height" src="https://d10srchmli830n.cloudfront.net/1639142386059_Vector-(2).png" alt="facebook" />
+            </a>
+          </div>
+          <div style="margin-right: 8px;">
+            <a href="https://www.linkedin.com/company/pickrr">
+              <img class="social-media-icon-height" src="https://d10srchmli830n.cloudfront.net/1639142436463_Group-(2).png" alt="linkedin" />
+            </a>
+          </div>
+          <div>
+            <a href="https://twitter.com/Pickrr_" target="_blank">
+              <img class="social-media-icon-height" src="https://d10srchmli830n.cloudfront.net/1639142533098_Group-(3).png" alt="twitter" />
+            </a>
+          </div>
+        </div>
+      </div>
+
+    </div> 
+      <div class="footer-menu">
+        <div class="menu-block">
+          <h5>Company</h5>  
+          <ul>
+            <li><a href="/about">About Us</a></li>
+            <li><a href="/life-at-pickrr">Life at Pickrr</a></li>
+            <!-- <li><a href="#">Careers</a></li>
+            <li><a href="#">Pickrr in News</a></li> -->
+            <li><a href="/get-in-touch">Get in Touch</a></li>
+            <li><a href="/partners">Partners</a></li>
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h5>Product</h5>
+          <ul>
+            <!-- <li><a href="#">Early COD</a></li>
+            <li><a href="#">Pickrr Select</a></li>
+            <li><a href="#">Pickrr Connect</a></li>
+            <li><a href="#">RTO reduction suite</a></li>
+            <li><a href="#">Channel Integration</a></li> -->
+            <li><a href="https://pickrr.com/carrier-int">Carrier Integration</a></li>
+            <li><a href="/pickrr-integration">Channel Integration</a></li>
+            <li><a href="https://docs.pickrr.com/">Open Api</a></li>
+            <!-- <li><a href="#">Pickrr Plus Fullfillment</a></li> -->
+          </ul>
+        </div>
+        <div class="menu-block">
+          <h5>Resources</h5>
+          <ul>
+            <li>
+              <a href="https://pickrr.com/blogs" target="_blank">Blogs</a>
+            </li>
+            <li>
+              <a href="/faqs">FAQs</a>
+            </li>
+            <li>
+              <a href="/terms-and-conditions">Terms and Conditions</a>
+            </li>
+            <li><a href="/privacy-policy">Privacy Policy</a></li>
+              <!-- <li>
+                <a href="https://pickrrsupport.freshdesk.com/support/home" target="_blank">Knowledgebase</a>
+              </li> -->
+          </ul>
+        </div>
+        <!-- <div class="menu-block">
+          <h5>Resources</h5>
+          <ul>
+            <li><a href="#">Blogs</a></li>
+            <li><a href="#">FAQ's</a></li>
+            <li>
+              <a href="/terms-and-conditions">Terms and <br class="desktop-only" />Conditions</a>
+            </li>
+            <li><a href="/privacy-policy">Privacy Policy</a></li>
+          </ul>
+        </div> -->
+      </div>
+      <div class="desktop-only" style="width: 100%; text-align: center;">
+        <div class="address-text pt-4 pb-2 m-0">Copyright Ⓒ 2022 Pickrr. All Rights Reserved.</div>
+      </div>
+      </div>
+      <div class="mobile-only" style="width: 100%;">
+        <div>
+          <div class="address-text">Join our Social Community</div>
+          <div class="d-flex justify-content-center align-items-center" style="width: 100%;">
+            <div style="margin-right: 8px;">
+              <a href="https://instagram.com/pickrr_?utm_medium=copy_link" target="_blank">
+                <img class="social-media-icon-height" src="https://d10srchmli830n.cloudfront.net/1639142330358_Vector-(1).png" alt="instagram" />
+              </a>
+            </div>
+            <div style="margin-right: 8px;">
+              <a href="https://www.facebook.com/pickrr/" target="_blank">
+                <img class="social-media-icon-height" src="https://d10srchmli830n.cloudfront.net/1639142386059_Vector-(2).png" alt="facebook" />
+              </a>
+            </div>
+            <div style="margin-right: 8px;">
+              <a href="https://www.linkedin.com/company/pickrr">
+                <img class="social-media-icon-height" src="https://d10srchmli830n.cloudfront.net/1639142436463_Group-(2).png" alt="linkedin" />
+              </a>
+            </div>
+            <div>
+              <a href="https://twitter.com/Pickrr_" target="_blank">
+                <img class="social-media-icon-height" src="https://d10srchmli830n.cloudfront.net/1639142533098_Group-(3).png" alt="twitter" />
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="address-text pt-4 pb-2 m-0">Copyright Ⓒ 2022 Pickrr. All Rights Reserved.</div>
+      </div>
+    </div>
+</footer>
+  <div class="contact-form-modal modal">
+    <div class="contact-form-wrapper">
+      <div class="close-modal" onclick="modalClose()"></div>
+      <div class="contact-inner-wrapper">
+        <div class="left-block">
+          <p class="get-in-touch">Get in Touch</p>
+          <p>Provide us a little more details and we will get back to you!</p>
+        </div>
+        <div class="right-block">
+          <form name="contact-form" class="contact-form" method="post">
+            <div class="flexField">
+              <div class="form-group">
+                <label for="name">Name</label>
+                <input autocomplete="off" type="text" name="name" class="inputbox" id="name"
+                  placeholder="Enter your name" />
+              </div>
+              <div class="form-group">
+                <label for="mobile">Mobile Number</label>
+                <div class="input-wrapper">
+                  <input autocomplete="off" max="9999999999" type="number" name="mobile" class="inputbox" id="mobile" />
+                </div>
+                <span class="phone-contact-error"></span>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="email">Email</label>
+              <input autocomplete="off" type="text" name="email" id="email" class="inputbox"
+                placeholder="Enter email address" />
+              <span class="email-error"></span>
+            </div>
+            <div class="form-group">
+              <label for="textarea">Your Message</label>
+              <textarea id="textarea" placeholder="I wanted to get in touch regarding..."></textarea>
+            </div>
+
+            <button type="submit" id="contact-submit" class="orangeBtn">
+              Submit
+            </button>
+          </form>
+        </div>
+      </div>
+      <div class="success-contact-form">
+        <div class="success-wrapper">
+          <img src="/static/homepage-assets/images/success-check.svg" />
+          <p>Thank you!</p>
+          <p>We'll get back to you soon!</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="/static/homepage-assets/js/jquery.min.js"></script>
+  <script type="text/javascript" src="/static/homepage-assets/js/custom.js"></script>
+  <script></script>
+  <!-- <script>
+    (function () {
+      var js,
+        fs,
+        d = document,
+        id = 'tars-widget-script',
+        b = 'https://tars-file-upload.s3.amazonaws.com/bulb/';
+      if (!d.getElementById(id)) {
+        js = d.createElement('script');
+        js.id = id;
+        js.type = 'text/javascript';
+        js.src = b + 'js/widget.js';
+        fs = d.getElementsByTagName('script')[0];
+        fs.parentNode.insertBefore(js, fs);
+      }
+    })();
+    window.tarsSettings = { convid: '4y-v0_' };
+  </script> -->
+   <script>
+
+    $( '#topheader .navbar .navbar-nav a' ).on( 'click', function () {
+      $('#topheader').find('.navbar').first();
+      $( '#topheader .navbar .navbar-nav' ).find( 'li.active' ).removeClass( 'active' );
+    $( this ).parent( 'li' ).addClass( 'active' );
+  });
+</script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+</body>
+
+</html>

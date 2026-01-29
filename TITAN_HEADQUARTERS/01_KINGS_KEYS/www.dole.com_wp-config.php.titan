@@ -1,0 +1,1638 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+    <head>
+    	
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+				
+	<title>Home - Dole UK</title>
+	<meta name="description" content="" />
+
+	<meta property="fb:app_id" content="">
+	<meta property="og:url" content="https://dole.co.uk/" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home - 679d6400a7.nxcli.io" />
+	<meta property="og:image" content="" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta property="og:description" content="" />
+	<meta property="og:site_name" content="Dole UK" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:locale:alternate" content="en_IE" />
+	<meta property="og:locale:alternate" content="sv_SE" />
+	<meta property="og:locale:alternate" content="en_GB" />
+	<meta property="og:locale:alternate" content="da" />
+	<meta property="og:locale:alternate" content="es_ES" />
+	<meta property="og:locale:alternate" content="nl" />
+	
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="" />
+	<meta name="twitter:url" content="https://dole.co.uk/" />
+	<meta name="twitter:title" content="Home - 679d6400a7.nxcli.io" />
+	<meta name="twitter:description" content="" />
+	<meta name="twitter:image" content="" />
+
+	
+	<link rel="home" href="https://dole.co.uk/" />
+	<link rel="canonical" href="https://dole.co.uk/">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FoodAndBeverageBusiness",
+  "name": "Dole UK",
+  "url": "https://www.dole.co.uk/",
+  "logo": "https://dole.co.uk/img/logos/dole-logo.svg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1st Floor, Baird House, Liverpool Innovation Park, Edge Lane",
+    "addressLocality": "Liverpool",
+    "postalCode": "L7 9NJ",
+    "addressCountry": "GB"
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "email": "info@dole.co.uk",
+      "contactType": "Customer Service",
+      "areaServed": "GB"
+    },
+    {
+      "@type": "ContactPoint",
+      "email": "wholesale@dole.co.uk",
+      "contactType": "Wholesale Enquiries",
+      "areaServed": "GB"
+    },
+    {
+      "@type": "ContactPoint",
+      "email": "foodservice@dole.co.uk",
+      "contactType": "Foodservice Enquiries",
+      "areaServed": "GB"
+    }
+  ],
+  "department": [
+    {
+      "@type": "FoodAndBeverageBusiness",
+      "name": "Dole Retail – Maidstone Office",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "c/o G Charltons & Sons, Sutton Road, Langley",
+        "addressLocality": "Maidstone, Kent",
+        "postalCode": "ME17 3ND",
+        "addressCountry": "GB"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "retail@dole.co.uk"
+      }
+    },
+    {
+      "@type": "FoodAndBeverageBusiness",
+      "name": "Dole Imports – Kingston Office",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Conquest House, Wood Street",
+        "addressLocality": "Kingston Upon Thames",
+        "postalCode": "KT1 1TG",
+        "addressCountry": "GB"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "imports@dole.co.uk"
+      }
+    },
+    {
+      "@type": "FoodAndBeverageBusiness",
+      "name": "Dole Services – Spalding Office",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Enterprise Way, Pinchbeck",
+        "addressLocality": "Spalding, Lincolnshire",
+        "postalCode": "PE11 3YR",
+        "addressCountry": "GB"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "doleservices@dole.co.uk"
+      }
+    }
+  ]
+}
+</script>
+
+																<link rel="alternate" hreflang="en-ie" href="https://doleireland.com/" />
+																							<link rel="alternate" hreflang="sv-se" href="https://dolenordic.com/" />
+																							<link rel="alternate" hreflang="en-gb" href="https://dole.co.uk/" />
+																							<link rel="alternate" hreflang="da" href="https://dolenordic.com/dk/" />
+																																						<link rel="alternate" hreflang="nl" href="https://doleeurope.nl/" />
+																							<link rel="alternate" hreflang="en-ie" href="https://doleeurope.nl/en/" />
+						
+<link rel="stylesheet" href="https://doleireland.com/css/main.css?v=2.4" />
+
+<link rel="icon" type="image/png" href="https://doleireland.com/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://doleireland.com/favicon-16x16.png" sizes="16x16" />
+
+<!-- Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" />
+<link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+<!-- no-JS fallback -->
+<noscript>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+</noscript>
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://doleireland.com/favicon/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://doleireland.com/favicon/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://doleireland.com/favicon/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://doleireland.com/favicon/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://doleireland.com/favicon/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://doleireland.com/favicon/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://doleireland.com/favicon/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://doleireland.com/favicon/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="https://doleireland.com/favicon/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="https://doleireland.com/favicon/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="https://doleireland.com/favicon/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://doleireland.com/favicon/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="https://doleireland.com/favicon/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&nbsp;"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="https://doleireland.com/favicon/mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="https://doleireland.com/favicon/mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="https://doleireland.com/favicon/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="https://doleireland.com/favicon/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="https://doleireland.com/favicon/mstile-310x310.png" />
+
+<script>
+    // Picture element HTML5 shiv
+    document.createElement('picture');
+</script>
+<script
+    src="https://cdnjs.cloudflare.com/ajax/libs/picturefill/3.0.3/picturefill.min.js"
+    integrity="sha256-iT+n/otuaeKCgxnASny7bxKeqCDbaV1M7VdX1ZRQtqg="
+    crossorigin="anonymous"
+    async
+></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TLKKL8RB');</script>
+<!-- End Google Tag Manager -->
+    </head>
+    <body >
+    	
+
+ 
+
+    <header class="header" id="top">
+    <a class="skip-to-content-link" href="#main">
+    Skip to content
+    </a>
+    <div class="wrapper wrapper--large header__wrapper">
+        <div class="header__logo-wrapper">
+            <a href="https://dole.co.uk/" class="header__brand" aria-label="Dole homepage">
+                <img class="header__brand-image" src="https://doleireland.com/img/logos/dole-logo.svg" alt="Dole Logo" class="third-level__image-src" />
+            </a>
+            <button class="header__back-button">
+                <i class="icon-chevron-left"></i> Go back
+            </button>
+        </div>
+        <div class="header__content-wrapper">
+            <div class="header__content">
+                <div class="header__main">
+                    <nav class="header__nav">
+                        <ul class="header__list">
+                            <li class="header__item header__item--has-child">
+                                <a href="#" class="header__link">
+                                    <span class="header__link-text">About Us</span>
+                                    <i class="icon-chevron-down header__link-icon"></i>
+                                </a>                                
+                                <div class="megamenu header__megamenu">
+                                    <div class="megamenu__row header__megamenu-row">
+                                        <div class="link-menu header__link-list">
+                                            <div class="link-menu__col link-menu__col--horizontal">
+                                                <h3 class="link-menu__title h3">About Us</h3>
+                                                <ul class="link-menu__list link-menu__list--horizontal">
+                                                                                                                                                            <li class="link-menu__item">
+                                                        <a href="https://dole.co.uk/about-us/overview" class="link-menu__link"> Overview </a>
+                                                    </li>
+                                                                                                        <li class="link-menu__item">
+                                                        <a href="https://dole.co.uk/about-us/locally" class="link-menu__link"> UK Local </a>
+                                                    </li>
+                                                                                                        <li class="link-menu__item">
+                                                        <a href="https://dole.co.uk/about-us/globally" class="link-menu__link"> Global </a>
+                                                    </li>
+                                                                                                        <li class="link-menu__item">
+                                                        <a href="https://dole.co.uk/about-us/heritage" class="link-menu__link"> Our Heritage </a>
+                                                    </li>
+                                                                                                    </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="header__item header__item--has-child">
+                                <a href="#" class="header__link">
+                                    <span class="header__link-text">Recipes</span>
+                                    <i class="icon-chevron-down header__link-icon"></i>
+                                </a>
+                                <div class="megamenu header__megamenu">
+                                    <div class="megamenu__row header__megamenu-row">
+                                        <div class="link-menu header__link-list">
+                                            <div class="link-menu__col">
+                                                <h3 class="link-menu__title h3">Recipes</h3>
+                                                                                                                                                                                                                                                                                                                                                    <ul class="link-menu__list">
+                                                                                                        <li class="link-menu__item  link-menu__item--active ">
+                                                        <a href="#" class="link-menu__link"> Pineapples <i class="icon-chevron-down header__link-icon link-menu__icon"></i> </a>
+                                                    </li>
+                                                                                                        <li class="link-menu__item ">
+                                                        <a href="#" class="link-menu__link"> Bananas <i class="icon-chevron-down header__link-icon link-menu__icon"></i> </a>
+                                                    </li>
+                                                                                                        <li class="link-menu__item ">
+                                                        <a href="#" class="link-menu__link"> Avocados <i class="icon-chevron-down header__link-icon link-menu__icon"></i> </a>
+                                                    </li>
+                                                                                                        <li class="link-menu__item ">
+                                                        <a href="#" class="link-menu__link"> DOLE GO Organic! <i class="icon-chevron-down header__link-icon link-menu__icon"></i> </a>
+                                                    </li>
+                                                                                                        <li class="">
+                                                        <a href="https://dole.co.uk/recipes" class="link-menu__link link-menu__link--see-all cta">See all produce</a>
+                                                    </li>
+                                                </ul>
+                                                                                            </div>
+
+                                                                                        <div class="column-two">
+                                                                                                <div class="third-level  third-level--show ">
+                                                    <div class="column-two__heading-wrapper">
+                                                        <h3 class="h3 column-two__heading-title">Pineapples</h3>
+                                                        <a href="https://dole.co.uk/recipes?category=pineapples#listing" class="cta">See all</a>
+                                                    </div>
+                                                                                                                                                                <ul class="column-two__link-list">
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/recipe-frozen-pineapple-on-a-stick" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/61549/Dole_2020_Frozen-Pineapple-on-a-Stick_Sml.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/61549/Dole_2020_Frozen-Pineapple-on-a-Stick_Sml.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_2020_Frozen-Pineapple-on-a-Stick_Sml.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_2020_Frozen-Pineapple-on-a-Stick_Sml.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>Frozen Pineapple on a Stick</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/recipe-french-onion-soup" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/53214/Full2.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/53214/Full2.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Full2.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Full2.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>French Onion Soup with Arugula Pesto</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/recipe-blueberry-and-coconut-nice-cream" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/60864/resized_Dole_2020_Blueberry-Coconut-Frozen-Delight_Sml.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/60864/resized_Dole_2020_Blueberry-Coconut-Frozen-Delight_Sml.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/resized_Dole_2020_Blueberry-Coconut-Frozen-Delight_Sml.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/resized_Dole_2020_Blueberry-Coconut-Frozen-Delight_Sml.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>Blueberry and Coconut Nice Cream</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/recipe-marbled-coconut-cloud-smoothie" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/52936/Dole_Blue_Coconut_Cloud_Smoothie-41-2.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/52936/Dole_Blue_Coconut_Cloud_Smoothie-41-2.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_Blue_Coconut_Cloud_Smoothie-41-2.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_Blue_Coconut_Cloud_Smoothie-41-2.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>Marbled Coconut Cloud Smoothie</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/recipe-blueberry-bbq-shrimp" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/61706/Blueberry_BBQ_Shrimp_and_Pineapple_Skewer_Salad_1849.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/61706/Blueberry_BBQ_Shrimp_and_Pineapple_Skewer_Salad_1849.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Blueberry_BBQ_Shrimp_and_Pineapple_Skewer_Salad_1849.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Blueberry_BBQ_Shrimp_and_Pineapple_Skewer_Salad_1849.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>Blueberry BBQ Shrimp and Pineapple Skewer Salad</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                    </ul>
+                                                                                                    </div>
+                                                                                                <div class="third-level ">
+                                                    <div class="column-two__heading-wrapper">
+                                                        <h3 class="h3 column-two__heading-title">Bananas</h3>
+                                                        <a href="https://dole.co.uk/recipes?category=bananas#listing" class="cta">See all</a>
+                                                    </div>
+                                                                                                                                                                <ul class="column-two__link-list">
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/recipe-grilled-banana-and-peach" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/65133/Dole_Grilled_Banana_Peach_Salad_Arugula-67.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/65133/Dole_Grilled_Banana_Peach_Salad_Arugula-67.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_Grilled_Banana_Peach_Salad_Arugula-67.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_Grilled_Banana_Peach_Salad_Arugula-67.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>Dole Be Exotic! Avocado and peach salad with grilled banana and rocket</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/recipe-air-fryer-sweet-potato-fries" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/66302/Dole_Air_Fryer_Sweet_Potato_Fries_Banana_Ketchup-50.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/66302/Dole_Air_Fryer_Sweet_Potato_Fries_Banana_Ketchup-50.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_Air_Fryer_Sweet_Potato_Fries_Banana_Ketchup-50.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_Air_Fryer_Sweet_Potato_Fries_Banana_Ketchup-50.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>Air Fryer Sweet Potato Fries with Banana Ketchup</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/recipe-grilled-bananas" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/66606/Dole_Grilled_Bananas-66.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/66606/Dole_Grilled_Bananas-66.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_Grilled_Bananas-66.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_Grilled_Bananas-66.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>DOLE Grilled Bananas</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/recipe-brave-banana-cherry-teacake" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/66966/Dole_Brave_Banana_Cherry_Teacake-33.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/66966/Dole_Brave_Banana_Cherry_Teacake-33.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_Brave_Banana_Cherry_Teacake-33.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_Brave_Banana_Cherry_Teacake-33.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>Brave Banana Cherry Teacake</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/recipe-walnut-crusted-whole-banana-bread" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/67296/Dole_Walnut_Crusted_Whole_Banana_Bread-29.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/67296/Dole_Walnut_Crusted_Whole_Banana_Bread-29.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_Walnut_Crusted_Whole_Banana_Bread-29.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_Walnut_Crusted_Whole_Banana_Bread-29.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>Walnut-Crusted Whole Banana Bread</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/recipe-air-fryer-cinnamon" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/67529/Dole_Air_Fryer_Cinnamon-Sugar_Banana_Chips-25.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/67529/Dole_Air_Fryer_Cinnamon-Sugar_Banana_Chips-25.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_Air_Fryer_Cinnamon-Sugar_Banana_Chips-25.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_Air_Fryer_Cinnamon-Sugar_Banana_Chips-25.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>Air Fryer Cinnamon-Sugar Banana Chips</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                    </ul>
+                                                                                                    </div>
+                                                                                                <div class="third-level ">
+                                                    <div class="column-two__heading-wrapper">
+                                                        <h3 class="h3 column-two__heading-title">Avocados</h3>
+                                                        <a href="https://dole.co.uk/recipes?category=avocados#listing" class="cta">See all</a>
+                                                    </div>
+                                                                                                                                                                <ul class="column-two__link-list">
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/dole-be-exotic-spicy-tuna-poke-bowl" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/414908/thumbnails-recipes-5.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/414908/thumbnails-recipes-5.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/414908/thumbnails-recipes-5.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/414908/thumbnails-recipes-5.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>DOLE BE Exotic!® Spicy Tuna Poke Bowl</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/dole-be-exotic-avocado-egg-breakfast-taco" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/413835/thumbnails-recipes-2.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/413835/thumbnails-recipes-2.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/413835/thumbnails-recipes-2.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/413835/thumbnails-recipes-2.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>DOLE BE Exotic!® Avocado &amp; Egg Breakfast Taco</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/crispy-chickpea-avocado-salad" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/413678/thumbnails-recipes-1.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/413678/thumbnails-recipes-1.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/413678/thumbnails-recipes-1.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/413678/thumbnails-recipes-1.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>DOLE BE Exotic! ® Crispy Chickpea Avocado Salad</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/citrus-glazed-salmon-avocado-salad" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/412105/thumbnails-recipes.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/412105/thumbnails-recipes.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/412105/thumbnails-recipes.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/412105/thumbnails-recipes.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>DOLE BE Exotic!® Citrus glazed salmon &amp; avocado salad</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/rosanna-davidsons-dole-go-organic-mango-muddle-smoothie" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/352441/DOLE-GO-ORGANIC-VEGGIE-CHICKPEA-CURRY-1.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/352441/DOLE-GO-ORGANIC-VEGGIE-CHICKPEA-CURRY-1.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/352441/DOLE-GO-ORGANIC-VEGGIE-CHICKPEA-CURRY-1.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/352441/DOLE-GO-ORGANIC-VEGGIE-CHICKPEA-CURRY-1.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>Rosanna Davidson&#039;s DOLE GO Organic!® Mango Muddle Smoothie</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/recipe-vegan-cheeseburger-skillet" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/53102/Dole_Vegan_Cheeseburger_Skillet-33.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/53102/Dole_Vegan_Cheeseburger_Skillet-33.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_Vegan_Cheeseburger_Skillet-33.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Dole_Vegan_Cheeseburger_Skillet-33.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>Vegan Cheeseburger Skillet</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                    </ul>
+                                                                                                    </div>
+                                                                                                <div class="third-level ">
+                                                    <div class="column-two__heading-wrapper">
+                                                        <h3 class="h3 column-two__heading-title">DOLE GO Organic!</h3>
+                                                        <a href="https://dole.co.uk/recipes?category=dole-go-organic#listing" class="cta">See all</a>
+                                                    </div>
+                                                                                                                                                                <ul class="column-two__link-list">
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/dole-go-organic-apple-breakfast-bars" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/372010/thumbnails-2.0-1.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/372010/thumbnails-2.0-1.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/372010/thumbnails-2.0-1.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/372010/thumbnails-2.0-1.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>DOLE GO Organic!® Apple Breakfast Bars</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/dole-go-organic-quinoa-and-kale-stuffed-peppers-with-savoury-beef-mince" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/371573/3_2025-02-17-144502_prul.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/371573/3_2025-02-17-144502_prul.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/371573/3_2025-02-17-144502_prul.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/371573/3_2025-02-17-144502_prul.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>DOLE GO Organic!® Quinoa and Kale Stuffed Peppers with Savoury Beef Mince</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/dole-go-organic-greek-inspired-veggie-wraps-with-feta-and-hummus" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/371196/2_2025-02-17-143937_hjlb.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/371196/2_2025-02-17-143937_hjlb.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/371196/2_2025-02-17-143937_hjlb.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/371196/2_2025-02-17-143937_hjlb.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>DOLE GO Organic!® Greek-Inspired Veggie Wraps with Feta and Hummus</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/rosanna-davidsons-dole-go-organic-roast-butternut-squash-soup" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/356243/Untitled-design-21.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/356243/Untitled-design-21.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/356243/Untitled-design-21.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/356243/Untitled-design-21.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>Rosanna Davidson&#039;s DOLE GO Organic!® Roast Butternut Squash Soup</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/rosanna-davidsons-dole-go-organic-mango-muddle-smoothie" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/352441/DOLE-GO-ORGANIC-VEGGIE-CHICKPEA-CURRY-1.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/352441/DOLE-GO-ORGANIC-VEGGIE-CHICKPEA-CURRY-1.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/352441/DOLE-GO-ORGANIC-VEGGIE-CHICKPEA-CURRY-1.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/352441/DOLE-GO-ORGANIC-VEGGIE-CHICKPEA-CURRY-1.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>Rosanna Davidson&#039;s DOLE GO Organic!® Mango Muddle Smoothie</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                        <li class="column-two__link-list-item">
+                                                                <a href="https://doleireland.com/recipes/dole-go-organic-veggie-chickpea-curry" class="third-level__link">
+                                                                    <div class="third-level__img-wrapper">
+                                                                        <i class="third-level__arrow icon-arrow-right"></i>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <picture class="">
+                                                                            <source srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/342668/Reel-Photo-1.webp?width=360 1x, https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/342668/Reel-Photo-1.webp?width=720 2x" type="image/webp">
+                                                                            <img loading="lazy" class="third-level__image-src" src="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Reel-Photo-1.jpg?width=360" srcset="https://doleireland.com/uploads/general/_560xAUTO_fit_center-center_75_none/Reel-Photo-1.jpg?width=720 2x" alt="Image Alt">
+                                                                        </picture>
+                                                                        
+                                                                    </div>
+                                                                    <div>DOLE GO Organic!® Veggie Chickpea Curry</div>
+                                                                </a>
+                                                            </li>
+                                                                                                                    </ul>
+                                                                                                    </div>
+                                                                                            </div>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="header__item header__item--has-child">
+                                <a href="#" class="header__link">
+                                    <span class="header__link-text">Trade Customers</span>
+                                    <i class="icon-chevron-down header__link-icon"></i>
+                                </a>                                
+                                <div class="megamenu header__megamenu">
+                                    <div class="megamenu__row header__megamenu-row">
+                                        <div class="link-menu header__link-list">
+                                            <div class="link-menu__col link-menu__col--horizontal">
+                                                <h3 class="link-menu__title h3">Trade Customers</h3>
+                                                <ul class="link-menu__list link-menu__list--horizontal">
+                                                                                                                                                            <li class="link-menu__item">
+                                                        <a href="https://dole.co.uk/trade-customers/retail" class="link-menu__link"> Retail </a>
+                                                    </li>
+                                                                                                        <li class="link-menu__item">
+                                                        <a href="https://dole.co.uk/trade-customers/foodservice" class="link-menu__link"> Foodservice </a>
+                                                    </li>
+                                                                                                        <li class="link-menu__item">
+                                                        <a href="https://dole.co.uk/trade-customers/wholesale" class="link-menu__link"> Wholesale </a>
+                                                    </li>
+                                                                                                        <li class="link-menu__item">
+                                                        <a href="https://dole.co.uk/trade-customers/wholesale/dole-imports" class="link-menu__link"> Imports </a>
+                                                    </li>
+                                                    <li class="link-menu__item">
+                                                        <a href="https://dole.co.uk/depot-finder" class="link-menu__link"> Branch Finder </a>
+                                                    </li>                                                    
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="header__item header__item--has-child">
+                                <a href="#" class="header__link">
+                                    <span class="header__link-text">Sustainability</span>
+                                    <i class="icon-chevron-down header__link-icon"></i>
+                                </a>
+                                <div class="megamenu header__megamenu">
+                                    <div class="megamenu__row header__megamenu-row">
+                                        <div class="link-menu header__link-list">
+                                            <div class="link-menu__col link-menu__col--horizontal">
+                                                <h3 class="link-menu__title h3">Sustainability</h3>
+                                                <ul class="link-menu__list link-menu__list--horizontal">
+                                                                                                                                                            <li class="link-menu__item">
+                                                        <a href="https://dole.co.uk/sustainability/group-sustainability" class="link-menu__link"> Group Sustainability </a>
+                                                    </li>
+                                                                                                        <li class="link-menu__item">
+                                                        <a href="https://dole.co.uk/sustainability/uk-sustainability" class="link-menu__link"> UK Sustainability </a>
+                                                    </li>
+                                                                                                        <li class="link-menu__item">
+                                                        <a href="https://dole.co.uk/company/news/sustainability-report" class="link-menu__link"> Sustainability Reports </a>
+                                                    </li>  
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="header__item header__item--has-child">
+                                <a href="#" class="header__link">
+                                    <span class="header__link-text">Careers</span>
+                                    <i class="icon-chevron-down header__link-icon"></i>
+                                </a>  
+                                <div class="megamenu header__megamenu">
+                                    <div class="megamenu__row header__megamenu-row">
+                                        <div class="link-menu header__link-list">
+                                            <div class="link-menu__col link-menu__col--horizontal">
+                                                <h3 class="link-menu__title h3">Careers</h3>
+                                                <ul class="link-menu__list link-menu__list--horizontal">      
+                                                    <li class="link-menu__item">
+                                                        <a href="https://dole.co.uk/careers/why-dole-uk" class="link-menu__link"> Why Dole? </a>
+                                                    </li>
+                                                    <li class="link-menu__item">
+                                                        <a href="https://dole.co.uk/company/careers" class="link-menu__link"> Open Positions </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>                          
+                            </li>
+                            <li class="header__item header__item--mob-only">
+                                <a href="https://www.doleplc.com/" class="header__link" target="_blank">
+                                    <span class="header__link-text">Investors</span>
+                                    <i class="icon-share header__link-icon header__link-icon--share"></i>
+                                </a>
+                            </li>
+                            <li class="header__item header__item--mob-only">
+                                <a href="https://dole.co.uk/company/contact" class="header__contact-button header__contact-button--mob button button--secondary">Contact</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+                                <button class="header__search-button search-button button--search" aria-label="Search" aria-controls="searchTakeover">
+                    <i class="icon-search header__search-button-icon"></i>
+                </button>
+
+                <div class="header__burger">
+                    <button class="header__burger-button" aria-label="Toggle mobile menu">
+
+                        <svg width="20" height="17" viewBox="0 0 20 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g id="menu" clip-path="url(#clip0_17_2)">
+                        <rect id="top" width="20" height="2" rx="1" fill="#94795D"/>
+                        <rect id="mid" y="7.5" width="20" height="2" rx="1" fill="#94795D"/>
+                        <rect id="mid-2" y="7.5" width="20" height="2" rx="1" fill="#94795D"/>
+                        <rect id="bottom" y="15" width="20" height="2" rx="1" fill="#94795D"/>
+                        </g>
+                        <defs>
+                        <clipPath id="clip0_17_2">
+                        <rect width="20" height="17" fill="white"/>
+                        </clipPath>
+                        </defs>
+                        </svg>
+
+                    </button>
+                </div>
+
+                <a href="https://dole.co.uk/company/contact" class="header__contact-button button button--secondary">Contact</a>
+            </div>
+
+            <div class="header__sub-nav">
+                <a class="header__investors" href="https://doleireland.com/company/news" target="_blank">
+                    News
+                </a>
+                <a class="header__investors" href="https://www.doleplc.com/" target="_blank">
+                    Investors
+                    <i class="header__investors-icon icon-share"></i>
+                </a>
+                            </div>
+        </div>
+    </div>
+</header>    
+<div class="search-popup">
+    <div class="search-popup__wrapper">
+        <button class="search-popup__close" aria-label="Close search form"></button>
+        <div class="search-popup__input-container">
+            <form action="https://dole.co.uk/search/results" role="search">
+                <label class="search-popup__label" for="search">Search</label>
+                <input class="search-popup__input" id="search" type="search" name="keywords" placeholder="Keywords" />
+                <button class="search-popup__submit" type="submit" aria-label="Click to search">
+                    <i class="icon-magnify search-popup__submit-icon"></i>
+                </button>
+            </form>
+        </div>
+        <span class="search-popup__info"> <span class="hide-mobile"></span></span>
+        <div class="search-popup__links">
+            <div class="search-popup__inner-wrapper">
+                <div class="search-popup__col">
+                    <div class="search-popup__content">
+                        <h3 class="search-popup__title">Top searched</h3>
+                    </div>
+                    <div class="search-popup__group">
+                                                                        <ul class="search-popup__list">
+                                                        <li class="search-popup__item">
+                                <a href="https://dole.co.uk/depot-finder" class="search-popup__link">Branch Finder</a>
+                            </li>
+                                                        <li class="search-popup__item">
+                                <a href="https://dole.co.uk/products" class="search-popup__link">Products</a>
+                            </li>
+                                                        <li class="search-popup__item">
+                                <a href="https://dole.co.uk/recipes" class="search-popup__link">Recipes</a>
+                            </li>
+                                                    </ul>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    	<main>
+	<section class="banner">
+	    <div class="slider slider--home">
+	        <div class="slider__container swiper">
+	            <div class="swiper-wrapper slider-wrapper">
+	            		                <div class="swiper-slide slider__slide">
+	                    <div class="wrapper banner__wrapper">
+	                        <div class="banner__content">
+	                            <h1 class="h1 banner__title">Local at heart, Global by nature.</h1>
+	                            <ul class="list">
+	                            		                            </ul>
+	                        </div>
+	                    </div>
+	                    <div class="banner__background">
+	                    		                        	                        																																																																																																																																																																								<picture class="banner__picture"> 
+								<source srcset="https://doleireland.com/uploads/banners/_2400xAUTO_fit_center-center_75_none/326578/banner_1_updated-min_2024-06-06-092621_frxk.webp?width=2400 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/326578/banner_1_updated-min_2024-06-06-092621_frxk.webp?width=4800 2x" media="(min-width: 1920px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2400xAUTO_fit_center-center_75_none/banner_1_updated-min_2024-06-06-092621_frxk.jpg?width=2400 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/banner_1_updated-min_2024-06-06-092621_frxk.jpg?width=4800 2x" media="(min-width: 1920px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2000xAUTO_fit_center-center_75_none/326578/banner_1_updated-min_2024-06-06-092621_frxk.webp?width=2000 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/326578/banner_1_updated-min_2024-06-06-092621_frxk.webp?width=4000 2x" media="(min-width: 1440px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2000xAUTO_fit_center-center_75_none/banner_1_updated-min_2024-06-06-092621_frxk.jpg?width=2000 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/banner_1_updated-min_2024-06-06-092621_frxk.jpg?width=4000 2x" media="(min-width: 1440px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1440xAUTO_fit_center-center_75_none/326578/banner_1_updated-min_2024-06-06-092621_frxk.webp?width=1440 1x, https://doleireland.com/uploads/banners/_2880xAUTO_fit_center-center_75_none/326578/banner_1_updated-min_2024-06-06-092621_frxk.webp?width=2880 2x" media="(min-width: 1024px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1440xAUTO_fit_center-center_75_none/banner_1_updated-min_2024-06-06-092621_frxk.jpg?width=1440 1x, https://doleireland.com/uploads/banners/_2880xAUTO_fit_center-center_75_none/banner_1_updated-min_2024-06-06-092621_frxk.jpg?width=2880 2x" media="(min-width: 1024px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1024xAUTO_fit_center-center_75_none/326578/banner_1_updated-min_2024-06-06-092621_frxk.webp?width=1024 1x, https://doleireland.com/uploads/banners/_2048xAUTO_fit_center-center_75_none/326578/banner_1_updated-min_2024-06-06-092621_frxk.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1024xAUTO_fit_center-center_75_none/banner_1_updated-min_2024-06-06-092621_frxk.jpg?width=1024 1x, https://doleireland.com/uploads/banners/_2048xAUTO_fit_center-center_75_none/banner_1_updated-min_2024-06-06-092621_frxk.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_768xAUTO_fit_center-center_75_none/326578/banner_1_updated-min_2024-06-06-092621_frxk.webp?width=768 1x, https://doleireland.com/uploads/banners/_1536xAUTO_fit_center-center_75_none/326578/banner_1_updated-min_2024-06-06-092621_frxk.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_768xAUTO_fit_center-center_75_none/banner_1_updated-min_2024-06-06-092621_frxk.jpg?width=768 1x, https://doleireland.com/uploads/banners/_1536xAUTO_fit_center-center_75_none/banner_1_updated-min_2024-06-06-092621_frxk.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_360xAUTO_fit_center-center_75_none/326578/banner_1_updated-min_2024-06-06-092621_frxk.webp?width=360 1x, https://doleireland.com/uploads/banners/_720xAUTO_fit_center-center_75_none/326578/banner_1_updated-min_2024-06-06-092621_frxk.webp?width=720 2x" type="image/webp" /> 
+								<img loading="eager" class="banner__picture-src" src="https://doleireland.com/uploads/banners/_360xAUTO_fit_center-center_75_none/banner_1_updated-min_2024-06-06-092621_frxk.jpg?width=360" srcset="https://doleireland.com/uploads/banners/_720xAUTO_fit_center-center_75_none/banner_1_updated-min_2024-06-06-092621_frxk.jpg?width=720 2x" alt="" fetchpriority="high"/>
+							</picture>
+	                        	                    </div>
+	                </div>
+	                	                <div class="swiper-slide slider__slide">
+	                    <div class="wrapper banner__wrapper">
+	                        <div class="banner__content">
+	                            <h1 class="h1 banner__title">Local at heart, Global by nature.</h1>
+	                            <ul class="list">
+	                            		                            </ul>
+	                        </div>
+	                    </div>
+	                    <div class="banner__background">
+	                    		                        	                        																																																																																																																																																																								<picture class="banner__picture"> 
+								<source srcset="https://doleireland.com/uploads/banners/_2400xAUTO_fit_center-center_75_none/326580/banner_2_updated-min_2024-06-06-092627_zpzw.webp?width=2400 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/326580/banner_2_updated-min_2024-06-06-092627_zpzw.webp?width=4800 2x" media="(min-width: 1920px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2400xAUTO_fit_center-center_75_none/banner_2_updated-min_2024-06-06-092627_zpzw.jpg?width=2400 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/banner_2_updated-min_2024-06-06-092627_zpzw.jpg?width=4800 2x" media="(min-width: 1920px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2000xAUTO_fit_center-center_75_none/326580/banner_2_updated-min_2024-06-06-092627_zpzw.webp?width=2000 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/326580/banner_2_updated-min_2024-06-06-092627_zpzw.webp?width=4000 2x" media="(min-width: 1440px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2000xAUTO_fit_center-center_75_none/banner_2_updated-min_2024-06-06-092627_zpzw.jpg?width=2000 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/banner_2_updated-min_2024-06-06-092627_zpzw.jpg?width=4000 2x" media="(min-width: 1440px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1440xAUTO_fit_center-center_75_none/326580/banner_2_updated-min_2024-06-06-092627_zpzw.webp?width=1440 1x, https://doleireland.com/uploads/banners/_2880xAUTO_fit_center-center_75_none/326580/banner_2_updated-min_2024-06-06-092627_zpzw.webp?width=2880 2x" media="(min-width: 1024px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1440xAUTO_fit_center-center_75_none/banner_2_updated-min_2024-06-06-092627_zpzw.jpg?width=1440 1x, https://doleireland.com/uploads/banners/_2880xAUTO_fit_center-center_75_none/banner_2_updated-min_2024-06-06-092627_zpzw.jpg?width=2880 2x" media="(min-width: 1024px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1024xAUTO_fit_center-center_75_none/326580/banner_2_updated-min_2024-06-06-092627_zpzw.webp?width=1024 1x, https://doleireland.com/uploads/banners/_2048xAUTO_fit_center-center_75_none/326580/banner_2_updated-min_2024-06-06-092627_zpzw.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1024xAUTO_fit_center-center_75_none/banner_2_updated-min_2024-06-06-092627_zpzw.jpg?width=1024 1x, https://doleireland.com/uploads/banners/_2048xAUTO_fit_center-center_75_none/banner_2_updated-min_2024-06-06-092627_zpzw.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_768xAUTO_fit_center-center_75_none/326580/banner_2_updated-min_2024-06-06-092627_zpzw.webp?width=768 1x, https://doleireland.com/uploads/banners/_1536xAUTO_fit_center-center_75_none/326580/banner_2_updated-min_2024-06-06-092627_zpzw.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_768xAUTO_fit_center-center_75_none/banner_2_updated-min_2024-06-06-092627_zpzw.jpg?width=768 1x, https://doleireland.com/uploads/banners/_1536xAUTO_fit_center-center_75_none/banner_2_updated-min_2024-06-06-092627_zpzw.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_360xAUTO_fit_center-center_75_none/326580/banner_2_updated-min_2024-06-06-092627_zpzw.webp?width=360 1x, https://doleireland.com/uploads/banners/_720xAUTO_fit_center-center_75_none/326580/banner_2_updated-min_2024-06-06-092627_zpzw.webp?width=720 2x" type="image/webp" /> 
+								<img loading="lazy" class="banner__picture-src" src="https://doleireland.com/uploads/banners/_360xAUTO_fit_center-center_75_none/banner_2_updated-min_2024-06-06-092627_zpzw.jpg?width=360" srcset="https://doleireland.com/uploads/banners/_720xAUTO_fit_center-center_75_none/banner_2_updated-min_2024-06-06-092627_zpzw.jpg?width=720 2x" alt="" fetchpriority="low"/>
+							</picture>
+	                        	                    </div>
+	                </div>
+	                	                <div class="swiper-slide slider__slide">
+	                    <div class="wrapper banner__wrapper">
+	                        <div class="banner__content">
+	                            <h1 class="h1 banner__title">Local at heart, Global by nature.</h1>
+	                            <ul class="list">
+	                            		                            </ul>
+	                        </div>
+	                    </div>
+	                    <div class="banner__background">
+	                    		                        	                        																																																																																																																																																																								<picture class="banner__picture"> 
+								<source srcset="https://doleireland.com/uploads/banners/_2400xAUTO_fit_center-center_75_none/325572/banner_3_updated-min.webp?width=2400 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/325572/banner_3_updated-min.webp?width=4800 2x" media="(min-width: 1920px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2400xAUTO_fit_center-center_75_none/banner_3_updated-min.jpg?width=2400 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/banner_3_updated-min.jpg?width=4800 2x" media="(min-width: 1920px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2000xAUTO_fit_center-center_75_none/325572/banner_3_updated-min.webp?width=2000 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/325572/banner_3_updated-min.webp?width=4000 2x" media="(min-width: 1440px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2000xAUTO_fit_center-center_75_none/banner_3_updated-min.jpg?width=2000 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/banner_3_updated-min.jpg?width=4000 2x" media="(min-width: 1440px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1440xAUTO_fit_center-center_75_none/325572/banner_3_updated-min.webp?width=1440 1x, https://doleireland.com/uploads/banners/_2880xAUTO_fit_center-center_75_none/325572/banner_3_updated-min.webp?width=2880 2x" media="(min-width: 1024px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1440xAUTO_fit_center-center_75_none/banner_3_updated-min.jpg?width=1440 1x, https://doleireland.com/uploads/banners/_2880xAUTO_fit_center-center_75_none/banner_3_updated-min.jpg?width=2880 2x" media="(min-width: 1024px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1024xAUTO_fit_center-center_75_none/325572/banner_3_updated-min.webp?width=1024 1x, https://doleireland.com/uploads/banners/_2048xAUTO_fit_center-center_75_none/325572/banner_3_updated-min.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1024xAUTO_fit_center-center_75_none/banner_3_updated-min.jpg?width=1024 1x, https://doleireland.com/uploads/banners/_2048xAUTO_fit_center-center_75_none/banner_3_updated-min.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_768xAUTO_fit_center-center_75_none/325572/banner_3_updated-min.webp?width=768 1x, https://doleireland.com/uploads/banners/_1536xAUTO_fit_center-center_75_none/325572/banner_3_updated-min.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_768xAUTO_fit_center-center_75_none/banner_3_updated-min.jpg?width=768 1x, https://doleireland.com/uploads/banners/_1536xAUTO_fit_center-center_75_none/banner_3_updated-min.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_360xAUTO_fit_center-center_75_none/325572/banner_3_updated-min.webp?width=360 1x, https://doleireland.com/uploads/banners/_720xAUTO_fit_center-center_75_none/325572/banner_3_updated-min.webp?width=720 2x" type="image/webp" /> 
+								<img loading="lazy" class="banner__picture-src" src="https://doleireland.com/uploads/banners/_360xAUTO_fit_center-center_75_none/banner_3_updated-min.jpg?width=360" srcset="https://doleireland.com/uploads/banners/_720xAUTO_fit_center-center_75_none/banner_3_updated-min.jpg?width=720 2x" alt="" fetchpriority="low"/>
+							</picture>
+	                        	                    </div>
+	                </div>
+	                	                <div class="swiper-slide slider__slide">
+	                    <div class="wrapper banner__wrapper">
+	                        <div class="banner__content">
+	                            <h1 class="h1 banner__title">Local at heart, Global by nature.</h1>
+	                            <ul class="list">
+	                            		                            </ul>
+	                        </div>
+	                    </div>
+	                    <div class="banner__background">
+	                    		                        	                        																																																																																																																																																																								<picture class="banner__picture"> 
+								<source srcset="https://doleireland.com/uploads/banners/_2400xAUTO_fit_center-center_75_none/325574/banner_4_updated-min.webp?width=2400 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/325574/banner_4_updated-min.webp?width=4800 2x" media="(min-width: 1920px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2400xAUTO_fit_center-center_75_none/banner_4_updated-min.jpg?width=2400 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/banner_4_updated-min.jpg?width=4800 2x" media="(min-width: 1920px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2000xAUTO_fit_center-center_75_none/325574/banner_4_updated-min.webp?width=2000 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/325574/banner_4_updated-min.webp?width=4000 2x" media="(min-width: 1440px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2000xAUTO_fit_center-center_75_none/banner_4_updated-min.jpg?width=2000 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/banner_4_updated-min.jpg?width=4000 2x" media="(min-width: 1440px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1440xAUTO_fit_center-center_75_none/325574/banner_4_updated-min.webp?width=1440 1x, https://doleireland.com/uploads/banners/_2880xAUTO_fit_center-center_75_none/325574/banner_4_updated-min.webp?width=2880 2x" media="(min-width: 1024px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1440xAUTO_fit_center-center_75_none/banner_4_updated-min.jpg?width=1440 1x, https://doleireland.com/uploads/banners/_2880xAUTO_fit_center-center_75_none/banner_4_updated-min.jpg?width=2880 2x" media="(min-width: 1024px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1024xAUTO_fit_center-center_75_none/325574/banner_4_updated-min.webp?width=1024 1x, https://doleireland.com/uploads/banners/_2048xAUTO_fit_center-center_75_none/325574/banner_4_updated-min.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1024xAUTO_fit_center-center_75_none/banner_4_updated-min.jpg?width=1024 1x, https://doleireland.com/uploads/banners/_2048xAUTO_fit_center-center_75_none/banner_4_updated-min.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_768xAUTO_fit_center-center_75_none/325574/banner_4_updated-min.webp?width=768 1x, https://doleireland.com/uploads/banners/_1536xAUTO_fit_center-center_75_none/325574/banner_4_updated-min.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_768xAUTO_fit_center-center_75_none/banner_4_updated-min.jpg?width=768 1x, https://doleireland.com/uploads/banners/_1536xAUTO_fit_center-center_75_none/banner_4_updated-min.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_360xAUTO_fit_center-center_75_none/325574/banner_4_updated-min.webp?width=360 1x, https://doleireland.com/uploads/banners/_720xAUTO_fit_center-center_75_none/325574/banner_4_updated-min.webp?width=720 2x" type="image/webp" /> 
+								<img loading="lazy" class="banner__picture-src" src="https://doleireland.com/uploads/banners/_360xAUTO_fit_center-center_75_none/banner_4_updated-min.jpg?width=360" srcset="https://doleireland.com/uploads/banners/_720xAUTO_fit_center-center_75_none/banner_4_updated-min.jpg?width=720 2x" alt="" fetchpriority="low"/>
+							</picture>
+	                        	                    </div>
+	                </div>
+	                	                <div class="swiper-slide slider__slide">
+	                    <div class="wrapper banner__wrapper">
+	                        <div class="banner__content">
+	                            <h1 class="h1 banner__title">Local at heart, Global by nature.</h1>
+	                            <ul class="list">
+	                            		                            </ul>
+	                        </div>
+	                    </div>
+	                    <div class="banner__background">
+	                    		                        	                        																																																																																																																																																																								<picture class="banner__picture"> 
+								<source srcset="https://doleireland.com/uploads/banners/_2400xAUTO_fit_center-center_75_none/325576/banner_5_updated-min.webp?width=2400 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/325576/banner_5_updated-min.webp?width=4800 2x" media="(min-width: 1920px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2400xAUTO_fit_center-center_75_none/banner_5_updated-min.jpg?width=2400 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/banner_5_updated-min.jpg?width=4800 2x" media="(min-width: 1920px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2000xAUTO_fit_center-center_75_none/325576/banner_5_updated-min.webp?width=2000 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/325576/banner_5_updated-min.webp?width=4000 2x" media="(min-width: 1440px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2000xAUTO_fit_center-center_75_none/banner_5_updated-min.jpg?width=2000 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/banner_5_updated-min.jpg?width=4000 2x" media="(min-width: 1440px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1440xAUTO_fit_center-center_75_none/325576/banner_5_updated-min.webp?width=1440 1x, https://doleireland.com/uploads/banners/_2880xAUTO_fit_center-center_75_none/325576/banner_5_updated-min.webp?width=2880 2x" media="(min-width: 1024px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1440xAUTO_fit_center-center_75_none/banner_5_updated-min.jpg?width=1440 1x, https://doleireland.com/uploads/banners/_2880xAUTO_fit_center-center_75_none/banner_5_updated-min.jpg?width=2880 2x" media="(min-width: 1024px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1024xAUTO_fit_center-center_75_none/325576/banner_5_updated-min.webp?width=1024 1x, https://doleireland.com/uploads/banners/_2048xAUTO_fit_center-center_75_none/325576/banner_5_updated-min.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1024xAUTO_fit_center-center_75_none/banner_5_updated-min.jpg?width=1024 1x, https://doleireland.com/uploads/banners/_2048xAUTO_fit_center-center_75_none/banner_5_updated-min.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_768xAUTO_fit_center-center_75_none/325576/banner_5_updated-min.webp?width=768 1x, https://doleireland.com/uploads/banners/_1536xAUTO_fit_center-center_75_none/325576/banner_5_updated-min.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_768xAUTO_fit_center-center_75_none/banner_5_updated-min.jpg?width=768 1x, https://doleireland.com/uploads/banners/_1536xAUTO_fit_center-center_75_none/banner_5_updated-min.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_360xAUTO_fit_center-center_75_none/325576/banner_5_updated-min.webp?width=360 1x, https://doleireland.com/uploads/banners/_720xAUTO_fit_center-center_75_none/325576/banner_5_updated-min.webp?width=720 2x" type="image/webp" /> 
+								<img loading="lazy" class="banner__picture-src" src="https://doleireland.com/uploads/banners/_360xAUTO_fit_center-center_75_none/banner_5_updated-min.jpg?width=360" srcset="https://doleireland.com/uploads/banners/_720xAUTO_fit_center-center_75_none/banner_5_updated-min.jpg?width=720 2x" alt="" fetchpriority="low"/>
+							</picture>
+	                        	                    </div>
+	                </div>
+	                	                <div class="swiper-slide slider__slide">
+	                    <div class="wrapper banner__wrapper">
+	                        <div class="banner__content">
+	                            <h1 class="h1 banner__title">Local at heart, Global by nature.</h1>
+	                            <ul class="list">
+	                            		                            </ul>
+	                        </div>
+	                    </div>
+	                    <div class="banner__background">
+	                    		                        	                        																																																																																																																																																																								<picture class="banner__picture"> 
+								<source srcset="https://doleireland.com/uploads/banners/_2400xAUTO_fit_center-center_75_none/326582/banner_6_updated-min_2024-06-06-092647_malx.webp?width=2400 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/326582/banner_6_updated-min_2024-06-06-092647_malx.webp?width=4800 2x" media="(min-width: 1920px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2400xAUTO_fit_center-center_75_none/banner_6_updated-min_2024-06-06-092647_malx.jpg?width=2400 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/banner_6_updated-min_2024-06-06-092647_malx.jpg?width=4800 2x" media="(min-width: 1920px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2000xAUTO_fit_center-center_75_none/326582/banner_6_updated-min_2024-06-06-092647_malx.webp?width=2000 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/326582/banner_6_updated-min_2024-06-06-092647_malx.webp?width=4000 2x" media="(min-width: 1440px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_2000xAUTO_fit_center-center_75_none/banner_6_updated-min_2024-06-06-092647_malx.jpg?width=2000 1x, https://doleireland.com/uploads/banners/_3000xAUTO_fit_center-center_75_none/banner_6_updated-min_2024-06-06-092647_malx.jpg?width=4000 2x" media="(min-width: 1440px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1440xAUTO_fit_center-center_75_none/326582/banner_6_updated-min_2024-06-06-092647_malx.webp?width=1440 1x, https://doleireland.com/uploads/banners/_2880xAUTO_fit_center-center_75_none/326582/banner_6_updated-min_2024-06-06-092647_malx.webp?width=2880 2x" media="(min-width: 1024px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1440xAUTO_fit_center-center_75_none/banner_6_updated-min_2024-06-06-092647_malx.jpg?width=1440 1x, https://doleireland.com/uploads/banners/_2880xAUTO_fit_center-center_75_none/banner_6_updated-min_2024-06-06-092647_malx.jpg?width=2880 2x" media="(min-width: 1024px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1024xAUTO_fit_center-center_75_none/326582/banner_6_updated-min_2024-06-06-092647_malx.webp?width=1024 1x, https://doleireland.com/uploads/banners/_2048xAUTO_fit_center-center_75_none/326582/banner_6_updated-min_2024-06-06-092647_malx.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_1024xAUTO_fit_center-center_75_none/banner_6_updated-min_2024-06-06-092647_malx.jpg?width=1024 1x, https://doleireland.com/uploads/banners/_2048xAUTO_fit_center-center_75_none/banner_6_updated-min_2024-06-06-092647_malx.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_768xAUTO_fit_center-center_75_none/326582/banner_6_updated-min_2024-06-06-092647_malx.webp?width=768 1x, https://doleireland.com/uploads/banners/_1536xAUTO_fit_center-center_75_none/326582/banner_6_updated-min_2024-06-06-092647_malx.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_768xAUTO_fit_center-center_75_none/banner_6_updated-min_2024-06-06-092647_malx.jpg?width=768 1x, https://doleireland.com/uploads/banners/_1536xAUTO_fit_center-center_75_none/banner_6_updated-min_2024-06-06-092647_malx.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg" /> 
+								<source srcset="https://doleireland.com/uploads/banners/_360xAUTO_fit_center-center_75_none/326582/banner_6_updated-min_2024-06-06-092647_malx.webp?width=360 1x, https://doleireland.com/uploads/banners/_720xAUTO_fit_center-center_75_none/326582/banner_6_updated-min_2024-06-06-092647_malx.webp?width=720 2x" type="image/webp" /> 
+								<img loading="lazy" class="banner__picture-src" src="https://doleireland.com/uploads/banners/_360xAUTO_fit_center-center_75_none/banner_6_updated-min_2024-06-06-092647_malx.jpg?width=360" srcset="https://doleireland.com/uploads/banners/_720xAUTO_fit_center-center_75_none/banner_6_updated-min_2024-06-06-092647_malx.jpg?width=720 2x" alt="" fetchpriority="low"/>
+							</picture>
+	                        	                    </div>
+	                </div>
+	                	            </div>
+	        </div>
+	        <div class="arrows slider__controls-wrapper">
+				<div class="arrows slider__controls">
+					<button class="arrows__button slider__control-previous" aria-label="Click to view previous slide">
+						<i class="icon-chevron-left arrows__icon"></i>
+					</button>
+					<button class="arrows__button slider__control-next" aria-label="Click to view next slide">
+						<i class="icon-chevron-right arrows__icon"></i>
+					</button>
+					<div class="progress-bar">
+						<span class="progress-bar__number-current">01</span>
+																																																																														<span class="progress-bar__number">06</span>
+																		<span class="progress-bar__animation"></span>
+					</div>
+				</div>
+	        </div>
+	    </div>
+	    <div class="banner__graphic">
+	        <?xml version="1.0" encoding="UTF-8"?>
+	        <svg class="banner__graphic-src" width="1440px" height="207px" preserveAspectRatio="none" viewBox="0 0 1440 207" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	            <title>Combined Shape</title>
+	            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+	                <g id="Homepage-T1_UI_DEV" transform="translate(0.000000, -787.000000)" fill="#FAF8F5">
+	                    <g id="Rectangle-4" transform="translate(-34.446088, -18.302338)">
+	                        <path d="M667.130479,1001.30234 L680.89186,1001.30234 C962.800067,1001.30234 1142.84481,956.153272 1287.63947,919.838389 C1353.90723,903.218453 1414.12419,888.119186 1474.44632,879.814943 L1474.44609,1012.30234 L34.4460879,1012.30234 L34.4409469,805.593135 C199.771456,932.734514 416.098781,1000.03643 667.130479,1001.30234 Z" id="Combined-Shape"></path>
+	                    </g>
+	                </g>
+	            </g>
+	        </svg>
+	    </div>
+	    <div class="banner__aside">
+	    			    		</div>
+	</section>
+	<section class="page-strip page-strip--has-background page-strip--no-border page-strip--off-white page-strip--reduced">
+	    <div class="wrapper">
+	        <ul class="card-grid card-grid--thumbnails">
+	        		            <li>
+	                <div class="basic-card basic-card--no-image-mob">
+	                    <a href="https://dole.co.uk/trade-customers/retail" class="basic-card__image-wrapper basic-card__image-wrapper--hide-mob " >	
+	                        <i class="basic-card__arrow icon-arrow-right"></i>
+	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        <picture class="basic-card__picture">
+	                        	<source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/182503/Kent-office.webp?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/182503/Kent-office.webp?width=2000 2x" media="(min-width: 1200px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/Kent-office.jpg?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/Kent-office.jpg?width=2000 2x" media="(min-width: 1200px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/182503/Kent-office.webp?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/182503/Kent-office.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/Kent-office.jpg?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/Kent-office.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/182503/Kent-office.webp?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/182503/Kent-office.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/Kent-office.jpgg?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/Kent-office.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/182503/Kent-office.webp?width=360 1x, https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/182503/Kent-office.webp?width=720 2x" type="image/webp"/>
+	                            <img loading="lazy" class="basic-card__image-src" src="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/Kent-office.jpg?width=360" srcset="https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/Kent-office.jpg?width=720 2x" alt="Retail"/>
+	                        </picture>
+	                        	                    </a>
+	                    <div class="basic-card__text-content  basic-card__text-content--margin-top">
+	                        <h3 class="h3 basic-card__title">Retail</h3>
+	                        <p class="basic-card__description">Bringing quality, value, consistency and innovation to retail shelves everywhere.</p>
+	                        <a href="https://dole.co.uk/trade-customers/retail" class="basic-card__cta cta" >Learn more</a>
+	                    </div>
+	                </div>
+	            </li>
+	            	            <li>
+	                <div class="basic-card basic-card--no-image-mob">
+	                    <a href="https://dole.co.uk/trade-customers/foodservice" class="basic-card__image-wrapper basic-card__image-wrapper--hide-mob " >	
+	                        <i class="basic-card__arrow icon-arrow-right"></i>
+	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        <picture class="basic-card__picture">
+	                        	<source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/182496/FS-box.webp?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/182496/FS-box.webp?width=2000 2x" media="(min-width: 1200px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/FS-box.jpg?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/FS-box.jpg?width=2000 2x" media="(min-width: 1200px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/182496/FS-box.webp?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/182496/FS-box.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/FS-box.jpg?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/FS-box.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/182496/FS-box.webp?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/182496/FS-box.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/FS-box.jpgg?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/FS-box.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/182496/FS-box.webp?width=360 1x, https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/182496/FS-box.webp?width=720 2x" type="image/webp"/>
+	                            <img loading="lazy" class="basic-card__image-src" src="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/FS-box.jpg?width=360" srcset="https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/FS-box.jpg?width=720 2x" alt="Foodservice"/>
+	                        </picture>
+	                        	                    </a>
+	                    <div class="basic-card__text-content  basic-card__text-content--margin-top">
+	                        <h3 class="h3 basic-card__title">Foodservice</h3>
+	                        <p class="basic-card__description">We provide bespoke services and the best of local and global produce nationwide.</p>
+	                        <a href="https://dole.co.uk/trade-customers/foodservice" class="basic-card__cta cta" >Learn more</a>
+	                    </div>
+	                </div>
+	            </li>
+	            	            <li>
+	                <div class="basic-card basic-card--no-image-mob">
+	                    <a href="https://dole.co.uk/trade-customers/wholesale" class="basic-card__image-wrapper basic-card__image-wrapper--hide-mob " >	
+	                        <i class="basic-card__arrow icon-arrow-right"></i>
+	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        <picture class="basic-card__picture">
+	                        	<source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/184673/Becky-FL.webp?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/184673/Becky-FL.webp?width=2000 2x" media="(min-width: 1200px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/Becky-FL.jpg?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/Becky-FL.jpg?width=2000 2x" media="(min-width: 1200px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/184673/Becky-FL.webp?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/184673/Becky-FL.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/Becky-FL.jpg?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/Becky-FL.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/184673/Becky-FL.webp?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/184673/Becky-FL.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/Becky-FL.jpgg?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/Becky-FL.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/184673/Becky-FL.webp?width=360 1x, https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/184673/Becky-FL.webp?width=720 2x" type="image/webp"/>
+	                            <img loading="lazy" class="basic-card__image-src" src="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/Becky-FL.jpg?width=360" srcset="https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/Becky-FL.jpg?width=720 2x" alt="Wholesale &amp; Imports"/>
+	                        </picture>
+	                        	                    </a>
+	                    <div class="basic-card__text-content  basic-card__text-content--margin-top">
+	                        <h3 class="h3 basic-card__title">Wholesale &amp; Imports</h3>
+	                        <p class="basic-card__description">Our unrivalled network of depots delivers the finest fresh produce nationwide.</p>
+	                        <a href="https://dole.co.uk/trade-customers/wholesale" class="basic-card__cta cta" >Learn more</a>
+	                    </div>
+	                </div>
+	            </li>
+	            	            <li>
+	                <div class="basic-card basic-card--no-image-mob">
+	                    <a href="https://www.doleplc.com/home/default.aspx" class="basic-card__image-wrapper basic-card__image-wrapper--hide-mob " target="_blank">	
+	                        <i class="basic-card__arrow icon-arrow-right"></i>
+	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        <picture class="basic-card__picture">
+	                        	<source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/75628/HR-DOLE-OB-Photo-20210730-415-PRESS-10-1.webp?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/75628/HR-DOLE-OB-Photo-20210730-415-PRESS-10-1.webp?width=2000 2x" media="(min-width: 1200px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/HR-DOLE-OB-Photo-20210730-415-PRESS-10-1.jpg?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/HR-DOLE-OB-Photo-20210730-415-PRESS-10-1.jpg?width=2000 2x" media="(min-width: 1200px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/75628/HR-DOLE-OB-Photo-20210730-415-PRESS-10-1.webp?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/75628/HR-DOLE-OB-Photo-20210730-415-PRESS-10-1.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/HR-DOLE-OB-Photo-20210730-415-PRESS-10-1.jpg?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/HR-DOLE-OB-Photo-20210730-415-PRESS-10-1.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/75628/HR-DOLE-OB-Photo-20210730-415-PRESS-10-1.webp?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/75628/HR-DOLE-OB-Photo-20210730-415-PRESS-10-1.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/HR-DOLE-OB-Photo-20210730-415-PRESS-10-1.jpgg?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/HR-DOLE-OB-Photo-20210730-415-PRESS-10-1.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/75628/HR-DOLE-OB-Photo-20210730-415-PRESS-10-1.webp?width=360 1x, https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/75628/HR-DOLE-OB-Photo-20210730-415-PRESS-10-1.webp?width=720 2x" type="image/webp"/>
+	                            <img loading="lazy" class="basic-card__image-src" src="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/HR-DOLE-OB-Photo-20210730-415-PRESS-10-1.jpg?width=360" srcset="https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/HR-DOLE-OB-Photo-20210730-415-PRESS-10-1.jpg?width=720 2x" alt="Investors"/>
+	                        </picture>
+	                        	                    </a>
+	                    <div class="basic-card__text-content  basic-card__text-content--margin-top">
+	                        <h3 class="h3 basic-card__title">Investors</h3>
+	                        <p class="basic-card__description">Dole UK is part of Dole plc.</p>
+	                        <a href="https://www.doleplc.com/home/default.aspx" class="basic-card__cta cta" target="_blank">Learn more</a>
+	                    </div>
+	                </div>
+	            </li>
+	            	        </ul>
+	    </div>
+	</section>
+			<section class="page-strip page-strip--has-background page-strip--off-white page-strip--no-border page-strip--bottom-overlap">
+			<div class="wrapper">
+											<div class="fifty-fifty ">
+									<div class="fifty-fifty__text-column">
+						<div class="fifty-fifty__text-content">
+							<div class="heading-plus-intro  heading-plus-intro--no-margin ">
+								<div class="fifty-fifty__text-content">
+									<h2 class="h2">Local at heart, Global by nature. Delivering the best of both worlds.</h2>
+																											<p>Did you know Dole’s roots can be traced right back to 1850’s Ireland? Across the 170 years that followed we’ve grown quite a bit. One thing has remained consistent throughout, though - our commitment to offering the finest fresh produce from close to home and across the globe.</p>
+																	</div>
+							</div>
+														<div class="fifty-fifty__cta-container">
+																								<a href="https://dole.co.uk/about-us" class="cta fifty-fifty__cta">Learn More</a>
+															</div>
+													</div>
+																		<picture class="">
+							<source srcset="https://doleireland.com/img/decorative/Strawberries.png?width=720 1x, https://doleireland.com/img/decorative/Strawberries.png?width=1440 2x" media="(min-width: 360px)" type="image/png">
+
+							<img loading="lazy" class="fifty-fifty__decoration-image" src="https://doleireland.com/img/decorative/Strawberries.png?width=360" srcset="https://doleireland.com/img/decorative/Strawberries.png?width=720 2x" alt="Dole">
+						</picture>
+											</div>
+					<div class="fifty-fifty__image-column zoom-in zoom-in--visible">
+						<div class="fifty-fifty__image-column-contents">
+							 
+							 
+							    <picture class="fifty-fifty__picture">
+        <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/326584/McCann_BGround-1_option3_2024-06-06-092657_dsji.webp?width=718 1x, https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/326584/McCann_BGround-1_option3_2024-06-06-092657_dsji.webp?width=1436 2x"
+        media="(min-width: 360px)"
+        type="image/webp"
+    />
+    <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/McCann_BGround-1_option3_2024-06-06-092657_dsji.jpg?width=718 1x,https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/McCann_BGround-1_option3_2024-06-06-092657_dsji.jpg?width=1436 2x"
+        media="(min-width: 360px)"
+        type="image/jpg"
+    />
+        <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/326584/McCann_BGround-1_option3_2024-06-06-092657_dsji.webp?width=972 1x, https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/326584/McCann_BGround-1_option3_2024-06-06-092657_dsji.webp?width=1944 2x"
+        media="(min-width: 768px)"
+        type="image/webp"
+    />
+    <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/McCann_BGround-1_option3_2024-06-06-092657_dsji.jpg?width=972 1x,https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/McCann_BGround-1_option3_2024-06-06-092657_dsji.jpg?width=1944 2x"
+        media="(min-width: 768px)"
+        type="image/jpg"
+    />
+        <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/326584/McCann_BGround-1_option3_2024-06-06-092657_dsji.webp?width=540 1x, https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/326584/McCann_BGround-1_option3_2024-06-06-092657_dsji.webp?width=1080 2x"
+        media="(min-width: 1024px)"
+        type="image/webp"
+    />
+    <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/McCann_BGround-1_option3_2024-06-06-092657_dsji.jpg?width=540 1x,https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/McCann_BGround-1_option3_2024-06-06-092657_dsji.jpg?width=1080 2x"
+        media="(min-width: 1024px)"
+        type="image/jpg"
+    />
+        <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/326584/McCann_BGround-1_option3_2024-06-06-092657_dsji.webp?width=360 1x  , https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/326584/McCann_BGround-1_option3_2024-06-06-092657_dsji.webp?width=720  2x"
+        type="image/webp"
+    />
+    <img
+        loading="lazy"
+        class="fifty-fifty__image-src "
+        src="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/McCann_BGround-1_option3_2024-06-06-092657_dsji.jpg?width=360"
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/McCann_BGround-1_option3_2024-06-06-092657_dsji.jpg?width=720 2x"
+        alt=""
+            />
+</picture>																				</div>
+					</div>
+				</div>
+					</div>
+	</section>
+			<section class="page-strip page-strip--has-background page-strip--pale-yellow">
+			<div class="wrapper">
+											<div class="fifty-fifty fifty-fifty--reverse ">
+									<div class="fifty-fifty__text-column">
+						<div class="fifty-fifty__text-content">
+							<div class="heading-plus-intro  heading-plus-intro--no-margin ">
+								<div class="fifty-fifty__text-content">
+									<h2 class="h2">Introducing our world famous DOLE® brand.</h2>
+																											The more things change, the more they stay the same.  From the very beginning the DOLE® brand came with James Dole’s promise of “quality, quality, quality.’  It still does.  The world’s most recognised fresh produce brand, a commitment to assuring the best agronomic and sustainability standards from seed to store, farm to fark, lies at the heart of all that we do.   But you know what?  Let us worry about that.  What you should focus on, is the taste- that sensational burst of flavour that only the finest, freshest fruit, grown with pride and ripened to perfection, can deliver.  That’s our promise to you.
+																	</div>
+							</div>
+														<div class="fifty-fifty__cta-container">
+																								<a href="https://dole.co.uk/recipes" class="cta fifty-fifty__cta">Recipes</a>
+															</div>
+													</div>
+																		<picture class="">
+							<source srcset="https://doleireland.com/img/decorative/Avocado2.png?width=720 1x, https://doleireland.com/img/decorative/Avocado2.png?width=1440 2x" media="(min-width: 360px)" type="image/png">
+
+							<img loading="lazy" class="fifty-fifty__decoration-image" src="https://doleireland.com/img/decorative/Avocado2.png?width=360" srcset="https://doleireland.com/img/decorative/Avocado2.png?width=720 2x" alt="Dole">
+						</picture>
+											</div>
+					<div class="fifty-fifty__image-column zoom-in zoom-in--visible">
+						<div class="fifty-fifty__image-column-contents">
+							 
+							 
+							    <picture class="fifty-fifty__picture">
+        <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/119547/294A0657_2.webp?width=718 1x, https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/119547/294A0657_2.webp?width=1436 2x"
+        media="(min-width: 360px)"
+        type="image/webp"
+    />
+    <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/294A0657_2.jpg?width=718 1x,https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/294A0657_2.jpg?width=1436 2x"
+        media="(min-width: 360px)"
+        type="image/jpg"
+    />
+        <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/119547/294A0657_2.webp?width=972 1x, https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/119547/294A0657_2.webp?width=1944 2x"
+        media="(min-width: 768px)"
+        type="image/webp"
+    />
+    <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/294A0657_2.jpg?width=972 1x,https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/294A0657_2.jpg?width=1944 2x"
+        media="(min-width: 768px)"
+        type="image/jpg"
+    />
+        <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/119547/294A0657_2.webp?width=540 1x, https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/119547/294A0657_2.webp?width=1080 2x"
+        media="(min-width: 1024px)"
+        type="image/webp"
+    />
+    <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/294A0657_2.jpg?width=540 1x,https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/294A0657_2.jpg?width=1080 2x"
+        media="(min-width: 1024px)"
+        type="image/jpg"
+    />
+        <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/119547/294A0657_2.webp?width=360 1x  , https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/119547/294A0657_2.webp?width=720  2x"
+        type="image/webp"
+    />
+    <img
+        loading="lazy"
+        class="fifty-fifty__image-src "
+        src="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/294A0657_2.jpg?width=360"
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/294A0657_2.jpg?width=720 2x"
+        alt=""
+            />
+</picture>																				</div>
+					</div>
+				</div>
+					</div>
+	</section>
+			<section class="page-strip">
+			<div class="wrapper">
+											<div class="fifty-fifty ">
+									<div class="fifty-fifty__text-column">
+						<div class="fifty-fifty__text-content">
+							<div class="heading-plus-intro  heading-plus-intro--no-margin ">
+								<div class="fifty-fifty__text-content">
+									<h2 class="h2">Leading the way in Sustainability</h2>
+																											<p>In Dole we know we’re privileged to be growing, distributing and selling the most nutritious of foods with amongst the lowest environmental Footprints.* We also understand that great responsibility comes with this privilege so we’re determined to do business in a responsible, sustainable way, both here at home and across the world. </p>
+<p><sup>                                                    *Barilla Double Pyramid, 2021</sup></p>
+																	</div>
+							</div>
+														<div class="fifty-fifty__cta-container">
+																								<a href="https://dole.co.uk/sustainability" class="cta fifty-fifty__cta">Learn More</a>
+															</div>
+													</div>
+																		<picture class="">
+							<source srcset="https://doleireland.com/img/decorative/Tomato.png?width=720 1x, https://doleireland.com/img/decorative/Tomato.png?width=1440 2x" media="(min-width: 360px)" type="image/png">
+
+							<img loading="lazy" class="fifty-fifty__decoration-image" src="https://doleireland.com/img/decorative/Tomato.png?width=360" srcset="https://doleireland.com/img/decorative/Tomato.png?width=720 2x" alt="Dole">
+						</picture>
+											</div>
+					<div class="fifty-fifty__image-column zoom-in zoom-in--visible">
+						<div class="fifty-fifty__image-column-contents">
+							 
+							 
+							    <picture class="fifty-fifty__picture">
+        <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/184678/Cravo-FoF.webp?width=718 1x, https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/184678/Cravo-FoF.webp?width=1436 2x"
+        media="(min-width: 360px)"
+        type="image/webp"
+    />
+    <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/Cravo-FoF.jpg?width=718 1x,https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/Cravo-FoF.jpg?width=1436 2x"
+        media="(min-width: 360px)"
+        type="image/jpg"
+    />
+        <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/184678/Cravo-FoF.webp?width=972 1x, https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/184678/Cravo-FoF.webp?width=1944 2x"
+        media="(min-width: 768px)"
+        type="image/webp"
+    />
+    <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/Cravo-FoF.jpg?width=972 1x,https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/Cravo-FoF.jpg?width=1944 2x"
+        media="(min-width: 768px)"
+        type="image/jpg"
+    />
+        <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/184678/Cravo-FoF.webp?width=540 1x, https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/184678/Cravo-FoF.webp?width=1080 2x"
+        media="(min-width: 1024px)"
+        type="image/webp"
+    />
+    <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/Cravo-FoF.jpg?width=540 1x,https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/Cravo-FoF.jpg?width=1080 2x"
+        media="(min-width: 1024px)"
+        type="image/jpg"
+    />
+        <source
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/184678/Cravo-FoF.webp?width=360 1x  , https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/184678/Cravo-FoF.webp?width=720  2x"
+        type="image/webp"
+    />
+    <img
+        loading="lazy"
+        class="fifty-fifty__image-src "
+        src="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/Cravo-FoF.jpg?width=360"
+        srcset="https://doleireland.com/uploads/general/_1120xAUTO_fit_center-center_75_none/Cravo-FoF.jpg?width=720 2x"
+        alt=""
+            />
+</picture>																				</div>
+					</div>
+				</div>
+					</div>
+	</section>
+				<section class="page-strip page-strip--has-background page-strip--off-white page-strip--has-border page-strip--bottom-overlap page-strip--bottom-overlap-reduced">
+	    <div class="wrapper">
+	        <div class="heading-plus-intro ">
+				<div class="heading-plus-intro__text-wrapper heading-plus-intro__text-wrapper--margin-auto ">
+					<h2 class="h2 heading-plus-intro__title heading-plus-intro__title--centered"></h2>
+					<p class="p heading-plus-intro__text  p--centered "></p>
+				</div>
+	        </div>
+	        <div class="news">
+	            <div class="news__content">
+	            		            	
+	            		                <div class="news__col">
+	                    <div class="basic-card   basic-card--alt-hover basic-card--alt basic-card--single">
+	                        <a href="https://doleireland.com/nutritional-tips/the-bright-side-to-eating-at-home" class="basic-card__image-wrapper">
+	                            <i class="basic-card__arrow icon-arrow-right"></i>
+	                            	                            			                    			                    			                    			                    			                    			                    			                    			                    			                    			                    			                    			                    			                    			                    			                    			                    	                            <picture class="basic-card__picture">
+                            		<source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/87366/The-Bright-Side-to-Eating-at-Home-Orig_resize.webp?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/87366/The-Bright-Side-to-Eating-at-Home-Orig_resize.webp?width=2000 2x" media="(min-width: 1200px)" type="image/webp"/>
+			                        <source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/The-Bright-Side-to-Eating-at-Home-Orig_resize.jpg?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/The-Bright-Side-to-Eating-at-Home-Orig_resize.jpg?width=2000 2x" media="(min-width: 1200px)" type="image/jpg"/>
+			                        <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/87366/The-Bright-Side-to-Eating-at-Home-Orig_resize.webp?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/87366/The-Bright-Side-to-Eating-at-Home-Orig_resize.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp"/>
+			                        <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/The-Bright-Side-to-Eating-at-Home-Orig_resize.jpg?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/The-Bright-Side-to-Eating-at-Home-Orig_resize.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg"/>
+			                        <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/87366/The-Bright-Side-to-Eating-at-Home-Orig_resize.webp?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/87366/The-Bright-Side-to-Eating-at-Home-Orig_resize.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp"/>
+			                        <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/The-Bright-Side-to-Eating-at-Home-Orig_resize.jpgg?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/The-Bright-Side-to-Eating-at-Home-Orig_resize.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg"/>
+			                        <source srcset="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/87366/The-Bright-Side-to-Eating-at-Home-Orig_resize.webp?width=360 1x, https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/87366/The-Bright-Side-to-Eating-at-Home-Orig_resize.webp?width=720 2x" type="image/webp"/>
+			                        <img loading="lazy" class="basic-card__image-src" src="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/The-Bright-Side-to-Eating-at-Home-Orig_resize.jpg?width=360" srcset="https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/The-Bright-Side-to-Eating-at-Home-Orig_resize.jpg?width=720 2x" alt="The bright side to eating at home"/>
+	                            </picture>
+	                            	                        </a>
+	                        <div class="basic-card__text-content">
+	                            <p class="basic-card__subheading">3 Jul 2023</p>
+	                            <h3 class="h3 basic-card__title ">The bright side to eating at home</h3>
+	                            <a href="https://doleireland.com/nutritional-tips/the-bright-side-to-eating-at-home" class="basic-card__cta cta">Read more</a>
+	                        </div>
+	                    </div>
+	                </div>
+	                	                <div class="news__col">
+	                    <ul class="card-grid card-grid--two-cols">
+	                    		            				                        <li>
+	                            <div class="basic-card   basic-card--alt-hover basic-card--alt">
+	                            	<a href="https://doleireland.com/nutritional-tips/the-mediterranean-diet-went-green" class="basic-card__image-wrapper ">
+	                            		<i class="basic-card__arrow icon-arrow-right"></i>
+													                            					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    			                            <picture class="basic-card__picture">
+		                            		<source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/87290/The-Mediterranean-Diet-Went-Green.webp?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/87290/The-Mediterranean-Diet-Went-Green.webp?width=2000 2x" media="(min-width: 1200px)" type="image/webp"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/The-Mediterranean-Diet-Went-Green.jpg?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/The-Mediterranean-Diet-Went-Green.jpg?width=2000 2x" media="(min-width: 1200px)" type="image/jpg"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/87290/The-Mediterranean-Diet-Went-Green.webp?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/87290/The-Mediterranean-Diet-Went-Green.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/The-Mediterranean-Diet-Went-Green.jpg?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/The-Mediterranean-Diet-Went-Green.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/87290/The-Mediterranean-Diet-Went-Green.webp?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/87290/The-Mediterranean-Diet-Went-Green.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/The-Mediterranean-Diet-Went-Green.jpgg?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/The-Mediterranean-Diet-Went-Green.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/87290/The-Mediterranean-Diet-Went-Green.webp?width=360 1x, https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/87290/The-Mediterranean-Diet-Went-Green.webp?width=720 2x" type="image/webp"/>
+					                        <img loading="lazy" class="basic-card__image-src" src="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/The-Mediterranean-Diet-Went-Green.jpg?width=360" srcset="https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/The-Mediterranean-Diet-Went-Green.jpg?width=720 2x" alt="The Mediterranean Diet Went Green"/>
+			                            </picture>
+			                             									</a>
+	 								<div class="basic-card__text-content">
+	 									<p class="basic-card__subheading">3 Jul 2023</p>
+	          							<h3 class="h3 basic-card__title ">The Mediterranean Diet Went Green</h3>
+	     								<a href="https://doleireland.com/nutritional-tips/the-mediterranean-diet-went-green" class="basic-card__cta cta">Read more</a>
+     								</div>
+	                            </div>
+	                        </li>
+	                        	                        <li>
+	                            <div class="basic-card   basic-card--alt-hover basic-card--alt">
+	                            	<a href="https://doleireland.com/nutritional-tips/cooking-in-college" class="basic-card__image-wrapper ">
+	                            		<i class="basic-card__arrow icon-arrow-right"></i>
+													                            					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    			                            <picture class="basic-card__picture">
+		                            		<source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/87306/Cooking-in-College-Orig.webp?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/87306/Cooking-in-College-Orig.webp?width=2000 2x" media="(min-width: 1200px)" type="image/webp"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/Cooking-in-College-Orig.jpg?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/Cooking-in-College-Orig.jpg?width=2000 2x" media="(min-width: 1200px)" type="image/jpg"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/87306/Cooking-in-College-Orig.webp?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/87306/Cooking-in-College-Orig.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/Cooking-in-College-Orig.jpg?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/Cooking-in-College-Orig.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/87306/Cooking-in-College-Orig.webp?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/87306/Cooking-in-College-Orig.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/Cooking-in-College-Orig.jpgg?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/Cooking-in-College-Orig.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/87306/Cooking-in-College-Orig.webp?width=360 1x, https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/87306/Cooking-in-College-Orig.webp?width=720 2x" type="image/webp"/>
+					                        <img loading="lazy" class="basic-card__image-src" src="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/Cooking-in-College-Orig.jpg?width=360" srcset="https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/Cooking-in-College-Orig.jpg?width=720 2x" alt="Cooking in College"/>
+			                            </picture>
+			                             									</a>
+	 								<div class="basic-card__text-content">
+	 									<p class="basic-card__subheading">30 Jun 2023</p>
+	          							<h3 class="h3 basic-card__title ">Cooking in College</h3>
+	     								<a href="https://doleireland.com/nutritional-tips/cooking-in-college" class="basic-card__cta cta">Read more</a>
+     								</div>
+	                            </div>
+	                        </li>
+	                        	                        <li>
+	                            <div class="basic-card   basic-card--alt-hover basic-card--alt">
+	                            	<a href="https://doleireland.com/nutritional-tips/dads-influence-on-kids-nutrition" class="basic-card__image-wrapper ">
+	                            		<i class="basic-card__arrow icon-arrow-right"></i>
+													                            					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    			                            <picture class="basic-card__picture">
+		                            		<source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/87343/Dads-Influence-on-Kids-Nutrition-Orig-1_resize.webp?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/87343/Dads-Influence-on-Kids-Nutrition-Orig-1_resize.webp?width=2000 2x" media="(min-width: 1200px)" type="image/webp"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/Dads-Influence-on-Kids-Nutrition-Orig-1_resize.jpg?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/Dads-Influence-on-Kids-Nutrition-Orig-1_resize.jpg?width=2000 2x" media="(min-width: 1200px)" type="image/jpg"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/87343/Dads-Influence-on-Kids-Nutrition-Orig-1_resize.webp?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/87343/Dads-Influence-on-Kids-Nutrition-Orig-1_resize.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/Dads-Influence-on-Kids-Nutrition-Orig-1_resize.jpg?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/Dads-Influence-on-Kids-Nutrition-Orig-1_resize.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/87343/Dads-Influence-on-Kids-Nutrition-Orig-1_resize.webp?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/87343/Dads-Influence-on-Kids-Nutrition-Orig-1_resize.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/Dads-Influence-on-Kids-Nutrition-Orig-1_resize.jpgg?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/Dads-Influence-on-Kids-Nutrition-Orig-1_resize.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/87343/Dads-Influence-on-Kids-Nutrition-Orig-1_resize.webp?width=360 1x, https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/87343/Dads-Influence-on-Kids-Nutrition-Orig-1_resize.webp?width=720 2x" type="image/webp"/>
+					                        <img loading="lazy" class="basic-card__image-src" src="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/Dads-Influence-on-Kids-Nutrition-Orig-1_resize.jpg?width=360" srcset="https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/Dads-Influence-on-Kids-Nutrition-Orig-1_resize.jpg?width=720 2x" alt="Dad&#039;s Influence on Kids Nutrition"/>
+			                            </picture>
+			                             									</a>
+	 								<div class="basic-card__text-content">
+	 									<p class="basic-card__subheading">21 Jun 2023</p>
+	          							<h3 class="h3 basic-card__title ">Dad&#039;s Influence on Kids Nutrition</h3>
+	     								<a href="https://doleireland.com/nutritional-tips/dads-influence-on-kids-nutrition" class="basic-card__cta cta">Read more</a>
+     								</div>
+	                            </div>
+	                        </li>
+	                        	                        <li>
+	                            <div class="basic-card   basic-card--alt-hover basic-card--alt">
+	                            	<a href="https://doleireland.com/nutritional-tips/why-you-should-eat-avocado" class="basic-card__image-wrapper ">
+	                            		<i class="basic-card__arrow icon-arrow-right"></i>
+													                            					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    					                    			                            <picture class="basic-card__picture">
+		                            		<source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/83663/640x300_Avocado.webp?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/83663/640x300_Avocado.webp?width=2000 2x" media="(min-width: 1200px)" type="image/webp"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/640x300_Avocado.jpg?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/640x300_Avocado.jpg?width=2000 2x" media="(min-width: 1200px)" type="image/jpg"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/83663/640x300_Avocado.webp?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/83663/640x300_Avocado.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/640x300_Avocado.jpg?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/640x300_Avocado.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/83663/640x300_Avocado.webp?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/83663/640x300_Avocado.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/640x300_Avocado.jpgg?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/640x300_Avocado.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg"/>
+					                        <source srcset="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/83663/640x300_Avocado.webp?width=360 1x, https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/83663/640x300_Avocado.webp?width=720 2x" type="image/webp"/>
+					                        <img loading="lazy" class="basic-card__image-src" src="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/640x300_Avocado.jpg?width=360" srcset="https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/640x300_Avocado.jpg?width=720 2x" alt="Lovely and healthy: five reasons why you should eat avocado"/>
+			                            </picture>
+			                             									</a>
+	 								<div class="basic-card__text-content">
+	 									<p class="basic-card__subheading">8 Jun 2023</p>
+	          							<h3 class="h3 basic-card__title ">Lovely and healthy: five reasons why you should eat avocado</h3>
+	     								<a href="https://doleireland.com/nutritional-tips/why-you-should-eat-avocado" class="basic-card__cta cta">Read more</a>
+     								</div>
+	                            </div>
+	                        </li>
+	                        	                    </ul>
+	                </div>
+	            </div>
+	            <a href="https://doleireland.com/nutritional-tips" class="news__btn cta">View all news & tips</a>
+	        </div>
+	    </div>
+	</section>
+			<section class="interruption-strip-simple">
+	    <div class="wrapper wrapper--relative">
+	        <div class="interruption-strip-simple__content">
+	            <h2 class="h2 interruption-strip-simple__heading">Delicious Recipes to Enjoy</h2>
+	            <p class="p interruption-strip-simple__text">Share our passion for produce and try some of our tempting fruit and vegetable inspired recipes.</p>
+	            	            <a href="https://dole.co.uk/recipes" class="button">Browse Our Recipes</a>
+	            	        </div>
+	                                                                                                                                                                                                                    	        <picture class="interruption-strip-simple__picture">
+	            <source srcset="https://doleireland.com/uploads/general/_1000xAUTO_fit_center-center_75_none/114056/Fruit.webp?width=1000 1x, https://doleireland.com/uploads/general/_2000xAUTO_fit_center-center_75_none/114056/Fruit.webp?width=2000 2x" media="(min-width: 1200px)" type="image/webp" />
+	            <source srcset="https://doleireland.com/uploads/general/_1000xAUTO_fit_center-center_75_none/Fruit.png?width=1000 1x, https://doleireland.com/uploads/general/_2000xAUTO_fit_center-center_75_none/Fruit.png?width=2000 2x" media="(min-width: 1200px)" type="image/png" />
+	            <source srcset="https://doleireland.com/uploads/general/_1024xAUTO_fit_center-center_75_none/114056/Fruit.webp?width=1024 1x, https://doleireland.com/uploads/general/_2048xAUTO_fit_center-center_75_none/114056/Fruit.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp" />
+	            <source srcset="https://doleireland.com/uploads/general/_1024xAUTO_fit_center-center_75_none/Fruit.png?width=1024 1x, https://doleireland.com/uploads/general/_2048xAUTO_fit_center-center_75_none/Fruit.png?width=2048 2x" media="(min-width: 768px)" type="image/png" />
+	            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/114056/Fruit.webp?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/114056/Fruit.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp" />
+	            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/Fruit.png?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/Fruit.png?width=1536 2x" media="(min-width: 360px)" type="image/png" />
+	            <source srcset="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/114056/Fruit.webp?width=360 1x, https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/114056/Fruit.webp?width=720 2x" type="image/webp" />
+	            <img loading="lazy" class="interruption-strip-simple__picture-src" src="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/Fruit.png?width=360" srcset="https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/Fruit.png?width=720 2x" alt="Delicious Recipes to Enjoy" />
+	        </picture>
+	        	    </div>
+	</section>
+		
+		<section class="page-strip page-strip--has-background page-strip--off-white">
+	    <div class="wrapper">
+	        <div class="heading-plus-intro">
+				<div class="heading-plus-intro__text-wrapper heading-plus-intro__text-wrapper--margin-auto">
+					<h2 class="h2 h2--centered">Our Favourites</h2>
+					<p class="p heading-plus-intro__text p--centered ">DOLE offers a wide range of fresh, delicious produce. With such a varied selection, there&#039;s something for everyone.</p>
+				</div>
+	        </div>
+	        <ul class="card-grid">
+	        		            <li>
+	                <div class="basic-card   basic-card--no-image-mob">
+	                		                    <span class="basic-card__image-wrapper  basic-card__image-wrapper--hide-mob">
+	                    	                        
+	                        		                    		                    	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        <picture class="basic-card__picture">
+	                        	<source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/34799/Apple-Cut.webp?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/34799/Apple-Cut.webp?width=2000 2x" media="(min-width: 1200px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/Apple-Cut.jpg?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/Apple-Cut.jpg?width=2000 2x" media="(min-width: 1200px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/34799/Apple-Cut.webp?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/34799/Apple-Cut.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/Apple-Cut.jpg?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/Apple-Cut.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/34799/Apple-Cut.webp?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/34799/Apple-Cut.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/Apple-Cut.jpgg?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/Apple-Cut.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/34799/Apple-Cut.webp?width=360 1x, https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/34799/Apple-Cut.webp?width=720 2x" type="image/webp"/>
+	                            <img loading="lazy" class="basic-card__image-src" src="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/Apple-Cut.jpg?width=360" srcset="https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/Apple-Cut.jpg?width=720 2x" alt="Apples"/>
+	                        </picture>
+	                        	                    	                    </span>
+	                    	                    <div class="basic-card__text-content  basic-card__text-content--margin-top ">
+	                        <h3 class="h3 basic-card__title ">Apples</h3>
+	                        <p class="basic-card__description">Apples with their skin are a top source of dietary fiber, vitamin C and are the second most popular fruit after bananas. Apple skin also contains many phytochemicals, such as quercetin, under research for potential health effects.</p>
+	                        	                    </div>
+	                </div>
+	            </li>
+	            	            <li>
+	                <div class="basic-card   basic-card--no-image-mob">
+	                		                    <span class="basic-card__image-wrapper  basic-card__image-wrapper--hide-mob">
+	                    	                        
+	                        		                    		                    	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        <picture class="basic-card__picture">
+	                        	<source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/42502/Blueberries.webp?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/42502/Blueberries.webp?width=2000 2x" media="(min-width: 1200px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/Blueberries.jpg?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/Blueberries.jpg?width=2000 2x" media="(min-width: 1200px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/42502/Blueberries.webp?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/42502/Blueberries.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/Blueberries.jpg?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/Blueberries.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/42502/Blueberries.webp?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/42502/Blueberries.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/Blueberries.jpgg?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/Blueberries.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/42502/Blueberries.webp?width=360 1x, https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/42502/Blueberries.webp?width=720 2x" type="image/webp"/>
+	                            <img loading="lazy" class="basic-card__image-src" src="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/Blueberries.jpg?width=360" srcset="https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/Blueberries.jpg?width=720 2x" alt="Blueberries"/>
+	                        </picture>
+	                        	                    	                    </span>
+	                    	                    <div class="basic-card__text-content  basic-card__text-content--margin-top ">
+	                        <h3 class="h3 basic-card__title ">Blueberries</h3>
+	                        <p class="basic-card__description">Blueberries are versatile and this tasty berry is great for snacking, cooking, and baking.</p>
+	                        	                    </div>
+	                </div>
+	            </li>
+	            	            <li>
+	                <div class="basic-card   basic-card--no-image-mob">
+	                		                    <span class="basic-card__image-wrapper  basic-card__image-wrapper--hide-mob">
+	                    	                        
+	                        		                    		                    	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        <picture class="basic-card__picture">
+	                        	<source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/42042/Avocados_Cut_web.webp?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/42042/Avocados_Cut_web.webp?width=2000 2x" media="(min-width: 1200px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/42042/Avocados_Cut_web.jpg?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/42042/Avocados_Cut_web.jpg?width=2000 2x" media="(min-width: 1200px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/42042/Avocados_Cut_web.webp?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/42042/Avocados_Cut_web.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/42042/Avocados_Cut_web.jpg?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/42042/Avocados_Cut_web.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/42042/Avocados_Cut_web.webp?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/42042/Avocados_Cut_web.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/42042/Avocados_Cut_web.jpgg?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/42042/Avocados_Cut_web.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/42042/Avocados_Cut_web.webp?width=360 1x, https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/42042/Avocados_Cut_web.webp?width=720 2x" type="image/webp"/>
+	                            <img loading="lazy" class="basic-card__image-src" src="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/42042/Avocados_Cut_web.jpg?width=360" srcset="https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/42042/Avocados_Cut_web.jpg?width=720 2x" alt="Avocados"/>
+	                        </picture>
+	                        	                    	                    </span>
+	                    	                    <div class="basic-card__text-content  basic-card__text-content--margin-top ">
+	                        <h3 class="h3 basic-card__title ">Avocados</h3>
+	                        <p class="basic-card__description">Avocados&#039; monounsaturated fat may help lower LDL &quot;bad&quot; cholesterol while raising HDL &quot;good&quot; cholesterol.</p>
+	                        	                    </div>
+	                </div>
+	            </li>
+	            	            <li>
+	                <div class="basic-card   basic-card--no-image-mob">
+	                		                    <span class="basic-card__image-wrapper  basic-card__image-wrapper--hide-mob">
+	                    	                        
+	                        		                    		                    	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        	                        <picture class="basic-card__picture">
+	                        	<source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/44531/Cut-Mango.webp?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/44531/Cut-Mango.webp?width=2000 2x" media="(min-width: 1200px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_444xAUTO_fit_center-center_75_none/Cut-Mango.jpg?width=1000 1x, https://doleireland.com/uploads/general/_888xAUTO_fit_center-center_75_none/Cut-Mango.jpg?width=2000 2x" media="(min-width: 1200px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/44531/Cut-Mango.webp?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/44531/Cut-Mango.webp?width=2048 2x" media="(min-width: 768px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_610xAUTO_fit_center-center_75_none/Cut-Mango.jpg?width=1024 1x, https://doleireland.com/uploads/general/_1220xAUTO_fit_center-center_75_none/Cut-Mango.jpg?width=2048 2x" media="(min-width: 768px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/44531/Cut-Mango.webp?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/44531/Cut-Mango.webp?width=1536 2x" media="(min-width: 360px)" type="image/webp"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_768xAUTO_fit_center-center_75_none/Cut-Mango.jpgg?width=768 1x, https://doleireland.com/uploads/general/_1536xAUTO_fit_center-center_75_none/Cut-Mango.jpg?width=1536 2x" media="(min-width: 360px)" type="image/jpg"/>
+	                            <source srcset="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/44531/Cut-Mango.webp?width=360 1x, https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/44531/Cut-Mango.webp?width=720 2x" type="image/webp"/>
+	                            <img loading="lazy" class="basic-card__image-src" src="https://doleireland.com/uploads/general/_360xAUTO_fit_center-center_75_none/Cut-Mango.jpg?width=360" srcset="https://doleireland.com/uploads/general/_720xAUTO_fit_center-center_75_none/Cut-Mango.jpg?width=720 2x" alt="Mangoes"/>
+	                        </picture>
+	                        	                    	                    </span>
+	                    	                    <div class="basic-card__text-content  basic-card__text-content--margin-top ">
+	                        <h3 class="h3 basic-card__title ">Mangoes</h3>
+	                        <p class="basic-card__description">This exotic, sweet-smelling fruit with very juicy yellow flesh is growing in popularity in Europe. There are thousands of varieties, some as large as melons.</p>
+	                        	                    </div>
+	                </div>
+	            </li>
+	            	        </ul>
+	    </div>
+	</section>
+		</main>
+    	<div id="videoModal" class="video-modal" aria-hidden="true">
+    <div class="video-modal__background" tabindex="-1" data-micromodal-close>
+        <div class="video-modal__dialog" role="dialog" aria-modal="true" aria-labelledby="videoModal">
+            <button class="video-modal__close" aria-label="Close video popup" data-micromodal-close>
+                <i class="icon-close video-modal__close-icon" data-micromodal-close></i>
+            </button>
+            <div class="video-modal__content" id="videoModalContent">
+                Modal Content
+            </div>
+        </div>
+    </div>
+</div>
+    <footer class="footer" id="footer">
+    <div class="wrapper footer__top">
+        <div class="footer__top">
+            <div class="footer__columns">
+                <div class="footer__col footer__col--divider">
+                    <a href="https://dole.co.uk/" class="footer__logo" aria-label="Go to Dole Homepage">
+                        <img class="footer__logo-img" src="https://doleireland.com/img/logos/dole-logo.svg" alt="Dole Logo" />
+                    </a>
+                </div>
+                <div class="footer__col footer-collapsible">
+                    <div class="footer__heading-wrapper footer__heading-wrapper--hidden-desktop">
+                        <h3 class="footer__heading footer__heading--hidden-desktop">Company</h3>
+                        <button class="footer__toggle-menu footer-collapsible__trigger"><i class="icon-chevron-down footer__toggle-menu-icon"></i></button>
+                    </div>
+                    <div class="footer-collapsible__content">
+                        <ul class="footer__nav-items-list">
+                            <li class="footer__company-item">
+                                <a class="footer__link footer__link--large footer__heading" href="https://dole.co.uk/about-us/overview">About</a>
+                            </li>
+                            <li class="footer__company-item">
+                                <a class="footer__link footer__link--large footer__heading" href="https://doleireland.com/company/news" target="_blank">News</a>
+                            </li>
+                            <li class="footer__company-item">
+                                <a class="footer__link footer__link--large footer__heading" href="https://dole.co.uk/company/careers">Careers</a>
+                            </li>
+                            <li class="footer__company-item">
+                                <a class="footer__link footer__link--large footer__heading" href="https://dole.co.uk/company/contact">Contact</a>
+                            </li>
+                            <li class="footer__company-item">
+                                <a class="footer__link footer__link--large footer__heading" href="https://www.doleplc.com/home/default.aspx" target="_blank">Investors</a>
+                            </li>
+                            <li class="footer__company-item">
+                                <a class="footer__link footer__link--large footer__heading" href="https://dole.co.uk/sitemap" target="_blank">Sitemap</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer__col footer__col--reduced-gap footer-collapsible">
+                    <div class="footer__heading-wrapper">
+                        <h3 class="footer__heading">Legal</h3>
+                        <button class="footer__toggle-menu footer-collapsible__trigger"><i class="icon-chevron-down footer__toggle-menu-icon"></i></button>
+                    </div>
+                    <div class="footer-collapsible__content">                        
+                        <ul class="footer__nav-items-list">
+                            <li class="footer__nav-list-item">
+                                <a class="footer__link" href="https://www.doleplc.com/disclaimer/default.aspx" target="_blank">Disclaimer</a>
+                            </li>
+                            <li class="footer__nav-list-item">
+                                <a class="footer__link" href="https://www.doleplc.com/privacy-policy/default.aspx" target="_blank">Privacy</a>
+                            </li>
+                            <li class="footer__nav-list-item">
+                                <a class="footer__link" href="https://www.doleplc.com/website-privacy/default.aspx" target="_blank">Website Privacy</a>
+                            </li>
+                            <li class="footer__nav-list-item">
+                                <a class="footer__link" href="https://www.doleplc.com/investor-relations/governance/governance-documents/default.aspx#cod" target="_blank">Code of Business Conduct and Ethics</a>
+                            </li>
+                            <li class="footer__nav-list-item">
+                                <a class="footer__link" href="https://www.doleplc.com/transparency-in-supply-chain-management/default.aspx" target="_blank">Transparency in Supply Chain Management</a>
+                            </li>
+                            <li class="footer__nav-list-item">
+                                <a class="footer__link" href="https://dole.co.uk/uploads/general/Modern_Slavery_Statement_2025.pdf" target="_blank">Modern Slavery Statement</a>
+                            </li>
+                            <li class="footer__nav-list-item">
+                                <a class="footer__link" href="https://dole.co.uk/dole-uk-policies">Dole UK Policies</a>
+                            </li>
+                        </ul>                        
+                    </div>
+                </div>
+                <div class="footer__col footer__col--reduced-gap footer-collapsible">
+                    <div class="footer__heading-wrapper">
+                        <h3 class="footer__heading">Cookies</h3>
+                        <button class="footer__toggle-menu footer-collapsible__trigger"><i class="icon-chevron-down footer__toggle-menu-icon"></i></button>
+                    </div>
+                    <div class="footer-collapsible__content">                        
+                        <ul class="footer__nav-items-list">                            
+                            <li class="footer__nav-list-item">
+                                <a class="footer__link" href="https://dole.co.uk/company/cookies">Cookies</a>
+                            </li>
+                        </ul>                        
+                    </div>
+                </div>
+                <div class="footer__col">
+                    <a href="#top" class="footer__back-to-top">
+                        <i class="icon-back-to-top footer__back-to-top-icon"></i>
+                        <span class="small footer__back-to-top-text">Back to top</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <img src="https://doleireland.com/img/decorative/Pineappledole.png" loading="lazy" class="footer__fruit-image footer__fruit-image--apple" alt="Dole Pineapple" />
+        <img src="https://doleireland.com/img/decorative/Banana.png" loading="lazy" class="footer__fruit-image footer__fruit-image--mango" alt="Banana" />
+
+    </div>
+    <div class="footer__copyright">© 2026 All rights reserved</div>
+</footer>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TLKKL8RB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script src="https://doleireland.com/js/vendors.js?v=2.4"></script>
+<script src="https://doleireland.com/js/main.js?v=2.4"></script>
+<script src="https://doleireland.com/js/homepage.js?v=2.4"></script>
+  
+  </body>
+</html>

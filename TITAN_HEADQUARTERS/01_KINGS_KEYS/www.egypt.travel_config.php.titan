@@ -1,0 +1,1714 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <link fetchpriority="high" rel="preload" href="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Corals - SliderCorals - Slider (2)Corals - SliderCorals - Slider (2).jpeg" as="image" importance="high" />
+    <link fetchpriority="high" rel="preload" href="https://www.experienceegypt.eg/images/logo.png" as="image" importance="high" />
+    
+        <title>
+            Experience Egypt
+        </title>
+    <meta http-equiv=”content-language” content=”en-US” />
+    <meta name="referrer" content="origin" />
+    <meta name="keywords" id="metaKeyword" content="Egypt,visit Egypt , ancient Egypt ,  Egypt water tourism , Egypt travel , Egypt tourism, pyramids of giza , pharohs, Snorkelling " />
+    <meta name="description" id="metaDesc" content="website presents tourism in Egypt and Egypt travel, informations on all regions, cities,sites, Egypt Seas, telling world-famous Egypt touristic pharoh sites and all ages of egypt" />
+    <link rel="canonical" id="canonicalUrl" href="https://www.experienceegypt.eg/en" />
+    <link rel="shortcut icon" href="/favicon.ico?ver=0.5" type="image/x-icon">
+        <meta property="og:type" content="website" />
+    <meta id="fbTitle" property="og:title" />
+    <meta id="fbUrl" property="og:url" content="https://www.experienceegypt.eg/en" />
+    <meta id="fbDescription" property="og:description" content="website presents tourism in Egypt and Egypt travel, informations on all regions, cities,sites, Egypt Seas, telling world-famous Egypt touristic pharoh sites and all ages of egypt" />
+    <meta id="fbImage" data-page-subject="true" property="og:image" content="" />
+    <meta name='twitter:app:country' content='EG'>
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content=" @ET" />
+    <meta name="twitter:creator" content=" @ET" />
+    <meta name="twitter:title" />
+    <meta name="twitter:url" content="https://www.experienceegypt.eg/en" />
+    <meta name="twitter:description" id="TwitterDesc" content="website presents tourism in Egypt and Egypt travel, informations on all regions, cities,sites, Egypt Seas, telling world-famous Egypt touristic pharoh sites and all ages of egypt" />
+    <meta name="twitter:image" id="TwitterImg" content="" />
+    <meta name="theme-color" content="#1d1d1d">
+
+
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=2.5' name='viewport' />
+<meta property="og:locale" content="en-US" />
+<meta property="og:site_name" content="Experience Egypt" />
+<meta name="robots" content="index,follow" />
+<meta name="googlebot" content="index,follow" />
+<!-- favicons for mobile -->
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+    <link href='/Content/fonts.css' media="all" rel="stylesheet">
+    <link href="/Content/bootstrap-v5.2.3.min.css" media="all" rel="stylesheet" />
+    <link href='/Content/mian.css?Ver=0.9' media="all" rel='stylesheet' type='text/css'>
+	    <link rel="stylesheet" href="/Content/swiper-v9.2.4.min.css" media="print" onload="this.media='all'" />
+    <noscript><link rel="stylesheet" href="/Content/swiper-v9.2.4.min.css" /></noscript>
+    <script>
+        var AppPath ='https://www.experienceegypt.eg';
+        var lang = 'en';
+    </script>
+	    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K3X9EL1K5T"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-K3X9EL1K5T');
+    </script>
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+            
+            
+<nav class="navbar">
+    <div class="container">
+        <div class="H-logo" style="min-height:67px;">
+            <a href="https://www.experienceegypt.eg/en" title="Homepage">
+                <img src="/images/logo.png" alt="Experience Egypt" class="img-fluid EXMainLogo">
+            </a>
+        </div>
+        <div class="language-MenuMob">
+    <div class="MenuMob">
+        <div class="IconBars">
+            <i class="fa-solid fa-bars btnIconBars  me-3 text-lg"></i>
+        </div>
+        <div class="header-top-side-overlay"></div>
+        <div class="contentMenuMob">
+            <a href="https://www.experienceegypt.eg">
+                <img src="/images/logo.png" alt="img" class="img-fluid logoMenu" />
+            </a>
+                <div class="accordion accordion-flush" id="accordionFlushExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="flush-heading_0">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse_0" aria-expanded="false" aria-controls="flush-collapse_0">
+                                    ABOUT EGYPT
+                                </button>
+                            </h2>
+                                <div id="flush-collapse_0" class="accordion-collapse collapse" aria-labelledby="flush-heading_0" data-bs-parent="#accordionFlushExample">
+                                    <div class="accordion-body">
+                                        <ul>
+                                                    <li><a href="https://www.experienceegypt.eg//en/home/about">- THIS IS EGYPT</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg//en/home/Geography">- GEOGRAPHY</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg//en/home/history">- HISTORY</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg//en/home/Culture">- LANGUAGE &amp; CULTURE</a></li>
+
+
+                                        </ul>
+                                    </div>
+                                </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="flush-heading_1">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse_1" aria-expanded="false" aria-controls="flush-collapse_1">
+                                    WHERE TO GO
+                                </button>
+                            </h2>
+                                <div id="flush-collapse_1" class="accordion-collapse collapse" aria-labelledby="flush-heading_1" data-bs-parent="#accordionFlushExample">
+                                    <div class="accordion-body">
+                                        <ul>
+                                                    <li><a href="https://www.experienceegypt.eg/en/region/12/the-nile">- THE NILE</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg/en/region/13/the-red-sea">- THE RED SEA</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg/en/region/14/the-med">- THE MED</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg/en/region/15/deserts-oases">- DESERTS &amp; OASES</a></li>
+
+
+                                        </ul>
+                                    </div>
+                                </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="flush-heading_2">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse_2" aria-expanded="false" aria-controls="flush-collapse_2">
+                                    WHAT TO DO
+                                </button>
+                            </h2>
+                                <div id="flush-collapse_2" class="accordion-collapse collapse" aria-labelledby="flush-heading_2" data-bs-parent="#accordionFlushExample">
+                                    <div class="accordion-body">
+                                        <ul>
+                                                    <li><a href="https://www.experienceegypt.eg/en/attraction/19/sun-sea">- SUN &amp; SEA</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg/en/attraction/18/archeological-sites">- ARCHEOLOGICAL SITES</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg/en/attraction/17/spiritual-egypt">- SPIRITUAL EGYPT</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg/en/attraction/16/museums">- MUSEUMS</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg/en/attraction/15/cruising-sailing">- CRUISING &amp; SAILING</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg/en/attraction/14/adventure-outdoor">- ADVENTURE &amp; OUTDOOR</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg/en/attraction/13/ecotourism-nature">- ECOTOURISM &amp; NATURE</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg/en/attraction/12/health-wellness">- HEALTH &amp; WELLNESS</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg/en/attraction/11/arts-contemporary-culture">- ARTS &amp; CONTEMPORARY CULTURE</a></li>
+
+
+                                        </ul>
+                                    </div>
+                                </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="flush-heading_3">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse_3" aria-expanded="false" aria-controls="flush-collapse_3">
+                                    WHAT&#39;S ON
+                                </button>
+                            </h2>
+                                <div id="flush-collapse_3" class="accordion-collapse collapse" aria-labelledby="flush-heading_3" data-bs-parent="#accordionFlushExample">
+                                    <div class="accordion-body">
+                                        <ul>
+                                                    <li><a href="">- EVENTS</a></li>
+                                                    <li><a href="">- NEWS</a></li>
+
+
+                                        </ul>
+                                    </div>
+                                </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="flush-heading_4">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse_4" aria-expanded="false" aria-controls="flush-collapse_4">
+                                    USEFUL INFORMATION
+                                </button>
+                            </h2>
+                                <div id="flush-collapse_4" class="accordion-collapse collapse" aria-labelledby="flush-heading_4" data-bs-parent="#accordionFlushExample">
+                                    <div class="accordion-body">
+                                        <ul>
+                                                    <li><a href="https://www.experienceegypt.eg/en/usefulinfo#VisaEntry">ENTRY VISA</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg/en/usefulinfo#tipsplan">PLAN YOUR TRIP</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg/en/usefulinfo#PracticalInfo">PRACTICAL INFO</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg/en/usefulinfo#TravelSafe">TRAVEL SAFE</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg/en/usefulinfo#GettingAround">GETTING AROUND</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg/en/usefulinfo#HowtoGetThere">HOW TO GET THERE</a></li>
+                                                    <li><a href="https://www.experienceegypt.eg/en/usefulinfo#UsefulNumbers">USEFUL NUMBERS</a></li>
+
+
+                                        </ul>
+                                    </div>
+                                </div>
+                        </div>
+
+                </div>
+            <ul class="UlSocialMediaMob">
+                <li>
+                    <a href="">
+                        <i class="fa-brands fa-facebook-square fa-2x"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <i class="fa-brands fa-twitter-square fa-2x"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <i class="fa-brands fa-instagram fa-2x"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="language-search">
+
+        <div class="dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+               data-bs-toggle="dropdown" aria-expanded="false">
+                
+                English
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                
+                <li>
+                    <a class="dropdown-item" href="https://www.experienceegypt.eg/en">
+                        English
+                    </a>
+                </li>
+                <li>
+                    <a class="dropdown-item" href="https://www.experienceegypt.eg/zh">
+                        中文
+                    </a>
+                </li>
+                <li>
+                    <a class="dropdown-item" href="https://www.experienceegypt.eg/ru">
+                        Русский
+                    </a>
+                </li>
+                <li>
+                    <a class="dropdown-item" href="https://www.experienceegypt.eg/de">
+                        Deutsch
+                    </a>
+                </li>
+                <li>
+                    <a class="dropdown-item" href="https://www.experienceegypt.eg/fr">
+                        fran&#231;ais
+                    </a>
+                </li>
+                <li>
+                    <a class="dropdown-item" href="https://www.experienceegypt.eg/it">
+                        Italian
+                    </a>
+                </li>
+                <li>
+                    <a class="dropdown-item" href="https://www.experienceegypt.eg/uk">
+                        Ukrainian
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="SearchBlock">
+            <i class="btnSearch fa-solid fa-magnifying-glass"></i>
+        </div>
+        <div class="divSearch">
+            <div class="titledivSearch">
+                <i class="btnSearch fa-solid fa-magnifying-glass"></i>
+                <input class="form-control" type="search" placeholder="Search " id="generalSearch">
+                <i class="fa-solid fa-xmark btncloseSearch"></i>
+            </div>
+                <div class="contentdivSearch">
+        <p class="p-Recommended">Recommended Places</p>
+        <ul class="UlNewsdivSearch">
+            <li class="d-flex mb-2">
+                <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/errorimg.png"
+                     data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/2022_7_17_23_10_56_5252022_7_17_23_10_56_525.jpeg" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/errorimg.png'" class="img-fluid" alt="">
+                <a href="https://beta.egypt.travel/en/City/16/sharm-el-sheikh">
+                    <p class="d-flex align-items-center">
+                        Sharm El-Sheikh
+                    </p>
+                </a>
+            </li>
+
+        </ul>
+    </div>
+
+
+
+        </div>
+    </div>
+</div>
+
+
+
+
+    </div>
+</nav>
+        </header>
+        <main>
+            
+
+
+
+
+
+    <section class="slider">
+            <div class="video-container">
+                <video autoplay muted>
+                    <source src="https://www.experienceegypt.eg/files/MOT_AC_Final_1.mp4" type="video/mp4" au />
+                </video>
+            </div>
+
+    </section>
+
+<style>
+    .video-container {
+        position: relative;
+        width: 100%; /* Makes the container scale to the width of its parent */
+        padding-top: 56.25%; /* Aspect ratio of 16:9. Adjust for other ratios, e.g., 4:3 is 75% */
+        overflow: hidden;
+    }
+
+
+        .video-container video {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%; /* Makes the video scale horizontally */
+            height: 100%; /* Ensures the video scales vertically while maintaining aspect ratio */
+        }
+</style>
+
+
+    <section class="WhereToGo">
+        <div class="container">
+            <div class=" titleSection">
+                <h2>
+                    <a  style="font-family: nekstsemibold;">
+                        Where to Go
+                    </a>
+                </h2>
+                <p style="font-family: nekstsemibold;">
+                    Pick your destination and start your Egypt experience now
+                </p> 
+            </div>
+            <div class="row cardRiverNile m-0">
+
+                    <div class="col-lg-3 p-0">
+                        <div class="card NileBlock">
+                            <div class="">
+                                <a href="https://www.experienceegypt.eg/en/region/12/the-nile">
+                                    <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png"
+                                         data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2025/11/10/2025_11_10_11_35_5_578.jpeg" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png'" class="card-img-top" alt="img" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="card-img-overlay bgBlue">
+                                <h5 class="card-title">
+                                    <a href="https://www.experienceegypt.eg/en/region/12/the-nile" >
+                                        The Nile
+                                    </a>
+                                </h5>
+                                <a href="https://www.experienceegypt.eg/en/region/12/the-nile" class="btn btnExploreNile">
+                                    <p>
+                                        Discover 
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 p-0">
+                        <div class="card NileBlock">
+                            <div class="">
+                                <a href="https://www.experienceegypt.eg/en/region/13/the-red-sea">
+                                    <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png"
+                                         data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/8/7/2022_8_7_18_27_31_403.jpeg" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png'" class="card-img-top" alt="img" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="card-img-overlay bgBlue">
+                                <h5 class="card-title">
+                                    <a href="https://www.experienceegypt.eg/en/region/13/the-red-sea" >
+                                        The Red Sea
+                                    </a>
+                                </h5>
+                                <a href="https://www.experienceegypt.eg/en/region/13/the-red-sea" class="btn btnExploreNile">
+                                    <p>
+                                        Discover 
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 p-0">
+                        <div class="card NileBlock">
+                            <div class="">
+                                <a href="https://www.experienceegypt.eg/en/region/14/the-med">
+                                    <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png"
+                                         data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/8/7/2022_8_7_18_28_42_326.jpeg" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png'" class="card-img-top" alt="img" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="card-img-overlay bgBlue">
+                                <h5 class="card-title">
+                                    <a href="https://www.experienceegypt.eg/en/region/14/the-med" >
+                                        The Med
+                                    </a>
+                                </h5>
+                                <a href="https://www.experienceegypt.eg/en/region/14/the-med" class="btn btnExploreNile">
+                                    <p>
+                                        Discover 
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 p-0">
+                        <div class="card NileBlock">
+                            <div class="">
+                                <a href="https://www.experienceegypt.eg/en/region/15/deserts-oases">
+                                    <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png"
+                                         data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/8/7/2022_8_7_18_29_43_278.jpeg" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png'" class="card-img-top" alt="img" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="card-img-overlay bgBlue">
+                                <h5 class="card-title">
+                                    <a href="https://www.experienceegypt.eg/en/region/15/deserts-oases" >
+                                        Deserts &amp; Oases
+                                    </a>
+                                </h5>
+                                <a href="https://www.experienceegypt.eg/en/region/15/deserts-oases" class="btn btnExploreNile">
+                                    <p>
+                                        Discover 
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+
+    <section class="weekend">
+        <div class="container">
+            <div class="weekendMessage">
+                <div class="contentWeekMassage">
+                    <div class="liveEventsBlock bgMediumTurquoise">
+                        <p>Don&#39;t Miss</p>
+                        <p>
+                            <a href="https://www.experienceegypt.eg/files/SailToEgypt.pdf">
+                                SAIL TO EGYPT
+                            </a>
+                        </p>
+                        <span></span>
+                    </div>
+                    <div class="towBlocklive">
+                        <div class="TBlockliveimg">
+                            <img src="/images/logolive.png" alt="logo" class="img-fluid">
+                        </div>
+                        <div class="TBlockliveimg">
+                            <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Experience-egyptExperience-egypt.png" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Thumb/errorimg.png'" alt="logo" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="liveEventsBlock bgOrange ">
+                            <a href="/en/home/citybrochure" class="btn btnLearnMore">
+                                Learn more
+                                <i class="fa-solid fa-angle-right"></i>
+                            </a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+<section class="grand-egyptian-museum SectionRamadan">
+    <section class="PhotoGallerySection">
+        <div class="PhotoGalleryDetails" style="width: calc(70% - 75px);">
+            <h2> Egypt&#39;s Timeless Treasures Await</h2>
+            <h1 style="font-weight: 700">Your GEM Experience Starts Now</h1>
+        </div>
+
+    </section>
+
+
+    <script type="text/javascript">
+
+
+ 
+    </script>
+</section>
+<style>
+    .SectionRamadan .PhotoGallerySection .PhotoGalleryDetails {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        position: absolute;
+        top: 0;
+        left: 0;
+        margin-top: 7%;
+        margin-left: 7%;
+        max-width: 20%;
+    }
+
+    .grand-egyptian-museum {
+        position: relative;
+        background: url('https://betamedia.experienceegypt.eg/media/experienceegypt/img/GEM Birdseye View - Copyright Grand Egyptian Museum.JPG') no-repeat center center;
+        background-size: cover;
+        color: white;
+        min-height: 680px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+        .grand-egyptian-museum .content {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+            .grand-egyptian-museum .content h2 {
+                font-size: 2rem;
+                text-transform: uppercase;
+                margin: 0;
+                letter-spacing: 2px;
+            }
+
+            .grand-egyptian-museum .content h1 {
+                font-size: 4rem;
+                text-transform: uppercase;
+                margin: 0.5rem 0;
+            }
+
+    .countdown {
+        display: flex;
+        gap: 1.5rem;
+        flex-wrap: wrap;
+        justify-content: center;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        margin-bottom: 3%;
+        margin-right: 7%;
+        /*        margin-top: 25%;
+        margin-left: 10%;*/
+    }
+
+    .countdown-item {
+        background: rgba(0, 0, 0, 0.5);
+        padding: 0.5rem 1rem;
+        text-align: center;
+        border-radius: 1px;
+        min-width: 95px;
+    }
+
+        .countdown-item:nth-child(1) {
+            background-color: #28d0dc; /* blue */
+        }
+
+        .countdown-item:nth-child(2) {
+            background-color: #fae168; /* yellow */
+        }
+
+        .countdown-item:nth-child(3) {
+            background-color: #f6533e; /* red-orange */
+        }
+
+        .countdown-item:nth-child(4) {
+            background-color: #1034a6; /* same as minutes for demonstration */
+        }
+
+        .countdown-item .number {
+            font-size: 2.5rem;
+            font-weight: bold;
+            display: block;
+        }
+
+        .countdown-item .label {
+            font-size: 1rem;
+            text-transform: uppercase;
+            display: block;
+            font-weight: bold;
+        }
+
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+        .grand-egyptian-museum {
+            height: auto;
+        }
+
+            .grand-egyptian-museum .content h1 {
+                font-size: 1.5rem;
+            }
+
+            .grand-egyptian-museum .content h2 {
+                font-size: 1rem;
+            }
+
+        .SectionRamadan .PhotoGallerySection .PhotoGalleryDetails {
+            width: 85% !important;
+            max-width: 100% !important
+        }
+
+        .countdown-item .number {
+            font-size: 2rem;
+            font-weight: bold;
+            display: block;
+        }
+
+        .countdown-item .label {
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            display: block;
+            font-weight: bold;
+        }
+
+        .countdown-item {
+            min-width: 75px;
+        }
+
+        .grand-egyptian-museum {
+            min-height: 300px;
+        }
+    }
+</style>
+
+    <section class="sectionBlocks">
+        <div class="container">
+            <div class="titleSection-ShowAll">
+                <div>
+                    <p>
+                        DISCOVER
+                    </p>
+                    <h2>
+                        <a >
+                            Hidden Gems
+                        </a>
+                    </h2>
+
+                </div>
+                
+            </div>
+        </div>
+        <div class="SliderHiddenGems">
+            <div class="container">
+                <!-- Swiper -->
+                <div class="swiper Swiper-HiddenGems">
+                    <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="card cardHiddenGems">
+                                    <div class="imgSlider">
+                                        <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png"
+                                             data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/7/23/2022_7_23_19_10_34_804.jpg" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png'" class="card-img-top img-fluid HoverScale"
+                                             alt="img">
+                                        <div class="TextDesc">
+                                            <p>
+                                             Luxor Temple at night, statues cast their mysterious shadows.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                            <p class="card-text text-start">Luxor Temple at night</p>
+                                        <span class="d-block text-start">Luxor</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card cardHiddenGems">
+                                    <div class="imgSlider">
+                                        <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png"
+                                             data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/6/19/2022_6_19_14_31_10_828.png" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png'" class="card-img-top img-fluid HoverScale"
+                                             alt="img">
+                                        <div class="TextDesc">
+                                            <p>
+                                              Eel Garden, Dahab, an underwater garden of eels and pufferfish
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                            <p class="card-text text-start">Eel Garden</p>
+                                        <span class="d-block text-start">Dahab</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card cardHiddenGems">
+                                    <div class="imgSlider">
+                                        <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png"
+                                             data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/6/19/2022_6_19_17_30_49_149.png" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png'" class="card-img-top img-fluid HoverScale"
+                                             alt="img">
+                                        <div class="TextDesc">
+                                            <p>
+                                             Blue Lagoon, Abu Galum, a global kitesurfing spot.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                            <p class="card-text text-start">The Blue Lagoon</p>
+                                        <span class="d-block text-start">Abu Galum Protectorate</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card cardHiddenGems">
+                                    <div class="imgSlider">
+                                        <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png"
+                                             data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/6/19/2022_6_19_17_33_37_895.png" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png'" class="card-img-top img-fluid HoverScale"
+                                             alt="img">
+                                        <div class="TextDesc">
+                                            <p>
+                                              Colored Canyon, Nuweiba, a natural work of art on limestone walls.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                            <p class="card-text text-start">The Colored Canyon</p>
+                                        <span class="d-block text-start">Nuweiba</span>
+                                    </div>
+                                </div>
+                            </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-button-next swiper-HiddenGems-next">
+                <div class="swiperIcon">
+                    <i class="fa-solid fa-arrow-right"></i>
+                </div>
+            </div>
+            <div class="swiper-button-prev swiper-HiddenGems-prev">
+                <div class="swiperIcon">
+                    <i class="fa-solid fa-arrow-left"></i>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+    <section class="WhatToDo">
+        <div class="container">
+            <div class="titleSection-ShowAll">
+                <div>
+                    <h2>
+                        <a >
+                            What to Do
+                        </a>
+                    </h2>
+                    <p>
+                        Experience what Egypt has to offer
+                    </p>
+                </div>
+                <div class="ShowAll">
+                    
+                </div>
+            </div>
+        </div>
+        <div class="SliderExperienceEgypt">
+            <div class="container">
+                <!-- Swiper -->
+                <div class="swiper Swiper-ExperienceEgypt">
+                    <div class="swiper-wrapper">
+
+                            <div class="swiper-slide">
+                                <div class="card cardExperienceEgypt">
+                                <a href="https://www.experienceegypt.eg/en/attraction/19/sun-sea"> 
+                                      <div class="imgSlider">
+                                        <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png"
+                                             data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/6/20/2022_6_20_23_32_1_424.jpg" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png'" class="card-img-top img-fluid HoverScale "
+                                             alt="img">
+                                        <div class="TextDesc">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                            <h3 class="card-text text-start">SUN &amp; SEA</h3>
+                                    </div>
+                                </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card cardExperienceEgypt">
+                                <a href="https://www.experienceegypt.eg/en/attraction/18/archeological-sites"> 
+                                      <div class="imgSlider">
+                                        <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png"
+                                             data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2025/1/19/2025_1_19_11_56_4_234.jpg" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png'" class="card-img-top img-fluid HoverScale "
+                                             alt="img">
+                                        <div class="TextDesc">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                            <h3 class="card-text text-start">ARCHEOLOGICAL SITES</h3>
+                                    </div>
+                                </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card cardExperienceEgypt">
+                                <a href="https://www.experienceegypt.eg/en/attraction/17/spiritual-egypt"> 
+                                      <div class="imgSlider">
+                                        <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png"
+                                             data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/8/7/2022_8_7_15_52_50_463.jpg" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png'" class="card-img-top img-fluid HoverScale "
+                                             alt="img">
+                                        <div class="TextDesc">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                            <h3 class="card-text text-start">SPIRITUAL EGYPT</h3>
+                                    </div>
+                                </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card cardExperienceEgypt">
+                                <a href="https://www.experienceegypt.eg/en/attraction/16/museums"> 
+                                      <div class="imgSlider">
+                                        <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png"
+                                             data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2024/12/25/2024_12_25_11_55_49_927.jpg" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png'" class="card-img-top img-fluid HoverScale "
+                                             alt="img">
+                                        <div class="TextDesc">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                            <h3 class="card-text text-start">MUSEUMS</h3>
+                                    </div>
+                                </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card cardExperienceEgypt">
+                                <a href="https://www.experienceegypt.eg/en/attraction/15/cruising-sailing"> 
+                                      <div class="imgSlider">
+                                        <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png"
+                                             data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/7/21/2022_7_21_1_3_20_870.jpg" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png'" class="card-img-top img-fluid HoverScale "
+                                             alt="img">
+                                        <div class="TextDesc">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                            <h3 class="card-text text-start">CRUISING &amp; SAILING</h3>
+                                    </div>
+                                </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card cardExperienceEgypt">
+                                <a href="https://www.experienceegypt.eg/en/attraction/14/adventure-outdoor"> 
+                                      <div class="imgSlider">
+                                        <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png"
+                                             data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/7/23/2022_7_23_22_4_39_279.jpeg" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png'" class="card-img-top img-fluid HoverScale "
+                                             alt="img">
+                                        <div class="TextDesc">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                            <h3 class="card-text text-start">ADVENTURE &amp; OUTDOOR</h3>
+                                    </div>
+                                </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card cardExperienceEgypt">
+                                <a href="https://www.experienceegypt.eg/en/attraction/13/ecotourism-nature"> 
+                                      <div class="imgSlider">
+                                        <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png"
+                                             data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/6/20/2022_6_20_20_1_17_182.jpeg" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png'" class="card-img-top img-fluid HoverScale "
+                                             alt="img">
+                                        <div class="TextDesc">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                            <h3 class="card-text text-start">ECOTOURISM &amp; NATURE</h3>
+                                    </div>
+                                </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card cardExperienceEgypt">
+                                <a href="https://www.experienceegypt.eg/en/attraction/12/health-wellness"> 
+                                      <div class="imgSlider">
+                                        <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png"
+                                             data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/9/27/2022_9_27_15_37_12_798.jpeg" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png'" class="card-img-top img-fluid HoverScale "
+                                             alt="img">
+                                        <div class="TextDesc">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                            <h3 class="card-text text-start">HEALTH &amp; WELLNESS</h3>
+                                    </div>
+                                </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card cardExperienceEgypt">
+                                <a href="https://www.experienceegypt.eg/en/attraction/11/arts-contemporary-culture"> 
+                                      <div class="imgSlider">
+                                        <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png"
+                                             data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/10/5/2022_10_5_14_38_0_121.jpg" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Large/errorimg.png'" class="card-img-top img-fluid HoverScale "
+                                             alt="img">
+                                        <div class="TextDesc">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                            <h3 class="card-text text-start">ARTS &amp; CONTEMPORARY CULTURE</h3>
+                                    </div>
+                                </a>
+                                </div>
+                            </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-button-next swiper-ExperienceEgypt-next">
+                <div class="swiperIcon">
+                    <i class="fa-solid fa-arrow-right"></i>
+                </div>
+            </div>
+            <div class="swiper-button-prev swiper-ExperienceEgypt-prev">
+                <div class="swiperIcon">
+                    <i class="fa-solid fa-arrow-left"></i>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+    <section class="InsiderPicks">
+        <div class="container">
+            <div class="titleSection-ShowAll">
+                <div>
+                    <h2>
+                        <a>
+                            Insider Picks
+                        </a>
+                    </h2>
+                </div>
+                <div class="ShowAll">
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 p-2">
+                    <div class="cardInsiderPicks">
+
+                            <div class="card">
+                                <div class="cardImg ratio ratio-21x9">
+                                    <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/errorimg.png"
+                                         data-src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/7/24/2022_7_24_15_24_32_108.png" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/errorimg.png'" class="card-img-top HoverScale" alt="img">
+                                </div>
+                                <div class="card-body bgOrange">
+                                    <p class="card-text">
+                                        Grab a plate of koshary, one of Egypt’s many vegan-friendly national dishes.
+                                    </p>
+                                </div>
+                            </div>
+                                                    <div class="card">
+                                <div class="card-body bgMain">
+                                    <p class="card-text">
+                                        Indulge in a traditional Egyptian country breakfast of feteer (flaky layered pastry) in Fayoum.
+                                    </p>
+                                </div>
+                                <div class="cardImg ratio ratio-21x9">
+                                    <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/7/7/2022_7_7_17_6_55_933.png" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/errorimg.png'" class="card-img-top HoverScale" alt="img">
+                                </div>
+                            </div>
+
+                    </div>
+                </div>
+                <div class="col-lg-6 p-2">
+                    <div class="cardInsiderPicksRow">
+                            <div class="card">
+                                <div class="row g-0">
+                                    <div class="col-md-5">
+                                        <div class="cardImg ratio ratio-16x9">
+                                            <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/7/7/2022_7_7_17_8_20_928.png" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/errorimg.png'" class="img-fluid HoverScale" alt="img">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-7">
+                                        <div class="card-body bgMediumTurquoise">
+                                            <p class="card-text">
+                                                Enjoy unforgettable views of the Pyramids Plateau and other ancient monuments on horseback.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="card">
+                                <div class="row g-0">
+                                    <div class="col-md-5">
+                                        <div class="cardImg ratio ratio-16x9">
+                                            <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/7/7/2022_7_7_17_7_43_519.png" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/errorimg.png'" class="img-fluid HoverScale" alt="img">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-7">
+                                        <div class="card-body bgsecondColor">
+                                            <p class="card-text">
+                                                Explore villages near the archaeological sites of Giza for handmade artisanal crafts.
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <section class="GoodToKnow">
+        <div class="container">
+            <div class="contentGoodKnow ">
+                <div class="TextGN">
+                    <h5> GOOD TO KNOW </h5>
+                    
+                </div>
+                <div class="blockGN">
+                            <div class="boxCard bgSafety">
+                                <a href="https://www.experienceegypt.eg/en/usefulinfo#TravelSafe">
+                                    <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/GoodKnow01GoodKnow01.png" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Thumb/errorimg.png'" class="img-fluid" alt="img">
+                                    <p>Health Safety</p>
+                                </a>
+                            </div>
+                            <div class="boxCard bgVisa">
+                                <a href="https://www.experienceegypt.eg/en/usefulinfo#VisaEntry">
+                                    <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/GoodKnow02GoodKnow02.png" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Thumb/errorimg.png'" class="img-fluid" alt="img">
+                                    <p>Entry Visa</p>
+                                </a>
+                            </div>
+                            <div class="boxCard bgWeather">
+                                <a href="https://www.experienceegypt.eg//en/weather/index">
+
+                                    <img src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/GoodKnow03GoodKnow03.png" onerror="this.src='https://betamedia.experienceegypt.eg/media/experienceegypt/img/Thumb/errorimg.png'" class="img-fluid" alt="img">
+                                    <p>WEATHER</p>
+                                </a>
+                            </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+
+<section class="ExpirenceEgypt">
+    <div class="contentExpirenceEgypt">
+        <div class="container">
+            <div class="ExpirenceBlock">
+                <h5>#ExperienceEgypt</h5>
+                <p>FOLLOW US ON:</p>
+                <ul class="UlSocialMedia">
+                    <li>
+                        <a href="https://www.facebook.com/experienceegypt" target="_blank">
+                            <i class="fa-brands fa-facebook fa-2x"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/ExperienceEgypt" target="_blank">
+                            <i class="fa-brands fa-twitter fa-2x"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/experienceegypt/" target="_blank">
+                            <i class="fa-brands fa-instagram fa-2x"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://vm.tiktok.com/ZM8XaxjnG/" target="_blank">
+                            <i class="fa-brands fa-tiktok fa-2x"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UCbEsrYwtICShIo_VPoBCQGw" target="_blank">
+                            <i class="fa-brands fa-youtube fa-2x"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="boxExpirence">
+        <div class="container">
+            <!-- LightWidget WIDGET -->
+            <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/8b0f1bd6f0895b74a181f62cde285b81.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;" title="Experience Egypt"></iframe>
+            <div class="LearnMore">
+                <a href="https://www.instagram.com/experienceegypt/" target="_blank">
+                    Learn more
+                    <i class="fa-solid fa-chevron-right"></i>
+                </a>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+
+
+
+<section class="EngageBlock">
+    <div class="container">
+        <a href="https://www.experienceegypt.eg/en/home/ENGAGEWITHEGYPT">
+            <div class="contentEngageBlock">
+                <div class="boxlogoEBlock">
+                    <img src="/images/logoEngageBlock.png" alt="logo" class="img-fluid">
+                </div>
+                <div class="boxImgEBlock">
+                    <img src="/images/EngageBlock.png" alt="img" class="img-fluid">
+                </div>
+                <div class="boxTextEBlock">
+                    <p>
+                        Engage with Egypt
+                    </p>
+                </div>
+            </div>
+        </a>
+    </div>
+</section>
+<link href="/css/popup.css" rel="stylesheet" />
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <!-- <div class="modal-header">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+    </div> -->
+            <!--Body-->
+            <div class="modal-body">
+                <div class="position-relative">
+                    <img class="w-100" src="https://betamedia.experienceegypt.eg/media/experienceegypt/img/Aswan_popup.jpg">
+                </div>
+                <div class="position-absolute rounded closeModel">
+                    <button type="button" class="btn-close p-2" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="description p-3 text-center modaldesc">
+                    <h3 class="popuptitle">Aswan: Where History Flows</h3>
+                    <label class="text-start popupdesc">Immerse yourself in the Jewel of the South. Witness majestic temples, soar above the Nile at dawn, and embrace the timeless magic of Egypt’s most serene city.
+See more Transfer to Luxor section on Website:
+<a href="https://www.experienceegypt.eg/en/city/9/aswan-abu-simbel" class="readmoreBtn">Read More</a></label>
+
+                </div>
+            </div>
+            <!--Footer-->
+            
+        </div>
+    </div>
+</div>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        // Select the modal element using its ID
+        var myModalEl = document.getElementById('exampleModal');
+
+        // Create a new Bootstrap Modal instance (required for Bootstrap 5)
+        var modal = new bootstrap.Modal(myModalEl);
+
+        // Call the show method
+        modal.show();
+        document.body.style.paddingRight = 0;
+        document.body.style.overflow = 'auto';
+
+    });
+
+    // 1. Get references to the button and the input field
+    const copyButton = document.getElementById('copyBtn');
+    const textInput = document.getElementById('linkToCopy');
+
+    // 2. Add a click event listener to the button
+    copyButton.addEventListener('click', () => {
+
+        // 3. Get the text from the input field
+        const text = textInput.text.trim();
+
+        // 4. Use the modern Clipboard API to write the text
+        navigator.clipboard.writeText(text)
+            .then(() => {
+                // --- SUCCESS ---
+
+                // 5. Change the button text
+                copyButton.textContent = 'Copied!';
+
+                // 6. Disable the button to prevent multiple clicks
+                copyButton.disabled = true;
+
+                // 7. Set a timer to change the button back after 5 seconds
+                setTimeout(() => {
+                    copyButton.textContent = 'Copy';
+                    copyButton.disabled = false; // Re-enable the button
+                }, 4000); // 5000 milliseconds = 5 seconds
+            })
+            .catch(err => {
+                // --- ERROR ---
+                // Log an error to the console if copying fails
+                console.error('Failed to copy text: ', err);
+            });
+    });
+</script>
+
+
+
+<section class="backgroundBottom">
+    <div class="ExploreInstgram">
+
+    </div>
+</section>
+
+
+
+<script type="text/javascript">
+    //document.addEventListener("DOMContentLoaded", function () {
+    //    var modal = document.getElementById("ramadanVibes");
+
+    //    // Show modal on page load
+    //    if (modal) {
+    //        modal.style.display = "block";
+    //    }
+
+    //    // Close modal when clicking the close button
+    //    document.querySelector(".close").addEventListener("click", function () {
+    //        modal.style.display = "none";
+    //    });
+
+    //    // Close modal when clicking outside of it
+    //    window.addEventListener("click", function (event) {
+    //        if (event.target === modal) {
+    //            modal.style.display = "none";
+    //        }
+    //    });
+    //});
+
+    // if parameter cannot be filled and is not mandatory, please remove entire parameter, enter dynamic value between the quotation marks, example _ttq.push(['_parameterName', 'dynamic_value']);
+    var _ttq = _ttq || [];
+    _ttq.push(['_setAccount', '30000612']); // mandatory parameter
+    _ttq.push(['_setDataSource', 'av']); // mandatory parameter
+    _ttq.push(['_setProduct', '16']);
+    _ttq.push(['_setLevel', '1']); // mandatory parameter
+    _ttq.push(['_setLanguage', '']);      //  mandatory parameter, current language (2 characters, ISO 639-1)
+    _ttq.push(['_track']);
+    (function () {
+        var ttr = document.createElement('script'); ttr.type = 'text/javascript';
+        ttr.src = ('https:' == document.location.protocol ? 'https://' : 'http://')
+            + 'ads.travelaudience.com/js/ta.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ttr, s);
+    })();
+</script>
+
+        </main>
+        
+
+<div class="container">
+    <div class="topFooter">
+        <div class="subscriptionEmailTitle">
+            <p>
+                
+                Subscribe to the Ministry&#39;s News Letter
+            </p>
+        </div>
+        <div class="subscriptionEmailContainer">
+<form action="/en" class="subscriptionForm" id="subscriptionForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="ykg-TZvDjD9_CH8FjrzUp7SFCGeqSxYPWkW-z1kgFFBbYQqvR7LwVHq6Mb070QRcYNM8Nt6Hz5MRVt3w5hYVyLHU25ecQsbLm6lQx5kE67I1" />                <div class="form-group footerEmail">
+                    <input type="email" class="form-control SubscriptionEmail" placeholder="Enter your email" vldMessage="Please insert correct email">
+                </div>
+                <a href="#" class="SubscribeNow">
+                    Subscribe Now
+                </a>
+</form>        </div>
+    </div>
+</div>
+
+<footer>
+    <div class="container">
+        <div class="contentfooter">
+            <div class="row">
+                <div class="col-lg-2 mb-3 mb-lg-0">
+                    <div class="d-flex align-items-center justify-content-around">
+                        <a href="https://mota.gov.eg/" target="_blank" rel="nofollow" class="logoMinstrey">
+                            <img alt="..." src="/images/Minstrey.png" width="73" loading="lazy">
+                        </a>
+                        <a href="https://www.experienceegypt.eg">
+                            <img src="/images/EXfooterlogosvg.svg" alt="logo" width="61" loading="lazy">
+                        </a>
+                    </div>
+                    <div class="col mt-5">
+                        <h3 class="p-titleLinks ">Follow us:</h3>
+                        <ul class="row gx-1 gx-sm-2 socialUl">
+                            <li class="col-auto">
+                                <a href="https://www.facebook.com/tourismandantiq" target="_blank" title="Experience Egypt">
+                                    <img src="/images/social/facebook.svg" alt="Facebook" loading="lazy"/>
+                                </a>
+                            </li>
+                            <li class="col-auto">
+                                <a href="https://twitter.com/TourismandAntiq" title="Experience Egypt" target="_blank">
+                                    <img src="/images/social/twitter.svg" alt="Twitter" loading="lazy" />
+                                </a>
+                            </li>
+                            <li class="col-auto">
+                                <a href="https://instagram.com/ministry_tourism_antiquities?igshid=YmMyMTA2M2Y=" title="Experience Egypt" target="_blank">
+                                    <img src="/images/social/insta.svg" alt="Instagram" loading="lazy" />
+                                </a>
+                            </li>
+                            <li class="col-auto">
+                                <a href="https://youtube.com/channel/UCxJmhXT-FbBl0quBphLvJDQ" target="_blank" title="Experience Egypt">
+                                    <img src="/images/social/youtube.svg" alt="Youtube" loading="lazy" />
+                                </a>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+                            <div class="col-lg mb-3 mb-lg-0">
+                                <h3 class="p-titleLinks ">Popular links</h3>
+                                <ul class="UlUsefulLinks">
+                                            <li>
+                                                    <a href="#">
+                                                        About Egypt
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="#">
+                                                        Where to go
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="https://www.experienceegypt.eg/">
+                                                        what to do
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="https://www.experienceegypt.eg/">
+                                                        Whats&#39;s on
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="https://www.experienceegypt.eg/en/home/citybrochure">
+                                                        Media Kit
+                                                    </a>
+                                            </li>
+                                </ul>
+                            </div>
+                            <div class="col-lg mb-3 mb-lg-0">
+                                <h3 class="p-titleLinks ">Helpful information</h3>
+                                <ul class="UlUsefulLinks">
+                                            <li>
+                                                    <a href="https://www.experienceegypt.eg/en/UsefulInfo#tipsplan">
+                                                        Plan Your Trip
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="https://www.experienceegypt.eg/en/UsefulInfo#VisaEntry">
+                                                        Visa guide
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="https://www.experienceegypt.eg/en/UsefulInfo#PracticalInfo">
+                                                        Practical Info 
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="https://www.experienceegypt.eg/en/UsefulInfo#TravelSafe">
+                                                        Travel Safe
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="https://www.experienceegypt.eg/en/UsefulInfo#GettingAround">
+                                                        Getting Around
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="https://www.experienceegypt.eg/en/UsefulInfo#HowtoGetThere">
+                                                        How to Get There
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="https://www.experienceegypt.eg/en/UsefulInfo#UsefulNumbers">
+                                                        Useful Numbers 
+                                                    </a>
+                                            </li>
+                                </ul>
+                            </div>
+                            <div class="col-lg mb-3 mb-lg-0">
+                                <h3 class="p-titleLinks ">Related sites</h3>
+                                <ul class="UlUsefulLinks">
+                                            <li>
+                                                    <a href="https://www.visit-gem.com/en/home">
+                                                        Grand Egyptian Museum
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="https://nmec.gov.eg/">
+                                                        The National Museum of Egyptian Civilization
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="https://www.miaegypt.org/">
+                                                        Museum of Islamic Art
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="https://egyptianmuseumcairo.eg/">
+                                                        The Egyptian Museum
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="https://visa2egypt.gov.eg/eVisa/Home;jsessionid=r_LAZr0CTrbdX5dlaYVZj-qRTIaUoXaBINkHLJjc.pp-ui-01?VISTK=2YWP-WZYL-4CJK-JHYC-WXNT-B2PJ-613W-8MDF-WT3S-OGZK-VQRX-D11D-ZGA5-GCJ5-X95V-5JSR">
+                                                        Visa2egypt
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="https://www.mts.gov.eg/ar/services/%D8%A7%D9%84%D9%86%D8%A7%D9%81%D8%B0%D9%87-%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF%D9%87-%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D9%8A%D8%AE%D9%88%D8%AA/">
+                                                        Yacht Single Window
+                                                    </a>
+                                            </li>
+                                </ul>
+                            </div>
+                            <div class="col-lg mb-3 mb-lg-0">
+                                <div>
+                                    <h3 class="p-titleLinks ">Useful Links</h3>
+                                    <ul class="UlUsefulLinks">
+                                                <li>
+                                                        <a href="https://egymonuments.com/">
+                                                            Tickets &amp; Souvenirs
+                                                        </a>
+                                                </li>
+
+                                    </ul>
+                                </div>
+                                <div class="mt-5">
+                                    <h3 class="p-titleLinks ">Contact Us</h3>
+                                    <ul class="UlUsefulLinks">
+                                        <li>
+                                            <img src="/images/tell.svg" alt="telephone" loading="lazy" />
+                                            19654 &nbsp; inside egypt
+                                        </li>
+                                        <li>
+                                            <img src="/images/mail.svg" alt="email" loading="lazy" />
+                                            &nbsp; <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="721b1c141d321f1d06135c151d045c1715">[email&#160;protected]</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+            </div>
+        </div>
+        <div class="row footerBottom pb-0 align-items-start pt-4 mt-xxl-2">
+            <div class="col-sm-auto RIGHTSRESERVED">
+                <p class="text-xs font-m">ALL RIGHTS RESERVED© 2026</p>
+            </div>
+            <div class="col-sm mb-3 mb-sm-0 promotionalWebsite">
+                <ul class="d-flex justify-content-between ">
+                    <li class="mx-3">
+                        <p>Official Promotional website</p>
+                    </li>
+                    <li class="mx-3">
+                        <p>Egyptian Tourism Authority</p>
+                    </li>
+                    <li class="mx-3">
+                        <p>Ministry of Tourism and Antiquities</p>
+                    </li>
+                    <li class="mx-3">
+                        <p>Arab Republic of Egypt</p>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</footer>
+
+
+
+
+
+
+<!--<li>
+    <a href="https://visa2egypt.gov.eg" target="_blank" rel="nofollow" class="a-textfooter">
+        Visa2egypt
+    </a>
+</li>
+<li>
+    <a href="https://egyptyacht-sw.mts.gov.eg:8181/EMDB-web/?lang=en" target="_blank" rel="nofollow" class="a-textfooter">
+        Yachting &amp; Sailing
+    </a>
+</li>
+                </ul>
+
+
+            </div>
+
+            }
+
+            }
+            }
+
+
+
+
+<div class="col-lg mb-4 mb-lg-0">
+    <h3 class="p-titleLinks">
+
+        <a href="https://www.experienceegypt.eg/Home/ContactUs">
+            Contact Us
+        </a>
+    </h3>
+    <div class="DivPhone">
+        <span><i class="fa-solid fa-phone"></i></span>
+        <div class="textPhone">
+            <p><span class="font-b text-lg">19654</span> <sub class="text-muted"> inside egypt</sub></p>
+        </div>
+    </div>
+    <div class="DivPhone">
+        <i class="fa-solid fa-envelope"></i>
+        <div class="textPhone">
+            <a href="mailto:info@mota.gov.eg">info@mota.gov.eg</a>
+        </div>
+    </div>
+
+
+</div>
+
+<div class="col-lg-3  mb-3 mb-lg-0">
+    <div>-->
+
+<!--<a href="https://mota.gov.eg/" target="_blank" rel="nofollow">
+            <img alt="..." src="~/images/Minstrey.png" width="97">
+        </a>
+    </div>
+    <p class="mt-3 mt-xxl-5">
+        <a class="font-sm font-m" href="https://mota.gov.eg/">mota.gov.eg</a>
+    </p>
+    <div class="row mt-1">
+        <div class="col-auto">
+            <p class="font-sm font-b">Follow us:</p>
+        </div>
+        <div class="col">
+            <ul class="row gx-1 gx-sm-2 socialUl">
+                <li class="col-auto">
+                    <a href="https://www.facebook.com/tourismandantiq" target="_blank">
+                        <i class="fa-brands fa-facebook"></i>
+                    </a>
+                </li>
+                <li class="col-auto">
+                    <a href="https://twitter.com/TourismandAntiq" target="_blank">
+                        <i class="fa-brands fa-twitter"></i>
+                    </a>
+                </li>
+                <li class="col-auto">
+                    <a href="https://instagram.com/ministry_tourism_antiquities?igshid=YmMyMTA2M2Y=" target="_blank">
+                        <i class="fa-brands fa-instagram"></i>
+                    </a>
+                </li>
+                <li class="col-auto">
+                    <a href="https://youtube.com/channel/UCxJmhXT-FbBl0quBphLvJDQ" target="_blank">
+                        <i class="fa-brands fa-youtube"></i>
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+    <p class="p-Subscribe font-sm font-b">Subscribe to the Ministry&#39;s News Letter</p>
+    <div class="alert alert-success SubscriptionSuccess" role="alert" style="display:none">
+        <p>Subscribed Successfully</p>
+    </div>
+    <div class="alert alert-danger SubscriptionError" role="alert" style="display:none" vldMessage="Error!! Please try again later">
+        <p>Error!! Please try again later</p>
+    </div>
+<form action="/en" class="subscriptionForm" id="subscriptionForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="9f5-F_yWFTLizaIPeA2kZ24vcLxnSGSgVRAQkAOTlv876sMbAAQAzrs04I3s-ArNwvvXoKGisM7KaH6V-_knQlCBJr6Hq5I52DMsaNdpLZU1" />        <div class="form-group footerEmail">
+            <input type="email" class="form-control SubscriptionEmail" placeholder="Enter your email" vldMessage="Please insert correct email">
+        </div>
+        <a href="#" class="SubscribeNow">
+            Subscribe Now
+        </a>
+</form></div>
+        </div>
+    </div>
+
+<div class="row footerBottom pb-0 align-items-start pt-4 mt-xxl-2">
+    <div class="col-sm mb-3 mb-sm-0">
+        <ul>
+            <li class="mb-2">
+                <p>Official Promotional website</p>
+            </li>
+            <li class="mb-2">
+                <p>Egyptian Tourism Authority</p>
+            </li>
+            <li class="mb-2">
+                <p>Ministry of Tourism and Antiquities</p>
+            </li>
+            <li>
+                <p>Arab Republic of Egypt</p>
+            </li>
+        </ul>
+    </div>
+    <div class="col-sm-auto">
+        <p class="text-xs font-m">ALL RIGHTS RESERVED© 2026</p>
+    </div>
+</div>
+    </div>
+</footer>-->
+
+    </div>
+    <div class="back-to-top">
+        <i class="fa-solid fa-chevron-up"></i>
+    </div>
+
+    <link href='/Content/all.min.css?Ver=0.1' media="all" rel='stylesheet' type='text/css' defer>
+    <link href="/Content/jquery-ui-v1.13.2.css" media="all" rel="stylesheet" defer />
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/Scripts/jquery-v3.6.4.min.js"></script>
+    <script src="/Scripts/jquery-ui-1.13.2.min.js"></script>
+<script src="/Scripts/RegisterForm.js"></script>
+<script src="/Scripts/swiper-v9.2.4.min.js"></script>
+<script src="/Scripts/bootstrap.bundle-v5.2.3.min.js"></script>
+<script src="/Scripts/functions.js"></script>
+<script src="/Scripts/General.js"></script>
+
+    
+
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var lazyImages = document.querySelectorAll("img[data-src]");
+
+            var observer = new IntersectionObserver(function (entries, observer) {
+                entries.forEach(function (entry) {
+                    if (entry.isIntersecting) {
+                        var img = entry.target;
+                        img.src = img.getAttribute("data-src");
+                        observer.unobserve(img);
+                    }
+                });
+            });
+
+            lazyImages.forEach(function (img) {
+                observer.observe(img);
+            });
+        });
+
+
+        $(document).ready(function () {
+            setTimeout(function () {
+                GTMInit();
+            }, 4000);
+        })
+        function GTMInit() {
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                }); var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-WVBH44X');
+
+            var s, r = false;
+            s = document.createElement('noscript');
+            s.innerHTML = '<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WVBH44X" height = "0" width = "0" style = "display:none;visibility:hidden" ></iframe >';
+            document.getElementsByTagName('body')[0].appendChild(s);
+        }
+    </script>
+    <!-- Use of this pixel is subject to the Amazon ad specs and policies at http://www.amazon.com/b/?&node=7253015011 -->
+    <script type='text/javascript'>
+        setTimeout(function () {
+            window.onload = function () { var _pix = document.getElementById('_pix_id_26d1b095-f12d-040a-8f14-deb15ff3cb20'); if (!_pix) { var protocol = '//'; var a = Math.random() * 1000000000000000000; _pix = document.createElement('iframe'); _pix.style.display = 'none'; _pix.setAttribute('src', protocol + 'aax-eu.amazon-adsystem.com/s/iu3?d=generic&ex-fargs=%3Fid%3D26d1b095-f12d-040a-8f14-deb15ff3cb20%26type%3DUNKNOWN%26m%3D338801&ex-fch=416613&ex-src=https://www.experienceegypt.eg/&ex-hargs=v%3D1.0%3Bc%3D582333176684559854%3Bp%3D26D1B095-F12D-040A-8F14-DEB15FF3CB20' + '&cb=' + a); _pix.setAttribute('id', '_pix_id_26d1b095-f12d-040a-8f14-deb15ff3cb20'); document.body.appendChild(_pix); } }
+        }, 4000);
+        
+
+        </script>
+    <noscript> 
+    <img height='1' width='1' border='0' alt='' src='https://aax-eu.amazon-adsystem.com/s/iui3?d=forester-did&ex-fargs=%3Fid%3D26d1b095-f12d-040a-8f14-deb15ff3cb20%26type%3DUNKNOWN%26m%3D338801&ex-fch=416613&ex-src=https://www.experienceegypt.eg/&ex-hargs=v%3D1.0%3Bc%3D582333176684559854%3Bp%3D26D1B095-F12D-040A-8F14-DEB15FF3CB20' />
+    </noscript>
+
+</body>
+</html>
+
+
+

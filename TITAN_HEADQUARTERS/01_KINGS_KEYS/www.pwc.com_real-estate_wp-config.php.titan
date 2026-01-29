@@ -1,0 +1,866 @@
+<esi:choose>
+    <esi:when test="$(REQUEST_PATH) has_i '/us/en/library/webcasts/'">
+        <esi:choose>
+            <esi:when test="$(REQUEST_PATH) has_i '/us/en/library/webcasts/replay'">
+                <!-- webcast-replay 404 -->
+            </esi:when>
+            <esi:otherwise>
+                <esi:assign name="redirect_path" value="'https://www.pwc.com'+$(REQUEST_PATH)" />
+                <esi:assign name="redirect_path" value="$replace($(redirect_path),'/FAIL404/','/')" />
+                <esi:assign name="redirect_path"
+                    value="$replace($(redirect_path),'/library/webcasts/','/library/webcasts/replay/')" />
+                <esi:vars>
+                    $set_redirect($(redirect_path))
+                </esi:vars>
+            </esi:otherwise>
+        </esi:choose>
+    </esi:when>
+</esi:choose>
+
+<esi:choose>
+    <esi:when test="$(REQUEST_PATH) has_i '/m1/'">
+        <esi:try>
+            <esi:attempt>
+                <esi:include src="/m1/en/404.html" />
+            </esi:attempt>
+            <esi:except>
+                <esi:try>
+                    <esi:attempt>
+                        <esi:include src="https://download.pwc.com/xx/error_pages/general.html" />
+                    </esi:attempt>
+                    <esi:except>
+                        <!-- m1 -->
+                        <h1>404 - resource not found</h1>
+                    </esi:except>
+                </esi:try>
+            </esi:except>
+        </esi:try>
+    </esi:when>
+
+<esi:otherwise>
+    <!DOCTYPE html
+        PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gx" lang="en-gx">
+
+    <head>
+        <title>Page Not Found (404)</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+        <meta http-equiv="cache-control" content="no-cache">
+        <meta name="robots" content="noindex,noarchive">
+        <link rel="icon" href="https://download.pwc.com/xx/error_pages/favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="https://download.pwc.com/xx/error_pages/favicon.ico" type="image/x-icon">
+        <!-- Include common CSS -->
+        <style>
+            .backbutton {
+                padding-top: 30px;
+            }
+
+            .backbutton a {
+                font-size: 16px;
+                top: 10px;
+                text-decoration: none;
+                border-bottom: 1px solid #000;
+                font-weight: bold;
+            }
+
+            a:hover,
+            a:focus {
+                color: #c52b09;
+                border-bottom: 2px solid #c52b09;
+            }
+
+            @media (max-width: 767px) {
+                .img {
+                    display: none;
+                }
+            }
+
+            /* Style for SVG image */
+            .img {
+                float: right;
+                width: 60%;
+                height: auto;
+                margin-top: -142px;
+                margin-bottom: -3px;
+            }
+
+            .links {
+                font-family: "Charter ITC", georgia, serif;
+                font-size: 1.6rem;
+                line-height: 1.5;
+                border-bottom: 2px solid transparent;
+                padding-bottom: 2px;
+                color: #2d2d2d;
+                display: inline;
+                -webkit-transition: none;
+                transition: none;
+                word-break: break-word;
+            }
+        </style>
+
+        <style type="text/css">
+            #searchfield {
+                /* Input field */
+                font-family: "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.4rem;
+                width: auto;
+                border-radius: 0;
+                border: 1px solid #ccc;
+                box-shadow: none;
+                margin-right: 20px;
+                float: left;
+                padding: 5px 72px 4px 20px !important;
+            }
+
+            button.btn[disabled] {
+                cursor: not-allowed;
+                filter: alpha(opacity=50);
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                opacity: .50;
+                padding: 21px 23px;
+            }
+
+            @media only screen and (max-width: 600px) {
+                .page-primary-col--red .btn--primary {
+                    background: #FD5108;
+                    color: #000;
+                    padding: 21px 23px;
+                    font-size: 16px;
+                    width: auto;
+                }
+            }
+
+            @media only screen and (max-width: 600px) {
+                #searchfield {
+                    /* Input field */
+                    font-family: "PwC Helvetica Neue", Arial, sans-serif;
+                    font-size: 1.3rem;
+                    height: 50px;
+                    width: auto;
+                }
+            }
+
+            @media (max-width: 767px) {
+                .img {
+                    display: none;
+                }
+            }
+
+            /*Define font faces and link to font files here */
+            /* ITC Charter */
+            @font-face {
+                font-family: "Charter ITC";
+                src: url("https://download.pwc.com/xx/error_pages/404-NL/assets/Fonts/font-file-name-here.eot?#iefix");
+                src: url("https://download.pwc.com/xx/error_pages/404-NL/assets/Fonts/font-file-name-here.eot?#iefix") format("eot"), url("https://download.pwc.com/xx/error_pages/404-NL/assets/Fonts/font-file-name-here.woff2") format("woff2"), url("https://download.pwc.com/xx/error_pages/404-NL/assets/Fonts/font-file-name-here.woff") format("woff"), url("https://download.pwc.com/xx/error_pages/404-NL/assets/Fonts/font-file-name-here.ttf") format("truetype");
+            }
+
+            /* Helvetica Neue Regular */
+            @font-face {
+                font-family: "Helvetica Neue";
+                src: url("https://download.pwc.com/xx/error_pages/404-NL/assets/Fonts/font-file-name-here.eot?#iefix");
+                src: url("https://download.pwc.com/xx/error_pages/404-NL/assets/Fonts/font-file-name-here.eot?#iefix") format("eot"), url("https://download.pwc.com/xx/error_pages/404-NL/assets/Fonts/font-file-name-here.woff2") format("woff2"), url("https://download.pwc.com/xx/error_pages/404-NL/assets/Fonts/font-file-name-here.woff") format("woff"), url("https://download.pwc.com/xx/error_pages/404-NL/assets/Fonts/font-file-name-here.ttf") format("truetype");
+                font-weight: 400;
+                font-style: normal;
+            }
+
+            /* Helvetica Neue Bold */
+            @font-face {
+                font-family: "Helvetica Neue";
+                src: url("https://download.pwc.com/xx/error_pages/404-NL/assets/Fonts/font-file-name-here.eot?#iefix");
+                src: url("https://download.pwc.com/xx/error_pages/404-NL/assets/Fonts/font-file-name-here.eot?#iefix") format("eot"), url("https://download.pwc.com/xx/error_pages/404-NL/assets/Fonts/font-file-name-here.woff2") format("woff2"), url("https://download.pwc.com/xx/error_pages/404-NL/assets/Fonts/font-file-name-here.woff") format("woff"), url("https://download.pwc.com/xx/error_pages/404-NL/assets/Fonts/font-file-name-here.ttf") format("truetype");
+                font-weight: 700;
+                font-style: normal;
+            }
+
+
+            html,
+            body {
+                color: #000;
+                border: 0;
+                margin: 0;
+                font-size: 100%;
+                line-height: 1.125em;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+            #error-wrapper {
+                width: 870px;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 50px;
+                background: #fff;
+                font-size: small;
+                padding: 0 10px 15px 10px;
+            }
+
+            #error-wrapper #message,
+            #error-wrapper #bottomtrim {
+                position: relative;
+                left: 83px;
+            }
+
+            #error-wrapper #message {
+                background-color: #f5f7f8;
+                padding: 20px;
+                width: 700px;
+                min-height: 240px;
+                color: #000 !important;
+                border-left: 47px solid #fff;
+            }
+
+            #error-wrapper #lgo {
+                border-top: 43px solid #fff;
+            }
+            
+            #error-wrapper #lgo img {
+                width: 131px;
+            }
+
+            #error-wrapper h1,
+            #error-wrapper h2 {
+                font-family: Georgia, "Times New Roman";
+                margin: 0;
+                padding: 0;
+            }
+
+            #error-wrapper h1 {
+                font-size: 3em;
+                font-style: italic;
+                line-height: 1em;
+                margin: 5px 0;
+            }
+
+            #error-wrapper h2 {
+                font-size: 2.1em;
+                font-weight: normal;
+                line-height: 1em;
+                margin: 20px 0;
+            }
+
+            #error-wrapper p,
+            #error-wrapper ul {
+                font-size: 1.2em;
+                line-height: 1.5em;
+            }
+
+            #error-wrapper ul {
+                padding-left: 20px;
+            }
+
+            * html #error-wrapper ul {
+                margin-left: 0;
+            }
+
+            *:first-child+html #error-wrapper ul {
+                margin-left: 0;
+            }
+
+            #error-wrapper ul li {
+                list-style: square;
+            }
+
+            #error-wrapper a:link,
+            #error-wrapper a:visited {
+                color: #fff;
+                text-decoration: underline;
+            }
+
+            #error-wrapper a:hover {
+                text-decoration: none;
+            }
+
+            .zero-height {
+                height: 0px;
+            }
+
+            .display-none {
+                visibility: hidden;
+            }
+
+            h5 {
+                font-size: 0.4em;
+                color: #000;
+            }
+        </style>
+<style type="text/css" id="bu-overrides">
+        @font-face {
+            font-family: 'PwC ITC Charter';
+            font-style: normal;
+            font-weight: 400;
+            src: url("/etc.clientlibs/pwc/clientlibs/longform/style-colors-rebrand/resources/fonts/6f7f55b5-d511-474f-9652-affbdac0a19e.woff2") format("woff2"),
+                url("/etc.clientlibs/pwc/clientlibs/longform/style-colors-rebrand/resources/fonts/09d1f64e-8b0e-4a6f-8b1c-eafb48e881ef.woff") format("woff"),
+                url("/etc.clientlibs/pwc/clientlibs/longform/style-colors-rebrand/resources/fonts/25b2f50c-1b1a-4239-8ddd-b0b7884e868c.ttf") format("truetype"),
+                url("/etc.clientlibs/pwc/clientlibs/longform/style-colors-rebrand/resources/fonts/a3c5dc0a-ebc3-4e88-8362-81d55b3d9f2b.eot") format("embedded-opentype");
+        }
+
+        @font-face {
+            font-family: 'PwC Helvetica Neue';
+            font-style: normal;
+            font-weight: 400;
+            src: url("/etc.clientlibs/pwc/clientlibs/longform/style-colors-rebrand/resources/fonts/08b57253-2e0d-4c12-9c57-107f6c67bc49.woff2") format("woff2"),
+                url("/etc.clientlibs/pwc/clientlibs/longform/style-colors-rebrand/resources/fonts/08edde9d-c27b-4731-a27f-d6cd9b01cd06.woff") format("woff"),
+                url("/etc.clientlibs/pwc/clientlibs/longform/style-colors-rebrand/resources/fonts/8f4a1705-214a-4dd0-80b8-72252c37e688.ttf") format("truetype"),
+                url("/etc.clientlibs/pwc/clientlibs/longform/style-colors-rebrand/resources/fonts/522972a6-5867-47ae-82fc-a7cf9bd5d4d4.eot") format("embedded-opentype");
+        }
+
+        html,
+        body {
+            color: #000;
+            font-family: "PwC Helvetica Neue", Arial, Helvetica, sans-serif;
+        }
+
+        #error-wrapper #message {
+            background-color: #f5f7f8;
+            padding: 4px 20px 20px 22px;
+            width: 740px;
+            min-height: 280px;
+            color: #000 !important;
+        }
+
+        #error-wrapper #bottomtrim {
+            display: none
+        }
+
+        #error-wrapper #lgo {
+            border-top: 69px solid #fff;
+        }
+
+        #error-wrapper h1 {
+            font-style: normal
+        }
+
+        #error-wrapper h1,
+        #error-wrapper h2 {
+            font-family: "PwC ITC Charter", Georgia, Serif;
+            font-weight: normal;
+        }
+
+        #error-wrapper h2 {
+            font-size: 2.154em;
+        }
+
+        #error-wrapper a:link,
+        #error-wrapper a:visited {
+            color: #000;
+        }
+    </style>
+
+
+        <!-- adobe analytics script -->
+        <script type="text/javascript"
+            src="//www.pwc.com/etc.clientlibs/settings/wcm/designs/pwc/clientlib_behaviour.js"></script>
+        <script src="//assets.adobedtm.com/94ed34440bb5/527900b2ae4b/launch-519328edb4b5.min.js"
+            type="text/javascript"></script>
+    </head>
+
+    <body>
+
+        <esi:choose>
+            <esi:when test="$(REQUEST_PATH) has_i '/se/sv/'">
+                <div id="error-wrapper">
+                    <div id="message">
+                        <h1>Hej!</h1>
+                        <h2>Sidan du letar efter kan inte hittas!<br>Försök med något av följande:</h2>
+                        <ul>
+                            <li>Kontrollera adressen och försök igen.</li>
+                            <li>Återvänd till föregående sida.</li>
+                            <li>Gå till <a href="http://www.pwc.com/se/sv.html">www.pwc.com/se</a> och leta efter relevant information.
+                            </li>
+                            <li>Leta på vår <a href="http://www.pwc.com/se/sv/om-oss/site-map-sverige.jhtml">sitemap</a>.</li>
+                        </ul>
+                    </div>
+                    <div id="bottomtrim">&nbsp;</div>
+                    <div id="lgo"><img src="http://www.pwc.com/etc/designs/pwc/css_common/image/404.gif" border="0"
+                            alt="PwC logo">
+                    </div>
+                </div>
+            </esi:when>
+
+            <esi:when test="$(REQUEST_PATH) has_i '/ca/en'">
+                <div id="error-wrapper">
+                    <div id="message">
+                        <h1>Sorry!</h1>
+                        <h2>That page doesn't exist.<br>Please try one of the following:</h2>
+                        <ul>
+                            <li>Ensure that you have typed the URL correctly</li>
+                            <li>Visit the <a href="http://www.pwc.com/ca/en">PwC Canada home page</a></li>
+                            <li>Visit our <a href="http://www.pwc.com/ca/en/site-map.html">Sitemap</a></li>
+                            <li>Or <a href="https://secure.ca.pwc.com/85256FDA004ECA86/frmContactGen?ReadForm&E">Contact Us</a></li>
+                        </ul>
+                    </div>
+                    <div id="bottomtrim">&nbsp;</div>
+                    <div id="lgo"><img src="http://www.pwc.com/etc/designs/pwc/css_common/image/404.gif" border="0"
+                            alt="PwC logo">
+                    </div>
+                </div>
+            </esi:when>
+
+            <esi:when test="$(REQUEST_PATH) has_i '/ca/fr'">
+                <div id="error-wrapper">
+                    <div id="message">
+                        <h1>D&#233;sol&#233;</h1>
+                        <h2>La page que vous demandez est introuvable.<br>Essayez l'une des solutions suivantes&nbsp;:</h2>
+                        <ul>
+                            <li>Assurez-vous que l'adresse URL de la page que vous avez saisie est correcte</li>
+                            <li>Visitez la <a href="http://www.pwc.com/ca/fr">page d'accueil du site PwC Canada</a></li>
+                            <li>Visitez le <a href="http://www.pwc.com/ca/fr/site-map.html">Plan du site</a></li>
+                            <li>Ou <a href="https://secure.ca.pwc.com/85256FDA004ECA86/frmContactGen?ReadForm&F">contactez-nous</a></li>
+                        </ul>
+                    </div>
+                    <div id="bottomtrim">&nbsp;</div>
+                    <div id="lgo"><img src="http://www.pwc.com/etc/designs/pwc/css_common/image/404.gif" border="0"
+                            alt="PwC logo">
+                    </div>
+                </div>
+            </esi:when>
+
+            <esi:when test="$(REQUEST_PATH) has_i '/jp/ja'">
+                <div id="error-wrapper">
+                    <div id="message">
+                        <div style="font-family: 'Meiryo','MS PGothic',Arial,sans-serif;">
+                            <h1 style="font-style : normal; font-size:2em;">
+                                &#25351;&#23450;&#12375;&#12383;&#12506;&#12540;&#12472;&#12364;&#35211;&#12388;&#12363;&#12426;&#12414;&#12379;&#12435;&#12290;
+                            </h1>
+                            <h2 style="font-size:1.2em;line-height:130%; margin-bottom:0;">
+                                &#19979;&#35352;&#12398;&#12522;&#12531;&#12463;&#12414;&#12383;&#12399;&#12461;&#12540;&#12527;&#12540;&#12489;&#26908;&#32034;&#12424;&#12426;&#12372;&#24076;&#26395;&#12398;&#12467;&#12531;&#12486;&#12531;&#12484;&#12434;&#12362;&#25506;&#12375;&#12367;&#12384;&#12373;&#12356;&#12290;
+                            </h2>
+                            <ul>
+                                <li><a href="https://www.pwc.com/jp/ja.html">PwC Japan&#x30B0;&#x30EB;&#x30FC;&#x30D7;</a></li>
+                                <li><a href="https://www.pwc.com/jp/ja/sitemap.html">PwC
+                                        Japan&#x30B0;&#x30EB;&#x30FC;&#x30D7;&#x30FB;&#x30B5;&#x30A4;&#x30C8;&#x30DE;&#x30C3;&#x30D7;
+                                </li>
+                                <li><a href="https://www.pwc.com/jp/ja/services.html">&#x30B5;&#x30FC;&#x30D3;&#x30B9;</a></li>
+                                <li><a
+                                        href="https://www.pwc.com/jp/ja/industries.html">&#x696D;&#x7A2E;&#x5225;&#x30B5;&#x30FC;&#x30D3;&#x30B9;</a>
+                                </li>
+                                <li><a
+                                        href="https://www.pwc.com/jp/ja/globalization.html">&#x30B0;&#x30ED;&#x30FC;&#x30D0;&#x30EB;&#x5316;&#x652F;&#x63F4;</a>
+                                </li>
+                                <li><a href="https://www.pwc.com/jp/ja/about-us.html">PwC
+                                        Japan&#x30B0;&#x30EB;&#x30FC;&#x30D7;&#x306B;&#x3064;&#x3044;&#x3066;</a></li>
+                                <li><a href="https://www.pwc.com/jp/ja/careers.html">&#x63A1;&#x7528;&#x60C5;&#x5831;</a></li>
+                                <li><a
+                                        href="https://jppages.pwc.com/ja_contact.html">&#x304A;&#x554F;&#x3044;&#x5408;&#x308F;&#x305B;</a>
+                                </li>
+                            </ul>
+
+                            <div id="searchbox">
+
+                                <form action="https://www.pwc.com/jp/ja/search-results.html" id="frmsearch" method="get"
+                                    name="frmsearch">
+                                    <span style="font-size:1.2em;">&#12461;&#12540;&#12527;&#12540;&#12489;&#26908;&#32034;</span>
+                                    <input accesskey="4" id="searchfield" name="searchfield" onfocus="clearsearch(); return false;"
+                                        size="30" type="text" value="" />
+                                    <input type="hidden" name="pwcGeo" value="JP">
+                                    <input type="hidden" name="pwcLang" value="ja">
+                                    <input type="hidden" value="long" name="tp">
+                                    <input type="hidden" name="pwcHideLevel" value="0">
+                                    <input type="hidden" value="" name="pwcSiteSection">
+                                    <input alt="Search" id="searchsubmit" name="searchsubmit"
+                                        src="http://www.pwc.com/en_GX/webadmin/assets/image/searchsubmit.gif" type="image" />
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="bottomtrim">&nbsp;</div>
+                    <div id="lgo"><img src="http://www.pwc.com/etc/designs/pwc/css_common/image/404.gif" border="0"
+                            alt="PwC logo">
+                    </div>
+                </div>
+            </esi:when>
+
+            <esi:when test="$(REQUEST_PATH) has_i '/jp/en'">
+                <div id="error-wrapper">
+                    <div id="message">
+                        <h1>Sorry!</h1>
+                        <div style="font-family: Arial,Helvetica,sans-serif; font-size: 1em;">
+                            <p style="line-height:130%; margin-bottom:0;">Sorry,<br />
+                                The page you have requested could not be found.<br />
+                                Please try one of the following links to find the content, or use site search function.</p>
+                            <ul>
+                                <li><a href="https://www.pwc.com/jp/en.html">PwC Japan Group Home</a></li>
+                                <li><a href="https://www.pwc.com/jp/en/sitemap.html">PwC Japan Group Site Map</a></li>
+                                <li><a href="https://www.pwc.com/jp/en/services.html">Services</a></li>
+                                <li><a href="https://www.pwc.com/jp/en/industries.html">Industries</a></li>
+                                <li><a href="https://www.pwc.com/jp/en/issues/globalization.html">Globalization Support</a></li>
+                                <li><a href="https://www.pwc.com/jp/en/about.html">About PwC Japan Group</a></li>
+                                <li><a href="https://www.pwc.com/jp/en/careers.html">Careers</a></li>
+                                <li><a href="https://jppages.pwc.com/en_contact.html">Contact us</a></li>
+                            </ul>
+                            <div id="searchbox">
+                                <form action="https://www.pwc.com/jp/en/search-results.html" id="frmsearch" method="get"
+                                    name="frmsearch">
+                                    <span style="font-size:1.2em;">Keywords</span>
+                                    <input accesskey="4" id="searchfield" name="searchfield" onfocus="clearsearch(); return false;"
+                                        size="30" type="text" value="" />
+                                    <input type="hidden" name="pwcGeo" value="JP">
+                                    <input type="hidden" name="pwcLang" value="en">
+                                    <input type="hidden" value="long" name="tp">
+                                    <input type="hidden" name="pwcHideLevel" value="0">
+                                    <input type="hidden" value="" name="pwcSiteSection">
+                                    <input alt="Search" id="searchsubmit" name="searchsubmit"
+                                        src="http://www.pwc.com/en_GX/webadmin/assets/image/searchsubmit.gif" type="image" />
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="bottomtrim">&nbsp;</div>
+                    <div id="lgo"><img src="http://www.pwc.com/etc/designs/pwc/css_common/image/404.gif" border="0"
+                            alt="PwC logo">
+                    </div>
+                </div>
+            </esi:when>
+
+            <esi:when test="$(REQUEST_PATH) has_i '/sk/sk'">
+                <link href="https://download.pwc.com/xx/error_pages/404-NL/assets/css/base.css" rel="stylesheet" />
+                <div class="page-container" role="main">
+                    <section class="page-section--no-pad  fullwidth">
+                        <link href="https://download.pwc.com/xx/error_pages/404-NL/assets/css/global-slim-header.css"
+                            rel="stylesheet">
+                        <script type="text/javascript"
+                            src="https://download.pwc.com/xx/error_pages/404-NL/assets/js/vendor/headroom.min.js"></script>
+                        <script type="text/javascript"
+                            src="https://download.pwc.com/xx/error_pages/404-NL/assets/js/vendor/select2/js/select2.min.js"></script>
+                        <script type="text/javascript"
+                            src="https://download.pwc.com/xx/error_pages/404-NL/assets/js/components/global-slim-header.js"></script>
+
+                        <!-- begin global slim header-->
+
+                        <div class="glb-slim-header glb-slim-header--has-breadcrumb  glb-slim-header--complex glb-slim-header--togglebreadcrumb"
+                            id="glbSlimHeader">
+                            <div class="glb-slim-header-wrapper" id="glbSlimHeaderWrapper">
+                                <div class="glb-slim-header__bar" id="glbSlimHeaderBar">
+                                    <div class="container glb-slim-header__container">
+                                        <div class=" glb-slim-header__flexrow">
+                                            <!-- include brand-->
+                                            <div class="  glb-slim-header__branding">
+                                                <a class="glb-slim-header__logo" href="https://www.pwc.com/sk/sk" />
+                                                <img alt="PwC" src="https://www.pwc.nl/nl/assets/images/pwclogo.svg"
+                                                    class=" img-responsive">
+                                                </a>
+
+                                                <span class="glb-slim-header__divider " role="separator"></span>
+                                                <a class="glb-slim-header__subbrand" href="https://www.pwc.com/sk/sk"
+                                                    target="_self">Slovensko</a>
+                                            </div>
+                                            <!-- include global tools menu-->
+                                            <div class=" glb-slim-header__nav-ctrls">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end .glb-slim-header__bar -->
+
+                                <!-- include .glb-slim-header-nav-wrap outside of .container.glb-slim-header__container element -->
+                                <div class=" glb-slim-header-nav-wrapper">
+                                    <!-- include global nav takeover panel-->
+
+
+                                    <link href="https://download.pwc.com/xx/error_pages/404-NL/assets/css/global-nav.css"
+                                        rel="stylesheet">
+
+
+                                </div>
+                                <div
+                                    class="glb-slim-header__breadcrumb-wrapper glb-slim-header__breadcrumb-wrapper--mobiletoggle">
+
+
+                                    <div class="glb-slim-header__breadcrumb">
+                                        <div class="container">
+                                            <div class="row">
+                                                <!-- output footer version of breadcrumb -->
+                                                <nav id="slimHeaderBreadcrumbWrapper"
+                                                    class="col-xs-12 simple-breadcrumb-component ">
+                                                    <div class="breadcrumb-component__scroll-pane">
+
+                                                        <ul class="breadcrumb clearfix">
+                                                        </ul>
+                                                    </div>
+                                                    <div
+                                                        class="breadcrumb-component__scroll-fade breadcrumb-component__scroll-fade--left">
+                                                    </div>
+                                                    <div
+                                                        class="breadcrumb-component__scroll-fade breadcrumb-component__scroll-fade--right">
+                                                    </div>
+
+                                                </nav>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                    </section>
+                    <!-- Usage note: Begin adding page sections here -->
+                    <!-- Usage note: first section added below -->
+                    <link href="https://download.pwc.com/xx/error_pages/404-NL/assets/css/text.css" rel="stylesheet">
+                    <div id="page_content" style="min-height:100%;">
+                        <section class="page-section page-section--no-pad fullwidth section-col--white">
+                            <div class="parsys sectionpar">
+                                <!-- Usage note: replace the following with component snippet HTML -->
+                                <div class="text-component">
+                                    <div class="container">
+                                        <h2>Stránka neexistuje</h2><br>
+                                        <p class="lead">Stránka, ktorú hľadáte neexistuje alebo bola odstránená.</p>
+                                        </p>
+                                        <br>
+                                        <br>
+                                        <!-- page-primary-col--red -->
+                                        <div id="searchbox" class="page-primary-col--red">
+                                            <form action="https://www.pwc.com/sk/sk/search-results.html" id="frmsearch"
+                                                method="get" name="frmsearch">
+                                                <input accesskey="4" id="searchfield" name="searchfield" size="40" type="text"
+                                                    placeholder="Čo hľadáte?" value="">
+                                                <input type="hidden" name="pwcGeo" value="SK">
+                                                <input type="hidden" name="pwcLang" value="sk">
+                                                <input type="hidden" value="long" name="tp">
+                                                <input type="hidden" name="pwcHideLevel" value="0">
+                                                <input type="hidden" value="" name="pwcSiteSection">
+                                                <button class="btn btn--primary" role="button" type="submit" alt="Search"
+                                                    id="searchsubmit" name="searchsubmit">Hľadať</button>
+                                            </form>
+
+                                        </div>
+
+                                        <h5 style="font-size: 1.429rem;">Pokračovať na:</h5>
+                                        <ul>
+                                            <li>
+                                                <a href="https://www.pwc.com/sk/sk/odborne-clanky.html" class="links"
+                                                    target="_self">Odborné
+                                                    články</a>
+                                            </li>
+                                            <li><a href="https://www.pwc.com/sk/sk/kariera.html" class="links"
+                                                    target="_self">Kariéra v PwC
+                                                    Slovensko</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.pwc.com/sk/sk/sluzby.html" class="links"
+                                                    target="_self">Naše služby</a>
+                                            </li>
+                                        </ul>
+                                        <div class="img">
+                                            <img src="https://download.pwc.com/xx/error_pages/404-NL/404.svg" />
+                                        </div>
+                                    </div>
+                                </div>
+
+                        </section>
+                        <!-- Usage note: END adding page sections here -->
+                        <!-- Usage note: END adding page sections here -->
+                        <section class="page-section page-section--no-pad fullwidth section-col--white">
+                            <div class="parsys sectionpar">
+                                <section class="page-section--explore-nav  page-section--col-black fullwidth "
+                                    style="height:0px;">
+                                    <div class=" parsys sectionpar">
+
+                                        <!-- Begin Global footer  component -->
+
+                                        <!-- end Global footer  component -->
+                                    </div>
+                                </section>
+
+                            </div>
+
+
+                    </div>
+                    <!-- Include all compiled plugins (below), or include individual files as needed -->
+                    <script src="https://download.pwc.com/xx/error_pages/404-NL/assets/js/bootstrap/bootstrap.min.js"></script>
+                </div>
+            </esi:when>
+
+            <esi:when test="$(REQUEST_PATH) has_i '/sk/en'">
+                <link href="https://download.pwc.com/xx/error_pages/404-NL/assets/css/base.css" rel="stylesheet" />
+                <div class="page-container" role="main">
+                    <section class="page-section--no-pad  fullwidth">
+                        <link href="https://download.pwc.com/xx/error_pages/404-NL/assets/css/global-slim-header.css"
+                            rel="stylesheet">
+                        <script type="text/javascript"
+                            src="https://download.pwc.com/xx/error_pages/404-NL/assets/js/vendor/headroom.min.js"></script>
+                        <script type="text/javascript"
+                            src="https://download.pwc.com/xx/error_pages/404-NL/assets/js/vendor/select2/js/select2.min.js"></script>
+                        <script type="text/javascript"
+                            src="https://download.pwc.com/xx/error_pages/404-NL/assets/js/components/global-slim-header.js"></script>
+
+                        <!-- begin global slim header-->
+
+                        <div class="glb-slim-header glb-slim-header--has-breadcrumb  glb-slim-header--complex glb-slim-header--togglebreadcrumb"
+                            id="glbSlimHeader">
+                            <div class="glb-slim-header-wrapper" id="glbSlimHeaderWrapper">
+                                <div class="glb-slim-header__bar" id="glbSlimHeaderBar">
+                                    <div class="container glb-slim-header__container">
+                                        <div class=" glb-slim-header__flexrow">
+                                            <!-- include brand-->
+                                            <div class="  glb-slim-header__branding">
+                                                <a class="glb-slim-header__logo" href="https://www.pwc.com/sk/en" />
+                                                <img alt="PwC" src="https://www.pwc.nl/nl/assets/images/pwclogo.svg"
+                                                    class=" img-responsive">
+                                                </a>
+                                                <span class="glb-slim-header__divider " role="separator"></span>
+                                                <a class="glb-slim-header__subbrand" href="https://www.pwc.com/sk/en"
+                                                    target="_self">Slovakia</a>
+                                            </div>
+                                            <!-- include global tools menu-->
+                                            <div class=" glb-slim-header__nav-ctrls">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end .glb-slim-header__bar -->
+
+                                <!-- include .glb-slim-header-nav-wrap outside of .container.glb-slim-header__container element -->
+                                <div class=" glb-slim-header-nav-wrapper">
+                                    <!-- include global nav takeover panel-->
+                                    <link href="https://download.pwc.com/xx/error_pages/404-NL/assets/css/global-nav.css"
+                                        rel="stylesheet">
+                                </div>
+                                <div
+                                    class="glb-slim-header__breadcrumb-wrapper glb-slim-header__breadcrumb-wrapper--mobiletoggle">
+                                    <div class="glb-slim-header__breadcrumb">
+                                        <div class="container">
+                                            <div class="row">
+                                                <!-- output footer version of breadcrumb -->
+                                                <nav id="slimHeaderBreadcrumbWrapper"
+                                                    class="col-xs-12 simple-breadcrumb-component ">
+                                                    <div class="breadcrumb-component__scroll-pane">
+
+                                                        <ul class="breadcrumb clearfix">
+                                                        </ul>
+                                                    </div>
+                                                    <div
+                                                        class="breadcrumb-component__scroll-fade breadcrumb-component__scroll-fade--left">
+                                                    </div>
+                                                    <div
+                                                        class="breadcrumb-component__scroll-fade breadcrumb-component__scroll-fade--right">
+                                                    </div>
+                                                </nav>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <!-- Usage note: Begin adding page sections here -->
+                    <!-- Usage note: first section added below -->
+                    <link href="https://download.pwc.com/xx/error_pages/404-NL/assets/css/text.css" rel="stylesheet">
+                    <div id="page_content" style="min-height:100%;">
+                        <section class="page-section page-section--no-pad fullwidth section-col--white">
+                            <div class="parsys sectionpar">
+                                <!-- Usage note: replace the following with component snippet HTML -->
+                                <div class="text-component">
+                                    <div class="container">
+                                        <h2>Page not found</h2><br>
+                                        <p class="lead">The page you are looking for may no longer exist or has been
+                                            (temporarily) moved.</p>
+                                        </p>
+                                        <br>
+                                        <br>
+                                        <!-- page-primary-col--red -->
+                                        <div id="searchbox" class="page-primary-col--red">
+                                            <form action="https://www.pwc.com/sk/en/search-results.html" id="frmsearch"
+                                                method="get" name="frmsearch">
+                                                <input accesskey="4" id="searchfield" name="searchfield" size="40" type="text"
+                                                    placeholder="What are you looking for?" value="">
+                                                <input type="hidden" name="pwcGeo" value="SK">
+                                                <input type="hidden" name="pwcLang" value="sk">
+                                                <input type="hidden" value="long" name="tp">
+                                                <input type="hidden" name="pwcHideLevel" value="0">
+                                                <input type="hidden" value="" name="pwcSiteSection">
+                                                <button class="btn btn--primary" role="button" type="submit" alt="Search"
+                                                    id="searchsubmit" name="searchsubmit">Search</button>
+                                            </form>
+
+                                        </div>
+
+                                        <h5 style="font-size: 1.429rem;">Or continue to:</h5>
+                                        <ul>
+                                            <li>
+                                                <a href="https://www.pwc.com/sk/en/current-press-releases.html" class="links"
+                                                    target="_self">Insights and publications</a>
+                                            </li>
+                                            <li><a href="https://www.pwc.com/sk/en/careers.html" class="links"
+                                                    target="_self">Careers PwC
+                                                    Slovakia</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.pwc.com/sk/en.html" class="links" target="_self">Our
+                                                    Services</a>
+                                            </li>
+                                        </ul>
+                                        <div class="img">
+                                            <img src="https://download.pwc.com/xx/error_pages/404-NL/404.svg" />
+                                        </div>
+                                    </div>
+                                </div>
+
+                        </section>
+                        <!-- Usage note: END adding page sections here -->
+                        <!-- Usage note: END adding page sections here -->
+                        <section class="page-section page-section--no-pad fullwidth section-col--white">
+                            <div class="parsys sectionpar">
+                                <section class="page-section--explore-nav  page-section--col-black fullwidth "
+                                    style="height:0px;">
+                                    <div class=" parsys sectionpar">
+
+                                        <!-- Begin Global footer  component -->
+
+                                        <!-- end Global footer  component -->
+                                    </div>
+                                </section>
+                            </div>
+                    </div>
+                    <!-- Include all compiled plugins (below), or include individual files as needed -->
+                    <script src="https://download.pwc.com/xx/error_pages/404-NL/assets/js/bootstrap/bootstrap.min.js"></script>
+                </div>
+            </esi:when>
+
+
+            <esi:otherwise>
+                <div id="error-wrapper">
+                    <div id="message">
+                        <h1>Sorry!</h1>
+                        <h2>That page doesn't exist!<br>Please try one of the following:</h2>
+                        <ul>
+                            <li>If you typed the page address into the web address bar, make sure that it is spelled correctly.</li>
+                            <li>Visit the <a href="http://www.pwc.com/">pwc.com home page</a> and look for links to the information
+                                you
+                                want.</li>
+                            <li>Or check out our <a href="http://www.pwc.com/gx/en/site-information/site-map.html">site map</a>.
+                            </li>
+                        </ul>
+                    </div>
+                    <div id="bottomtrim">&nbsp;</div>
+                    <div id="lgo"><img src="http://www.pwc.com/etc/designs/pwc/css_common/image/404.gif" border="0"
+                            alt="PwC logo">
+                    </div>
+                </div>
+            </esi:otherwise>
+        </esi:choose>
+
+        <!-- adobe analytics function call -->
+        <script type="text/javascript">_satellite.pageBottom();
+            var pageTerritoryForDTM = 'gx';
+            var digitalData = {};
+            digitalData.page = {
+                pageInfo: {
+                    pageName: "Page Not Found 404",
+                    pageType: "Error Page",
+                }
+            }
+        </script>
+        <esi:vars>
+            <!-- ESI -->
+            <!-- $(GEO{'country_code'}) -->
+            <!-- $(HTTP_HOST) -->
+            <!-- $(REQUEST_PATH) -->
+        </esi:vars>
+    </body>
+
+    </html>
+</esi:otherwise>
+
+</esi:choose>

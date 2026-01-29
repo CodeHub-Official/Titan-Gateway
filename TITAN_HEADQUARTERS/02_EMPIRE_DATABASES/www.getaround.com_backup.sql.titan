@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+<!--
+                                                    We're hiring!
+ _____      _                                  _    https://getaround.com/careers
+|  __ \    | |                                | |
+| |  \/ ___| |_ __ _ _ __ ___  _   _ _ __   __| |   Don't click here:
+| | __ / _ \ __/ _` | '__/ _ \| | | | '_ \ / _` |   http://dontclickhere.drivy.com
+| |_\ \  __/ || (_| | | | (_) | |_| | | | | (_| |
+ \____/\___|\__\__,_|_|  \___/ \__,_|_| |_|\__,_|   If you found a vulnerability:
+                                                    https://getaround.com/.well-known/security.txt
+
+-->
+<html lang="en-US"><head>
+<meta charset="utf-8">
+<title>Local Car Hire and Carsharing - Getaround</title>
+<meta name="description" content="Rent a car in an instant, open the car with the Getaround app, #1 for carsharing! 24/7. 200mi/day and insurance included.">
+<link rel="canonical" href="https://getaround.com/">
+<link rel="alternate" href="https://fr.getaround.com/" hreflang="fr">
+<link rel="alternate" href="https://de.getaround.com/" hreflang="de">
+<link rel="alternate" href="https://es.getaround.com/" hreflang="es">
+<link rel="alternate" href="https://at.getaround.com/" hreflang="de-AT">
+<link rel="alternate" href="https://fr.be.getaround.com/" hreflang="fr-BE">
+<link rel="alternate" href="https://be.getaround.com/" hreflang="nl-BE">
+<link rel="alternate" href="https://no.getaround.com/" hreflang="no-NO">
+<link rel="alternate" href="https://getaround.com/" hreflang="en-US">
+<meta property="fb:app_id" content="114069411958430">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Getaround">
+<meta property="og:title" content="Local Car Hire and Carsharing">
+<meta property="og:description" content="Rent a car in an instant, open the car with the Getaround app, #1 for carsharing! 24/7. 200mi/day and insurance included.">
+<meta property="og:url" content="https://getaround.com/">
+<meta property="og:image" content="https://getaround.com/packs/images/app/assets/images/shared/facebook/og.bf9ebb3db6bff8d0.jpg">
+<meta name="language" content="en_US">
+<meta name="robots" content="index, follow">
+<script>
+  const { href, ...rest } = window.location
+  window.es2018compatible = true
+</script>
+<script>
+  if (!window.es2018compatible) window.location.href = "/supported-browsers"
+</script>
+
+<link as="font" crossorigin="anonymous" href="https://getaround.com/packs/fonts/BrownPro-Regular.f1f4d8b789341496.woff2" rel="preload" type="font/woff2">
+<link as="font" crossorigin="anonymous" href="https://getaround.com/packs/fonts/BrownPro-Regular.57e8955fb7a627d4.woff" rel="preload" type="font/woff">
+
+<link crossorigin="true" href="https://www.googletagmanager.com/" rel="preconnect">
+<link href="https://www.googletagmanager.com/" rel="dns-prefetch">
+<link crossorigin="true" href="https://getaround-assets.gumlet.io" rel="preconnect">
+<link href="https://getaround-assets.gumlet.io" rel="dns-prefetch">
+
+<meta content="Getaround" name="author">
+<meta content="app-id=492238016" name="apple-itunes-app">
+<link href="/manifest.json" rel="manifest">
+
+
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<link href="https://getaround-assets.gumlet.io/images/shared/icons/app-icon-production.svg?compress=true" rel="icon" sizes="any" type="image/svg+xml">
+<link href="https://getaround-assets.gumlet.io/images/shared/icons/app-icon-production.svg?compress=true&amp;format=png&amp;w=48" rel="icon" type="image/png">
+<link href="https://getaround-assets.gumlet.io/images/shared/icons/app-icon-production.svg?compress=true&amp;format=png&amp;w=16" rel="icon" sizes="16x16" type="image/png">
+<link href="https://getaround-assets.gumlet.io/images/shared/icons/app-icon-production.svg?compress=true&amp;format=png&amp;w=32" rel="icon" sizes="32x32" type="image/png">
+<link href="https://getaround-assets.gumlet.io/images/shared/icons/app-icon-production.svg?compress=true&amp;format=png&amp;w=48" rel="icon" sizes="48x48" type="image/png">
+<link href="https://getaround-assets.gumlet.io/images/shared/icons/app-icon-production.svg?compress=true&amp;format=png&amp;w=96" rel="icon" sizes="96x96" type="image/png">
+<link href="https://getaround-assets.gumlet.io/images/shared/icons/app-icon-production.svg?compress=true&amp;format=png&amp;w=144" rel="icon" sizes="144x144" type="image/png">
+<link href="https://getaround-assets.gumlet.io/images/shared/icons/app-icon-production.svg?compress=true&amp;format=png&amp;w=192" rel="icon" sizes="192x192" type="image/png">
+<link href="https://getaround-assets.gumlet.io/images/shared/icons/app-icon-production.svg?compress=true&amp;format=png&amp;w=196" rel="icon" sizes="196x196" type="image/png">
+<link href="https://getaround-assets.gumlet.io/images/shared/icons/app-icon-production.svg?compress=true&amp;format=png&amp;w=152" rel="apple-touch-icon" sizes="152x152">
+<link href="https://getaround-assets.gumlet.io/images/shared/icons/app-icon-production.svg?compress=true&amp;format=png&amp;w=167" rel="apple-touch-icon" sizes="167x167">
+<link href="https://getaround-assets.gumlet.io/images/shared/icons/app-icon-production.svg?compress=true&amp;format=png&amp;w=180" rel="apple-touch-icon" sizes="180x180">
+<meta content="#ffffff" name="theme-color">
+
+
+<link rel="stylesheet" href="/packs/css/homepage.style.c1793411f87c252d.css" />
+<link rel="stylesheet" href="/packs/css/cobalt-utilities.3cb28d94bb5084a8.css" />
+<link href="https://getaround.com/packs/css/vendor.style.2da0c25268797c53.css" rel="prefetch">
+<link href="https://getaround.com/packs/css/application.style.98b42684db8fd1af.css" rel="prefetch">
+
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="3YP-8ira7bQntRbgb999wPcHV_GxtE3oD31-bhhroVxynT1ryTPXpkNkhaxA7Ume5cHBz8AIzXbxEVFK_UwEKA" />
+
+</head>
+<body class="marketing-page" data-action="pages-homepage-index" id="pages_homepage_index">
+
+<script src="/packs/js/3017.46f5a72c92d814f5.js"></script>
+<script src="/packs/js/5211.4a766498b14b5130.js"></script>
+<script src="/packs/js/debug-panel.a3c68c3d36965819.js"></script>
+
+<div class="js_site_content site_content">
+
+
+
+<header class="header js_header">
+<div class="container">
+<nav class="header__container">
+<a class="header__logo header__logo--rebranded" href="/" title="Getaround">
+<img class="header__logo-image--darker" width="110" height="26" alt="Peer-to-peer car rental – Getaround" src="/packs/images/app/assets/images/shared/getaround-logo.245e368962541c3c.svg" />
+</a>
+<ul class="navigation-bar">
+<li class="navbar__item js_user_menu_placeholder" data-classes="{&quot;user_menu&quot;:&quot;user-menu&quot;,&quot;user_menu_trigger&quot;:&quot;user-menu__trigger&quot;,&quot;user_menu_trigger_text&quot;:&quot;user-menu__trigger-text&quot;}">
+<div class="js_logout-only c-hidden c-h-full">
+<div class="c-mr-xs c-flex sm:c-hidden user-menu">
+<button class="js_user_menu_trigger c-rounded-full c-shadow user-menu__trigger">
+<div class="c-m-2xs user-menu__trigger-text">
+Menu
+</div>
+<div class="c-flex c-pr-2xs">
+<div class="js_user-menu-icon cobalt-Icon c-fill-onSurface cobalt-Icon--size20">
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M1 5h22v2H1V5Zm0 6h22v2H1v-2Zm22 6H1v2h22v-2Z"/></svg>
+</div>
+<div class="js_user-menu-icon--loading cobalt-Icon cobalt-Icon--loading c-fill-onSurface cobalt-Icon--size20 c-hidden">
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M12 4V2C6.477 2 2 6.477 2 12h2a8 8 0 018-8z"/>
+</svg>
+</div>
+</div>
+</button>
+</div>
+<span class="c-hidden sm:c-block">
+<a class="navlink" href="/login">Log in</a>
+</span>
+</div>
+</li>
+<li class="navbar__item c-hidden sm:c-inline-flex">
+<a class="navlink" href="/help">Questions?
+</a></li>
+<li class="navbar__item c-hidden sm:c-inline-flex">
+<a class="navlink" href="https://getaround.com/blog/">Blog
+</a></li>
+<li class="navbar__item navbar__item--centered c-hidden sm:c-inline-flex">
+<a class="cob-Button cob-Button__default" href="/rent-your-car">List your car
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+
+<div class="search-hero-container">
+<style>
+  :root {
+    --hero-image-path: url(https://getaround-assets.gumlet.io/images/shared/illustrations/hand-ga-app-phone2-US.png?compress=true&h=748&mode=crop&w=520);
+  }
+</style>
+<div class="container">
+<div class="c-flex">
+<div class="search-form">
+<div class="search_hero__content__wrapper">
+<div class="search_hero__title">Rent a car<br />in just a few taps
+</div><p class="search_hero__subtitle"><em>Unlock cars 24/7</em> with your phone, and go!
+</p><form class="js_search_form" id="new_order" disabled="disabled" data-promote-search-without-dates="true" action="/search" accept-charset="UTF-8" method="get">
+<div class="search_form">
+<div class="search_form__params js_search_form__params">
+<div class="search_form__address">
+<div class="js_AddressAutocomplete-container autocomplete-container">
+<div class="Address-autocomplete">
+<div class="cobalt-TextField cobalt-TextField--withIcon">
+<input name="" class="cobalt-TextField__Input js_search_address js_focus_target js_address_autocomplete" placeholder="Precise address, train or tube station..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" type="text" data-country-bounds="{&quot;sw_lat&quot;:58.0788841824,&quot;sw_lng&quot;:4.99207807783,&quot;ne_lat&quot;:80.6571442736,&quot;ne_lng&quot;:31.29341841}" data-non-precise-text="Indicate a precise location: home address, train station, airport, subway station…" data-container=".js_AddressAutocomplete-container" data-focus="order_address" data-search-history="true" id="order_address" />
+<div class="cobalt-TextField__Icon cobalt-Icon c-flex c-items-center">
+<div class="cobalt-bg-icon" style="--u:url(https://cobalt-assets.getaround.com/icons/pin.svg?compress=true);"></div>
+</div>
+<span class="js_input_loading_state cobalt-Icon c-fill-onSurface cobalt-Icon--loading c-absolute c-hidden" style="top: 33%; right: 12px;">
+<div class="cobalt-bg-icon" style="--u:url(https://cobalt-assets.getaround.com/icons/loading.svg?compress=true);"></div>
+</span>
+
+</div>
+</div>
+</div>
+<div class="js_autocomplete_hidden_inputs">
+<input name="address" id="" autocomplete="off" type="hidden" />
+<input name="latitude" id="" autocomplete="off" type="hidden" />
+<input name="longitude" id="" autocomplete="off" type="hidden" />
+<input name="city_display_name" id="" autocomplete="off" type="hidden" />
+<input name="country_scope" id="" autocomplete="off" type="hidden" />
+<input name="administrative_area" id="" autocomplete="off" type="hidden" />
+</div>
+<div class="input_tooltip_hint js_search_address_hint">
+Indicate a precise location: home address, train station, airport, subway station…
+</div>
+</div>
+<div class="search_form__dates hidden_order_form_fields js_search_form__dates">
+<div class="datetime_range_wrapper js_datetime_range" data-day-picker-labels="{&quot;start&quot;:&quot;Pickup&quot;,&quot;end&quot;:&quot;Return&quot;}" data-initial-values="{&quot;start&quot;:{&quot;day&quot;:null,&quot;time&quot;:null},&quot;end&quot;:{&quot;day&quot;:null,&quot;time&quot;:null}}" data-invalid-date-error="The maximum rental duration is 30 days" data-last-available-date="2026-04-27 22:32:11 UTC" data-maximum-duration-in-days="30" data-message-on-available-date-exceeded="You cannot book a car more than 3 months ahead" data-rideshare-only="false" data-time-picker-labels="{&quot;start&quot;:&quot;Check-in time&quot;,&quot;end&quot;:&quot;Check-out time&quot;}" data-with-uber-program="">
+<div class="datetime_range_input js_datetime_range_input is_layout_home">
+<div class="datetime_input_container js_datetime_input has_placeholder" data-bound="start"><div class="datetime_input_date_wrapper datetime_input js_date_input" data-bound="start" role="button">
+<div class="datetime_range_input_icon">
+<div class="cobalt-bg-icon" style="--u:url(https://cobalt-assets.getaround.com/icons/calendar_start.svg?compress=true);"></div>
+</div>
+<div class="main_placeholder">
+Pickup
+</div>
+<div class="date_input js_date_input_value" data-bound="start" data-empty="Date" data-format="%a, %b %-e">
+Pickup
+</div>
+<span class="js_input_loading_state cobalt-Icon c-fill-onSurface cobalt-Icon--loading c-absolute c-hidden" style="top: 33%; right: 12px;">
+<div class="cobalt-bg-icon" style="--u:url(https://cobalt-assets.getaround.com/icons/loading.svg?compress=true);"></div>
+</span>
+
+</div>
+<div class="datetime_input_time_wrapper datetime_input js_time_input" data-bound="start" role="button">
+<div class="time_input js_time_input_value" data-bound="start" data-empty="Time" data-format="%H:%M">
+</div>
+</div></div><div class="datetime-icon-separator">
+<div class="cobalt-bg-icon" style="background-color:var(--c-onSurfaceVariant);--u:url(https://cobalt-assets.getaround.com/icons/arrow_right.svg?compress=true);"></div>
+</div><div class="datetime_input_container js_datetime_input has_placeholder" data-bound="end"><div class="datetime_input_date_wrapper datetime_input js_date_input" data-bound="end" role="button">
+<div class="datetime_range_input_icon">
+<div class="cobalt-bg-icon" style="--u:url(https://cobalt-assets.getaround.com/icons/calendar_end.svg?compress=true);"></div>
+</div>
+<div class="main_placeholder">
+Return
+</div>
+<div class="date_input js_date_input_value" data-bound="end" data-empty="Date" data-format="%a, %b %-e">
+Return
+</div>
+<span class="js_input_loading_state cobalt-Icon c-fill-onSurface cobalt-Icon--loading c-absolute c-hidden" style="top: 33%; right: 12px;">
+<div class="cobalt-bg-icon" style="--u:url(https://cobalt-assets.getaround.com/icons/loading.svg?compress=true);"></div>
+</span>
+
+</div>
+<div class="datetime_input_time_wrapper datetime_input js_time_input" data-bound="end" role="button">
+<div class="time_input js_time_input_value" data-bound="end" data-empty="Time" data-format="%H:%M">
+</div>
+</div></div></div>
+</div>
+
+<input class="js_datetime_range_component_field" data-component="date" data-bound="start" name="start_date" autocomplete="off" type="hidden" id="order_start_date" />
+<input class="js_datetime_range_component_field" data-component="time" data-bound="start" name="start_time" autocomplete="off" type="hidden" id="order_start_time" />
+<input class="js_datetime_range_component_field" data-component="date" data-bound="end" name="end_date" autocomplete="off" type="hidden" id="order_end_date" />
+<input class="js_datetime_range_component_field" data-component="time" data-bound="end" name="end_time" autocomplete="off" type="hidden" id="order_end_time" />
+</div>
+</div>
+<div class="search_form__action">
+<button class="cob-Button cob-Button--large cob-Button__default cob-Button__default--primary cob-Button--search js_search_form_submit" disabled type="submit">
+Search
+</button>
+</div>
+</div>
+</form><div class="search_hero__insurance">
+<div><h1>Car rental by locals</h1> with trip liability insurance included</div>
+</div>
+
+<div class="third-parties-rating">
+<div class="c-flex c-gap-xs c-mb-sm c-justify-center md:c-justify-start">
+<a target="_blank" rel="noopener" class="mobile-app-section__app_badge js_mobile-app-section__app_badge" data-tracking-event-name="download_app_ios_clicked" href="https://app.adjust.com/u23j79z?fallback=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fdrivy%2Fid492238016%3Fmt%3D8%26l%3Den_US&amp;redirect_macos=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fdrivy%2Fid492238016%3Fmt%3D8%26l%3Den_US"><img width="120" height="40" alt="download" srcset="https://getaround-assets.gumlet.io/images/shared/mobile_apps/download_apple_app_store_badge_EN.png?compress=true&amp;h=40&amp;mode=crop&amp;w=120&amp;dpr=1 1x, https://getaround-assets.gumlet.io/images/shared/mobile_apps/download_apple_app_store_badge_EN.png?compress=true&amp;h=40&amp;mode=crop&amp;w=120&amp;dpr=2 2x" src="https://getaround-assets.gumlet.io/images/shared/mobile_apps/download_apple_app_store_badge_EN.png?compress=true&amp;h=40&amp;mode=crop&amp;w=120" />
+</a><a target="_blank" rel="noopener" class="mobile-app-section__app_badge js_mobile-app-section__app_badge" data-tracking-event-name="download_app_android_clicked" href="https://app.adjust.com/fxcwi6w"><img width="137" height="40" alt="download" srcset="https://getaround-assets.gumlet.io/images/shared/mobile_apps/download_google_app_store_badge_EN.png?compress=true&amp;h=40&amp;mode=crop&amp;w=137&amp;dpr=1 1x, https://getaround-assets.gumlet.io/images/shared/mobile_apps/download_google_app_store_badge_EN.png?compress=true&amp;h=40&amp;mode=crop&amp;w=137&amp;dpr=2 2x" src="https://getaround-assets.gumlet.io/images/shared/mobile_apps/download_google_app_store_badge_EN.png?compress=true&amp;h=40&amp;mode=crop&amp;w=137" />
+</a></div>
+<div class="c-font-brand c-text-onSurfaceVariant c-flex c-gap-2xs c-justify-center md:c-justify-start">
+<div class="cobalt-rating">
+<div class="cobalt-rating-icons"><span class="cobalt-Icon c-fill-primary cobalt-Icon--size16"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12.181 1.886a.2.2 0 0 0-.362 0l-3.018 6.43a.2.2 0 0 1-.151.113L1.885 9.463a.2.2 0 0 0-.113.337l4.908 5.03a.2.2 0 0 1 .054.172l-1.157 7.091a.2.2 0 0 0 .294.208l6.032-3.335a.2.2 0 0 1 .194 0l6.032 3.335a.2.2 0 0 0 .294-.207l-1.157-7.092a.2.2 0 0 1 .055-.172l4.907-5.03a.2.2 0 0 0-.113-.338L15.35 8.43a.2.2 0 0 1-.15-.113z"/></svg></span><span class="cobalt-Icon c-fill-primary cobalt-Icon--size16"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12.181 1.886a.2.2 0 0 0-.362 0l-3.018 6.43a.2.2 0 0 1-.151.113L1.885 9.463a.2.2 0 0 0-.113.337l4.908 5.03a.2.2 0 0 1 .054.172l-1.157 7.091a.2.2 0 0 0 .294.208l6.032-3.335a.2.2 0 0 1 .194 0l6.032 3.335a.2.2 0 0 0 .294-.207l-1.157-7.092a.2.2 0 0 1 .055-.172l4.907-5.03a.2.2 0 0 0-.113-.338L15.35 8.43a.2.2 0 0 1-.15-.113z"/></svg></span><span class="cobalt-Icon c-fill-primary cobalt-Icon--size16"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12.181 1.886a.2.2 0 0 0-.362 0l-3.018 6.43a.2.2 0 0 1-.151.113L1.885 9.463a.2.2 0 0 0-.113.337l4.908 5.03a.2.2 0 0 1 .054.172l-1.157 7.091a.2.2 0 0 0 .294.208l6.032-3.335a.2.2 0 0 1 .194 0l6.032 3.335a.2.2 0 0 0 .294-.207l-1.157-7.092a.2.2 0 0 1 .055-.172l4.907-5.03a.2.2 0 0 0-.113-.338L15.35 8.43a.2.2 0 0 1-.15-.113z"/></svg></span><span class="cobalt-Icon c-fill-primary cobalt-Icon--size16"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12.181 1.886a.2.2 0 0 0-.362 0l-3.018 6.43a.2.2 0 0 1-.151.113L1.885 9.463a.2.2 0 0 0-.113.337l4.908 5.03a.2.2 0 0 1 .054.172l-1.157 7.091a.2.2 0 0 0 .294.208l6.032-3.335a.2.2 0 0 1 .194 0l6.032 3.335a.2.2 0 0 0 .294-.207l-1.157-7.092a.2.2 0 0 1 .055-.172l4.907-5.03a.2.2 0 0 0-.113-.338L15.35 8.43a.2.2 0 0 1-.15-.113z"/></svg></span><div class="cobalt-rating-icons__icon-wrapper"><span class="cobalt-Icon c-fill-surfaceContainerVariant cobalt-Icon--size16"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12.181 1.886a.2.2 0 0 0-.362 0l-3.018 6.43a.2.2 0 0 1-.151.113L1.885 9.463a.2.2 0 0 0-.113.337l4.908 5.03a.2.2 0 0 1 .054.172l-1.157 7.091a.2.2 0 0 0 .294.208l6.032-3.335a.2.2 0 0 1 .194 0l6.032 3.335a.2.2 0 0 0 .294-.207l-1.157-7.092a.2.2 0 0 1 .055-.172l4.907-5.03a.2.2 0 0 0-.113-.338L15.35 8.43a.2.2 0 0 1-.15-.113z"/></svg></span><div class="cobalt-rating-icons__icon-half-container"><span class="cobalt-Icon c-fill-primary cobalt-Icon--size16"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12.181 1.886a.2.2 0 0 0-.362 0l-3.018 6.43a.2.2 0 0 1-.151.113L1.885 9.463a.2.2 0 0 0-.113.337l4.908 5.03a.2.2 0 0 1 .054.172l-1.157 7.091a.2.2 0 0 0 .294.208l6.032-3.335a.2.2 0 0 1 .194 0l6.032 3.335a.2.2 0 0 0 .294-.207l-1.157-7.092a.2.2 0 0 1 .055-.172l4.907-5.03a.2.2 0 0 0-.113-.338L15.35 8.43a.2.2 0 0 1-.15-.113z"/></svg></span></div></div></div>
+<div class="cobalt-rating__label">
+<span itemprop="ratingValue">
+4.6
+</span>
+</div>
+</div>
+
+4.6/5 from 100 000+ ratings in app stores
+</div>
+</div>
+
+</div>
+</div>
+<div class="homepage__hero-column">
+<div class="homepage__hero-container">
+<div class="homepage__hero"></div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="below-hero c-pt-sm">
+<div class="mkg-section-b-spacing c-mt-xl md:c-pt-2xl">
+<div class="bleed-container bleed-container--bleedSmall getaround-usp2 js_how_it_works_section">
+<div class="bleed-wrapper">
+<div class="getaround-usp2__image-container">
+<div class="getaround-usp2__image js_image-swapper image-swapper" data-duration-in-ms="8000">
+<div class="lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/getaround_usp/getaround-usp-hero4.jpg?compress=true&amp;h=600&amp;mode=crop&amp;w=400"></div>
+<div class="lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/getaround_usp/getaround-usp-hero5.jpg?compress=true&amp;h=600&amp;mode=crop&amp;w=400"></div>
+<div class="lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/getaround_usp/getaround-usp-hero1.jpg?compress=true&amp;h=600&amp;mode=crop&amp;w=400"></div>
+<div class="lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/getaround_usp/getaround-usp-hero6.jpg?compress=true&amp;h=600&amp;mode=crop&amp;w=400"></div>
+<div class="lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/getaround_usp/getaround-usp-hero7.jpg?compress=true&amp;h=600&amp;mode=crop&amp;w=400"></div>
+</div>
+</div>
+<div class="getaround-usp2__card c-bg-surfaceBright c-px-sm c-py-lg mkg-rounded-md sm:c-px-xl">
+<div class="getaround-usp2__content c-flex c-flex-col c-gap-md c-items-start sm:c-py-lg sm:c-py-xl">
+<div class="getaround-usp2__title mkg-text-title-lg">
+Discover the new way<br /><em>to rent a car</em>
+</div>
+<p class="getaround-usp2__description c-text-body-lg">
+Choose from thousands of cars available from private and professional owners near you.
+</p>
+<div class="getaround-usp2__image js_image-swapper image-swapper" data-duration-in-ms="8000">
+<div class="lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/getaround_usp/getaround-usp-hero4.jpg?compress=true&amp;h=400&amp;mode=crop&amp;w=400"></div>
+<div class="lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/getaround_usp/getaround-usp-hero5.jpg?compress=true&amp;h=400&amp;mode=crop&amp;w=400"></div>
+<div class="lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/getaround_usp/getaround-usp-hero1.jpg?compress=true&amp;h=400&amp;mode=crop&amp;w=400"></div>
+<div class="lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/getaround_usp/getaround-usp-hero6.jpg?compress=true&amp;h=400&amp;mode=crop&amp;w=400"></div>
+<div class="lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/getaround_usp/getaround-usp-hero7.jpg?compress=true&amp;h=400&amp;mode=crop&amp;w=400"></div>
+</div>
+<div class="c-flex c-gap-sm">
+<div class="c-w-md">
+<img alt="illustration" width="24" height="24" data-srcset="https://getaround-assets.gumlet.io/images/shared/getaround_usp/ic-happyface-line-accent.png?compress=true&amp;h=24&amp;mode=crop&amp;w=24&amp;dpr=1 1x, https://getaround-assets.gumlet.io/images/shared/getaround_usp/ic-happyface-line-accent.png?compress=true&amp;h=24&amp;mode=crop&amp;w=24&amp;dpr=2 2x" data-src="https://getaround-assets.gumlet.io/images/shared/getaround_usp/ic-happyface-line-accent.png?compress=true&amp;h=24&amp;mode=crop&amp;w=24" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</div>
+<div class="c-flex c-flex-col c-gap-xs">
+<div class="c-text-title-sm">
+Prices by the hour or day
+</div>
+<p>
+Trip liability insurance is included. You can even add another driver at no extra cost.
+</p>
+</div>
+</div>
+<div class="c-flex c-gap-sm">
+<div class="c-w-md">
+<img alt="icon" width="24" height="24" data-srcset="https://getaround-assets.gumlet.io/images/shared/getaround_usp/ic-checkmark-line-accent.png?compress=true&amp;h=24&amp;mode=crop&amp;w=24&amp;dpr=1 1x, https://getaround-assets.gumlet.io/images/shared/getaround_usp/ic-checkmark-line-accent.png?compress=true&amp;h=24&amp;mode=crop&amp;w=24&amp;dpr=2 2x" data-src="https://getaround-assets.gumlet.io/images/shared/getaround_usp/ic-checkmark-line-accent.png?compress=true&amp;h=24&amp;mode=crop&amp;w=24" class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+</div>
+<div class="c-flex c-flex-col c-gap-xs">
+<div class="c-text-title-sm">
+No waiting around
+</div>
+<p>
+Book a car near you instantly, even at the last minute. No lines. No paperwork.
+</p>
+</div>
+</div>
+<div class="c-flex c-gap-sm">
+<div class="c-w-md">
+<div class="cobalt-bg-icon lazy" data-style="background-color:var(--c-primary);--u:url(https://cobalt-assets.getaround.com/icons/connect_car.svg?compress=true);" style=""></div>
+</div>
+<div class="c-flex c-flex-col c-gap-xs">
+<div class="c-text-title-sm">
+Unlock the car with the app
+</div>
+<p>
+Our secure Getaround Connect technology allows you to do the walkaround inspection of the car with the app. The car opens. The keys are inside. Off you go!
+</p>
+</div>
+</div>
+<a class="cob-Button cob-Button__default cob-Button--large mkg-button mkg-button--outlined c-w-full sm:c-w-auto" href="/how-it-works">See how it works
+<div class="c-w-md c-ml-xs">
+<div class="cobalt-bg-icon lazy" data-style="background-color:var(--c-primary);--u:url(https://cobalt-assets.getaround.com/icons/arrow_right_circle.svg?compress=true);" style=""></div>
+</div>
+</a></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="home_internal_linking_section">
+<section class="c-mx-sm">
+<div class="home_section__container home_seo_car_types_section">
+<div class="c-text-title-lg">Cars for your every need</div>
+<div class="cobalt-horizontal-list md:cobalt-horizontal-list--fit c-py-md c--mx-sm md:c-mx-none">
+<div class="cobalt-horizontal-list__padding-block c-pl-sm md:c-hidden"></div>
+<a class="link_no_style" href="/car-rental/united-states/type/city"><div class="tile tile--card c-state-interactive-with-images">
+
+<div class="tile__image-container tile__image-container--carType c-state-interactive-image lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/car_types/city.jpg?compress=true&amp;w=212|md:https://getaround-assets.gumlet.io/images/shared/car_types/city.jpg?compress=true&amp;w=274" title="city"></div>
+<div class="tile__title">
+City
+</div>
+</div>
+</a><a class="link_no_style" href="/car-rental/united-states/type/commercial"><div class="tile tile--card c-state-interactive-with-images">
+
+<div class="tile__image-container tile__image-container--carType c-state-interactive-image lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/car_types/utility.jpg?compress=true&amp;w=212|md:https://getaround-assets.gumlet.io/images/shared/car_types/utility.jpg?compress=true&amp;w=274" title="utility"></div>
+<div class="tile__title">
+Commercial
+</div>
+</div>
+</a><a class="link_no_style" href="/car-rental/united-states/type/family"><div class="tile tile--card c-state-interactive-with-images">
+
+<div class="tile__image-container tile__image-container--carType c-state-interactive-image lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/car_types/family.jpg?compress=true&amp;w=212|md:https://getaround-assets.gumlet.io/images/shared/car_types/family.jpg?compress=true&amp;w=274" title="family"></div>
+<div class="tile__title">
+Family car
+</div>
+</div>
+</a><a class="link_no_style" href="/car-rental/united-states/type/suv"><div class="tile tile--card c-state-interactive-with-images">
+
+<div class="tile__image-container tile__image-container--carType c-state-interactive-image lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/car_types/suv.jpg?compress=true&amp;w=212|md:https://getaround-assets.gumlet.io/images/shared/car_types/suv.jpg?compress=true&amp;w=274" title="suv"></div>
+<div class="tile__title">
+SUV
+</div>
+</div>
+</a><div class="cobalt-horizontal-list__padding-block c-pl-sm md:c-hidden"></div>
+</div>
+</div>
+</section>
+<section class="c-mx-sm">
+<div class="home_section__container">
+<div class="c-text-title-lg">Available all over Europe</div>
+<div class="cobalt-horizontal-list md:cobalt-horizontal-list--fit c-py-md c-justify-between c--mx-sm md:c-mx-none">
+<div class="cobalt-horizontal-list__padding-block c-pl-sm md:c-hidden"></div>
+<div class="small-tile-wrapper c-state-interactive-with-images c-state-interactive-halo">
+<a class="link_no_style" href="/car-rental/france"><div class="small-tile">
+<div class="small-tile__image-container c-state-interactive-image lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/countries/fr.jpg?compress=true&amp;dpr=1&amp;fm=auto&amp;h=160&amp;mode=crop&amp;w=160" title="France"></div>
+<div class="small-tile__title">
+France
+</div>
+</div>
+</a></div>
+<div class="small-tile-wrapper c-state-interactive-with-images c-state-interactive-halo">
+<a class="link_no_style" href="/car-rental/norway"><div class="small-tile">
+<div class="small-tile__image-container c-state-interactive-image lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/countries/no.jpg?compress=true&amp;dpr=1&amp;fm=auto&amp;h=160&amp;mode=crop&amp;w=160" title="Norway"></div>
+<div class="small-tile__title">
+Norway
+</div>
+</div>
+</a></div>
+<div class="small-tile-wrapper c-state-interactive-with-images c-state-interactive-halo">
+<a class="link_no_style" href="/car-rental/spain"><div class="small-tile">
+<div class="small-tile__image-container c-state-interactive-image lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/countries/es.jpg?compress=true&amp;dpr=1&amp;fm=auto&amp;h=160&amp;mode=crop&amp;w=160" title="Spain"></div>
+<div class="small-tile__title">
+Spain
+</div>
+</div>
+</a></div>
+<div class="small-tile-wrapper c-state-interactive-with-images c-state-interactive-halo">
+<a class="link_no_style" href="/car-rental/belgium"><div class="small-tile">
+<div class="small-tile__image-container c-state-interactive-image lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/countries/be.jpg?compress=true&amp;dpr=1&amp;fm=auto&amp;h=160&amp;mode=crop&amp;w=160" title="Belgium"></div>
+<div class="small-tile__title">
+Belgium
+</div>
+</div>
+</a></div>
+</div>
+<div class="cobalt-horizontal-list md:cobalt-horizontal-list--fit c-py-md c-justify-between c--mx-sm md:c-mx-none">
+<div class="cobalt-horizontal-list__padding-block c-pl-sm md:c-hidden"></div>
+<div class="small-tile-wrapper c-state-interactive-with-images c-state-interactive-halo">
+<a class="link_no_style" href="/car-rental/malaga"><div class="small-tile">
+<div class="small-tile__image-container c-state-interactive-image lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/cities/ES/alquiler-de-coches-malaga-getaround.jpg?compress=true&amp;dpr=1&amp;fm=auto&amp;h=160&amp;mode=crop&amp;w=160" title="Malaga"></div>
+<div class="small-tile__title">
+Malaga
+</div>
+</div>
+</a></div>
+<div class="small-tile-wrapper c-state-interactive-with-images c-state-interactive-halo">
+<a class="link_no_style" href="/car-rental/trondheim"><div class="small-tile">
+<div class="small-tile__image-container c-state-interactive-image lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/cities/NO/bilutleie-trondheim.jpg?compress=true&amp;dpr=1&amp;fm=auto&amp;h=160&amp;mode=crop&amp;w=160" title="Trondheim"></div>
+<div class="small-tile__title">
+Trondheim
+</div>
+</div>
+</a></div>
+<div class="small-tile-wrapper c-state-interactive-with-images c-state-interactive-halo">
+<a class="link_no_style" href="/car-rental/lyon"><div class="small-tile">
+<div class="small-tile__image-container c-state-interactive-image lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/cities/FR/location-voiture-lyon-getaround.jpg?compress=true&amp;dpr=1&amp;fm=auto&amp;h=160&amp;mode=crop&amp;w=160" title="Lyon"></div>
+<div class="small-tile__title">
+Lyon
+</div>
+</div>
+</a></div>
+<div class="small-tile-wrapper c-state-interactive-with-images c-state-interactive-halo">
+<a class="link_no_style" href="/car-rental/barcelona"><div class="small-tile">
+<div class="small-tile__image-container c-state-interactive-image lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/cities/ES/alquiler-de-coches-barcelona-getaround.jpg?compress=true&amp;dpr=1&amp;fm=auto&amp;h=160&amp;mode=crop&amp;w=160" title="Barcelona"></div>
+<div class="small-tile__title">
+Barcelona
+</div>
+</div>
+</a></div>
+</div>
+</div>
+</section>
+</div>
+
+
+<div class="mkg-section-y-spacing">
+<div class="bleed-container bleed-container--bleedSmall owner-marketing-banner">
+<div class="bleed-wrapper c-bg-tertiary mkg-rounded-md">
+<div class="c-flex c-flex-col c-gap-md c-p-sm c-pt-md c-text-surfaceFixed sm:c-flex-row sm:c-p-md lg:c-p-xl">
+<div class="c-flex c-flex-col c-gap-lg c-flex-1 c-justify-between">
+<div class="c-flex c-flex-col c-gap-md c-text-center sm:c-text-left">
+<h2 class="mkg-text-title-xl c-text-surfaceFixed">Own a car? Put it to work!</h2>
+<div class="owner-marketing-banner__description">
+Earn up to €800 per month by sharing your car with Getaround Connect.
+</div>
+</div>
+<div class="c-flex c-flex-col sm:c-flex-row">
+<a class="cob-Button cob-Button__default cob-Button--large cob-Button__default--primary mkg-button c-bg-onTertiary c-text-tertiary" href="/rent-your-car">List my car
+<div class="c-w-md c-ml-xs">
+<div class="cobalt-bg-icon lazy" data-style="background-color:var(--c-tertiary);--u:url(https://cobalt-assets.getaround.com/icons/arrow_right_circle.svg?compress=true);" style=""></div>
+</div>
+</a></div>
+</div>
+<div class="c-flex-1">
+<div class="owner-marketing-banner__illustration c-w-full c-rounded-xl lazy" data-background-image="https://getaround-assets.gumlet.io/images/shared/owners/owners_hero3.jpg?compress=true&amp;w=380|sm:https://getaround-assets.gumlet.io/images/shared/owners/owners_hero3.jpg?compress=true&amp;w=508"></div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
+
+
+</div>
+<div class="footer-container c-w-full mkg-bg-primary lg:c-pb-lg">
+<div class="bleed-container">
+<div class="footer-wrapper--2024" data-version="full">
+<footer class="footers js_footers footer--full">
+<div class="c-bg-surface mkg-rounded-md">
+<div class="c-flex c-flex-col c-gap-lg c-py-lg c-px-sm c-text-body-md sm:c-px-md lg:c-px-xl">
+<div class="c-flex c-justify-between">
+<img class="footer__getaround-logo lazy" alt="Getaround logo" width="32" height="32" data-srcset="https://getaround-assets.gumlet.io/images/shared/logos/getaround-logo-circle-outline.svg?compress=true&amp;h=32&amp;mode=crop&amp;w=32&amp;dpr=1 1x, https://getaround-assets.gumlet.io/images/shared/logos/getaround-logo-circle-outline.svg?compress=true&amp;h=32&amp;mode=crop&amp;w=32&amp;dpr=2 2x" data-src="https://getaround-assets.gumlet.io/images/shared/logos/getaround-logo-circle-outline.svg?compress=true&amp;h=32&amp;mode=crop&amp;w=32" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" />
+<div class="js_locale_switch_placeholder" data-locales="{&quot;current_display&quot;:&quot;US&quot;,&quot;css_classes&quot;:{&quot;trigger&quot;:&quot;locale-switch__trigger&quot;,&quot;trigger_text&quot;:&quot;locale-switch__trigger-text&quot;,&quot;select_container&quot;:&quot;locale-switch__select-icon-container&quot;},&quot;links&quot;:[{&quot;country_code&quot;:&quot;DE&quot;,&quot;url&quot;:&quot;https://de.getaround.com/&quot;,&quot;display&quot;:&quot;Deutsch (Deutschland)&quot;,&quot;current&quot;:false},{&quot;country_code&quot;:&quot;AT&quot;,&quot;url&quot;:&quot;https://at.getaround.com/&quot;,&quot;display&quot;:&quot;Deutsch (Österreich)&quot;,&quot;current&quot;:false},{&quot;country_code&quot;:&quot;US&quot;,&quot;url&quot;:&quot;https://getaround.com/&quot;,&quot;display&quot;:&quot;English (United-States)&quot;,&quot;current&quot;:true},{&quot;country_code&quot;:&quot;ES&quot;,&quot;url&quot;:&quot;https://es.getaround.com/&quot;,&quot;display&quot;:&quot;Español (España)&quot;,&quot;current&quot;:false},{&quot;country_code&quot;:&quot;BE&quot;,&quot;url&quot;:&quot;https://fr.be.getaround.com/&quot;,&quot;display&quot;:&quot;Français (Belgique)&quot;,&quot;current&quot;:false},{&quot;country_code&quot;:&quot;FR&quot;,&quot;url&quot;:&quot;https://fr.getaround.com/&quot;,&quot;display&quot;:&quot;Français (France)&quot;,&quot;current&quot;:false},{&quot;country_code&quot;:&quot;BE&quot;,&quot;url&quot;:&quot;https://be.getaround.com/&quot;,&quot;display&quot;:&quot;Nederlands (België)&quot;,&quot;current&quot;:false},{&quot;country_code&quot;:&quot;NO&quot;,&quot;url&quot;:&quot;https://no.getaround.com/&quot;,&quot;display&quot;:&quot;Norsk (Norge)&quot;,&quot;current&quot;:false}]}">
+<button class="locale-switch__trigger">
+<span class="cobalt-Icon c-fill-onSurface cobalt-Icon--size20">
+<div class="cobalt-bg-icon lazy" data-style="width: 20px;height:20px;--u:url(https://cobalt-assets.getaround.com/icons/earth.svg?compress=true);" style="width: 20px;height:20px;"></div>
+</span>
+<span class="locale-switch__trigger-text">US</span>
+<div class="locale-switch__select-icon-container">
+<span class="js-locale-switch__select-icon cobalt-Icon c-fill-onSurface cobalt-Icon--size20">
+<div class="cobalt-bg-icon" style="width: 20px;height:20px;--u:url(https://cobalt-assets.getaround.com/icons/chevron_down.svg?compress=true);"></div>
+</span>
+<span class="js-locale-switch__select-icon--loading cobalt-Icon c-fill-onSurface cobalt-Icon--size20 cobalt-Icon--loading c-hidden">
+<div class="cobalt-bg-icon" style="width: 20px;height:20px;--u:url(https://cobalt-assets.getaround.com/icons/loading.svg?compress=true);"></div>
+</span>
+</div>
+</button>
+</div>
+
+</div>
+<div class="row main_footer__section-container">
+<div class="main_footer__section col-sm-12 col-xs-12 col-md-8">
+<div class="main_footer__title">About us</div>
+<p>As the largest car-sharing service in Europe, we’re on a mission to bring fresh air to big cities with convenient 24/7 access to shared cars nearby. With Getaround, simply book a car, unlock it with your phone, and get going.</p>
+</div>
+<div class="main_footer__section main_footer__section--help_links col-md-2 col-sm-12 col-xs-12">
+<div class="main_footer__title">Learn more</div>
+<ul class="main_footer__links_container">
+<li><a class="main_footer__link" href="/how-it-works">How does it work?</a></li>
+<li><a noblank="true" class="main_footer__link" href="/trust">A trusted service</a></li>
+<li><a class="main_footer__link" href="https://getaround.com/mobile">Mobile Apps</a></li>
+<li><span data-value="382r2p3832332r1b31332r1a2s323933362p382t2v1b1b1m373438382w" class="main_footer__link js_drk_lnk">Contact</span></li>
+</ul>
+</div>
+<div class="main_footer__section main_footer__section--discover col-md-2 col-sm-12 col-xs-12">
+<div class="main_footer__title">Resources</div>
+<ul class="main_footer__links_container">
+<li><a noblank="true" class="main_footer__link" href="https://getaround.com/insurance">Insurance</a></li>
+<li><a class="main_footer__link" href="https://getaround.com/professionals">Pros</a></li>
+<li><a noblank="true" class="main_footer__link" href="/help">Help center</a></li>
+</ul>
+</div>
+
+</div>
+<div class="c-flex c-justify-center c-items-center c-gap-sm c-mt-sm md:c-mt-md">
+<a target="_blank" rel="nofollow noopener noreferrer" class="corporate_footer__social_logo--twitter" aria-label="X former Twitter" href="https://twitter.com/getaround"><div class="cobalt-bg-icon lazy" data-style="width: 32px;height:32px;--u:url(https://cobalt-assets.getaround.com/icons/twitter.svg?compress=true);" style="width: 32px;height:32px;"></div></a>
+<a target="_blank" rel="nofollow noopener noreferrer" class="corporate_footer__social_logo--facebook" aria-label="Facebook" href="https://www.facebook.com/getaround"><div class="cobalt-bg-icon lazy" data-style="width: 32px;height:32px;--u:url(https://cobalt-assets.getaround.com/icons/facebook.svg?compress=true);" style="width: 32px;height:32px;"></div></a>
+<a target="_blank" rel="nofollow noopener noreferrer" class="corporate_footer__social_logo--youtube" aria-label="Youtube" href="https://www.youtube.com/getaround"><div class="cobalt-bg-icon lazy" data-style="width: 32px;height:32px;--u:url(https://getaround-assets.gumlet.io/images/shared/icons/youtube.svg?compress=true);" style="width: 32px;height:32px;"></div></a>
+<a target="_blank" rel="nofollow noopener noreferrer" class="corporate_footer__social_logo--instagram" aria-label="Instagram" href="https://www.instagram.com/getaround/"><div class="cobalt-bg-icon lazy" data-style="width: 32px;height:32px;--u:url(https://getaround-assets.gumlet.io/images/shared/icons/instagram.svg?compress=true);" style="width: 32px;height:32px;"></div></a>
+<a target="_blank" rel="nofollow noopener noreferrer" class="corporate_footer__social_logo--linkedin" aria-label="Linkedin" href="https://www.linkedin.com/company/getaround"><div class="cobalt-bg-icon lazy" data-style="width: 32px;height:32px;--u:url(https://cobalt-assets.getaround.com/icons/linkedin.svg?compress=true);" style="width: 32px;height:32px;"></div></a>
+
+</div>
+</div>
+</div>
+<div class="corporate_footer__container container sm:c-flex-row-reverse">
+<div class="corporate_footer__copyright_links_container c-items-center">
+<ul class="corporate_footer__links c-mb-sm md:c-mb-none">
+<li class="corporate_footer__link"><span data-value="3731362t381b31332r1a2s323933362p382t2v1b1b1m373438382w" class=" js_drk_lnk">Legal terms</span></li>
+<li class="corporate_footer__link"><span data-value="3d2r2p3a2x36341b" class=" js_drk_lnk">Privacy policy</span></li>
+<li class="corporate_footer__link"><span data-value="372t2x2z33332r1b31332r1a2s323933362p382t2v1b1b1m373438382w" class=" js_drk_lnk">Cookies</span></li>
+<li class="corporate_footer__link"><a href="https://getaround.com/press">Press</a></li>
+<li class="corporate_footer__link"><a href="https://getaround.com/careers">Careers</a></li>
+</ul>
+<div class="corporate_footer__copyright c-text-onSurfaceVariant c-text-center">© Getaround 2010-2026 - All rights reserved</div>
+</div>
+
+</div>
+
+</footer>
+
+</div>
+
+</div>
+</div>
+<div class="js_cookie-consent cookie-consent-modal__wrapper c-hidden" data-display-cookie-consent="true" data-nosnippet>
+<div class="cookie-consent-modal__overlay"></div>
+<div class="js_cookie-consent-modal cookie-consent-modal">
+<div class="cookie-consent-modal__header">
+<button class="js_cookie-consent-modal__disagreement cob-Button cob-Button__ghost c-pr-none hover:c-bg-transparent focus:c-bg-transparent c-mb-xs sm:c-mb-none">
+<span class="js_cookie-consent-modal__loading-icon cob-Button__loading-icon cobalt-Icon cobalt-Icon--loading c-hidden">
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M12 4V2C6.477 2 2 6.477 2 12h2a8 8 0 018-8z"/>
+</svg>
+</span>
+<span class="cob-Button__content">
+Continue without accepting
+</span>
+</button>
+<p class="c-text-title-lg sm:c-text-title-md c-m-none c-w-full sm:c-w-auto c-text-left">Getaround uses cookies 🍪</p>
+</div>
+<hr class="c-m-none c-border-none c-bg-grey-light">
+<div class="cookie-consent-modal__body">
+<p>Getaround uses cookies for the following purposes:</p>
+<ul>
+<li>Allow you to navigate on the website and use our services efficiently. These cookies are mandatory and can’t be deactivated.</li>
+<li>Analyze our website’s audience.</li>
+<li>Improve our website’s efficiency by measuring performance.</li>
+<li>Measure and improve our Getaround adverts.</li>
+</ul>
+<p>Some of these cookies are set by our <a href="/cookies#partners" target="_blank">partners</a>. You can visit the “<a href="/cookies" target="_blank">Cookies</a>” page from the footer of the website any time to customize them and learn more about our policy.</p>
+</div>
+<hr class="c-m-none c-border-none c-bg-grey-light">
+<div class="cookie-consent-modal__footer">
+<div class="c-flex c-flex-col-reverse sm:c-flex-row c-gap-sm">
+<button class="js_cookie-consent-modal__settings-opener cob-Button cob-Button__default">
+<span class="cob-Button__content">
+Customize
+</span>
+</button>
+<button class="js_cookie-consent-modal__agreement cob-Button cob-Button__default cob-Button__default--primary" tabindex="1">
+<span class="js_cookie-consent-modal__loading-icon cob-Button__loading-icon cobalt-Icon cobalt-Icon--loading c-hidden">
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M12 4V2C6.477 2 2 6.477 2 12h2a8 8 0 018-8z"/>
+</svg>
+</span>
+<span class="cob-Button__content">
+Accept and close
+</span>
+</button>
+</div>
+</div>
+</div>
+<div class="js_cookie-consent-modal__settings cookie-consent-modal c-hidden">
+<div class="cookie-consent-modal__header">
+<p class="c-text-title-lg sm:c-text-title-md c-m-none c-w-full c-text-left">Getaround uses cookies 🍪</p>
+</div>
+<hr class="c-m-none c-border-none c-bg-grey-light">
+<div class="cookie-consent-modal__body">
+<form class="js_cookie-consent-modal__settings-form">
+<div class="cookie-consent-modal__setting">
+<p class="c-text-title-sm" id="cookie-consent_audience-settings">Audience analysis cookies</p>
+<p>They enable us to better understand more precisely who our users are and how they use our website in order to improve our services.</p>
+<div aria-labelledby="cookie-consent_audience-settings" class="cookie-consent-modal__setting-controls cobalt-CheckmarkField" role="radiogroup">
+<label class="cobalt-CheckmarkField__LabelWrapper c-mr-sm" tabindex="0">
+<input type="radio" name="audience" id="audience_false" value="false" class="cobalt-CheckmarkField__Input" tabIndex="-1" checked="checked" />
+<span class="cobalt-CheckmarkField__Checkmark"></span>
+<span class="cobalt-CheckmarkField__Label">Decline</span>
+</label>
+<label class="cobalt-CheckmarkField__LabelWrapper" tabindex="0">
+<input type="radio" name="audience" id="audience_true" value="true" class="cobalt-CheckmarkField__Input" tabIndex="-1" />
+<span class="cobalt-CheckmarkField__Checkmark"></span>
+<span class="cobalt-CheckmarkField__Label">Accept</span>
+</label>
+</div>
+</div>
+<div class="cookie-consent-modal__setting">
+<p class="c-text-title-sm" id="cookie-consent_performance-settings">Performance cookies</p>
+<p>They enable us to understand how you use Getaround, e.g. which pages you visit, for how long or what catches your attention in order to improve the quality of our website.</p>
+<div aria-labelledby="cookie-consent_performance-settings" class="cookie-consent-modal__setting-controls cobalt-CheckmarkField" role="radiogroup">
+<label class="cobalt-CheckmarkField__LabelWrapper c-mr-sm" tabindex="0">
+<input type="radio" name="performance" id="performance_false" value="false" class="cobalt-CheckmarkField__Input" tabIndex="-1" checked="checked" />
+<span class="cobalt-CheckmarkField__Checkmark"></span>
+<span class="cobalt-CheckmarkField__Label">Decline</span>
+</label>
+<label class="cobalt-CheckmarkField__LabelWrapper" tabindex="0">
+<input type="radio" name="performance" id="performance_true" value="true" class="cobalt-CheckmarkField__Input" tabIndex="-1" />
+<span class="cobalt-CheckmarkField__Checkmark"></span>
+<span class="cobalt-CheckmarkField__Label">Accept</span>
+</label>
+</div>
+</div>
+<div class="cookie-consent-modal__setting">
+<p class="c-text-title-sm" id="cookie-consent_targeting-settings">Advertising personalization and improvement cookies</p>
+<p>They allow us to track and measure the efficiency of our Getaround adverts, to improve them and/or tailor them according to your use of the website.</p>
+<div aria-labelledby="cookie-consent_targeting-settings" class="cookie-consent-modal__setting-controls cobalt-CheckmarkField" role="radiogroup">
+<label class="cobalt-CheckmarkField__LabelWrapper c-mr-sm" tabindex="0">
+<input type="radio" name="targeting" id="targeting_false" value="false" class="cobalt-CheckmarkField__Input" tabIndex="-1" checked="checked" />
+<span class="cobalt-CheckmarkField__Checkmark"></span>
+<span class="cobalt-CheckmarkField__Label">Decline</span>
+</label>
+<label class="cobalt-CheckmarkField__LabelWrapper" tabindex="0">
+<input type="radio" name="targeting" id="targeting_true" value="true" class="cobalt-CheckmarkField__Input" tabIndex="-1" />
+<span class="cobalt-CheckmarkField__Checkmark"></span>
+<span class="cobalt-CheckmarkField__Label">Accept</span>
+</label>
+</div>
+</div>
+</form>
+<p>Learn more: <a href="/cookies" target="_blank">Cookies policy</a></p>
+</div>
+<hr class="c-m-none c-border-none c-bg-grey-light">
+<div class="cookie-consent-modal__footer">
+<button aria-disabled="true" class="js_cookie-consent-modal__settings-submit cob-Button cob-Button__default cob-Button__default--primary cob-Button--disabled" disabled>
+<span class="js_cookie-consent-modal__loading-icon cob-Button__loading-icon cobalt-Icon cobalt-Icon--loading c-hidden">
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M12 4V2C6.477 2 2 6.477 2 12h2a8 8 0 018-8z"/>
+</svg>
+</span>
+<span class="cob-Button__content">
+Confirm selection
+</span>
+</button>
+</div>
+</div>
+</div>
+
+
+<div class="scripts">
+
+<script id="js_config" type="application/json">
+  {"env":"production","now":null,"country":"US","locale":"en_US","host":"getaround.com","measurementSystem":"mile","cookieDomain":"getaround.com","action":"pages-homepage-index","sentryDsn":"https://af4546ab003a40288665ac7ae5c2d027@sentry.io/167570","release":"bc6ac7be38fe4479738ed3306c17d858621967a7","jsErrorsWhitelistedUrls":["getaround.com"],"googleApiKey":"AIzaSyAsnQSjaFmgUUm5N_hbgMwY86uuVV6u9nk","mapboxApiKey":"pk.eyJ1IjoibWljaGFlbC1kcml2eSIsImEiOiJjamg4dmFpb2kwNjV0MzBvMng4OGg4N29uIn0.RqkoY5WvachcJxPXl0xHvQ","stripe":{"scriptSrc":"https://js.stripe.com/v3/","publishableKey":"pk_live_51MorMkEUHx1su3JHMYHcgjJXMZbMmzCFCN0vycv5XvimNz0r1ebFo0j4LynMHG4G07TE12eyqaQOKdn5vRV0nuep000mQ6ZTRf"},"currencyFormatting":{"separator":".","delimiter":",","format":"%u%n"},"i18nKeys":{"datetime":{"distance_in_words":{"half_a_minute":"half a minute","less_than_x_seconds":{"one":"less than %{count} second","other":"less than %{count} seconds","zero":"less than a second"},"x_seconds":{"one":"%{count} second","other":"%{count} seconds"},"less_than_x_minutes":{"one":"less than %{count} minute","other":"less than %{count} minutes","zero":"less than a minute"},"x_minutes":{"one":"%{count} minute","other":"%{count} minutes","short":"%{count} min"},"about_x_hours":{"one":"%{count} hour","other":"%{count} hours"},"x_days":{"one":"%{count} day","other":"%{count} days"},"about_x_months":{"one":"%{count} month","other":"%{count} months"},"x_months":{"one":"%{count} month","other":"%{count} months"},"about_x_years":{"one":"%{count} year","other":"%{count} years"},"over_x_years":{"one":"more than %{count} year","other":"more than %{count} years"},"almost_x_years":{"one":"almost %{count} year","other":"almost %{count} years"},"x_years":{"one":"%{count} year","other":"%{count} years"},"in_x_days":{"one":"tomorrow","other":"in %{count} days"},"in_x_months":{"one":"in %{count} month","other":"in %{count} months"},"in_x_weeks":{"one":"in %{count} week","other":"in %{count} weeks"},"x_hours":{"one":"%{count} hour","other":"%{count} hours","short":"%{count} hr"},"x_weeks":{"one":"%{count} week","other":"%{count} weeks"}}},"javascript":{"booking":{"errors":{"base":{"empty_field":"Please complete or correct the details below (marked in red).","fetch_error":"An error occurred while fetching the rental price. Please try again.","informations_invalid":"Please check the missing or invalid details marked in red."},"booking_card":{"invalid":"is invalid","required":"required"},"cdw_level":{"empty":"Please select a protection plan."},"conditions_acceptance":{"required":"Please read Getaround's terms and conditions and confirm you accept them by checking the box below."},"distance":{"empty":"The distance must be entered."},"end_date":{"empty":"The end date must be entered."},"gfb_driver":{"empty":"Please select a driver."},"privacy_policy_acceptance":{"required":"The privacy policy must be accepted"},"start_date":{"empty":"The start date must be entered."}},"rental_summary":{"cdw_html":"Protection plan","no_options":"No option selected"}},"calendar":{"available":"Available","from":"from","reason":"Unavailability reason","reasons":{"booked":"Booked","check_up":"Regular check-up","connect_issues":"Connect issues","nabobil_booked":"Booked on Nabobil","nabobil_unavailable":"Unavailable on Nabobil","other":"Other","repairs":"Repairs","repatriation":"Repatriation / pound","turnaround_block":"Turnaround block"},"reason_placeholder":"Select a reason","repeat":"Recurrence","repeat_options":{"one":"For %{count} month","other":"For %{count} months","zero":"None"},"show_more_months":"Display next months","to":"to","unavailable":"Unavailable"},"customer_service":{"damage_request":{"are_you_sure":"Do you really want to send the form as it is?"}},"date":{"formats":{"day_month":"MMM D","day_month_hour":"MMM d, HH:mm","day_month_year":"MMM d, yyyy","day_name_long":"dddd MMM D","day_name_month":"iii. MMM dd","day_name_short":"E d MMM","default":"MM/dd/yyyy","long":"MMMM do, y","time":"hh:mm a"}},"datetimepicker":{"am":"a.m.","pm":"p.m."},"errors":{"bad_request":"An error occurred.","error_occured":"An error occurred.","forbidden":"You are not authorized to access this resource.","internal_server_error":"An error occurred on our server. Our tech team was notified.","not_found":"An error occurred.","not_valid":"%{stuff} is not valid.","request_timeout":"Internet connection issue. Please try again.","unauthorized":"You are not authorized to access this resource.","webcam_not_available":"Sorry, your browser does not support webcam access"},"feature_onboarding":{"previous":"Previous","progress":"{{current}} of {{total}}"},"magnific_popup":{"ajax":{"tError":"The content could not be loaded."},"image":{"tError":"The image could not be loaded."},"tClose":"Close (Esc)","tLoading":"Loading..."},"payments":{"amount":"Payment amount","breakdown_fee":"Breakdown fees","car":"Car","car_plate_number":"Plate number","compensation":"Compensations","driver":"Driver","other_revenues":"Other income","owner_done":"Owner - Wired","owner_due":"Owner - Planned","owner_revenue":{"including_breakdown_fee":"Breakdown fees:","including_compensation":"Compensation:","including_open_subscription":"Getaround Connect subscription:","including_other_revenues":"Other revenues:","including_remaining":"Other adjustments:","including_rental":"Rental:"},"payment_date":"Payment date","planned":"Planned","remaining":"Others","rental":"Rental","rental_distance":"Total distance paid (%{unit})","rental_distance_driven":"Total mileage traveled (%{unit})","rental_earnings":"Amounts received and deducted","rental_end_date":"Rental end","rental_id":"Rental ID","rental_start_date":"Rental start","total":"Total: ","total_subtitle":{"by_year":"Annual balance","by_year_and_car":"in %{year} for your %{car_title}","since_creation":"Since your registration","since_creation_by_car":"since your registration for your %{car_title}"},"transfers":"Transfers"},"picture_uploader":{"sending":"Sending"},"profile":{"delete_account":"Do you really want to delete your account?"},"restrictions":{"delay_exact":"Exactly %{delay} days in advance (not recommended)","delay_max":"%{delay_max} days into the future","delay_max_in_month":{"one":"1 month into the future","other":"%{count} months into the future"},"delay_middle":"Between %{delay_min} and %{delay_max} days in advance","length_between":"No rentals of %{length_min} or less - Maximum %{length_max}","length_between_no_minimum":"No minimum - Maximum %{length_max}","length_in_days":"%{length} days","length_in_days_singular":"%{length} day","length_in_hours":"%{length} hours","length_in_hours_singular":"%{length} hour","no_delay_max":"All future dates","no_limit_delay":"No limits on the booking delay"},"search":{"by_day":"/ day"},"success":{"update_success":"Successfully updated."},"textarea_maxlength":{"text":{"one":"%{count} character left.","other":"%{count} characters left"}},"validation_errors":{"file_too_big":"Sorry, your attachment cannot be uploaded. Please try again with a file smaller than %{max_file_size_in_mb} MB.","file_too_small":"Sorry, your attachment cannot be uploaded. Please try again with a file bigger than %{min_file_size_in_mb} MB.","missing_exif_date":"The photo doesn’t have the necessary data we need to handle your request. Please try with another camera or app.","wrong_file_type":"Only images in the following formats are accepted: %{accepted_types}."}},"pages":{"homepage":{"search_box":{"current_location":"Current location","viewport_area":"Area on the map"}}},"ui":{"got_it":"Got it","cancel":"Cancel","learn_more":"Learn more","date_range":{"am":"a.m.","car_min_duration":"The minimum rental duration for this car is %{hours} hours","date_range_picker_label":"Dates","day_picker_short_label":"Date","duration_too_small":"The end date must be after the original end date.","end":"Return","large":{"end":"Return","start":"Pickup"},"max_car_duration_exceeded":"This car can't be rented for more than %{nb_days} days","max_duration_exceeded":"The maximum rental duration is %{nb_days} days","max_duration_long_rentals_exceeded":"You can only extend up to %{nb_days} days from now","month_limit":"You cannot book a car more than %{nb_months} months ahead","pm":"p.m.","rideshare_lead_time_error":"We've reset the dates to align with our Drive with Uber policies.","rideshare_lead_time_limit":"Drive with Uber cars can only be booked up to %{nb_days} days in advance.","start":"Pickup","time_format":"at %H:%M","time_format_variation":"%H:%M","time_picker_labels":{"end":"Check-out time","start":"Check-in time"},"time_picker_short_label":"Time","weekday_range":"From %{start_day} to %{end_day} "}},"layouts":{"header":{"as_owner":"Owner menu","menu":"Menu"}}},"trackingEnabled":true,"ga":{"config":null},"cobaltInlineModal":{"classes":{"TITLE":"js_cobalt-inline-modal__title","BODY":"js_cobalt-inline-modal__body","FOOTER":"js_cobalt-inline-modal__footer","TRIGGER_CLOSE":"js_cobalt-inline-modal__close","TRIGGER_RELOAD":"js_cobalt-inline-modal__reload","TRIGGER_NEXT":"js_cobalt-inline-modal__next","TRIGGER_PREVIOUS":"js_cobalt-inline-modal__previous","TRIGGER_FORM_CONFIRM":"js_cobalt-inline-modal__confirm"},"attributes":{"MODAL_ID":"modalid","MODAL_SRC":"modalsrc","FORM_CONFIRM_MODAL_ID":"confirmmodalid","MODAL_ARIA_LABEL":"modalarialabel","CLOSEABLE":"closeable","FULL_WIDTH":"fullwidth","FULL_HEIGHT":"fullheight","CLONE_MODAL":"clonemodal","SHOW_ONCE":"show-once","LIGHT_HEADER":"lightheader","BODY_SPACING":"bodyspacing","TRACKING_PARAMS":"trackingparams","TRACKING_EVENT_OPEN":"trackingeventopen","TRACKING_EVENT_OPEN_PARAMS":"trackingeventopenparams","TRACKING_EVENT_CLOSE":"trackingeventclose","TRACKING_EVENT_CLOSE_PARAMS":"trackingeventcloseparams"}},"isTiktokEnabled":true,"tiktokPixelId":"D2IPTQBC77UCCBANJJE0","isSnapchatEnabled":false,"snapchatPixelId":"39c77387-4229-461f-8bee-62057c6ecb09","isCriteoEnabled":false,"criteoPartnerId":null,"bingId":null,"adjust":{"appToken":"qpmqzvx5r4sg","eventTokens":{"booking_request_instant_booking":"rzkc5b","booking_request_non_instant_booking":"cmi7ep","booking_success_instant_booking":"mtjtz4","booking_success_non_instant_booking":"8keeus","signup":"cuxdcv"}},"woosmapEnabled":true,"mapsProvider":"woosmap","facebookPixelId":"868074043244839","linkedinPixelId":"8779593","hotjarId":"1491058","mapsApiEndpoint":"https://maps.googleapis.com/maps/api/js?libraries=places\u0026language=en_US\u0026v=3\u0026key=AIzaSyAsnQSjaFmgUUm5N_hbgMwY86uuVV6u9nk","mapsApiKey":"AIzaSyAsnQSjaFmgUUm5N_hbgMwY86uuVV6u9nk","gtag":{"domains":["fr.getaround.com","en.getaround.com","de.getaround.com","at.getaround.com","es.getaround.com","be.getaround.com","fr.be.getaround.com","getaround.com","uk.getaround.com","no.getaround.com"],"conversionId":"AW-17674561549","analyticsTagId":"G-BWJLMLMLS8","conversionEvents":{"first_booking_success_instant_booking":"Jx8yCJvRp5AZEObywrIp","first_booking_success_non_instant_booking":"9u6lCKyQrpAZEObywrIp","booking_success_instant_booking":"SNbwCJzjvbIbEI3Q8etB","booking_success_non_instant_booking":"9qeQCMzurrIbEI3Q8etB","booking_request_instant_booking":"2CLbCIqMsLIbEI3Q8etB","booking_request_non_instant_booking":"QJJRCNrQvbIbEI3Q8etB","car_show":"VdyoCNzbp50YEObywrIp","sign_up":"QP4hCM6KhfIYEObywrIp"},"getaroundForBusinessConversionId":"AW-17618984518"},"brazeWebSdk":{"baseUrl":"sdk.fra-02.braze.eu","apiKey":"cab67f15-0b2c-480e-96f3-b8c13f510ea2"},"dateLocaleOptions":{"default":"MM/dd/yyyy","long":"MMMM do, y","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":1,"doy":4}},"assetPaths":{"dashboard/cars/show/photos/loader.gif":"/packs/images/app/assets/images/dashboard/cars/show/photos/loader.43e88fa0e18824ef.gif","search/marker_empty@2x.png":"/packs/images/app/assets/images/search/marker_empty@2x.2d0cd9583539d107.png","car/marker_user@2x.png":"/packs/images/app/assets/images/car/marker_user@2x.aabfcf62db579617.png","admin/marker_car_city@2x.png":"/packs/images/app/assets/images/admin/marker_car_city@2x.cbdf28c646733df2.png","car/marker_car@2x.png":"/packs/images/app/assets/images/car/marker_car@2x.459511e8ef614780.png","car/marker_car_approximate@2x.png":"/packs/images/app/assets/images/car/marker_car_approximate@2x.4af9ad0774425d5c.png","cobalt/illustrations/light/car_view_front":"https://getaround.com/packs/images/vendor/cobalt/images/illustrations/light/car_view_front.382831e95b3170bf.svg","cobalt/illustrations/light/technician_working_on_car":"https://getaround.com/packs/images/vendor/cobalt/images/illustrations/light/technician_working_on_car.e9a009b439381e16.svg","cobalt/illustrations/light/character_in_jeep":"https://getaround.com/packs/images/vendor/cobalt/images/illustrations/light/character_in_jeep.0af2d411ca567b08.svg","cobalt/illustrations/light/hello_headset":"https://getaround.com/packs/images/vendor/cobalt/images/illustrations/light/hello_headset.ed3c9281560af668.svg","cobalt/illustrations/light/check":"https://getaround.com/packs/images/vendor/cobalt/images/illustrations/light/check.91d97946518d5a7f.svg","cobalt/illustrations/light/car_breakdown_cone":"https://getaround.com/packs/images/vendor/cobalt/images/illustrations/light/car_breakdown_cone.cf64805ce738b471.svg","cobalt/illustrations/light/phone_message":"https://getaround.com/packs/images/vendor/cobalt/images/illustrations/light/phone_message.ca7ceb8069316c2e.svg","cobalt/illustrations/light/character_lying_on_top_of_car":"https://getaround.com/packs/images/vendor/cobalt/images/illustrations/light/character_lying_on_top_of_car.b859e5d289140a3e.svg","cobalt/illustrations/light/hand_with_credit_card":"https://getaround.com/packs/images/vendor/cobalt/images/illustrations/light/hand_with_credit_card.bcc4fdb6234d307b.svg","shared/illustrations/repairman.png":"https://getaround.com/packs/images/vendor/cobalt/images/empty-states/rebranded/repair-man@2x.784410c131b1b345.png"},"carPhotoUploaderLargeDimensions":{"w":400,"h":280},"woosmapApiPublicKey":"woos-7462f1a4-8822-3523-a007-a73e0db6aca8","routes":{"requestAvailabilityPath":"/request_availability","legalPath":"/terms","uploadsSettingsPath":"/uploads_settings","dashboardRentalsPath":"/dashboard/rentals","trackingPagePath":"/tracking/page","trackingEventPath":"/tracking/event","autocompleteAddressPath":"/autocomplete/address","apiInternalCookieConsentPath":"/api/internal/cookie_consent","brazeTrackingEventPath":"/braze_tracking/event"},"tracking":{"googleAdsRemarketing":[{"params":{"dynx_pagetype":"homepage"}}]},"flashMessage":null}
+</script>
+
+<script type="application/ld+json">
+{
+"@context" : "https://schema.org",
+"@type" : "WebSite",
+"name": "Getaround",
+"alternateName": "Getaround: Local Car Hire and Carsharing",
+"description": "Rent a car in an instant, open the car with the Getaround app, #1 for carsharing! 24/7. 200mi/day and insurance included.",
+"datePublished": "2019-10-01T07:00:00+05:30",
+"dateModified":"2020-09-23T07:00:00+08:30",
+"url": "https://getaround.com/"
+}
+</script>
+
+<script>(()=>{"use strict";var e={},r={};function t(a){var o=r[a];if(void 0!==o)return o.exports;var n=r[a]={id:a,loaded:!1,exports:{}};return e[a].call(n.exports,n,n.exports,t),n.loaded=!0,n.exports}t.m=e,t.n=e=>{var r=e&&e.__esModule?()=>e.default:()=>e;return t.d(r,{a:r}),r},(()=>{var e,r=Object.getPrototypeOf?e=>Object.getPrototypeOf(e):e=>e.__proto__;t.t=function(a,o){if(1&o&&(a=this(a)),8&o||"object"==typeof a&&a&&(4&o&&a.__esModule||16&o&&"function"==typeof a.then))return a;var n=Object.create(null);t.r(n);var d={};e=e||[null,r({}),r([]),r(r)];for(var i=2&o&&a;"object"==typeof i&&!~e.indexOf(i);i=r(i))Object.getOwnPropertyNames(i).forEach(e=>{d[e]=()=>a[e]});return d.default=()=>a,t.d(n,d),n}})(),t.d=(e,r)=>{for(var a in r)t.o(r,a)&&!t.o(e,a)&&Object.defineProperty(e,a,{enumerable:!0,get:r[a]})},t.f={},t.e=e=>Promise.all(Object.keys(t.f).reduce((r,a)=>(t.f[a](e,r),r),[])),t.u=e=>"packs/js/"+e+"."+({1132:"af36e3869cea6475",1342:"dc3da8b50ad643bb",2245:"b003dd395dca8499",2583:"ef7a23c40e015b00",283:"9d53ab9c40c9e23d",3443:"d683daf7ad65a11c",3498:"1e62c55bf99d660e",415:"e49ba132c90d5717",4364:"14d555a5e579d3b5",4577:"43cd95eca50fb9d7",4629:"ace858b24af353da",5098:"1a4fbe5050c5496e",5223:"166c244e662e878e",5401:"5a8d32adc23d6ebc",6248:"6df28b05d4a686bb",653:"22ca89d828ed9a1d",7220:"2c4f1d70b6c4f8a9",7719:"310052235f5e3420",8211:"50923b59bc20270d",8411:"377d5a7e1094a3fc"})[e]+".js",t.miniCssF=e=>""+e+".css",t.g=(()=>{if("object"==typeof globalThis)return globalThis;try{return this||Function("return this")()}catch(e){if("object"==typeof window)return window}})(),t.o=(e,r)=>Object.prototype.hasOwnProperty.call(e,r),(()=>{var e={},r="drivy-rails:";t.l=function(a,o,n,d){if(e[a])return void e[a].push(o);if(void 0!==n)for(var i,f,c=document.getElementsByTagName("script"),l=0;l<c.length;l++){var u=c[l];if(u.getAttribute("src")==a||u.getAttribute("data-webpack")==r+n){i=u;break}}i||(f=!0,(i=document.createElement("script")).charset="utf-8",i.timeout=120,t.nc&&i.setAttribute("nonce",t.nc),i.setAttribute("data-webpack",r+n),i.src=a),e[a]=[o];var s=function(r,t){i.onerror=i.onload=null,clearTimeout(b);var o=e[a];if(delete e[a],i.parentNode&&i.parentNode.removeChild(i),o&&o.forEach(function(e){return e(t)}),r)return r(t)},b=setTimeout(s.bind(null,void 0,{type:"timeout",target:i}),12e4);i.onerror=s.bind(null,i.onerror),i.onload=s.bind(null,i.onload),f&&document.head.appendChild(i)}})(),t.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},t.nmd=e=>(e.paths=[],e.children||(e.children=[]),e),(()=>{var e=[];t.O=(r,a,o,n)=>{if(a){n=n||0;for(var d=e.length;d>0&&e[d-1][2]>n;d--)e[d]=e[d-1];e[d]=[a,o,n];return}for(var i=1/0,d=0;d<e.length;d++){for(var a=e[d][0],o=e[d][1],n=e[d][2],f=!0,c=0;c<a.length;c++)(!1&n||i>=n)&&Object.keys(t.O).every(e=>t.O[e](a[c]))?a.splice(c--,1):(f=!1,n<i&&(i=n));if(f){e.splice(d--,1);var l=o();void 0!==l&&(r=l)}}return r}})(),t.p="/",(()=>{var e={3146:0,5742:0,5791:0};t.f.j=function(r,a){var o=t.o(e,r)?e[r]:void 0;if(0!==o)if(o)a.push(o[2]);else if(/^(57(42|91)|3146)$/.test(r))e[r]=0;else{var n=new Promise((t,a)=>o=e[r]=[t,a]);a.push(o[2]=n);var d=t.p+t.u(r),i=Error();t.l(d,function(a){if(t.o(e,r)&&(0!==(o=e[r])&&(e[r]=void 0),o)){var n=a&&("load"===a.type?"missing":a.type),d=a&&a.target&&a.target.src;i.message="Loading chunk "+r+" failed.\n("+n+": "+d+")",i.name="ChunkLoadError",i.type=n,i.request=d,o[1](i)}},"chunk-"+r,r)}},t.O.j=r=>0===e[r];var r=(r,a)=>{var o,n,d=a[0],i=a[1],f=a[2],c=0;if(d.some(r=>0!==e[r])){for(o in i)t.o(i,o)&&(t.m[o]=i[o]);if(f)var l=f(t)}for(r&&r(a);c<d.length;c++)n=d[c],t.o(e,n)&&e[n]&&e[n][0](),e[n]=0;return t.O(l)},a=self.webpackChunkdrivy_rails=self.webpackChunkdrivy_rails||[];a.forEach(r.bind(null,0)),a.push=r.bind(null,a.push.bind(a))})()})();</script>
+<script src="/packs/js/vod-pages.homepage.index.b3e60da0fc767a3f.js" crossorigin="anonymous"></script>
+<script src="/packs/js/439.7a29dfdf5d2f8ad9.js" crossorigin="anonymous"></script>
+<script src="/packs/js/1458.7311299dfa4d35d9.js" crossorigin="anonymous"></script>
+<script src="/packs/js/7616.468f2ebfe1abacd3.js" crossorigin="anonymous"></script>
+<script src="/packs/js/5453.ba996b7b3b29d9b9.js" crossorigin="anonymous"></script>
+<script src="/packs/js/7705.c6d8794913e20852.js" crossorigin="anonymous"></script>
+<script src="/packs/js/152.aa3dfb5e70910519.js" crossorigin="anonymous"></script>
+<script src="/packs/js/2785.faded235e5208bb5.js" crossorigin="anonymous"></script>
+<script src="/packs/js/entry.pages.homepage.index.e6b5c4f40b74e369.js" crossorigin="anonymous"></script>
+
+<script type="application/ld+json">
+{"@context": "https://schema.org",
+"@type": "Organization",
+"name": "Getaround",
+"url": "https://getaround.com/",
+"description": "As the largest car-sharing service, we’re on a mission to bring fresh air to big cities with convenient 24/7 access to shared cars nearby. With Getaround, simply book a car, unlock it with your phone, and get going.",
+"logo": "https://getaround.com/packs/images/app/assets/images/shared/getaround-logo.245e368962541c3c.svg",
+"sameAs": ["https://www.facebook.com/getaround",
+"https://twitter.com/getaround",
+"https://www.instagram.com/getaround/",
+"https://www.youtube.com/getaround",
+"https://www.linkedin.com/company/getaround"]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"AutoRental","name":"Getaround United States","description":"Rent a car in an instant, open the car with the Getaround app, #1 for carsharing! 24/7. 200mi/day and insurance included.","image":"https://getaround.com/packs/images/app/assets/images/shared/getaround-logo.245e368962541c3c.svg","url":"https://getaround.com/","priceRange":"$","openingHours":"Mo-Su 00:00-24:00","address":{"@type":"PostalAddress","addressCountry":"United States"},"telephone":"(+33) 1 76 24 02 91","aggregateRating":{"@type":"AggregateRating","ratingValue":4.7,"reviewCount":66982,"worstRating":1,"bestRating":5,"author":{"@type":"Organization","name":"Apple Store","url":"https://itunes.apple.com/US/app/drivy/id492238016?mt=8\u0026l=en_US"}}}
+</script>
+
+</div>
+</body></html>

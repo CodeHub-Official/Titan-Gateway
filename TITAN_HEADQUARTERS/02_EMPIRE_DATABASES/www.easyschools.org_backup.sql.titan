@@ -1,0 +1,923 @@
+<!DOCTYPE html><html lang="en"><head>
+    <!-- TAG Manger include -->
+    <script defer="" rel="preconnect">
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+          "gtm.start": new Date().getTime(),
+          event: "gtm.js",
+        });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-PZC6PJL");
+    </script>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <link href="" rel="shortcut icon" type="image/png">
+    <meta content="" name="copyright">
+    <meta content="easyschools" name="author">
+    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+    <meta content="EasySchools" name="application-name">
+    <link href="https://plus.google.com/b/112496544733160970444" rel="publisher">
+    <meta content="EG-C" name="geo.region">
+    <meta content="562715757440337" property="fb:app_id">
+    <meta content="596800430" property="fb:admins">
+    <meta content="EasySchools" property="og:site_name">
+    <!--Twitter Tags-->
+    <meta content="EasySchools" name="twitter:site">
+    <meta content="summary" name="twitter:card">
+    <!--render Chrome if available or Internet Explorer v7-->
+    <!--Apple Tags-->
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <!--specifies full-screen mode-->
+    <!-- facebook for ios -->
+    <meta content="1344484011" property="al:ios:app_store_id">
+    <meta content="https://itunes.apple.com/us/app/easyschools/id1344484011?mt=8" property="al:ios:url">
+    <meta content="EasySchools" property="al:ios:app_name">
+    <!-- facebook for android -->
+    <meta content="com.easyschool.easyschoolwebsite" property="al:android:package">
+    <meta content="https://www.easyschools.org/schools/.MainTabsActivity" property="al:android:url">
+    <meta content="easyschools" property="al:android:app_name">
+    <!--GEO Tags-->
+    <meta content="EasySchools" name="DC.title">
+    <meta content="Cairo" name="geo.placename">
+    <meta content=" 30.097496;31.315341" name="geo.position">
+    <meta content="30.097496, 31.315341" name="ICBM">
+    <meta content="#00415f" name="theme-color">
+    <base href="/ar/">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <link href="./assets/easyschools-logo-resized.png" rel="icon" type="image/x-icon">
+    <!-- Google Tag Manager -->
+    <!-- End Google Tag Manager -->
+    <!-- <script rel="preconnect" defer async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <meta content="yes" name="mobile-web-app-capable">
+    <link href="assets/icons/easy-schools192.png" rel="icon" sizes="192x192">
+    <link href="assets/icons/easy-schools192.png" rel="apple-touch-icon">
+    <!-- <link rel="stylesheet" href="fakepush.css"> -->
+    <!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
+    <link href="manifest.json" rel="manifest">
+    <noscript> Please enable JavaScript to run this application. </noscript>
+    <title>إيزي سكولز اكبر موقع مدارس في مصر 2023</title>
+  <link rel="stylesheet" href="styles.css"><style ng-transition="easy-school">.notification[_ngcontent-sc0] {
+	background: #00415f;
+	color: #e7e7e7;
+	text-align: center;
+	position: relative;
+	padding: 8px 0;
+	font-weight: 700;
+	display: none;
+}
+
+.notification[_ngcontent-sc0]   p[_ngcontent-sc0] {
+	max-width: 80%;
+	margin: 0 auto;
+}
+
+.notification[_ngcontent-sc0]   p[_ngcontent-sc0]   button[_ngcontent-sc0] {
+	color: #e7e7e7;
+	text-decoration: underline;
+	padding: 0;
+	background: none;
+}
+
+.notification[_ngcontent-sc0]   .close-btn[_ngcontent-sc0] {
+	position: absolute;
+	top: 0;
+	right: 10px;
+	padding: 5px;
+	background: none;
+}
+
+.notification[_ngcontent-sc0]   .close-btn[_ngcontent-sc0]   i[_ngcontent-sc0] {
+	color: #e7e7e7;
+	font-size: 24px;
+}
+
+.add-button[_ngcontent-sc0] {
+	position: fixed;
+	bottom: 1px;
+	left: 1px;
+}
+
+.load[_ngcontent-sc0] {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-color: #000;
+	z-index: 1000;
+}
+
+.my-container[_ngcontent-sc0] {
+	padding: 0 120px;
+}
+
+.title[_ngcontent-sc0]   h5[_ngcontent-sc0] {
+	font-weight: 600;
+	text-align: end;
+	font-family: "Cairo", sans-serif;
+}
+
+.title[_ngcontent-sc0]   p[_ngcontent-sc0] {
+	font-size: 12px;
+	font-family: "Cairo", sans-serif;
+	color: gray;
+	text-align: center;
+}
+
+form[_ngcontent-sc0], .message[_ngcontent-sc0], form[_ngcontent-sc0]   [_ngcontent-sc0]::-webkit-input-placeholder {
+	font-family: "Cairo", sans-serif;
+	text-align: end;
+}
+
+form[_ngcontent-sc0], .message[_ngcontent-sc0], form[_ngcontent-sc0]   [_ngcontent-sc0]::-moz-placeholder {
+	font-family: "Cairo", sans-serif;
+	text-align: end;
+}
+
+form[_ngcontent-sc0], .message[_ngcontent-sc0], form[_ngcontent-sc0]   [_ngcontent-sc0]:-ms-input-placeholder {
+	font-family: "Cairo", sans-serif;
+	text-align: end;
+}
+
+form[_ngcontent-sc0], .message[_ngcontent-sc0], form[_ngcontent-sc0]   [_ngcontent-sc0]::-ms-input-placeholder {
+	font-family: "Cairo", sans-serif;
+	text-align: end;
+}
+
+form[_ngcontent-sc0], .message[_ngcontent-sc0], form[_ngcontent-sc0]   [_ngcontent-sc0]::placeholder {
+	font-family: "Cairo", sans-serif;
+	text-align: end;
+}
+
+.select-wrapper[_ngcontent-sc0] {
+	position: relative;
+	margin-bottom: 15px;
+}
+
+.custom-select[_ngcontent-sc0] {
+	appearance: none;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	background: transparent;
+	background-image: none;
+	padding-right: 40px;
+	padding-left: 12px;
+	direction: rtl;
+	text-align: right;
+	cursor: pointer;
+}
+
+.custom-select[_ngcontent-sc0]::-ms-expand {
+	display: none;
+}
+
+.select-arrow[_ngcontent-sc0] {
+	position: absolute;
+	left: 15px;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	    -ms-transform: translateY(-50%);
+	        transform: translateY(-50%);
+	color: #6c757d;
+	pointer-events: none;
+	font-size: 14px;
+}
+
+.custom-select[_ngcontent-sc0]:focus + .select-arrow[_ngcontent-sc0] {
+	color: #007bff;
+}
+
+@media (max-width : 770px) {
+	.my-container[_ngcontent-sc0] {
+		padding: 0 !important;
+	}
+}
+
+@media screen {
+	.container[_ngcontent-sc0] {
+		max-width: 95vw;
+	}
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvYXBwLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7Q0FDQyxtQkFBbUI7Q0FDbkIsY0FBYztDQUNkLGtCQUFrQjtDQUNsQixrQkFBa0I7Q0FDbEIsY0FBYztDQUNkLGdCQUFnQjtDQUNoQixhQUFhO0FBQ2Q7O0FBRUE7Q0FDQyxjQUFjO0NBQ2QsY0FBYztBQUNmOztBQUVBO0NBQ0MsY0FBYztDQUNkLDBCQUEwQjtDQUMxQixVQUFVO0NBQ1YsZ0JBQWdCO0FBQ2pCOztBQUVBO0NBQ0Msa0JBQWtCO0NBQ2xCLE1BQU07Q0FDTixXQUFXO0NBQ1gsWUFBWTtDQUNaLGdCQUFnQjtBQUNqQjs7QUFFQTtDQUNDLGNBQWM7Q0FDZCxlQUFlO0FBQ2hCOztBQUVBO0NBQ0MsZUFBZTtDQUNmLFdBQVc7Q0FDWCxTQUFTO0FBQ1Y7O0FBRUE7Q0FDQyxlQUFlO0NBQ2YsV0FBVztDQUNYLFlBQVk7Q0FDWixNQUFNO0NBQ04sT0FBTztDQUNQLHNCQUFzQjtDQUN0QixhQUFhO0FBQ2Q7O0FBRUE7Q0FDQyxnQkFBZ0I7QUFDakI7O0FBRUE7Q0FDQyxnQkFBZ0I7Q0FDaEIsZUFBZTtDQUNmLGdDQUFnQztBQUNqQzs7QUFFQTtDQUNDLGVBQWU7Q0FDZixnQ0FBZ0M7Q0FDaEMsV0FBVztDQUNYLGtCQUFrQjtBQUNuQjs7QUFFQTs7O0NBR0MsZ0NBQWdDO0NBQ2hDLGVBQWU7QUFDaEI7O0FBTEE7OztDQUdDLGdDQUFnQztDQUNoQyxlQUFlO0FBQ2hCOztBQUxBOzs7Q0FHQyxnQ0FBZ0M7Q0FDaEMsZUFBZTtBQUNoQjs7QUFMQTs7O0NBR0MsZ0NBQWdDO0NBQ2hDLGVBQWU7QUFDaEI7O0FBTEE7OztDQUdDLGdDQUFnQztDQUNoQyxlQUFlO0FBQ2hCOztBQUVBO0NBQ0Msa0JBQWtCO0NBQ2xCLG1CQUFtQjtBQUNwQjs7QUFFQTtDQUNDLGdCQUFnQjtDQUNoQix3QkFBd0I7Q0FDeEIscUJBQXFCO0NBQ3JCLHVCQUF1QjtDQUN2QixzQkFBc0I7Q0FDdEIsbUJBQW1CO0NBQ25CLGtCQUFrQjtDQUNsQixjQUFjO0NBQ2QsaUJBQWlCO0NBQ2pCLGVBQWU7QUFDaEI7O0FBRUE7Q0FDQyxhQUFhO0FBQ2Q7O0FBRUE7Q0FDQyxrQkFBa0I7Q0FDbEIsVUFBVTtDQUNWLFFBQVE7Q0FDUixtQ0FBMkI7S0FBM0IsK0JBQTJCO1NBQTNCLDJCQUEyQjtDQUMzQixjQUFjO0NBQ2Qsb0JBQW9CO0NBQ3BCLGVBQWU7QUFDaEI7O0FBRUE7Q0FDQyxjQUFjO0FBQ2Y7O0FBRUE7Q0FDQztFQUNDLHFCQUFxQjtDQUN0QjtBQUNEOztBQUVBO0NBQ0M7RUFDQyxlQUFlO0NBQ2hCO0FBQ0QiLCJmaWxlIjoic3JjL2FwcC9hcHAuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5ub3RpZmljYXRpb24ge1xyXG5cdGJhY2tncm91bmQ6ICMwMDQxNWY7XHJcblx0Y29sb3I6ICNlN2U3ZTc7XHJcblx0dGV4dC1hbGlnbjogY2VudGVyO1xyXG5cdHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuXHRwYWRkaW5nOiA4cHggMDtcclxuXHRmb250LXdlaWdodDogNzAwO1xyXG5cdGRpc3BsYXk6IG5vbmU7XHJcbn1cclxuXHJcbi5ub3RpZmljYXRpb24gcCB7XHJcblx0bWF4LXdpZHRoOiA4MCU7XHJcblx0bWFyZ2luOiAwIGF1dG87XHJcbn1cclxuXHJcbi5ub3RpZmljYXRpb24gcCBidXR0b24ge1xyXG5cdGNvbG9yOiAjZTdlN2U3O1xyXG5cdHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lO1xyXG5cdHBhZGRpbmc6IDA7XHJcblx0YmFja2dyb3VuZDogbm9uZTtcclxufVxyXG5cclxuLm5vdGlmaWNhdGlvbiAuY2xvc2UtYnRuIHtcclxuXHRwb3NpdGlvbjogYWJzb2x1dGU7XHJcblx0dG9wOiAwO1xyXG5cdHJpZ2h0OiAxMHB4O1xyXG5cdHBhZGRpbmc6IDVweDtcclxuXHRiYWNrZ3JvdW5kOiBub25lO1xyXG59XHJcblxyXG4ubm90aWZpY2F0aW9uIC5jbG9zZS1idG4gaSB7XHJcblx0Y29sb3I6ICNlN2U3ZTc7XHJcblx0Zm9udC1zaXplOiAyNHB4O1xyXG59XHJcblxyXG4uYWRkLWJ1dHRvbiB7XHJcblx0cG9zaXRpb246IGZpeGVkO1xyXG5cdGJvdHRvbTogMXB4O1xyXG5cdGxlZnQ6IDFweDtcclxufVxyXG5cclxuLmxvYWQge1xyXG5cdHBvc2l0aW9uOiBmaXhlZDtcclxuXHR3aWR0aDogMTAwJTtcclxuXHRoZWlnaHQ6IDEwMCU7XHJcblx0dG9wOiAwO1xyXG5cdGxlZnQ6IDA7XHJcblx0YmFja2dyb3VuZC1jb2xvcjogIzAwMDtcclxuXHR6LWluZGV4OiAxMDAwO1xyXG59XHJcblxyXG4ubXktY29udGFpbmVyIHtcclxuXHRwYWRkaW5nOiAwIDEyMHB4O1xyXG59XHJcblxyXG4udGl0bGUgaDUge1xyXG5cdGZvbnQtd2VpZ2h0OiA2MDA7XHJcblx0dGV4dC1hbGlnbjogZW5kO1xyXG5cdGZvbnQtZmFtaWx5OiBcIkNhaXJvXCIsIHNhbnMtc2VyaWY7XHJcbn1cclxuXHJcbi50aXRsZSBwIHtcclxuXHRmb250LXNpemU6IDEycHg7XHJcblx0Zm9udC1mYW1pbHk6IFwiQ2Fpcm9cIiwgc2Fucy1zZXJpZjtcclxuXHRjb2xvcjogZ3JheTtcclxuXHR0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbn1cclxuXHJcbmZvcm0sXHJcbi5tZXNzYWdlLFxyXG5mb3JtIDo6cGxhY2Vob2xkZXIge1xyXG5cdGZvbnQtZmFtaWx5OiBcIkNhaXJvXCIsIHNhbnMtc2VyaWY7XHJcblx0dGV4dC1hbGlnbjogZW5kO1xyXG59XHJcblxyXG4uc2VsZWN0LXdyYXBwZXIge1xyXG5cdHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuXHRtYXJnaW4tYm90dG9tOiAxNXB4O1xyXG59XHJcblxyXG4uY3VzdG9tLXNlbGVjdCB7XHJcblx0YXBwZWFyYW5jZTogbm9uZTtcclxuXHQtd2Via2l0LWFwcGVhcmFuY2U6IG5vbmU7XHJcblx0LW1vei1hcHBlYXJhbmNlOiBub25lO1xyXG5cdGJhY2tncm91bmQ6IHRyYW5zcGFyZW50O1xyXG5cdGJhY2tncm91bmQtaW1hZ2U6IG5vbmU7XHJcblx0cGFkZGluZy1yaWdodDogNDBweDtcclxuXHRwYWRkaW5nLWxlZnQ6IDEycHg7XHJcblx0ZGlyZWN0aW9uOiBydGw7XHJcblx0dGV4dC1hbGlnbjogcmlnaHQ7XHJcblx0Y3Vyc29yOiBwb2ludGVyO1xyXG59XHJcblxyXG4uY3VzdG9tLXNlbGVjdDo6LW1zLWV4cGFuZCB7XHJcblx0ZGlzcGxheTogbm9uZTtcclxufVxyXG5cclxuLnNlbGVjdC1hcnJvdyB7XHJcblx0cG9zaXRpb246IGFic29sdXRlO1xyXG5cdGxlZnQ6IDE1cHg7XHJcblx0dG9wOiA1MCU7XHJcblx0dHJhbnNmb3JtOiB0cmFuc2xhdGVZKC01MCUpO1xyXG5cdGNvbG9yOiAjNmM3NTdkO1xyXG5cdHBvaW50ZXItZXZlbnRzOiBub25lO1xyXG5cdGZvbnQtc2l6ZTogMTRweDtcclxufVxyXG5cclxuLmN1c3RvbS1zZWxlY3Q6Zm9jdXMrLnNlbGVjdC1hcnJvdyB7XHJcblx0Y29sb3I6ICMwMDdiZmY7XHJcbn1cclxuXHJcbkBtZWRpYSAobWF4LXdpZHRoIDogNzcwcHgpIHtcclxuXHQubXktY29udGFpbmVyIHtcclxuXHRcdHBhZGRpbmc6IDAgIWltcG9ydGFudDtcclxuXHR9XHJcbn1cclxuXHJcbkBtZWRpYSBzY3JlZW4ge1xyXG5cdC5jb250YWluZXIge1xyXG5cdFx0bWF4LXdpZHRoOiA5NXZ3O1xyXG5cdH1cclxufSJdfQ== */</style><link rel="content-language" content="ar-eg"><style ng-transition="easy-school">@media screen {
+  .container[_ngcontent-sc1] {
+    max-width: 95vw; } }
+
+.navs-con[_ngcontent-sc1] {
+  position: relative;
+  z-index: 1; }
+
+.navs-con.not-complete[_ngcontent-sc1] {
+    margin-top: 50px; }
+
+.navs-con[_ngcontent-sc1]   .download-app[_ngcontent-sc1] {
+    overflow: hidden; }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1] {
+    background: #FFF;
+    padding: 0; }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .navbar-brand[_ngcontent-sc1]   img[_ngcontent-sc1] {
+      height: 65px; }
+
+@media screen and (max-width: 575px) {
+        .navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .navbar-brand[_ngcontent-sc1]   img[_ngcontent-sc1] {
+          height: 40px;
+          width: auto; } }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   form[_ngcontent-sc1] {
+      width: 30vw;
+      background: #E7E7E7;
+      border-radius: 4px;
+      position: relative; }
+
+@media screen and (max-width: 575px) {
+        .navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   form[_ngcontent-sc1] {
+          height: 30px;
+          width: 50vw; } }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   form[_ngcontent-sc1]   input[_ngcontent-sc1] {
+        height: 40px;
+        width: calc(100% - 40px);
+        display: inline-block;
+        vertical-align: middle;
+        border-radius: 0;
+        border: none;
+        outline: none;
+        background: transparent;
+        padding-left: 15px; }
+
+@media screen and (max-width: 575px) {
+          .navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   form[_ngcontent-sc1]   input[_ngcontent-sc1] {
+            height: 30px; } }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   form[_ngcontent-sc1]   button[_ngcontent-sc1] {
+        width: 40px;
+        height: 40px;
+        display: inline-block;
+        vertical-align: middle;
+        border-radius: 0;
+        background: transparent; }
+
+@media screen and (max-width: 575px) {
+          .navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   form[_ngcontent-sc1]   button[_ngcontent-sc1] {
+            height: 30px;
+            line-height: 15px; } }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   form[_ngcontent-sc1]   .search-res[_ngcontent-sc1] {
+        position: absolute;
+        top: 40px;
+        left: 0;
+        right: 0;
+        bottom: auto;
+        z-index: 9999; }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .nav-btns[_ngcontent-sc1]   .logged[_ngcontent-sc1] {
+      position: relative; }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .nav-btns[_ngcontent-sc1]   .logged[_ngcontent-sc1]   .dropdown-content[_ngcontent-sc1] {
+        position: absolute;
+        top: 30px;
+        left: auto;
+        right: 0;
+        bottom: auto;
+        z-index: 999;
+        width: 200px;
+        background: #FFF;
+        padding: 10px;
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.16);
+        border-radius: 4px;
+        display: none; }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .nav-btns[_ngcontent-sc1]   .logged[_ngcontent-sc1]   .dropdown-content[_ngcontent-sc1]   a[_ngcontent-sc1] {
+          display: block; }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .nav-btns[_ngcontent-sc1]   .logged[_ngcontent-sc1]   .dropdown-content[_ngcontent-sc1]   a[_ngcontent-sc1]:not(:last-child) {
+            margin-bottom: 10px; }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .nav-btns[_ngcontent-sc1]   .logged[_ngcontent-sc1]   .dropdown-content[_ngcontent-sc1]:hover {
+          display: block; }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .nav-btns[_ngcontent-sc1]   .logged[_ngcontent-sc1]    > a[_ngcontent-sc1] {
+        display: inline-block;
+        vertical-align: middle;
+        cursor: pointer; }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .nav-btns[_ngcontent-sc1]   .logged[_ngcontent-sc1]    > a[_ngcontent-sc1]    > i[_ngcontent-sc1] {
+          font-size: 30px; }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .nav-btns[_ngcontent-sc1]   .logged[_ngcontent-sc1]    > a[_ngcontent-sc1]   sup[_ngcontent-sc1] {
+          vertical-align: top;
+          font-size: 18px;
+          color: #DC3545; }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .nav-btns[_ngcontent-sc1]   .logged[_ngcontent-sc1]    > a[_ngcontent-sc1]:hover    + .dropdown-content[_ngcontent-sc1] {
+          display: block; }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .nav-btns[_ngcontent-sc1]   .login[_ngcontent-sc1] {
+      position: relative; }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .nav-btns[_ngcontent-sc1]   .login[_ngcontent-sc1]   i[class*='user'][_ngcontent-sc1] {
+        color: #00415F; }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .nav-btns[_ngcontent-sc1]   .login[_ngcontent-sc1]:hover   .login-dropdown[_ngcontent-sc1] {
+        display: block; }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .nav-btns[_ngcontent-sc1]   .login[_ngcontent-sc1]   .login-dropdown[_ngcontent-sc1] {
+        position: absolute;
+        top: 30px;
+        left: auto;
+        right: 0;
+        bottom: auto;
+        z-index: 999;
+        overflow-y: auto;
+        background: #FFF;
+        padding: 10px;
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.16);
+        border-radius: 4px;
+        display: none; }
+
+.navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .nav-btns[_ngcontent-sc1]   .btn-a[_ngcontent-sc1] {
+      display: inline-block;
+      line-height: 40px;
+      width: 90px;
+      text-align: center;
+      height: 40px;
+      border-radius: 4px;
+      border: none;
+      outline: none;
+      box-shadow: none;
+      background: #00415F;
+      color: #FFF;
+      font-size: 18px;
+      cursor: pointer;
+      text-decoration: none;
+      vertical-align: middle;
+      margin-left: 30px; }
+
+@media screen and (max-width: 770px) {
+        .navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .nav-btns[_ngcontent-sc1]   .btn-a.btn-sm-none[_ngcontent-sc1] {
+          display: none; } }
+
+@media screen and (min-width: 771px) {
+      .navs-con[_ngcontent-sc1]   .first-nav[_ngcontent-sc1]   .nav-btns[_ngcontent-sc1]   .btn-sm-show[_ngcontent-sc1] {
+        display: none !important; } }
+
+.navs-con[_ngcontent-sc1]   .second-nav[_ngcontent-sc1] {
+    background: #E7E7E7;
+    padding: 0;
+    text-align: center; }
+
+.navs-con[_ngcontent-sc1]   .second-nav[_ngcontent-sc1]   .container[_ngcontent-sc1] {
+      padding: 0; }
+
+.navs-con[_ngcontent-sc1]   .second-nav[_ngcontent-sc1]   .collapse[_ngcontent-sc1]   .navbar-nav[_ngcontent-sc1] {
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+      width: 100%; }
+
+.navs-con[_ngcontent-sc1]   .second-nav[_ngcontent-sc1]   .collapse[_ngcontent-sc1]   .navbar-nav[_ngcontent-sc1]   .nav-item[_ngcontent-sc1]:not(lsat-child) {
+        margin-right: 10px; }
+
+.navs-con[_ngcontent-sc1]   .second-nav[_ngcontent-sc1]   .collapse[_ngcontent-sc1]   .navbar-nav[_ngcontent-sc1]   .nav-item.dropdown-trigger[_ngcontent-sc1] {
+        position: relative; }
+
+@media screen and (max-width: 992px) {
+          .navs-con[_ngcontent-sc1]   .second-nav[_ngcontent-sc1]   .collapse[_ngcontent-sc1]   .navbar-nav[_ngcontent-sc1]   .nav-item.dropdown-trigger[_ngcontent-sc1]   a[_ngcontent-sc1]   i[_ngcontent-sc1] {
+            display: none; } }
+
+@media screen and (min-width: 992px) {
+          .navs-con[_ngcontent-sc1]   .second-nav[_ngcontent-sc1]   .collapse[_ngcontent-sc1]   .navbar-nav[_ngcontent-sc1]   .nav-item.dropdown-trigger[_ngcontent-sc1]:hover   .dropdown-div[_ngcontent-sc1] {
+            display: block; } }
+
+.navs-con[_ngcontent-sc1]   .second-nav[_ngcontent-sc1]   .collapse[_ngcontent-sc1]   .navbar-nav[_ngcontent-sc1]   .nav-item[_ngcontent-sc1]   .dropdown-div[_ngcontent-sc1] {
+        position: absolute;
+        top: 30px;
+        left: 0;
+        right: auto;
+        bottom: auto;
+        z-index: 999;
+        width: 250px;
+        max-height: 250px;
+        overflow-y: auto;
+        background: #FFF;
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.16);
+        border-radius: 4px;
+        display: none; }
+
+.navs-con[_ngcontent-sc1]   .second-nav[_ngcontent-sc1]   .collapse[_ngcontent-sc1]   .navbar-nav[_ngcontent-sc1]   .nav-item[_ngcontent-sc1]   .dropdown-div[_ngcontent-sc1]   ul[_ngcontent-sc1] {
+          list-style: none;
+          margin-bottom: 0;
+          text-align: left;
+          padding: 10px 0; }
+
+.navs-con[_ngcontent-sc1]   .second-nav[_ngcontent-sc1]   .collapse[_ngcontent-sc1]   .navbar-nav[_ngcontent-sc1]   .nav-item[_ngcontent-sc1]   .dropdown-div[_ngcontent-sc1]   ul[_ngcontent-sc1]   li[_ngcontent-sc1]   a[_ngcontent-sc1] {
+            display: block;
+            padding: 10px;
+            text-decoration: none;
+            transition: box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out, padding-left 0.2s ease-in-out; }
+
+.navs-con[_ngcontent-sc1]   .second-nav[_ngcontent-sc1]   .collapse[_ngcontent-sc1]   .navbar-nav[_ngcontent-sc1]   .nav-item[_ngcontent-sc1]   .dropdown-div[_ngcontent-sc1]   ul[_ngcontent-sc1]   li[_ngcontent-sc1]   a[_ngcontent-sc1]:hover {
+              box-shadow: 0 0 3px rgba(0, 0, 0, 0.16);
+              background: #F0F0F0;
+              padding-left: 40px; }
+
+.navs-con[_ngcontent-sc1]   .second-nav[_ngcontent-sc1]   .collapse[_ngcontent-sc1]   .navbar-nav[_ngcontent-sc1]   .nav-item[_ngcontent-sc1]   .dropdown-div[_ngcontent-sc1]:hover {
+          display: block; }
+
+.navs-con[_ngcontent-sc1]   .second-nav[_ngcontent-sc1]   .collapse[_ngcontent-sc1]   .navbar-nav[_ngcontent-sc1]   .nav-item[_ngcontent-sc1]   a[_ngcontent-sc1] {
+        color: #00415F;
+        padding: 10px 0; }
+
+.navs-con[_ngcontent-sc1]   .second-nav[_ngcontent-sc1]   .collapse[_ngcontent-sc1]   .navbar-nav[_ngcontent-sc1]   .nav-item[_ngcontent-sc1]   a[_ngcontent-sc1]   i[_ngcontent-sc1] {
+          vertical-align: text-top;
+          margin-left: 2px;
+          color: #00415F; }
+
+.navs-con[_ngcontent-sc1]   .second-nav[_ngcontent-sc1]   .collapse[_ngcontent-sc1]   .navbar-nav[_ngcontent-sc1]   .nav-item[_ngcontent-sc1]:first-of-type {
+        margin-left: 0; }
+
+.navs-con[_ngcontent-sc1]   .second-nav[_ngcontent-sc1]   .collapse[_ngcontent-sc1]   .navbar-nav[_ngcontent-sc1]   .nav-item[_ngcontent-sc1]:last-of-type {
+        margin-right: 0; }
+
+.example-viewport[_ngcontent-sc1] {
+  height: 250px;
+  width: 250px;
+  border: 1px solid black;
+  margin-bottom: 0;
+  text-align: left;
+  padding: 10px 0; }
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvdmlld3MvY29tcG9uZW50cy9uYXYtYmFyL0Q6XFxMZWFybkFuZFdvcmtcXERldmVsb3BOZXR3b3JrXFxlYXN5c2Nob29sc2Zyb250L3NyY1xcYXBwXFx2aWV3c1xcY29tcG9uZW50c1xcbmF2LWJhclxcbmF2LWJhci5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvdmlld3MvY29tcG9uZW50cy9uYXYtYmFyL25hdi1iYXIuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBTUM7RUFERDtJQUVFLGVBQWdCLEVBQUEsRUFFakI7O0FBV0Q7RUFDQyxrQkFBbUI7RUFLbkIsVUFBWSxFQUFBOztBQU5iO0lBU0UsZ0JBQWlCLEVBQUE7O0FBVG5CO0lBYUUsZ0JBQWlCLEVBQUE7O0FBYm5CO0lBaUJFLGdCQUFpQjtJQUNqQixVQUFjLEVBQUE7O0FBbEJoQjtNQXNCSSxZQUFhLEVBQUE7O0FBQ2I7UUF2Qko7VUF3QkssWUFBYTtVQUNiLFdBQWEsRUFBQSxFQUVkOztBQTNCSjtNQStCRyxXQUFvQjtNQUNwQixtQkFsRGlCO01BbURqQixrQkFBbUI7TUFFbkIsa0JBQXdCLEVBQUE7O0FBQ3hCO1FBcENIO1VBcUNJLFlBQWE7VUFDYixXQUFhLEVBQUEsRUF1Q2Q7O0FBN0VIO1FBMENJLFlBQXFCO1FBQ3JCLHdCQUFrQztRQUNsQyxxQkFBNkI7UUFDN0Isc0JBQXVCO1FBQ3ZCLGdCQUFrQjtRQUNsQixZQUFxQjtRQUNyQixhQUFxQjtRQUNyQix1QkFBNEI7UUFDNUIsa0JBQXFCLEVBQUE7O0FBQ3JCO1VBbkRKO1lBb0RLLFlBQWEsRUFBQSxFQUVkOztBQXRESjtRQXlESSxXQUFxQjtRQUNyQixZQUFxQjtRQUNyQixxQkFBNkI7UUFDN0Isc0JBQXVCO1FBQ3ZCLGdCQUFrQjtRQUNsQix1QkFBNEIsRUFBQTs7QUFDNUI7VUEvREo7WUFnRUssWUFBa0I7WUFDbEIsaUJBQWtCLEVBQUEsRUFFbkI7O0FBbkVKO1FBc0VJLGtCQUFtQjtRQUNuQixTQUFlO1FBQ2YsT0FBWTtRQUNaLFFBQVk7UUFDWixZQUFlO1FBQ2YsYUFBZSxFQUFBOztBQTNFbkI7TUFpRkksa0JBQW1CLEVBQUE7O0FBakZ2QjtRQW9GSyxrQkFBd0I7UUFDeEIsU0FBb0I7UUFDcEIsVUFBb0I7UUFDcEIsUUFBaUI7UUFDakIsWUFBb0I7UUFDcEIsWUFBbUI7UUFDbkIsWUFBcUI7UUFDckIsZ0JBQW9CO1FBQ3BCLGFBQW9CO1FBQ3BCLHVDQUEyQztRQUMzQyxrQkFBbUI7UUFDbkIsYUFBb0IsRUFBQTs7QUEvRnpCO1VBa0dNLGNBQWUsRUFBQTs7QUFsR3JCO1lBcUdPLG1CQUFvQixFQUFBOztBQXJHM0I7VUEwR00sY0FBZSxFQUFBOztBQTFHckI7UUErR0sscUJBQTZCO1FBRTdCLHNCQUF1QjtRQUN2QixlQUF3QixFQUFBOztBQWxIN0I7VUFxSE0sZUFBZ0IsRUFBQTs7QUFySHRCO1VBeUhNLG1CQUFvQjtVQUNwQixlQUFxQjtVQUNyQixjQUF3QixFQUFBOztBQTNIOUI7VUFnSU8sY0FBZSxFQUFBOztBQWhJdEI7TUF1SUksa0JBQW1CLEVBQUE7O0FBdkl2QjtRQTBJSyxjQUFlLEVBQUE7O0FBMUlwQjtRQStJTSxjQUFlLEVBQUE7O0FBL0lyQjtRQW9KSyxrQkFBd0I7UUFDeEIsU0FBb0I7UUFDcEIsVUFBb0I7UUFDcEIsUUFBaUI7UUFDakIsWUFBb0I7UUFDcEIsWUFBbUI7UUFFbkIsZ0JBQW9CO1FBQ3BCLGdCQUFvQjtRQUNwQixhQUFvQjtRQUNwQix1Q0FBMkM7UUFDM0Msa0JBQW1CO1FBQ25CLGFBQW9CLEVBQUE7O0FBaEt6QjtNQXFLSSxxQkFBOEI7TUFDOUIsaUJBQXNCO01BQ3RCLFdBQXNCO01BQ3RCLGtCQUF3QjtNQUN4QixZQUFzQjtNQUN0QixrQkFBcUI7TUFDckIsWUFBc0I7TUFDdEIsYUFBc0I7TUFDdEIsZ0JBQXNCO01BQ3RCLG1CQUF5QjtNQUN6QixXQUFzQjtNQUN0QixlQUFzQjtNQUN0QixlQUF5QjtNQUN6QixxQkFBc0I7TUFDdEIsc0JBQXdCO01BQ3hCLGlCQUFzQixFQUFBOztBQUdyQjtRQXZMTDtVQXdMTSxhQUFjLEVBQUEsRUFFZjs7QUFRRDtNQWxNSjtRQW1NSyx3QkFBeUIsRUFBQSxFQUcxQjs7QUF0TUo7SUEyTUUsbUJBN05rQjtJQThObEIsVUFBYztJQUNkLGtCQUFtQixFQUFBOztBQTdNckI7TUFnTkcsVUFBVyxFQUFBOztBQWhOZDtNQXFOSSxvQkFBc0I7TUFBdEIsYUFBc0I7TUFDdEIsbUJBQXNCO1VBQXRCLGVBQXNCO01BRXRCLHNCQUErQjtVQUEvQiw4QkFBK0I7TUFDL0IsV0FBc0IsRUFBQTs7QUF6TjFCO1FBZ09NLGtCQUFtQixFQUFBOztBQWhPekI7UUFnUE0sa0JBQW1CLEVBQUE7O0FBQ25CO1VBalBOO1lBb1BTLGFBQWMsRUFBQSxFQUNkOztBQUdIO1VBeFBOO1lBMlBTLGNBQWUsRUFBQSxFQUNmOztBQTVQVDtRQWtRTSxrQkFBd0I7UUFDeEIsU0FBb0I7UUFDcEIsT0FBaUI7UUFDakIsV0FBb0I7UUFDcEIsWUFBb0I7UUFDcEIsWUFBbUI7UUFDbkIsWUFBcUI7UUFDckIsaUJBQXFCO1FBRXJCLGdCQUFvQjtRQUNwQixnQkFBb0I7UUFFcEIsdUNBQTJDO1FBQzNDLGtCQUFtQjtRQUNuQixhQUFvQixFQUFBOztBQWhSMUI7VUFtUk8sZ0JBQW9CO1VBQ3BCLGdCQUFpQjtVQUNqQixnQkFBb0I7VUFDcEIsZUFBc0IsRUFBQTs7QUF0UjdCO1lBMFJTLGNBQXVCO1lBQ3ZCLGFBQXNCO1lBQ3RCLHFCQUFzQjtZQUN0QiwyR0FLb0IsRUFBQTs7QUNoSWpCO2NEa0lGLHVDQUNBO2NBclNWLG1CQW1ORTtjQTBGSyxrQkFDQSxFQUFBOztBQTlTUDtVQWtUTSxjQUFpQixFQUFBOztBQzFJakI7UUR4S04sY0EwTUM7UUNoQ08sZUQ2SUQsRUFBYzs7QUM1SWI7VUQ4SUQsd0JBQ0E7VUExVFAsZ0JBME1DO1VBb0hLLGNBQWUsRUFDZjs7QUEvVE47UUFrVU0sY0FBZSxFQUFDOztBQ2pKaEI7UUR5Sk4sZUFBa0IsRUFBQTs7QUN0SmxCO0VEeUpDLGFBQWdCO0VBQ2hCLFlBQUE7RUFDQSx1QkFBb0I7RUFDcEIsZ0JBQXNCO0VDdkpyQixnQkFBZ0I7RUFDaEIsZUFBZSxFQUFFIiwiZmlsZSI6InNyYy9hcHAvdmlld3MvY29tcG9uZW50cy9uYXYtYmFyL25hdi1iYXIuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAaW1wb3J0ICcuLi8uLi8uLi9tb2RlbHMvY29sb3JWYXIuc2Nzcyc7XHJcblxyXG4kZ0MgICAgICAgIDogI0U3RTdFNztcclxuJFNDICAgICAgICA6ICMwNDlGQjI7XHJcbiRzZWMtY29sb3IgOiAjRTZFNkU2O1xyXG4uY29udGFpbmVyIHtcclxuXHRAbWVkaWEgc2NyZWVuIHtcclxuXHRcdG1heC13aWR0aCA6IDk1dnc7XHJcblx0fVxyXG59XHJcblxyXG4vLy5kb3dubG9hZC1hcHAge1xyXG4vLyAgcG9zaXRpb24gOiBmaXhlZDtcclxuLy8gIHRvcCAgICAgIDogMDtcclxuLy8gIGxlZnQgICAgIDogMDtcclxuLy8gIHJpZ2h0ICAgIDogMDtcclxuLy8gIGJvdHRvbSAgIDogYXV0bztcclxuLy8gIHotaW5kZXggIDogMjtcclxuLy99XHJcblxyXG4ubmF2cy1jb24ge1xyXG5cdHBvc2l0aW9uIDogcmVsYXRpdmU7XHJcblx0Ly90b3AgICAgICA6IDA7XHJcblx0Ly9yaWdodCAgICA6IDA7XHJcblx0Ly9ib3R0b20gICA6IGF1dG87XHJcblx0Ly9sZWZ0ICAgICA6IDA7XHJcblx0ei1pbmRleCAgOiAxO1xyXG5cdFxyXG5cdCYubm90LWNvbXBsZXRlIHtcclxuXHRcdG1hcmdpbi10b3AgOiA1MHB4O1xyXG5cdH1cclxuXHRcclxuXHQuZG93bmxvYWQtYXBwIHtcclxuXHRcdG92ZXJmbG93IDogaGlkZGVuO1xyXG5cdH1cclxuXHRcclxuXHQuZmlyc3QtbmF2IHtcclxuXHRcdGJhY2tncm91bmQgOiAjRkZGO1xyXG5cdFx0cGFkZGluZyAgICA6IDA7XHJcblx0XHRcclxuXHRcdC5uYXZiYXItYnJhbmQge1xyXG5cdFx0XHRpbWcge1xyXG5cdFx0XHRcdGhlaWdodCA6IDY1cHg7XHJcblx0XHRcdFx0QG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aCA6IDU3NXB4KSB7XHJcblx0XHRcdFx0XHRoZWlnaHQgOiA0MHB4O1xyXG5cdFx0XHRcdFx0d2lkdGggIDogYXV0bztcclxuXHRcdFx0XHR9XHJcblx0XHRcdH1cclxuXHRcdH1cclxuXHRcdFxyXG5cdFx0Zm9ybSB7XHJcblx0XHRcdHdpZHRoICAgICAgICAgOiAzMHZ3O1xyXG5cdFx0XHRiYWNrZ3JvdW5kICAgIDogJGdDO1xyXG5cdFx0XHRib3JkZXItcmFkaXVzIDogNHB4O1xyXG5cdFx0XHQvL292ZXJmbG93ICAgICAgOiBoaWRkZW47XHJcblx0XHRcdHBvc2l0aW9uICAgICAgOiByZWxhdGl2ZTtcclxuXHRcdFx0QG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aCA6IDU3NXB4KSB7XHJcblx0XHRcdFx0aGVpZ2h0IDogMzBweDtcclxuXHRcdFx0XHR3aWR0aCAgOiA1MHZ3O1xyXG5cdFx0XHR9XHJcblx0XHRcdFxyXG5cdFx0XHRpbnB1dCB7XHJcblx0XHRcdFx0aGVpZ2h0ICAgICAgICAgOiA0MHB4O1xyXG5cdFx0XHRcdHdpZHRoICAgICAgICAgIDogY2FsYygxMDAlIC0gNDBweCk7XHJcblx0XHRcdFx0ZGlzcGxheSAgICAgICAgOiBpbmxpbmUtYmxvY2s7XHJcblx0XHRcdFx0dmVydGljYWwtYWxpZ24gOiBtaWRkbGU7XHJcblx0XHRcdFx0Ym9yZGVyLXJhZGl1cyAgOiAwO1xyXG5cdFx0XHRcdGJvcmRlciAgICAgICAgIDogbm9uZTtcclxuXHRcdFx0XHRvdXRsaW5lICAgICAgICA6IG5vbmU7XHJcblx0XHRcdFx0YmFja2dyb3VuZCAgICAgOiB0cmFuc3BhcmVudDtcclxuXHRcdFx0XHRwYWRkaW5nLWxlZnQgICA6IDE1cHg7XHJcblx0XHRcdFx0QG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aCA6IDU3NXB4KSB7XHJcblx0XHRcdFx0XHRoZWlnaHQgOiAzMHB4O1xyXG5cdFx0XHRcdH1cclxuXHRcdFx0fVxyXG5cdFx0XHRcclxuXHRcdFx0YnV0dG9uIHtcclxuXHRcdFx0XHR3aWR0aCAgICAgICAgICA6IDQwcHg7XHJcblx0XHRcdFx0aGVpZ2h0ICAgICAgICAgOiA0MHB4O1xyXG5cdFx0XHRcdGRpc3BsYXkgICAgICAgIDogaW5saW5lLWJsb2NrO1xyXG5cdFx0XHRcdHZlcnRpY2FsLWFsaWduIDogbWlkZGxlO1xyXG5cdFx0XHRcdGJvcmRlci1yYWRpdXMgIDogMDtcclxuXHRcdFx0XHRiYWNrZ3JvdW5kICAgICA6IHRyYW5zcGFyZW50O1xyXG5cdFx0XHRcdEBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGggOiA1NzVweCkge1xyXG5cdFx0XHRcdFx0aGVpZ2h0ICAgICAgOiAzMHB4O1xyXG5cdFx0XHRcdFx0bGluZS1oZWlnaHQgOiAxNXB4O1xyXG5cdFx0XHRcdH1cclxuXHRcdFx0fVxyXG5cdFx0XHRcclxuXHRcdFx0LnNlYXJjaC1yZXMge1xyXG5cdFx0XHRcdHBvc2l0aW9uIDogYWJzb2x1dGU7XHJcblx0XHRcdFx0dG9wICAgICAgOiA0MHB4O1xyXG5cdFx0XHRcdGxlZnQgICAgIDogMDtcclxuXHRcdFx0XHRyaWdodCAgICA6IDA7XHJcblx0XHRcdFx0Ym90dG9tICAgOiBhdXRvO1xyXG5cdFx0XHRcdHotaW5kZXggIDogOTk5OTtcclxuXHRcdFx0fVxyXG5cdFx0fVxyXG5cdFx0XHJcblx0XHQubmF2LWJ0bnMge1xyXG5cdFx0XHQubG9nZ2VkIHtcclxuXHRcdFx0XHRwb3NpdGlvbiA6IHJlbGF0aXZlO1xyXG5cdFx0XHRcdFxyXG5cdFx0XHRcdC5kcm9wZG93bi1jb250ZW50IHtcclxuXHRcdFx0XHRcdHBvc2l0aW9uICAgICAgOiBhYnNvbHV0ZTtcclxuXHRcdFx0XHRcdHRvcCAgICAgICAgICAgOiAzMHB4O1xyXG5cdFx0XHRcdFx0bGVmdCAgICAgICAgICA6IGF1dG87XHJcblx0XHRcdFx0XHRyaWdodCAgICAgICAgIDogMDtcclxuXHRcdFx0XHRcdGJvdHRvbSAgICAgICAgOiBhdXRvO1xyXG5cdFx0XHRcdFx0ei1pbmRleCAgICAgICA6IDk5OTtcclxuXHRcdFx0XHRcdHdpZHRoICAgICAgICAgOiAyMDBweDtcclxuXHRcdFx0XHRcdGJhY2tncm91bmQgICAgOiAjRkZGO1xyXG5cdFx0XHRcdFx0cGFkZGluZyAgICAgICA6IDEwcHg7XHJcblx0XHRcdFx0XHRib3gtc2hhZG93ICAgIDogMCAwIDZweCByZ2JhKDAsIDAsIDAsIDAuMTYpO1xyXG5cdFx0XHRcdFx0Ym9yZGVyLXJhZGl1cyA6IDRweDtcclxuXHRcdFx0XHRcdGRpc3BsYXkgICAgICAgOiBub25lO1xyXG5cdFx0XHRcdFx0XHJcblx0XHRcdFx0XHRhIHtcclxuXHRcdFx0XHRcdFx0ZGlzcGxheSA6IGJsb2NrO1xyXG5cdFx0XHRcdFx0XHRcclxuXHRcdFx0XHRcdFx0Jjpub3QoOmxhc3QtY2hpbGQpIHtcclxuXHRcdFx0XHRcdFx0XHRtYXJnaW4tYm90dG9tIDogMTBweDtcclxuXHRcdFx0XHRcdFx0fVxyXG5cdFx0XHRcdFx0fVxyXG5cdFx0XHRcdFx0XHJcblx0XHRcdFx0XHQmOmhvdmVyIHtcclxuXHRcdFx0XHRcdFx0ZGlzcGxheSA6IGJsb2NrO1xyXG5cdFx0XHRcdFx0fVxyXG5cdFx0XHRcdH1cclxuXHRcdFx0XHRcclxuXHRcdFx0XHQ+IGEge1xyXG5cdFx0XHRcdFx0ZGlzcGxheSAgICAgICAgOiBpbmxpbmUtYmxvY2s7XHJcblx0XHRcdFx0XHQvL21hcmdpbi1yaWdodCAgIDogMzBweDtcclxuXHRcdFx0XHRcdHZlcnRpY2FsLWFsaWduIDogbWlkZGxlO1xyXG5cdFx0XHRcdFx0Y3Vyc29yICAgICAgICAgOiBwb2ludGVyO1xyXG5cdFx0XHRcdFx0XHJcblx0XHRcdFx0XHQ+IGkge1xyXG5cdFx0XHRcdFx0XHRmb250LXNpemUgOiAzMHB4O1xyXG5cdFx0XHRcdFx0fVxyXG5cdFx0XHRcdFx0XHJcblx0XHRcdFx0XHRzdXAge1xyXG5cdFx0XHRcdFx0XHR2ZXJ0aWNhbC1hbGlnbiA6IHRvcDtcclxuXHRcdFx0XHRcdFx0Zm9udC1zaXplICAgICAgOiAxOHB4O1xyXG5cdFx0XHRcdFx0XHRjb2xvciAgICAgICAgICA6ICNEQzM1NDU7XHJcblx0XHRcdFx0XHR9XHJcblx0XHRcdFx0XHRcclxuXHRcdFx0XHRcdCY6aG92ZXIge1xyXG5cdFx0XHRcdFx0XHQrIC5kcm9wZG93bi1jb250ZW50IHtcclxuXHRcdFx0XHRcdFx0XHRkaXNwbGF5IDogYmxvY2s7XHJcblx0XHRcdFx0XHRcdH1cclxuXHRcdFx0XHRcdH1cclxuXHRcdFx0XHR9XHJcblx0XHRcdH1cclxuXHRcdFx0XHJcblx0XHRcdC5sb2dpbiB7XHJcblx0XHRcdFx0cG9zaXRpb24gOiByZWxhdGl2ZTtcclxuXHRcdFx0XHRcclxuXHRcdFx0XHRpW2NsYXNzKj0ndXNlciddIHtcclxuXHRcdFx0XHRcdGNvbG9yIDogIzAwNDE1RjtcclxuXHRcdFx0XHR9XHJcblx0XHRcdFx0XHJcblx0XHRcdFx0Jjpob3ZlciB7XHJcblx0XHRcdFx0XHQubG9naW4tZHJvcGRvd24ge1xyXG5cdFx0XHRcdFx0XHRkaXNwbGF5IDogYmxvY2s7XHJcblx0XHRcdFx0XHR9XHJcblx0XHRcdFx0fVxyXG5cdFx0XHRcdFxyXG5cdFx0XHRcdC5sb2dpbi1kcm9wZG93biB7XHJcblx0XHRcdFx0XHRwb3NpdGlvbiAgICAgIDogYWJzb2x1dGU7XHJcblx0XHRcdFx0XHR0b3AgICAgICAgICAgIDogMzBweDtcclxuXHRcdFx0XHRcdGxlZnQgICAgICAgICAgOiBhdXRvO1xyXG5cdFx0XHRcdFx0cmlnaHQgICAgICAgICA6IDA7XHJcblx0XHRcdFx0XHRib3R0b20gICAgICAgIDogYXV0bztcclxuXHRcdFx0XHRcdHotaW5kZXggICAgICAgOiA5OTk7XHJcblx0XHRcdFx0XHQvL292ZXJmbG93LXkgICAgOiBzY3JvbGw7XHJcblx0XHRcdFx0XHRvdmVyZmxvdy15ICAgIDogYXV0bztcclxuXHRcdFx0XHRcdGJhY2tncm91bmQgICAgOiAjRkZGO1xyXG5cdFx0XHRcdFx0cGFkZGluZyAgICAgICA6IDEwcHg7XHJcblx0XHRcdFx0XHRib3gtc2hhZG93ICAgIDogMCAwIDZweCByZ2JhKDAsIDAsIDAsIDAuMTYpO1xyXG5cdFx0XHRcdFx0Ym9yZGVyLXJhZGl1cyA6IDRweDtcclxuXHRcdFx0XHRcdGRpc3BsYXkgICAgICAgOiBub25lO1xyXG5cdFx0XHRcdH1cclxuXHRcdFx0fVxyXG5cdFx0XHRcclxuXHRcdFx0LmJ0bi1hIHtcclxuXHRcdFx0XHRkaXNwbGF5ICAgICAgICAgOiBpbmxpbmUtYmxvY2s7XHJcblx0XHRcdFx0bGluZS1oZWlnaHQgICAgIDogNDBweDtcclxuXHRcdFx0XHR3aWR0aCAgICAgICAgICAgOiA5MHB4O1xyXG5cdFx0XHRcdHRleHQtYWxpZ24gICAgICA6IGNlbnRlcjtcclxuXHRcdFx0XHRoZWlnaHQgICAgICAgICAgOiA0MHB4O1xyXG5cdFx0XHRcdGJvcmRlci1yYWRpdXMgICA6IDRweDtcclxuXHRcdFx0XHRib3JkZXIgICAgICAgICAgOiBub25lO1xyXG5cdFx0XHRcdG91dGxpbmUgICAgICAgICA6IG5vbmU7XHJcblx0XHRcdFx0Ym94LXNoYWRvdyAgICAgIDogbm9uZTtcclxuXHRcdFx0XHRiYWNrZ3JvdW5kICAgICAgOiAjMDA0MTVGO1xyXG5cdFx0XHRcdGNvbG9yICAgICAgICAgICA6ICNGRkY7XHJcblx0XHRcdFx0Zm9udC1zaXplICAgICAgIDogMThweDtcclxuXHRcdFx0XHRjdXJzb3IgICAgICAgICAgOiBwb2ludGVyO1xyXG5cdFx0XHRcdHRleHQtZGVjb3JhdGlvbiA6IG5vbmU7XHJcblx0XHRcdFx0dmVydGljYWwtYWxpZ24gIDogbWlkZGxlO1xyXG5cdFx0XHRcdG1hcmdpbi1sZWZ0ICAgICA6IDMwcHg7XHJcblx0XHRcdFx0XHJcblx0XHRcdFx0Ji5idG4tc20tbm9uZSB7XHJcblx0XHRcdFx0XHRAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoIDogNzcwcHgpIHtcclxuXHRcdFx0XHRcdFx0ZGlzcGxheSA6IG5vbmU7XHJcblx0XHRcdFx0XHR9XHJcblx0XHRcdFx0fVxyXG5cdFx0XHRcdFxyXG5cdFx0XHRcdCY6bm90KDpsYXN0LW9mLXR5cGUpIHtcclxuXHRcdFx0XHRcdC8vbWFyZ2luLXJpZ2h0IDogMzBweDtcclxuXHRcdFx0XHR9XHJcblx0XHRcdH1cclxuXHRcdFx0XHJcblx0XHRcdC5idG4tc20tc2hvdyB7XHJcblx0XHRcdFx0QG1lZGlhIHNjcmVlbiBhbmQgKG1pbi13aWR0aCA6IDc3MXB4KSB7XHJcblx0XHRcdFx0XHRkaXNwbGF5IDogbm9uZSAhaW1wb3J0YW50O1xyXG5cdFx0XHRcdFx0Ly9kaXNwbGF5IDogYmxvY2s7XHJcblx0XHRcdFx0fVxyXG5cdFx0XHR9XHJcblx0XHR9XHJcblx0fVxyXG5cdFxyXG5cdC5zZWNvbmQtbmF2IHtcclxuXHRcdGJhY2tncm91bmQgOiAkZ0M7XHJcblx0XHRwYWRkaW5nICAgIDogMDtcclxuXHRcdHRleHQtYWxpZ24gOiBjZW50ZXI7XHJcblx0XHRcclxuXHRcdC5jb250YWluZXIge1xyXG5cdFx0XHRwYWRkaW5nIDogMDtcclxuXHRcdH1cclxuXHRcdFxyXG5cdFx0LmNvbGxhcHNlIHtcclxuXHRcdFx0Lm5hdmJhci1uYXYge1xyXG5cdFx0XHRcdGRpc3BsYXkgICAgICAgICA6IGZsZXg7XHJcblx0XHRcdFx0ZmxleC13cmFwICAgICAgIDogd3JhcDtcclxuXHRcdFx0XHQvL21hcmdpbiAgICAgICAgICA6IGF1dG87XHJcblx0XHRcdFx0anVzdGlmeS1jb250ZW50IDogc3BhY2UtYmV0d2VlbjtcclxuXHRcdFx0XHR3aWR0aCAgICAgICAgICAgOiAxMDAlO1xyXG5cdFx0XHRcdFxyXG5cdFx0XHRcdC5uYXYtaXRlbSB7XHJcblx0XHRcdFx0XHQvL21hcmdpbiA6IGF1dG87XHJcblx0XHRcdFx0XHQvL3Bvc2l0aW9uIDogcmVsYXRpdmU7XHJcblx0XHRcdFx0XHQvL3BhZGRpbmctcmlnaHQgOiAycHg7XHJcblx0XHRcdFx0XHQmOm5vdChsc2F0LWNoaWxkKSB7XHJcblx0XHRcdFx0XHRcdG1hcmdpbi1yaWdodCA6IDEwcHg7XHJcblx0XHRcdFx0XHR9XHJcblx0XHRcdFx0XHRcclxuXHRcdFx0XHRcdC8vJjpub3QoOmxhc3Qtb2YtdHlwZSkge1xyXG5cdFx0XHRcdFx0Ly8gICY6YWZ0ZXIge1xyXG5cdFx0XHRcdFx0Ly8gICAgcG9zaXRpb24gICAgIDogYWJzb2x1dGU7XHJcblx0XHRcdFx0XHQvLyAgICBsZWZ0ICAgICAgICAgOiBhdXRvO1xyXG5cdFx0XHRcdFx0Ly8gICAgcmlnaHQgICAgICAgIDogMDtcclxuXHRcdFx0XHRcdC8vICAgIHRvcCAgICAgICAgICA6IDA7XHJcblx0XHRcdFx0XHQvLyAgICBib3R0b20gICAgICAgOiAwO1xyXG5cdFx0XHRcdFx0Ly8gICAgYm9yZGVyLXJpZ2h0IDogMXB4IHNvbGlkICRTQztcclxuXHRcdFx0XHRcdC8vICAgIGNvbnRlbnQgICAgICA6IFwiXCI7XHJcblx0XHRcdFx0XHQvLyAgfVxyXG5cdFx0XHRcdFx0Ly99XHJcblx0XHRcdFx0XHRcclxuXHRcdFx0XHRcdCYuZHJvcGRvd24tdHJpZ2dlciB7XHJcblx0XHRcdFx0XHRcdHBvc2l0aW9uIDogcmVsYXRpdmU7XHJcblx0XHRcdFx0XHRcdEBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGggOiA5OTJweCkge1xyXG5cdFx0XHRcdFx0XHRcdGEge1xyXG5cdFx0XHRcdFx0XHRcdFx0aSB7XHJcblx0XHRcdFx0XHRcdFx0XHRcdGRpc3BsYXkgOiBub25lO1xyXG5cdFx0XHRcdFx0XHRcdFx0fVxyXG5cdFx0XHRcdFx0XHRcdH1cclxuXHRcdFx0XHRcdFx0fVxyXG5cdFx0XHRcdFx0XHRAbWVkaWEgc2NyZWVuIGFuZCAobWluLXdpZHRoIDogOTkycHgpIHtcclxuXHRcdFx0XHRcdFx0XHQmOmhvdmVyIHtcclxuXHRcdFx0XHRcdFx0XHRcdC5kcm9wZG93bi1kaXYge1xyXG5cdFx0XHRcdFx0XHRcdFx0XHRkaXNwbGF5IDogYmxvY2s7XHJcblx0XHRcdFx0XHRcdFx0XHR9XHJcblx0XHRcdFx0XHRcdFx0fVxyXG5cdFx0XHRcdFx0XHR9XHJcblx0XHRcdFx0XHR9XHJcblx0XHRcdFx0XHRcclxuXHRcdFx0XHRcdC5kcm9wZG93bi1kaXYge1xyXG5cdFx0XHRcdFx0XHRwb3NpdGlvbiAgICAgIDogYWJzb2x1dGU7XHJcblx0XHRcdFx0XHRcdHRvcCAgICAgICAgICAgOiAzMHB4O1xyXG5cdFx0XHRcdFx0XHRsZWZ0ICAgICAgICAgIDogMDtcclxuXHRcdFx0XHRcdFx0cmlnaHQgICAgICAgICA6IGF1dG87XHJcblx0XHRcdFx0XHRcdGJvdHRvbSAgICAgICAgOiBhdXRvO1xyXG5cdFx0XHRcdFx0XHR6LWluZGV4ICAgICAgIDogOTk5O1xyXG5cdFx0XHRcdFx0XHR3aWR0aCAgICAgICAgIDogMjUwcHg7XHJcblx0XHRcdFx0XHRcdG1heC1oZWlnaHQgICAgOiAyNTBweDtcclxuXHRcdFx0XHRcdFx0Ly9vdmVyZmxvdy15ICAgIDogc2Nyb2xsO1xyXG5cdFx0XHRcdFx0XHRvdmVyZmxvdy15ICAgIDogYXV0bztcclxuXHRcdFx0XHRcdFx0YmFja2dyb3VuZCAgICA6ICNGRkY7XHJcblx0XHRcdFx0XHRcdC8vcGFkZGluZyAgICAgICA6IDEwcHg7XHJcblx0XHRcdFx0XHRcdGJveC1zaGFkb3cgICAgOiAwIDAgNnB4IHJnYmEoMCwgMCwgMCwgMC4xNik7XHJcblx0XHRcdFx0XHRcdGJvcmRlci1yYWRpdXMgOiA0cHg7XHJcblx0XHRcdFx0XHRcdGRpc3BsYXkgICAgICAgOiBub25lO1xyXG5cdFx0XHRcdFx0XHRcclxuXHRcdFx0XHRcdFx0dWwge1xyXG5cdFx0XHRcdFx0XHRcdGxpc3Qtc3R5bGUgICAgOiBub25lO1xyXG5cdFx0XHRcdFx0XHRcdG1hcmdpbi1ib3R0b20gOiAwO1xyXG5cdFx0XHRcdFx0XHRcdHRleHQtYWxpZ24gICAgOiBsZWZ0O1xyXG5cdFx0XHRcdFx0XHRcdHBhZGRpbmcgICAgICAgOiAxMHB4IDA7XHJcblx0XHRcdFx0XHRcdFx0XHJcblx0XHRcdFx0XHRcdFx0bGkge1xyXG5cdFx0XHRcdFx0XHRcdFx0YSB7XHJcblx0XHRcdFx0XHRcdFx0XHRcdGRpc3BsYXkgICAgICAgICA6IGJsb2NrO1xyXG5cdFx0XHRcdFx0XHRcdFx0XHRwYWRkaW5nICAgICAgICAgOiAxMHB4O1xyXG5cdFx0XHRcdFx0XHRcdFx0XHR0ZXh0LWRlY29yYXRpb24gOiBub25lO1xyXG5cdFx0XHRcdFx0XHRcdFx0XHR0cmFuc2l0aW9uICAgICAgOiBib3gtc2hhZG93IDAuMnMgZWFzZS1pbi1vdXQsXHJcblx0XHRcdFx0XHRcdFx0XHRcdGJhY2tncm91bmQtY29sb3IgMC4ycyBlYXNlLWluLW91dCxcclxuXHRcdFx0XHRcdFx0XHRcdFx0cGFkZGluZy1sZWZ0IDAuMnMgZWFzZS1pbi1vdXQ7XHJcblx0XHRcdFx0XHRcdFx0XHRcdFxyXG5cdFx0XHRcdFx0XHRcdFx0XHQmOmhvdmVyIHtcclxuXHRcdFx0XHRcdFx0XHRcdFx0XHRib3gtc2hhZG93ICAgOiAwIDAgM3B4IHJnYmEoMCwgMCwgMCwgMC4xNik7XHJcblx0XHRcdFx0XHRcdFx0XHRcdFx0YmFja2dyb3VuZCAgIDogI0YwRjBGMDtcclxuXHRcdFx0XHRcdFx0XHRcdFx0XHRwYWRkaW5nLWxlZnQgOiA0MHB4O1xyXG5cdFx0XHRcdFx0XHRcdFx0XHR9XHJcblx0XHRcdFx0XHRcdFx0XHR9XHJcblx0XHRcdFx0XHRcdFx0XHRcclxuXHRcdFx0XHRcdFx0XHRcdC8vZGlzcGxheSA6IGJsb2NrO1xyXG5cdFx0XHRcdFx0XHRcdH1cclxuXHRcdFx0XHRcdFx0fVxyXG5cdFx0XHRcdFx0XHRcclxuXHRcdFx0XHRcdFx0Jjpob3ZlciB7XHJcblx0XHRcdFx0XHRcdFx0ZGlzcGxheSA6IGJsb2NrO1xyXG5cdFx0XHRcdFx0XHR9XHJcblx0XHRcdFx0XHR9XHJcblx0XHRcdFx0XHRcclxuXHRcdFx0XHRcdGEge1xyXG5cdFx0XHRcdFx0XHRjb2xvciAgIDogIzAwNDE1RjtcclxuXHRcdFx0XHRcdFx0Ly9mb250LXNpemUgOiAxOHB4O1xyXG5cdFx0XHRcdFx0XHRwYWRkaW5nIDogMTBweCAwO1xyXG5cdFx0XHRcdFx0XHRcclxuXHRcdFx0XHRcdFx0aSB7XHJcblx0XHRcdFx0XHRcdFx0dmVydGljYWwtYWxpZ24gOiB0ZXh0LXRvcDtcclxuXHRcdFx0XHRcdFx0XHRtYXJnaW4tbGVmdCAgICA6IDJweDtcclxuXHRcdFx0XHRcdFx0XHRjb2xvciAgICAgICAgICA6ICMwMDQxNUY7XHJcblx0XHRcdFx0XHRcdH1cclxuXHRcdFx0XHRcdH1cclxuXHRcdFx0XHRcdFxyXG5cdFx0XHRcdFx0JjpmaXJzdC1vZi10eXBlIHtcclxuXHRcdFx0XHRcdFx0bWFyZ2luLWxlZnQgOiAwO1xyXG5cdFx0XHRcdFx0fVxyXG5cdFx0XHRcdFx0XHJcblx0XHRcdFx0XHQmOmxhc3Qtb2YtdHlwZSB7XHJcblx0XHRcdFx0XHRcdG1hcmdpbi1yaWdodCA6IDA7XHJcblx0XHRcdFx0XHR9XHJcblx0XHRcdFx0fVxyXG5cdFx0XHR9XHJcblx0XHR9XHJcblx0fVxyXG59XHJcblxyXG4uZXhhbXBsZS12aWV3cG9ydCB7XHJcblx0aGVpZ2h0ICAgICAgICA6IDI1MHB4O1xyXG5cdHdpZHRoICAgICAgICAgOiAyNTBweDtcclxuXHRib3JkZXIgICAgICAgIDogMXB4IHNvbGlkIGJsYWNrO1xyXG5cdG1hcmdpbi1ib3R0b20gOiAwO1xyXG5cdHRleHQtYWxpZ24gICAgOiBsZWZ0O1xyXG5cdHBhZGRpbmcgICAgICAgOiAxMHB4IDA7XHJcbn1cclxuIiwiQG1lZGlhIHNjcmVlbiB7XG4gIC5jb250YWluZXIge1xuICAgIG1heC13aWR0aDogOTV2dzsgfSB9XG5cbi5uYXZzLWNvbiB7XG4gIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgei1pbmRleDogMTsgfVxuICAubmF2cy1jb24ubm90LWNvbXBsZXRlIHtcbiAgICBtYXJnaW4tdG9wOiA1MHB4OyB9XG4gIC5uYXZzLWNvbiAuZG93bmxvYWQtYXBwIHtcbiAgICBvdmVyZmxvdzogaGlkZGVuOyB9XG4gIC5uYXZzLWNvbiAuZmlyc3QtbmF2IHtcbiAgICBiYWNrZ3JvdW5kOiAjRkZGO1xuICAgIHBhZGRpbmc6IDA7IH1cbiAgICAubmF2cy1jb24gLmZpcnN0LW5hdiAubmF2YmFyLWJyYW5kIGltZyB7XG4gICAgICBoZWlnaHQ6IDY1cHg7IH1cbiAgICAgIEBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDU3NXB4KSB7XG4gICAgICAgIC5uYXZzLWNvbiAuZmlyc3QtbmF2IC5uYXZiYXItYnJhbmQgaW1nIHtcbiAgICAgICAgICBoZWlnaHQ6IDQwcHg7XG4gICAgICAgICAgd2lkdGg6IGF1dG87IH0gfVxuICAgIC5uYXZzLWNvbiAuZmlyc3QtbmF2IGZvcm0ge1xuICAgICAgd2lkdGg6IDMwdnc7XG4gICAgICBiYWNrZ3JvdW5kOiAjRTdFN0U3O1xuICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlOyB9XG4gICAgICBAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA1NzVweCkge1xuICAgICAgICAubmF2cy1jb24gLmZpcnN0LW5hdiBmb3JtIHtcbiAgICAgICAgICBoZWlnaHQ6IDMwcHg7XG4gICAgICAgICAgd2lkdGg6IDUwdnc7IH0gfVxuICAgICAgLm5hdnMtY29uIC5maXJzdC1uYXYgZm9ybSBpbnB1dCB7XG4gICAgICAgIGhlaWdodDogNDBweDtcbiAgICAgICAgd2lkdGg6IGNhbGMoMTAwJSAtIDQwcHgpO1xuICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgICAgb3V0bGluZTogbm9uZTtcbiAgICAgICAgYmFja2dyb3VuZDogdHJhbnNwYXJlbnQ7XG4gICAgICAgIHBhZGRpbmctbGVmdDogMTVweDsgfVxuICAgICAgICBAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA1NzVweCkge1xuICAgICAgICAgIC5uYXZzLWNvbiAuZmlyc3QtbmF2IGZvcm0gaW5wdXQge1xuICAgICAgICAgICAgaGVpZ2h0OiAzMHB4OyB9IH1cbiAgICAgIC5uYXZzLWNvbiAuZmlyc3QtbmF2IGZvcm0gYnV0dG9uIHtcbiAgICAgICAgd2lkdGg6IDQwcHg7XG4gICAgICAgIGhlaWdodDogNDBweDtcbiAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xuICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlO1xuICAgICAgICBib3JkZXItcmFkaXVzOiAwO1xuICAgICAgICBiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsgfVxuICAgICAgICBAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA1NzVweCkge1xuICAgICAgICAgIC5uYXZzLWNvbiAuZmlyc3QtbmF2IGZvcm0gYnV0dG9uIHtcbiAgICAgICAgICAgIGhlaWdodDogMzBweDtcbiAgICAgICAgICAgIGxpbmUtaGVpZ2h0OiAxNXB4OyB9IH1cbiAgICAgIC5uYXZzLWNvbiAuZmlyc3QtbmF2IGZvcm0gLnNlYXJjaC1yZXMge1xuICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICAgIHRvcDogNDBweDtcbiAgICAgICAgbGVmdDogMDtcbiAgICAgICAgcmlnaHQ6IDA7XG4gICAgICAgIGJvdHRvbTogYXV0bztcbiAgICAgICAgei1pbmRleDogOTk5OTsgfVxuICAgIC5uYXZzLWNvbiAuZmlyc3QtbmF2IC5uYXYtYnRucyAubG9nZ2VkIHtcbiAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsgfVxuICAgICAgLm5hdnMtY29uIC5maXJzdC1uYXYgLm5hdi1idG5zIC5sb2dnZWQgLmRyb3Bkb3duLWNvbnRlbnQge1xuICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICAgIHRvcDogMzBweDtcbiAgICAgICAgbGVmdDogYXV0bztcbiAgICAgICAgcmlnaHQ6IDA7XG4gICAgICAgIGJvdHRvbTogYXV0bztcbiAgICAgICAgei1pbmRleDogOTk5O1xuICAgICAgICB3aWR0aDogMjAwcHg7XG4gICAgICAgIGJhY2tncm91bmQ6ICNGRkY7XG4gICAgICAgIHBhZGRpbmc6IDEwcHg7XG4gICAgICAgIGJveC1zaGFkb3c6IDAgMCA2cHggcmdiYSgwLCAwLCAwLCAwLjE2KTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBkaXNwbGF5OiBub25lOyB9XG4gICAgICAgIC5uYXZzLWNvbiAuZmlyc3QtbmF2IC5uYXYtYnRucyAubG9nZ2VkIC5kcm9wZG93bi1jb250ZW50IGEge1xuICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOyB9XG4gICAgICAgICAgLm5hdnMtY29uIC5maXJzdC1uYXYgLm5hdi1idG5zIC5sb2dnZWQgLmRyb3Bkb3duLWNvbnRlbnQgYTpub3QoOmxhc3QtY2hpbGQpIHtcbiAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDEwcHg7IH1cbiAgICAgICAgLm5hdnMtY29uIC5maXJzdC1uYXYgLm5hdi1idG5zIC5sb2dnZWQgLmRyb3Bkb3duLWNvbnRlbnQ6aG92ZXIge1xuICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOyB9XG4gICAgICAubmF2cy1jb24gLmZpcnN0LW5hdiAubmF2LWJ0bnMgLmxvZ2dlZCA+IGEge1xuICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7XG4gICAgICAgIGN1cnNvcjogcG9pbnRlcjsgfVxuICAgICAgICAubmF2cy1jb24gLmZpcnN0LW5hdiAubmF2LWJ0bnMgLmxvZ2dlZCA+IGEgPiBpIHtcbiAgICAgICAgICBmb250LXNpemU6IDMwcHg7IH1cbiAgICAgICAgLm5hdnMtY29uIC5maXJzdC1uYXYgLm5hdi1idG5zIC5sb2dnZWQgPiBhIHN1cCB7XG4gICAgICAgICAgdmVydGljYWwtYWxpZ246IHRvcDtcbiAgICAgICAgICBmb250LXNpemU6IDE4cHg7XG4gICAgICAgICAgY29sb3I6ICNEQzM1NDU7IH1cbiAgICAgICAgLm5hdnMtY29uIC5maXJzdC1uYXYgLm5hdi1idG5zIC5sb2dnZWQgPiBhOmhvdmVyICsgLmRyb3Bkb3duLWNvbnRlbnQge1xuICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOyB9XG4gICAgLm5hdnMtY29uIC5maXJzdC1uYXYgLm5hdi1idG5zIC5sb2dpbiB7XG4gICAgICBwb3NpdGlvbjogcmVsYXRpdmU7IH1cbiAgICAgIC5uYXZzLWNvbiAuZmlyc3QtbmF2IC5uYXYtYnRucyAubG9naW4gaVtjbGFzcyo9J3VzZXInXSB7XG4gICAgICAgIGNvbG9yOiAjMDA0MTVGOyB9XG4gICAgICAubmF2cy1jb24gLmZpcnN0LW5hdiAubmF2LWJ0bnMgLmxvZ2luOmhvdmVyIC5sb2dpbi1kcm9wZG93biB7XG4gICAgICAgIGRpc3BsYXk6IGJsb2NrOyB9XG4gICAgICAubmF2cy1jb24gLmZpcnN0LW5hdiAubmF2LWJ0bnMgLmxvZ2luIC5sb2dpbi1kcm9wZG93biB7XG4gICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgICAgdG9wOiAzMHB4O1xuICAgICAgICBsZWZ0OiBhdXRvO1xuICAgICAgICByaWdodDogMDtcbiAgICAgICAgYm90dG9tOiBhdXRvO1xuICAgICAgICB6LWluZGV4OiA5OTk7XG4gICAgICAgIG92ZXJmbG93LXk6IGF1dG87XG4gICAgICAgIGJhY2tncm91bmQ6ICNGRkY7XG4gICAgICAgIHBhZGRpbmc6IDEwcHg7XG4gICAgICAgIGJveC1zaGFkb3c6IDAgMCA2cHggcmdiYSgwLCAwLCAwLCAwLjE2KTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBkaXNwbGF5OiBub25lOyB9XG4gICAgLm5hdnMtY29uIC5maXJzdC1uYXYgLm5hdi1idG5zIC5idG4tYSB7XG4gICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgICBsaW5lLWhlaWdodDogNDBweDtcbiAgICAgIHdpZHRoOiA5MHB4O1xuICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgaGVpZ2h0OiA0MHB4O1xuICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgYm9yZGVyOiBub25lO1xuICAgICAgb3V0bGluZTogbm9uZTtcbiAgICAgIGJveC1zaGFkb3c6IG5vbmU7XG4gICAgICBiYWNrZ3JvdW5kOiAjMDA0MTVGO1xuICAgICAgY29sb3I6ICNGRkY7XG4gICAgICBmb250LXNpemU6IDE4cHg7XG4gICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7XG4gICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlO1xuICAgICAgbWFyZ2luLWxlZnQ6IDMwcHg7IH1cbiAgICAgIEBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDc3MHB4KSB7XG4gICAgICAgIC5uYXZzLWNvbiAuZmlyc3QtbmF2IC5uYXYtYnRucyAuYnRuLWEuYnRuLXNtLW5vbmUge1xuICAgICAgICAgIGRpc3BsYXk6IG5vbmU7IH0gfVxuICAgIEBtZWRpYSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDc3MXB4KSB7XG4gICAgICAubmF2cy1jb24gLmZpcnN0LW5hdiAubmF2LWJ0bnMgLmJ0bi1zbS1zaG93IHtcbiAgICAgICAgZGlzcGxheTogbm9uZSAhaW1wb3J0YW50OyB9IH1cbiAgLm5hdnMtY29uIC5zZWNvbmQtbmF2IHtcbiAgICBiYWNrZ3JvdW5kOiAjRTdFN0U3O1xuICAgIHBhZGRpbmc6IDA7XG4gICAgdGV4dC1hbGlnbjogY2VudGVyOyB9XG4gICAgLm5hdnMtY29uIC5zZWNvbmQtbmF2IC5jb250YWluZXIge1xuICAgICAgcGFkZGluZzogMDsgfVxuICAgIC5uYXZzLWNvbiAuc2Vjb25kLW5hdiAuY29sbGFwc2UgLm5hdmJhci1uYXYge1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGZsZXgtd3JhcDogd3JhcDtcbiAgICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjtcbiAgICAgIHdpZHRoOiAxMDAlOyB9XG4gICAgICAubmF2cy1jb24gLnNlY29uZC1uYXYgLmNvbGxhcHNlIC5uYXZiYXItbmF2IC5uYXYtaXRlbTpub3QobHNhdC1jaGlsZCkge1xuICAgICAgICBtYXJnaW4tcmlnaHQ6IDEwcHg7IH1cbiAgICAgIC5uYXZzLWNvbiAuc2Vjb25kLW5hdiAuY29sbGFwc2UgLm5hdmJhci1uYXYgLm5hdi1pdGVtLmRyb3Bkb3duLXRyaWdnZXIge1xuICAgICAgICBwb3NpdGlvbjogcmVsYXRpdmU7IH1cbiAgICAgICAgQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogOTkycHgpIHtcbiAgICAgICAgICAubmF2cy1jb24gLnNlY29uZC1uYXYgLmNvbGxhcHNlIC5uYXZiYXItbmF2IC5uYXYtaXRlbS5kcm9wZG93bi10cmlnZ2VyIGEgaSB7XG4gICAgICAgICAgICBkaXNwbGF5OiBub25lOyB9IH1cbiAgICAgICAgQG1lZGlhIHNjcmVlbiBhbmQgKG1pbi13aWR0aDogOTkycHgpIHtcbiAgICAgICAgICAubmF2cy1jb24gLnNlY29uZC1uYXYgLmNvbGxhcHNlIC5uYXZiYXItbmF2IC5uYXYtaXRlbS5kcm9wZG93bi10cmlnZ2VyOmhvdmVyIC5kcm9wZG93bi1kaXYge1xuICAgICAgICAgICAgZGlzcGxheTogYmxvY2s7IH0gfVxuICAgICAgLm5hdnMtY29uIC5zZWNvbmQtbmF2IC5jb2xsYXBzZSAubmF2YmFyLW5hdiAubmF2LWl0ZW0gLmRyb3Bkb3duLWRpdiB7XG4gICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgICAgdG9wOiAzMHB4O1xuICAgICAgICBsZWZ0OiAwO1xuICAgICAgICByaWdodDogYXV0bztcbiAgICAgICAgYm90dG9tOiBhdXRvO1xuICAgICAgICB6LWluZGV4OiA5OTk7XG4gICAgICAgIHdpZHRoOiAyNTBweDtcbiAgICAgICAgbWF4LWhlaWdodDogMjUwcHg7XG4gICAgICAgIG92ZXJmbG93LXk6IGF1dG87XG4gICAgICAgIGJhY2tncm91bmQ6ICNGRkY7XG4gICAgICAgIGJveC1zaGFkb3c6IDAgMCA2cHggcmdiYSgwLCAwLCAwLCAwLjE2KTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBkaXNwbGF5OiBub25lOyB9XG4gICAgICAgIC5uYXZzLWNvbiAuc2Vjb25kLW5hdiAuY29sbGFwc2UgLm5hdmJhci1uYXYgLm5hdi1pdGVtIC5kcm9wZG93bi1kaXYgdWwge1xuICAgICAgICAgIGxpc3Qtc3R5bGU6IG5vbmU7XG4gICAgICAgICAgbWFyZ2luLWJvdHRvbTogMDtcbiAgICAgICAgICB0ZXh0LWFsaWduOiBsZWZ0O1xuICAgICAgICAgIHBhZGRpbmc6IDEwcHggMDsgfVxuICAgICAgICAgIC5uYXZzLWNvbiAuc2Vjb25kLW5hdiAuY29sbGFwc2UgLm5hdmJhci1uYXYgLm5hdi1pdGVtIC5kcm9wZG93bi1kaXYgdWwgbGkgYSB7XG4gICAgICAgICAgICBkaXNwbGF5OiBibG9jaztcbiAgICAgICAgICAgIHBhZGRpbmc6IDEwcHg7XG4gICAgICAgICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7XG4gICAgICAgICAgICB0cmFuc2l0aW9uOiBib3gtc2hhZG93IDAuMnMgZWFzZS1pbi1vdXQsXHIgYmFja2dyb3VuZC1jb2xvciAwLjJzIGVhc2UtaW4tb3V0LFxyIHBhZGRpbmctbGVmdCAwLjJzIGVhc2UtaW4tb3V0OyB9XG4gICAgICAgICAgICAubmF2cy1jb24gLnNlY29uZC1uYXYgLmNvbGxhcHNlIC5uYXZiYXItbmF2IC5uYXYtaXRlbSAuZHJvcGRvd24tZGl2IHVsIGxpIGE6aG92ZXIge1xuICAgICAgICAgICAgICBib3gtc2hhZG93OiAwIDAgM3B4IHJnYmEoMCwgMCwgMCwgMC4xNik7XG4gICAgICAgICAgICAgIGJhY2tncm91bmQ6ICNGMEYwRjA7XG4gICAgICAgICAgICAgIHBhZGRpbmctbGVmdDogNDBweDsgfVxuICAgICAgICAubmF2cy1jb24gLnNlY29uZC1uYXYgLmNvbGxhcHNlIC5uYXZiYXItbmF2IC5uYXYtaXRlbSAuZHJvcGRvd24tZGl2OmhvdmVyIHtcbiAgICAgICAgICBkaXNwbGF5OiBibG9jazsgfVxuICAgICAgLm5hdnMtY29uIC5zZWNvbmQtbmF2IC5jb2xsYXBzZSAubmF2YmFyLW5hdiAubmF2LWl0ZW0gYSB7XG4gICAgICAgIGNvbG9yOiAjMDA0MTVGO1xuICAgICAgICBwYWRkaW5nOiAxMHB4IDA7IH1cbiAgICAgICAgLm5hdnMtY29uIC5zZWNvbmQtbmF2IC5jb2xsYXBzZSAubmF2YmFyLW5hdiAubmF2LWl0ZW0gYSBpIHtcbiAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogdGV4dC10b3A7XG4gICAgICAgICAgbWFyZ2luLWxlZnQ6IDJweDtcbiAgICAgICAgICBjb2xvcjogIzAwNDE1RjsgfVxuICAgICAgLm5hdnMtY29uIC5zZWNvbmQtbmF2IC5jb2xsYXBzZSAubmF2YmFyLW5hdiAubmF2LWl0ZW06Zmlyc3Qtb2YtdHlwZSB7XG4gICAgICAgIG1hcmdpbi1sZWZ0OiAwOyB9XG4gICAgICAubmF2cy1jb24gLnNlY29uZC1uYXYgLmNvbGxhcHNlIC5uYXZiYXItbmF2IC5uYXYtaXRlbTpsYXN0LW9mLXR5cGUge1xuICAgICAgICBtYXJnaW4tcmlnaHQ6IDA7IH1cblxuLmV4YW1wbGUtdmlld3BvcnQge1xuICBoZWlnaHQ6IDI1MHB4O1xuICB3aWR0aDogMjUwcHg7XG4gIGJvcmRlcjogMXB4IHNvbGlkIGJsYWNrO1xuICBtYXJnaW4tYm90dG9tOiAwO1xuICB0ZXh0LWFsaWduOiBsZWZ0O1xuICBwYWRkaW5nOiAxMHB4IDA7IH1cbiJdfQ== */</style><style ng-transition="easy-school">.alert[_ngcontent-sc2] {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.144);
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+  top: 0;
+  left: 0;
+  z-index: 10000; }
+  .alert[_ngcontent-sc2]   section[_ngcontent-sc2] {
+    width: 35%;
+    height: 300px;
+    background-color: #fff;
+    border-radius: 30px;
+    z-index: 100000;
+    text-align: center;
+    -webkit-animation: pop-up 0.2s ease-in-out;
+            animation: pop-up 0.2s ease-in-out;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+        justify-content: center;
+    -ms-flex-align: center;
+        align-items: center; }
+  .alert[_ngcontent-sc2]   section[_ngcontent-sc2]   p[_ngcontent-sc2] {
+      font-size: 20px;
+      font-weight: 600; }
+  .alert[_ngcontent-sc2]   section[_ngcontent-sc2]   .success[_ngcontent-sc2] {
+      color: green; }
+  .alert[_ngcontent-sc2]   section[_ngcontent-sc2]   .error[_ngcontent-sc2] {
+      color: red; }
+  .alert[_ngcontent-sc2]   section[_ngcontent-sc2]   span[_ngcontent-sc2] {
+      width: 100px;
+      height: 100px;
+      display: -ms-flexbox;
+      display: flex;
+      border: 3px solid;
+      border-radius: 50%;
+      -ms-flex-pack: center;
+          justify-content: center;
+      -ms-flex-align: center;
+          align-items: center;
+      margin: auto; }
+  .alert[_ngcontent-sc2]   section[_ngcontent-sc2]   span[_ngcontent-sc2]   i[_ngcontent-sc2] {
+        font-size: 50px; }
+  @-webkit-keyframes pop-up {
+  0% {
+    -webkit-transform: scale(0);
+            transform: scale(0); }
+  90% {
+    -webkit-transform: scale(1);
+            transform: scale(1); }
+  95% {
+    -webkit-transform: scale(0.85);
+            transform: scale(0.85); }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1); } }
+  @keyframes pop-up {
+  0% {
+    -webkit-transform: scale(0);
+            transform: scale(0); }
+  90% {
+    -webkit-transform: scale(1);
+            transform: scale(1); }
+  95% {
+    -webkit-transform: scale(0.85);
+            transform: scale(0.85); }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1); } }
+  @media (max-width: 770px) {
+  .alert[_ngcontent-sc2]   section[_ngcontent-sc2] {
+    width: 100%; } }
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvdmlld3MvY29tcG9uZW50cy9hbGVydC9EOlxcTGVhcm5BbmRXb3JrXFxEZXZlbG9wTmV0d29ya1xcZWFzeXNjaG9vbHNmcm9udC9zcmNcXGFwcFxcdmlld3NcXGNvbXBvbmVudHNcXGFsZXJ0XFxhbGVydC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGVBQWU7RUFDZixXQUFXO0VBQ1gsWUFBWTtFQUNaLG9CQUFhO0VBQWIsYUFBYTtFQUNiLHNDQUFzQztFQUN0QyxxQkFBdUI7TUFBdkIsdUJBQXVCO0VBQ3ZCLHNCQUFtQjtNQUFuQixtQkFBbUI7RUFDbkIsTUFBTTtFQUNOLE9BQU87RUFDUCxjQUFjLEVBQUE7RUFWaEI7SUFhSSxVQUFVO0lBQ1YsYUFBYTtJQUNiLHNCQUFzQjtJQUN0QixtQkFBbUI7SUFDbkIsZUFBZTtJQUNmLGtCQUFrQjtJQUNsQiwwQ0FBa0M7WUFBbEMsa0NBQWtDO0lBQ2xDLG9CQUFhO0lBQWIsYUFBYTtJQUNiLHFCQUF1QjtRQUF2Qix1QkFBdUI7SUFDdkIsc0JBQW1CO1FBQW5CLG1CQUFtQixFQUFBO0VBdEJ2QjtNQXlCTSxlQUFlO01BQ2YsZ0JBQWdCLEVBQUE7RUExQnRCO01BOEJNLFlBQ0YsRUFBQTtFQS9CSjtNQWtDTSxVQUFVLEVBQUE7RUFsQ2hCO01Bc0NNLFlBQVk7TUFDWixhQUFhO01BQ2Isb0JBQWE7TUFBYixhQUFhO01BQ2IsaUJBQWlCO01BQ2pCLGtCQUFrQjtNQUNsQixxQkFBdUI7VUFBdkIsdUJBQXVCO01BQ3ZCLHNCQUFtQjtVQUFuQixtQkFBbUI7TUFDbkIsWUFBWSxFQUFBO0VBN0NsQjtRQWdEUSxlQUFlLEVBQUE7RUFNdkI7RUFDRTtJQUNFLDJCQUFtQjtZQUFuQixtQkFBbUIsRUFBQTtFQUdyQjtJQUNFLDJCQUFtQjtZQUFuQixtQkFBbUIsRUFBQTtFQUdyQjtJQUNFLDhCQUFzQjtZQUF0QixzQkFBc0IsRUFBQTtFQUd4QjtJQUNFLDJCQUFtQjtZQUFuQixtQkFBbUIsRUFBQSxFQUFBO0VBZHZCO0VBQ0U7SUFDRSwyQkFBbUI7WUFBbkIsbUJBQW1CLEVBQUE7RUFHckI7SUFDRSwyQkFBbUI7WUFBbkIsbUJBQW1CLEVBQUE7RUFHckI7SUFDRSw4QkFBc0I7WUFBdEIsc0JBQXNCLEVBQUE7RUFHeEI7SUFDRSwyQkFBbUI7WUFBbkIsbUJBQW1CLEVBQUEsRUFBQTtFQUl2QjtFQUNFO0lBQ0UsV0FBVyxFQUFBLEVBQ1oiLCJmaWxlIjoic3JjL2FwcC92aWV3cy9jb21wb25lbnRzL2FsZXJ0L2FsZXJ0LmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmFsZXJ0IHtcclxuICBwb3NpdGlvbjogZml4ZWQ7XHJcbiAgd2lkdGg6IDEwMCU7XHJcbiAgaGVpZ2h0OiAxMDAlO1xyXG4gIGRpc3BsYXk6IGZsZXg7XHJcbiAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSgwLCAwLCAwLCAwLjE0NCk7XHJcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XHJcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcclxuICB0b3A6IDA7XHJcbiAgbGVmdDogMDtcclxuICB6LWluZGV4OiAxMDAwMDtcclxuXHJcbiAgc2VjdGlvbiB7XHJcbiAgICB3aWR0aDogMzUlO1xyXG4gICAgaGVpZ2h0OiAzMDBweDtcclxuICAgIGJhY2tncm91bmQtY29sb3I6ICNmZmY7XHJcbiAgICBib3JkZXItcmFkaXVzOiAzMHB4O1xyXG4gICAgei1pbmRleDogMTAwMDAwO1xyXG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG4gICAgYW5pbWF0aW9uOiBwb3AtdXAgMC4ycyBlYXNlLWluLW91dDtcclxuICAgIGRpc3BsYXk6IGZsZXg7XHJcbiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcclxuICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcblxyXG4gICAgcCB7XHJcbiAgICAgIGZvbnQtc2l6ZTogMjBweDtcclxuICAgICAgZm9udC13ZWlnaHQ6IDYwMDtcclxuICAgIH1cclxuXHJcbiAgICAuc3VjY2VzcyB7XHJcbiAgICAgIGNvbG9yOiBncmVlblxyXG4gICAgfVxyXG5cclxuICAgIC5lcnJvciB7XHJcbiAgICAgIGNvbG9yOiByZWQ7XHJcbiAgICB9XHJcblxyXG4gICAgc3BhbiB7XHJcbiAgICAgIHdpZHRoOiAxMDBweDtcclxuICAgICAgaGVpZ2h0OiAxMDBweDtcclxuICAgICAgZGlzcGxheTogZmxleDtcclxuICAgICAgYm9yZGVyOiAzcHggc29saWQ7XHJcbiAgICAgIGJvcmRlci1yYWRpdXM6IDUwJTtcclxuICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XHJcbiAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcbiAgICAgIG1hcmdpbjogYXV0bztcclxuXHJcbiAgICAgIGkge1xyXG4gICAgICAgIGZvbnQtc2l6ZTogNTBweDtcclxuICAgICAgfVxyXG4gICAgfVxyXG4gIH1cclxufVxyXG5cclxuQGtleWZyYW1lcyBwb3AtdXAge1xyXG4gIDAlIHtcclxuICAgIHRyYW5zZm9ybTogc2NhbGUoMClcclxuICB9XHJcblxyXG4gIDkwJSB7XHJcbiAgICB0cmFuc2Zvcm06IHNjYWxlKDEpXHJcbiAgfVxyXG5cclxuICA5NSUge1xyXG4gICAgdHJhbnNmb3JtOiBzY2FsZSgwLjg1KVxyXG4gIH1cclxuXHJcbiAgMTAwJSB7XHJcbiAgICB0cmFuc2Zvcm06IHNjYWxlKDEpXHJcbiAgfVxyXG59XHJcblxyXG5AbWVkaWEobWF4LXdpZHRoIDogNzcwcHgpIHtcclxuICAuYWxlcnQgc2VjdGlvbiB7XHJcbiAgICB3aWR0aDogMTAwJTtcclxuICB9XHJcbn1cclxuIl19 */</style><style ng-transition="easy-school">@media screen {
+  .container[_ngcontent-sc3] {
+    max-width: 95vw; } }
+
+footer[_ngcontent-sc3] {
+  background: #e7e7e7;
+  padding: 20px 0; }
+
+@media screen and (max-width: 767px) {
+    footer[_ngcontent-sc3] {
+      text-align: center; } }
+
+footer[_ngcontent-sc3]   h5[_ngcontent-sc3] {
+    text-align: center;
+    margin-bottom: 20px; }
+
+footer[_ngcontent-sc3]   .social-links[_ngcontent-sc3]   a[_ngcontent-sc3] {
+    display: inline-block; }
+
+footer[_ngcontent-sc3]   .social-links[_ngcontent-sc3]   a[_ngcontent-sc3]:not(:last-of-type) {
+      margin-right: 10px; }
+
+footer[_ngcontent-sc3]   .social-links[_ngcontent-sc3]   a[_ngcontent-sc3]   i[_ngcontent-sc3] {
+      font-size: 24px; }
+
+footer[_ngcontent-sc3]   ul[_ngcontent-sc3] {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none; }
+
+footer[_ngcontent-sc3]   ul[_ngcontent-sc3]   li[_ngcontent-sc3] {
+      margin-bottom: 15px; }
+
+footer[_ngcontent-sc3]   ul[_ngcontent-sc3]   li[_ngcontent-sc3]   a[_ngcontent-sc3] {
+        display: inline-block;
+        color: #007187; }
+
+footer[_ngcontent-sc3]   ul[_ngcontent-sc3]   li[_ngcontent-sc3]   a[_ngcontent-sc3]   img[_ngcontent-sc3] {
+          width: 120px; }
+
+
+
+div[dir="rtl"][_ngcontent-sc3]   samp[_ngcontent-sc3] {
+  direction: rtl !important; }
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvdmlld3MvY29tcG9uZW50cy9mb290ZXIvRDpcXExlYXJuQW5kV29ya1xcRGV2ZWxvcE5ldHdvcmtcXGVhc3lzY2hvb2xzZnJvbnQvc3JjXFxhcHBcXHZpZXdzXFxjb21wb25lbnRzXFxmb290ZXJcXGZvb3Rlci5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvdmlld3MvY29tcG9uZW50cy9mb290ZXIvZm9vdGVyLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUdFO0VBREY7SUFFSSxlQUFlLEVBQUEsRUFFbEI7O0FBRUQ7RUFDRSxtQkFBbUI7RUFDbkIsZUFBZSxFQUFBOztBQU1mO0lBUkY7TUFTSSxrQkFBa0IsRUFBQSxFQThDckI7O0FBdkREO0lBYUksa0JBQWtCO0lBQ2xCLG1CQUFtQixFQUFBOztBQWR2QjtJQW1CTSxxQkFBcUIsRUFBQTs7QUFuQjNCO01Bc0JRLGtCQUFrQixFQUFBOztBQXRCMUI7TUEwQlEsZUFBZSxFQUFBOztBQTFCdkI7SUFnQ0ksZUFBZTtJQUNmLGdCQUFnQjtJQUNoQixnQkFBZ0IsRUFBQTs7QUFsQ3BCO01BcUNNLG1CQUFtQixFQUFBOztBQXJDekI7UUF3Q1EscUJBQXFCO1FBQ3JCLGNBQWMsRUFBQTs7QUF6Q3RCO1VBNENVLFlBQVksRUFBQTs7QUFhdEI7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O0NDK0JDOztBRG9DRDtFQUVJLHlCQUF5QixFQUFBIiwiZmlsZSI6InNyYy9hcHAvdmlld3MvY29tcG9uZW50cy9mb290ZXIvZm9vdGVyLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQGltcG9ydCBcIi4uLy4uLy4uL21vZGVscy9jb2xvclZhci5zY3NzXCI7XHJcblxyXG4uY29udGFpbmVyIHtcclxuICBAbWVkaWEgc2NyZWVuIHtcclxuICAgIG1heC13aWR0aDogOTV2dztcclxuICB9XHJcbn1cclxuXHJcbmZvb3RlciB7XHJcbiAgYmFja2dyb3VuZDogI2U3ZTdlNztcclxuICBwYWRkaW5nOiAyMHB4IDA7XHJcbiAgLy9wb3NpdGlvbiAgIDogYWJzb2x1dGU7XHJcbiAgLy9ib3R0b20gICAgIDogMDtcclxuICAvL2xlZnQgICAgICAgOiAwO1xyXG4gIC8vcmlnaHQgICAgICA6IDA7XHJcbiAgLy90b3AgICAgICAgIDogYXV0bztcclxuICBAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA3NjdweCkge1xyXG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG4gIH1cclxuXHJcbiAgaDUge1xyXG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG4gICAgbWFyZ2luLWJvdHRvbTogMjBweDtcclxuICB9XHJcblxyXG4gIC5zb2NpYWwtbGlua3Mge1xyXG4gICAgYSB7XHJcbiAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jaztcclxuXHJcbiAgICAgICY6bm90KDpsYXN0LW9mLXR5cGUpIHtcclxuICAgICAgICBtYXJnaW4tcmlnaHQ6IDEwcHg7XHJcbiAgICAgIH1cclxuXHJcbiAgICAgIGkge1xyXG4gICAgICAgIGZvbnQtc2l6ZTogMjRweDtcclxuICAgICAgfVxyXG4gICAgfVxyXG4gIH1cclxuXHJcbiAgdWwge1xyXG4gICAgcGFkZGluZy1sZWZ0OiAwO1xyXG4gICAgbWFyZ2luLWJvdHRvbTogMDtcclxuICAgIGxpc3Qtc3R5bGU6IG5vbmU7XHJcblxyXG4gICAgbGkge1xyXG4gICAgICBtYXJnaW4tYm90dG9tOiAxNXB4O1xyXG5cclxuICAgICAgYSB7XHJcbiAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xyXG4gICAgICAgIGNvbG9yOiAjMDA3MTg3O1xyXG5cclxuICAgICAgICBpbWcge1xyXG4gICAgICAgICAgd2lkdGg6IDEyMHB4O1xyXG5cclxuICAgICAgICAgICYuYXBwbGUge1xyXG4gICAgICAgICAgfVxyXG5cclxuICAgICAgICAgICYuZ29vZ2xlIHtcclxuICAgICAgICAgIH1cclxuICAgICAgICB9XHJcbiAgICAgIH1cclxuICAgIH1cclxuICB9XHJcbn1cclxuXHJcbi8qXHJcblxyXG4uY29udGFpbmVyLWZsdWlkIHtcclxuICBiYWNrZ3JvdW5kLXNpemUgOiBjb3ZlcjtcclxufVxyXG5cclxuaDUge1xyXG4gIHRleHQtYWxpZ24gOiBjZW50ZXI7XHJcbiAgY29sb3IgICAgICA6ICRibHVlO1xyXG4gIHBhZGRpbmcgICAgOiAyNXB4IDA7XHJcbiAgZm9udC1zaXplICA6IDIycHg7XHJcbn1cclxuXHJcbi5jb2wtbWQtMiB7XHJcbiAgcGFkZGluZy1yaWdodCA6IDA7XHJcbn1cclxuXHJcbnNwYW4ge1xyXG4gIGNvbG9yICAgICAgICAgIDogJGJsdWU7XHJcbiAgZGlzcGxheSAgICAgICAgOiBibG9jaztcclxuICBmb250LXNpemUgICAgICA6IDIwcHg7XHJcbiAgZm9udC13ZWlnaHQgICAgOiA2MDA7XHJcbiAgZm9udC1zaXplICAgICAgOiAxNXB4O1xyXG4gIHRleHQtdHJhbnNmb3JtIDogY2FwaXRhbGl6ZTtcclxuICBtYXJnaW4gICAgICAgICA6IGF1dG87XHJcbiAgbWFyZ2luLWJvdHRvbSAgOiAxMnB4O1xyXG59XHJcblxyXG5pbWcge1xyXG4gIHdpZHRoICA6IDMwJTtcclxuICBtYXJnaW4gOiBhdXRvO1xyXG5cclxufVxyXG5cclxuaSB7XHJcbiAgcGFkZGluZyAgIDogMCA3cHg7XHJcbiAgZm9udC1zaXplIDogMThweDtcclxufVxyXG5cclxuYSB7XHJcbiAgdGV4dC10cmFuc2Zvcm0gOiBjYXBpdGFsaXplO1xyXG4gIGNvbG9yICAgICAgICAgIDogJGJsdWU7XHJcbn1cclxuXHJcbi5wYWRkaW5nLXRvcCB7XHJcbiAgcGFkZGluZy10b3AgOiAxMTBweDtcclxufVxyXG5cclxuQG1lZGlhKG1heC13aWR0aCA6IDc3MHB4KSB7XHJcbiAgLnBhZGRpbmctdG9wIHtcclxuICAgIHBhZGRpbmcgOiAwO1xyXG4gIH1cclxuXHJcbiAgLmNvbC1tZC00IHtcclxuICAgIG1hcmdpbi1ib3R0b20gOiAxMHB4O1xyXG4gICAgdGV4dC1hbGlnbiAgICA6IGNlbnRlcjtcclxuICB9XHJcblxyXG4gIC5jb2wtbWQtMiB7XHJcbiAgICB3aWR0aCA6IDUwJSAhaW1wb3J0YW50O1xyXG4gIH1cclxufVxyXG5cclxuQG1lZGlhKG1pbi13aWR0aCA6IDcwMHB4KSB7XHJcbn1cclxuKi9cclxuXHJcbmRpdltkaXI9XCJydGxcIl0ge1xyXG4gIHNhbXAge1xyXG4gICAgZGlyZWN0aW9uOiBydGwgIWltcG9ydGFudDtcclxuICB9XHJcbn1cclxuIiwiQG1lZGlhIHNjcmVlbiB7XG4gIC5jb250YWluZXIge1xuICAgIG1heC13aWR0aDogOTV2dzsgfSB9XG5cbmZvb3RlciB7XG4gIGJhY2tncm91bmQ6ICNlN2U3ZTc7XG4gIHBhZGRpbmc6IDIwcHggMDsgfVxuICBAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA3NjdweCkge1xuICAgIGZvb3RlciB7XG4gICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7IH0gfVxuICBmb290ZXIgaDUge1xuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICBtYXJnaW4tYm90dG9tOiAyMHB4OyB9XG4gIGZvb3RlciAuc29jaWFsLWxpbmtzIGEge1xuICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsgfVxuICAgIGZvb3RlciAuc29jaWFsLWxpbmtzIGE6bm90KDpsYXN0LW9mLXR5cGUpIHtcbiAgICAgIG1hcmdpbi1yaWdodDogMTBweDsgfVxuICAgIGZvb3RlciAuc29jaWFsLWxpbmtzIGEgaSB7XG4gICAgICBmb250LXNpemU6IDI0cHg7IH1cbiAgZm9vdGVyIHVsIHtcbiAgICBwYWRkaW5nLWxlZnQ6IDA7XG4gICAgbWFyZ2luLWJvdHRvbTogMDtcbiAgICBsaXN0LXN0eWxlOiBub25lOyB9XG4gICAgZm9vdGVyIHVsIGxpIHtcbiAgICAgIG1hcmdpbi1ib3R0b206IDE1cHg7IH1cbiAgICAgIGZvb3RlciB1bCBsaSBhIHtcbiAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xuICAgICAgICBjb2xvcjogIzAwNzE4NzsgfVxuICAgICAgICBmb290ZXIgdWwgbGkgYSBpbWcge1xuICAgICAgICAgIHdpZHRoOiAxMjBweDsgfVxuXG4vKlxyXG5cclxuLmNvbnRhaW5lci1mbHVpZCB7XHJcbiAgYmFja2dyb3VuZC1zaXplIDogY292ZXI7XHJcbn1cclxuXHJcbmg1IHtcclxuICB0ZXh0LWFsaWduIDogY2VudGVyO1xyXG4gIGNvbG9yICAgICAgOiAkYmx1ZTtcclxuICBwYWRkaW5nICAgIDogMjVweCAwO1xyXG4gIGZvbnQtc2l6ZSAgOiAyMnB4O1xyXG59XHJcblxyXG4uY29sLW1kLTIge1xyXG4gIHBhZGRpbmctcmlnaHQgOiAwO1xyXG59XHJcblxyXG5zcGFuIHtcclxuICBjb2xvciAgICAgICAgICA6ICRibHVlO1xyXG4gIGRpc3BsYXkgICAgICAgIDogYmxvY2s7XHJcbiAgZm9udC1zaXplICAgICAgOiAyMHB4O1xyXG4gIGZvbnQtd2VpZ2h0ICAgIDogNjAwO1xyXG4gIGZvbnQtc2l6ZSAgICAgIDogMTVweDtcclxuICB0ZXh0LXRyYW5zZm9ybSA6IGNhcGl0YWxpemU7XHJcbiAgbWFyZ2luICAgICAgICAgOiBhdXRvO1xyXG4gIG1hcmdpbi1ib3R0b20gIDogMTJweDtcclxufVxyXG5cclxuaW1nIHtcclxuICB3aWR0aCAgOiAzMCU7XHJcbiAgbWFyZ2luIDogYXV0bztcclxuXHJcbn1cclxuXHJcbmkge1xyXG4gIHBhZGRpbmcgICA6IDAgN3B4O1xyXG4gIGZvbnQtc2l6ZSA6IDE4cHg7XHJcbn1cclxuXHJcbmEge1xyXG4gIHRleHQtdHJhbnNmb3JtIDogY2FwaXRhbGl6ZTtcclxuICBjb2xvciAgICAgICAgICA6ICRibHVlO1xyXG59XHJcblxyXG4ucGFkZGluZy10b3Age1xyXG4gIHBhZGRpbmctdG9wIDogMTEwcHg7XHJcbn1cclxuXHJcbkBtZWRpYShtYXgtd2lkdGggOiA3NzBweCkge1xyXG4gIC5wYWRkaW5nLXRvcCB7XHJcbiAgICBwYWRkaW5nIDogMDtcclxuICB9XHJcblxyXG4gIC5jb2wtbWQtNCB7XHJcbiAgICBtYXJnaW4tYm90dG9tIDogMTBweDtcclxuICAgIHRleHQtYWxpZ24gICAgOiBjZW50ZXI7XHJcbiAgfVxyXG5cclxuICAuY29sLW1kLTIge1xyXG4gICAgd2lkdGggOiA1MCUgIWltcG9ydGFudDtcclxuICB9XHJcbn1cclxuXHJcbkBtZWRpYShtaW4td2lkdGggOiA3MDBweCkge1xyXG59XHJcbiovXG5kaXZbZGlyPVwicnRsXCJdIHNhbXAge1xuICBkaXJlY3Rpb246IHJ0bCAhaW1wb3J0YW50OyB9XG4iXX0= */</style><style ng-transition="easy-school">.ask[_ngcontent-sc4] {
+  position: fixed;
+  bottom: 50px;
+  cursor: pointer; }
+  .ask[_ngcontent-sc4]   img[_ngcontent-sc4] {
+    background: #fff;
+    border-radius: 50%;
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.36);
+    width: 70px; }
+  .ask[_ngcontent-sc4]   i[_ngcontent-sc4] {
+    position: relative;
+    top: -140px;
+    left: -23px;
+    color: #fff; }
+  .ask[_ngcontent-sc4]   .banner[_ngcontent-sc4] {
+    width: 220px;
+    position: relative;
+    top: -90px; }
+  .ask.ltr[_ngcontent-sc4] {
+    left: 20px; }
+  .ask.rtl[_ngcontent-sc4] {
+    right: 20px; }
+  h5[_ngcontent-sc4] {
+  font-size: 15px;
+  text-transform: capitalize;
+  color: #00415f;
+  text-align: center; }
+  .ask-pop-up[_ngcontent-sc4] {
+  width: 300px;
+  position: fixed;
+  padding: 10px;
+  bottom: 60px;
+  background-color: #f1f1f1;
+  border-radius: 15px;
+  z-index: 100000000;
+  padding-top: 25px;
+  border: 1px solid #00415f6b; }
+  .ask-pop-up[_ngcontent-sc4]   img[_ngcontent-sc4] {
+    width: 80px;
+    display: block;
+    margin: auto; }
+  .btn[_ngcontent-sc4] {
+  background-color: #00415f;
+  color: #fff; }
+  i[_ngcontent-sc4] {
+  cursor: pointer;
+  color: #00415f;
+  font-size: 22px; }
+  p[_ngcontent-sc4] {
+  color: red;
+  text-transform: capitalize; }
+  .form-input[_ngcontent-sc4] {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center; }
+  .form-input[_ngcontent-sc4]   .input[_ngcontent-sc4] {
+    width: 90% !important;
+    -ms-flex: 0 0 90%;
+        flex: 0 0 90%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    color: #00415f;
+    border: 0;
+    border-bottom: 1px solid #868686;
+    border-radius: 0;
+    background-color: transparent; }
+  .form-input[_ngcontent-sc4]   [_ngcontent-sc4]::-webkit-input-placeholder {
+    color: #00415f; }
+  .form-input[_ngcontent-sc4]   [_ngcontent-sc4]::-moz-placeholder {
+    color: #00415f; }
+  .form-input[_ngcontent-sc4]   [_ngcontent-sc4]:-ms-input-placeholder {
+    color: #00415f; }
+  .form-input[_ngcontent-sc4]   [_ngcontent-sc4]::-ms-input-placeholder {
+    color: #00415f; }
+  .form-input[_ngcontent-sc4]   [_ngcontent-sc4]::placeholder {
+    color: #00415f; }
+  @media (min-width: 770px) {
+  textarea[_ngcontent-sc4] {
+    height: 110px; } }
+  @media (max-width: 770px) {
+  .ask[_ngcontent-sc4] {
+    width: 45px;
+    position: fixed;
+    bottom: 0px; }
+    .ask[_ngcontent-sc4]   .banner[_ngcontent-sc4] {
+      top: 0px; } }
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvdmlld3MvY29tcG9uZW50cy9hc2stcXVlc3Rpb24vRDpcXExlYXJuQW5kV29ya1xcRGV2ZWxvcE5ldHdvcmtcXGVhc3lzY2hvb2xzZnJvbnQvc3JjXFxhcHBcXHZpZXdzXFxjb21wb25lbnRzXFxhc2stcXVlc3Rpb25cXGFzay1xdWVzdGlvbi5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQTRCRSxlQUFlO0VBQ2YsWUFBWTtFQUNaLGVBQWUsRUFBQTtFQTlCakI7SUFFSSxnQkFBZ0I7SUFDaEIsa0JBQWtCO0lBQ2xCLHVDQUF1QztJQUN2QyxXQUFXLEVBQUE7RUFMZjtJQVNJLGtCQUFrQjtJQUNsQixXQUFXO0lBQ1gsV0FBVztJQUNYLFdBQVcsRUFBQTtFQVpmO0lBZ0JJLFlBQVk7SUFDWixrQkFBa0I7SUFDbEIsVUFBVSxFQUFBO0VBbEJkO0lBc0JJLFVBQVUsRUFBQTtFQXRCZDtJQTBCSSxXQUFXLEVBQUE7RUFPZjtFQUNFLGVBQWU7RUFDZiwwQkFBMEI7RUFDMUIsY0FBYztFQUNkLGtCQUFrQixFQUFBO0VBR3BCO0VBQ0UsWUFBWTtFQUNaLGVBQWU7RUFDZixhQUFhO0VBQ2IsWUFBWTtFQUNaLHlCQUF5QjtFQUN6QixtQkFBbUI7RUFDbkIsa0JBQWtCO0VBQ2xCLGlCQUFpQjtFQUNqQiwyQkFBMkIsRUFBQTtFQVQ3QjtJQVlJLFdBQVc7SUFDWCxjQUFjO0lBQ2QsWUFBWSxFQUFBO0VBSWhCO0VBQ0UseUJBQXlCO0VBQ3pCLFdBQVcsRUFBQTtFQUdiO0VBQ0UsZUFBZTtFQUNmLGNBQWM7RUFDZCxlQUFlLEVBQUE7RUFHakI7RUFDRSxVQUFVO0VBQ1YsMEJBQTBCLEVBQUE7RUFHNUI7RUFDRSxvQkFBYTtFQUFiLGFBQWE7RUFFYixxQkFBdUI7TUFBdkIsdUJBQXVCLEVBQUE7RUFIekI7SUFNSSxxQkFBcUI7SUFDckIsaUJBQWE7UUFBYixhQUFhO0lBQ2IsaUJBQWlCO0lBQ2pCLGtCQUFrQjtJQUNsQixjQUFjO0lBQ2QsU0FBUztJQUNULGdDQUFnQztJQUNoQyxnQkFBZ0I7SUFDaEIsNkJBQTZCLEVBQUE7RUFkakM7SUFrQkksY0FBYyxFQUFBO0VBbEJsQjtJQWtCSSxjQUFjLEVBQUE7RUFsQmxCO0lBa0JJLGNBQWMsRUFBQTtFQWxCbEI7SUFrQkksY0FBYyxFQUFBO0VBbEJsQjtJQWtCSSxjQUFjLEVBQUE7RUFJbEI7RUFDRTtJQUNFLGFBQWEsRUFBQSxFQUNkO0VBR0g7RUFDRTtJQUNFLFdBQVc7SUFDWCxlQUFlO0lBQ2YsV0FBVyxFQUFBO0lBSGI7TUFNSSxRQUFRLEVBQUEsRUFDVCIsImZpbGUiOiJzcmMvYXBwL3ZpZXdzL2NvbXBvbmVudHMvYXNrLXF1ZXN0aW9uL2Fzay1xdWVzdGlvbi5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5hc2sge1xyXG4gIGltZyB7XHJcbiAgICBiYWNrZ3JvdW5kOiAjZmZmO1xyXG4gICAgYm9yZGVyLXJhZGl1czogNTAlO1xyXG4gICAgYm94LXNoYWRvdzogM3B4IDNweCByZ2JhKDAsIDAsIDAsIDAuMzYpO1xyXG4gICAgd2lkdGg6IDcwcHg7XHJcbiAgfVxyXG5cclxuICBpIHtcclxuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuICAgIHRvcDogLTE0MHB4O1xyXG4gICAgbGVmdDogLTIzcHg7XHJcbiAgICBjb2xvcjogI2ZmZjtcclxuICB9XHJcblxyXG4gIC5iYW5uZXIge1xyXG4gICAgd2lkdGg6IDIyMHB4O1xyXG4gICAgcG9zaXRpb246IHJlbGF0aXZlO1xyXG4gICAgdG9wOiAtOTBweDtcclxuICB9XHJcblxyXG4gICYubHRyIHtcclxuICAgIGxlZnQ6IDIwcHg7XHJcbiAgfVxyXG5cclxuICAmLnJ0bCB7XHJcbiAgICByaWdodDogMjBweDtcclxuICB9XHJcbiAgcG9zaXRpb246IGZpeGVkO1xyXG4gIGJvdHRvbTogNTBweDtcclxuICBjdXJzb3I6IHBvaW50ZXI7XHJcbn1cclxuXHJcbmg1IHtcclxuICBmb250LXNpemU6IDE1cHg7XHJcbiAgdGV4dC10cmFuc2Zvcm06IGNhcGl0YWxpemU7XHJcbiAgY29sb3I6ICMwMDQxNWY7XHJcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG59XHJcblxyXG4uYXNrLXBvcC11cCB7XHJcbiAgd2lkdGg6IDMwMHB4O1xyXG4gIHBvc2l0aW9uOiBmaXhlZDtcclxuICBwYWRkaW5nOiAxMHB4O1xyXG4gIGJvdHRvbTogNjBweDtcclxuICBiYWNrZ3JvdW5kLWNvbG9yOiAjZjFmMWYxO1xyXG4gIGJvcmRlci1yYWRpdXM6IDE1cHg7XHJcbiAgei1pbmRleDogMTAwMDAwMDAwO1xyXG4gIHBhZGRpbmctdG9wOiAyNXB4O1xyXG4gIGJvcmRlcjogMXB4IHNvbGlkICMwMDQxNWY2YjtcclxuXHJcbiAgaW1nIHtcclxuICAgIHdpZHRoOiA4MHB4O1xyXG4gICAgZGlzcGxheTogYmxvY2s7XHJcbiAgICBtYXJnaW46IGF1dG87XHJcbiAgfVxyXG59XHJcblxyXG4uYnRuIHtcclxuICBiYWNrZ3JvdW5kLWNvbG9yOiAjMDA0MTVmO1xyXG4gIGNvbG9yOiAjZmZmO1xyXG59XHJcblxyXG5pIHtcclxuICBjdXJzb3I6IHBvaW50ZXI7XHJcbiAgY29sb3I6ICMwMDQxNWY7XHJcbiAgZm9udC1zaXplOiAyMnB4O1xyXG59XHJcblxyXG5wIHtcclxuICBjb2xvcjogcmVkO1xyXG4gIHRleHQtdHJhbnNmb3JtOiBjYXBpdGFsaXplO1xyXG59XHJcblxyXG4uZm9ybS1pbnB1dCB7XHJcbiAgZGlzcGxheTogZmxleDtcclxuXHJcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XHJcblxyXG4gIC5pbnB1dCB7XHJcbiAgICB3aWR0aDogOTAlICFpbXBvcnRhbnQ7XHJcbiAgICBmbGV4OiAwIDAgOTAlO1xyXG4gICAgbWFyZ2luLWxlZnQ6IDIuNSU7XHJcbiAgICBtYXJnaW4tcmlnaHQ6IDIuNSU7XHJcbiAgICBjb2xvcjogIzAwNDE1ZjtcclxuICAgIGJvcmRlcjogMDtcclxuICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjODY4Njg2O1xyXG4gICAgYm9yZGVyLXJhZGl1czogMDtcclxuICAgIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50O1xyXG4gIH1cclxuXHJcbiAgOjpwbGFjZWhvbGRlciB7XHJcbiAgICBjb2xvcjogIzAwNDE1ZjtcclxuICB9XHJcbn1cclxuXHJcbkBtZWRpYSAobWluLXdpZHRoOiA3NzBweCkge1xyXG4gIHRleHRhcmVhIHtcclxuICAgIGhlaWdodDogMTEwcHg7XHJcbiAgfVxyXG59XHJcblxyXG5AbWVkaWEgKG1heC13aWR0aDogNzcwcHgpIHtcclxuICAuYXNrIHtcclxuICAgIHdpZHRoOiA0NXB4O1xyXG4gICAgcG9zaXRpb246IGZpeGVkO1xyXG4gICAgYm90dG9tOiAwcHg7XHJcblxyXG4gICAgLmJhbm5lciB7XHJcbiAgICAgIHRvcDogMHB4O1xyXG4gICAgfVxyXG4gIH1cclxufVxyXG4iXX0= */</style><style ng-transition="easy-school">.download-app[_ngcontent-sc5] {
+  min-height: 70px;
+  background-color: #00415f;
+  border-bottom: 1px solid;
+  z-index: 100000000000;
+  width: 100%;
+  text-transform: capitalize;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px; }
+  .download-app[_ngcontent-sc5]   .row[_ngcontent-sc5] {
+    -ms-flex-align: center;
+        align-items: center;
+    height: 70px; }
+  .download-app[_ngcontent-sc5]   img[_ngcontent-sc5] {
+    width: 70px;
+    background: #fff;
+    padding: 5px;
+    border-radius: 4px; }
+  .download-app[_ngcontent-sc5]   .col-md-2[_ngcontent-sc5] {
+    width: 15% !important; }
+  .download-app[_ngcontent-sc5]   .col-md-6[_ngcontent-sc5] {
+    width: 35% !important; }
+  .download-app[_ngcontent-sc5]   .col-md-4[_ngcontent-sc5] {
+    width: 50%; }
+  .download-app[_ngcontent-sc5]   a[_ngcontent-sc5] {
+    color: #fff; }
+  .download-app[_ngcontent-sc5]   i[_ngcontent-sc5] {
+    font-size: 25px;
+    cursor: pointer;
+    position: relative;
+    left: 10px;
+    color: #fff;
+    top: 3px; }
+  .download-app[_ngcontent-sc5]   .btn[_ngcontent-sc5] {
+    background-color: #00415f !important;
+    border: 1px solid #fff; }
+  @media (min-width: 370px) {
+  img[_ngcontent-sc5] {
+    width: 70px; } }
+  @media (min-width: 776px) {
+  .download-app[_ngcontent-sc5] {
+    display: none !important; } }
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvdmlld3MvY29tcG9uZW50cy9kb3dubG9hZC1hcHAvRDpcXExlYXJuQW5kV29ya1xcRGV2ZWxvcE5ldHdvcmtcXGVhc3lzY2hvb2xzZnJvbnQvc3JjXFxhcHBcXHZpZXdzXFxjb21wb25lbnRzXFxkb3dubG9hZC1hcHBcXGRvd25sb2FkLWFwcC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGdCQUF1QjtFQUN2Qix5QkFBMEI7RUFDMUIsd0JBQTRCO0VBQzVCLHFCQUErQjtFQUMvQixXQUF1QjtFQUV2QiwwQkFBNkI7RUFDN0Isa0JBQXlCO0VBQ3pCLGdCQUFzQjtFQUN0QixtQkFBc0IsRUFBQTtFQVZ4QjtJQWFJLHNCQUFvQjtRQUFwQixtQkFBb0I7SUFDcEIsWUFBa0IsRUFBQTtFQWR0QjtJQW1CSSxXQUFvQjtJQUNwQixnQkFBb0I7SUFDcEIsWUFBbUI7SUFDbkIsa0JBQW1CLEVBQUE7RUF0QnZCO0lBMEJJLHFCQUFzQixFQUFBO0VBMUIxQjtJQThCSSxxQkFBc0IsRUFBQTtFQTlCMUI7SUFrQ0ksVUFBVyxFQUFBO0VBbENmO0lBc0NJLFdBQVksRUFBQTtFQXRDaEI7SUEwQ0ksZUFBZ0I7SUFDaEIsZUFBbUI7SUFDbkIsa0JBQW9CO0lBQ3BCLFVBQWdCO0lBQ2hCLFdBQWdCO0lBQ2hCLFFBQWUsRUFBQTtFQS9DbkI7SUFtREksb0NBQXFDO0lBQ3JDLHNCQUFpQyxFQUFBO0VBSXJDO0VBQ0U7SUFDRSxXQUFZLEVBQUEsRUFDYjtFQUdIO0VBQ0U7SUFDRSx3QkFBeUIsRUFBQSxFQUMxQiIsImZpbGUiOiJzcmMvYXBwL3ZpZXdzL2NvbXBvbmVudHMvZG93bmxvYWQtYXBwL2Rvd25sb2FkLWFwcC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5kb3dubG9hZC1hcHAge1xyXG4gIG1pbi1oZWlnaHQgICAgICAgOiA3MHB4O1xyXG4gIGJhY2tncm91bmQtY29sb3IgOiAjMDA0MTVmO1xyXG4gIGJvcmRlci1ib3R0b20gICAgOiAxcHggc29saWQ7XHJcbiAgei1pbmRleCAgICAgICAgICA6IDEwMDAwMDAwMDAwMDtcclxuICB3aWR0aCAgICAgICAgICAgIDogMTAwJTtcclxuICAvL3Bvc2l0aW9uICAgICAgICAgOiBmaXhlZDtcclxuICB0ZXh0LXRyYW5zZm9ybSAgIDogY2FwaXRhbGl6ZTtcclxuICB0ZXh0LWFsaWduICAgICAgIDogY2VudGVyO1xyXG4gIHBhZGRpbmctdG9wICAgICAgOiA1cHg7XHJcbiAgcGFkZGluZy1ib3R0b20gICA6IDVweDtcclxuXHJcbiAgLnJvdyB7XHJcbiAgICBhbGlnbi1pdGVtcyA6IGNlbnRlcjtcclxuICAgIGhlaWdodCAgICAgIDogNzBweDtcclxuXHJcbiAgfVxyXG5cclxuICBpbWcge1xyXG4gICAgd2lkdGggICAgICAgICA6IDcwcHg7XHJcbiAgICBiYWNrZ3JvdW5kICAgIDogI2ZmZjtcclxuICAgIHBhZGRpbmcgICAgICAgOiA1cHg7XHJcbiAgICBib3JkZXItcmFkaXVzIDogNHB4O1xyXG4gIH1cclxuXHJcbiAgLmNvbC1tZC0yIHtcclxuICAgIHdpZHRoIDogMTUlICFpbXBvcnRhbnQ7XHJcbiAgfVxyXG5cclxuICAuY29sLW1kLTYge1xyXG4gICAgd2lkdGggOiAzNSUgIWltcG9ydGFudDtcclxuICB9XHJcblxyXG4gIC5jb2wtbWQtNCB7XHJcbiAgICB3aWR0aCA6IDUwJTtcclxuICB9XHJcblxyXG4gIGEge1xyXG4gICAgY29sb3IgOiAjZmZmO1xyXG4gIH1cclxuXHJcbiAgaSB7XHJcbiAgICBmb250LXNpemUgOiAyNXB4O1xyXG4gICAgY3Vyc29yICAgIDogcG9pbnRlcjtcclxuICAgIHBvc2l0aW9uICA6IHJlbGF0aXZlO1xyXG4gICAgbGVmdCAgICAgIDogMTBweDtcclxuICAgIGNvbG9yICAgICA6ICNmZmY7XHJcbiAgICB0b3AgICAgICAgOiAzcHg7XHJcbiAgfVxyXG5cclxuICAuYnRuIHtcclxuICAgIGJhY2tncm91bmQtY29sb3IgOiAjMDA0MTVmICFpbXBvcnRhbnQ7XHJcbiAgICBib3JkZXIgICAgICAgICAgIDogMXB4IHNvbGlkICNmZmY7XHJcbiAgfVxyXG59XHJcblxyXG5AbWVkaWEobWluLXdpZHRoIDogMzcwcHgpIHtcclxuICBpbWcge1xyXG4gICAgd2lkdGggOiA3MHB4OztcclxuICB9XHJcbn1cclxuXHJcbkBtZWRpYShtaW4td2lkdGggOiA3NzZweCkge1xyXG4gIC5kb3dubG9hZC1hcHAge1xyXG4gICAgZGlzcGxheSA6IG5vbmUgIWltcG9ydGFudDtcclxuICB9XHJcbn1cclxuIl19 */</style><style ng-transition="easy-school">.home-page[_ngcontent-sc6]   .advaced[_ngcontent-sc6] {
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  overflow: hidden;
+  padding: 80px 0;
+  width: 100vw;
+  margin-left: calc(-2.2vw - 30px);
+  margin-top: 40px; }
+  @media (max-width: 575px) {
+    .home-page[_ngcontent-sc6]   .advaced[_ngcontent-sc6] {
+      margin-left: calc(-2.2vw - 16px); } }
+  .home-page[_ngcontent-sc6]   h1[_ngcontent-sc6] {
+  color: #fff;
+  text-align: center;
+  font-size: 35px;
+  padding: 10px;
+  text-transform: capitalize;
+  text-shadow: 3px 3px 6px #000;
+  margin-bottom: 25px; }
+  @media (max-width: 760px) {
+  .home-page[_ngcontent-sc6]   .search-res[_ngcontent-sc6] {
+    text-align: left;
+    z-index: 1;
+    position: absolute;
+    width: 90% !important;
+    font-size: 12px; } }
+  .home-page[_ngcontent-sc6]   .search-res[_ngcontent-sc6] {
+  text-align: left;
+  z-index: 1;
+  position: absolute;
+  width: 95%; }
+  @media (max-width: 760px) {
+    .home-page[_ngcontent-sc6]   .search-res[_ngcontent-sc6] {
+      text-align: left;
+      z-index: 1;
+      position: absolute;
+      width: 90% !important;
+      font-size: 12px; } }
+  .home-page[_ngcontent-sc6]   .search-res[_ngcontent-sc6]   .list-group-item[_ngcontent-sc6] {
+    padding: 5px;
+    border: none; }
+  .home-page[_ngcontent-sc6]   .search-res[_ngcontent-sc6]   .list-group-item.selected[_ngcontent-sc6] {
+      color: black;
+      background-color: #e6e6e6; }
+  .home-page[_ngcontent-sc6]   .search-res[_ngcontent-sc6]   .list-group-item[_ngcontent-sc6]:hover {
+      background-color: #e6e6e6;
+      cursor: pointer;
+      color: black; }
+  .home-page[_ngcontent-sc6]   .advaced[dir='rtl'][_ngcontent-sc6]   .fa-search[_ngcontent-sc6] {
+  right: 90%; }
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvdmlld3MvaG9tZS9EOlxcTGVhcm5BbmRXb3JrXFxEZXZlbG9wTmV0d29ya1xcZWFzeXNjaG9vbHNmcm9udC9zcmNcXGFwcFxcdmlld3NcXGhvbWVcXGhvbWUuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBR0E7RUFHSSxzQkFBNkI7RUFDN0IsMkJBQThCO0VBQzlCLDRCQUE2QjtFQUM3QixnQkFBOEI7RUFDOUIsZUFBOEI7RUFDOUIsWUFBNkI7RUFDN0IsZ0NBQTJDO0VBQzNDLGdCQUE0QixFQUFBO0VBQzVCO0lBWEo7TUFZTSxnQ0FBaUMsRUFBQSxFQUVwQztFQWRIO0VBa0JJLFdBQXFCO0VBQ3JCLGtCQUF1QjtFQUN2QixlQUFxQjtFQUNyQixhQUFxQjtFQUNyQiwwQkFBMkI7RUFDM0IsNkJBQWlDO0VBQ2pDLG1CQUFxQixFQUFBO0VBR3ZCO0VBM0JGO0lBNkJNLGdCQUFpQjtJQUNqQixVQUFjO0lBQ2Qsa0JBQXFCO0lBQ3JCLHFCQUEyQjtJQUMzQixlQUFpQixFQUFBLEVBQ2xCO0VBbENMO0VBc0NJLGdCQUFpQjtFQUNqQixVQUFjO0VBQ2Qsa0JBQXFCO0VBQ3JCLFVBQWdCLEVBQUE7RUFDaEI7SUExQ0o7TUEyQ00sZ0JBQWlCO01BQ2pCLFVBQWM7TUFDZCxrQkFBcUI7TUFDckIscUJBQTJCO01BQzNCLGVBQWlCLEVBQUEsRUFrQnBCO0VBakVIO0lBbURNLFlBQWE7SUFDYixZQUFjLEVBQUE7RUFwRHBCO01BdURRLFlBQXdCO01BQ3hCLHlCQXpEWSxFQUFBO0VBQ3BCO01BNERRLHlCQTdEWTtNQThEWixlQUEwQjtNQUMxQixZQUF3QixFQUFBO0VBOURoQztFQXFFTSxVQUFXLEVBQUEiLCJmaWxlIjoic3JjL2FwcC92aWV3cy9ob21lL2hvbWUuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAaW1wb3J0ICcuLi8uLi9tb2RlbHMvY29sb3JWYXIuc2Nzcyc7XHJcblxyXG4kc2VjLWNvbG9yIDogI2U2ZTZlNjtcclxuLmhvbWUtcGFnZSB7XHJcblxyXG4gIC5hZHZhY2VkIHtcclxuICAgIGJhY2tncm91bmQtc2l6ZSAgICAgICA6IGNvdmVyO1xyXG4gICAgYmFja2dyb3VuZC1wb3NpdGlvbiAgIDogY2VudGVyO1xyXG4gICAgYmFja2dyb3VuZC1hdHRhY2htZW50IDogZml4ZWQ7XHJcbiAgICBvdmVyZmxvdyAgICAgICAgICAgICAgOiBoaWRkZW47XHJcbiAgICBwYWRkaW5nICAgICAgICAgICAgICAgOiA4MHB4IDA7XHJcbiAgICB3aWR0aCAgICAgICAgICAgICAgICAgOiAxMDB2dztcclxuICAgIG1hcmdpbi1sZWZ0ICAgICAgICAgICA6IGNhbGMoLTIuMnZ3IC0gMzBweCk7XHJcbiAgICBtYXJnaW4tdG9wICAgICAgICAgICAgOiA0MHB4O1xyXG4gICAgQG1lZGlhKG1heC13aWR0aCA6IDU3NXB4KSB7XHJcbiAgICAgIG1hcmdpbi1sZWZ0IDogY2FsYygtMi4ydncgLSAxNnB4KTtcclxuICAgIH1cclxuICB9XHJcblxyXG5cclxuICBoMSB7XHJcbiAgICBjb2xvciAgICAgICAgICA6ICNmZmY7XHJcbiAgICB0ZXh0LWFsaWduICAgICA6IGNlbnRlcjtcclxuICAgIGZvbnQtc2l6ZSAgICAgIDogMzVweDtcclxuICAgIHBhZGRpbmcgICAgICAgIDogMTBweDtcclxuICAgIHRleHQtdHJhbnNmb3JtIDogY2FwaXRhbGl6ZTtcclxuICAgIHRleHQtc2hhZG93ICAgIDogM3B4IDNweCA2cHggIzAwMDtcclxuICAgIG1hcmdpbi1ib3R0b20gIDogMjVweDtcclxuICB9XHJcblxyXG4gIEBtZWRpYShtYXgtd2lkdGggOiA3NjBweCkge1xyXG4gICAgLnNlYXJjaC1yZXMge1xyXG4gICAgICB0ZXh0LWFsaWduIDogbGVmdDtcclxuICAgICAgei1pbmRleCAgICA6IDE7XHJcbiAgICAgIHBvc2l0aW9uICAgOiBhYnNvbHV0ZTtcclxuICAgICAgd2lkdGggICAgICA6IDkwJSAhaW1wb3J0YW50O1xyXG4gICAgICBmb250LXNpemUgIDogMTJweDtcclxuICAgIH1cclxuICB9XHJcblxyXG4gIC5zZWFyY2gtcmVzIHtcclxuICAgIHRleHQtYWxpZ24gOiBsZWZ0O1xyXG4gICAgei1pbmRleCAgICA6IDE7XHJcbiAgICBwb3NpdGlvbiAgIDogYWJzb2x1dGU7XHJcbiAgICB3aWR0aCAgICAgIDogOTUlO1xyXG4gICAgQG1lZGlhKG1heC13aWR0aCA6IDc2MHB4KSB7XHJcbiAgICAgIHRleHQtYWxpZ24gOiBsZWZ0O1xyXG4gICAgICB6LWluZGV4ICAgIDogMTtcclxuICAgICAgcG9zaXRpb24gICA6IGFic29sdXRlO1xyXG4gICAgICB3aWR0aCAgICAgIDogOTAlICFpbXBvcnRhbnQ7XHJcbiAgICAgIGZvbnQtc2l6ZSAgOiAxMnB4O1xyXG4gICAgfVxyXG5cclxuICAgIC5saXN0LWdyb3VwLWl0ZW0ge1xyXG4gICAgICBwYWRkaW5nIDogNXB4O1xyXG4gICAgICBib3JkZXIgIDogbm9uZTtcclxuXHJcbiAgICAgICYuc2VsZWN0ZWQge1xyXG4gICAgICAgIGNvbG9yICAgICAgICAgICAgOiBibGFjaztcclxuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yIDogJHNlYy1jb2xvcjtcclxuICAgICAgfVxyXG5cclxuICAgICAgJjpob3ZlciB7XHJcbiAgICAgICAgYmFja2dyb3VuZC1jb2xvciA6ICRzZWMtY29sb3I7XHJcbiAgICAgICAgY3Vyc29yICAgICAgICAgICA6IHBvaW50ZXI7XHJcbiAgICAgICAgY29sb3IgICAgICAgICAgICA6IGJsYWNrO1xyXG4gICAgICB9XHJcbiAgICB9XHJcbiAgfVxyXG5cclxuICAuYWR2YWNlZFtkaXI9J3J0bCddIHtcclxuICAgIC5mYS1zZWFyY2gge1xyXG4gICAgICByaWdodCA6IDkwJTs7XHJcbiAgICB9XHJcbiAgfVxyXG59XHJcbiJdfQ== */</style><meta name="description" content="إيزي سكولز أكبر موقع مدارس في مصر المصروفات، الموقع، البريد الإلكتروني، الموقع، تاريخ القبول والأرقام ،مدرسة دولية، مدرسة أمريكية، مدرسة خاصة، مدرسة بريطانية"><meta itemprop="description" name="og:description" content="إيزي سكولز أكبر موقع مدارس في مصر المصروفات، الموقع، البريد الإلكتروني، الموقع، تاريخ القبول والأرقام ،مدرسة دولية، مدرسة أمريكية، مدرسة خاصة، مدرسة بريطانية"><meta name="twitter:description" content="إيزي سكولز أكبر موقع مدارس في مصر المصروفات، الموقع، البريد الإلكتروني، الموقع، تاريخ القبول والأرقام ،مدرسة دولية، مدرسة أمريكية، مدرسة خاصة، مدرسة بريطانية"><style ng-transition="easy-school">.search-con[_ngcontent-sc7] {
+  position: relative; }
+  .search-con[_ngcontent-sc7]   .search[_ngcontent-sc7] {
+    padding: 20px;
+    border-radius: 6px;
+    background-color: #ffffffb3;
+    border: 0;
+    color: #2e2e2e; }
+  @media (max-width: 760px) {
+      .search-con[_ngcontent-sc7]   .search[_ngcontent-sc7] {
+        padding: 9px 10px; } }
+  @media (max-width: 575px) {
+      .search-con[_ngcontent-sc7]   .search[_ngcontent-sc7] {
+        max-width: 80%;
+        margin: auto; } }
+  .search-con[_ngcontent-sc7]   .search[_ngcontent-sc7]::-webkit-input-placeholder {
+      color: rgba(46, 46, 46, 0.7); }
+  .search-con[_ngcontent-sc7]   .search[_ngcontent-sc7]::-moz-placeholder {
+      color: rgba(46, 46, 46, 0.7); }
+  .search-con[_ngcontent-sc7]   .search[_ngcontent-sc7]:-ms-input-placeholder {
+      color: rgba(46, 46, 46, 0.7); }
+  .search-con[_ngcontent-sc7]   .search[_ngcontent-sc7]::-ms-input-placeholder {
+      color: rgba(46, 46, 46, 0.7); }
+  .search-con[_ngcontent-sc7]   .search[_ngcontent-sc7]::placeholder {
+      color: rgba(46, 46, 46, 0.7); }
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvdmlld3MvaG9tZS9zZWFyY2gtYXV0b2NvbXBsZXRlL0Q6XFxMZWFybkFuZFdvcmtcXERldmVsb3BOZXR3b3JrXFxlYXN5c2Nob29sc2Zyb250L3NyY1xcYXBwXFx2aWV3c1xcaG9tZVxcc2VhcmNoLWF1dG9jb21wbGV0ZVxcc2VhcmNoLWF1dG9jb21wbGV0ZS5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFLQTtFQUNFLGtCQUFtQixFQUFBO0VBRHJCO0lBSUksYUFBdUI7SUFDdkIsa0JBQXNCO0lBQ3RCLDJCQUE0QjtJQUM1QixTQUFvQjtJQUNwQixjQUEwQixFQUFBO0VBQzFCO01BVEo7UUFVTSxpQkFBa0IsRUFBQSxFQVVyQjtFQVJDO01BWko7UUFhTSxjQUFlO1FBQ2YsWUFBZ0IsRUFBQSxFQU1uQjtFQXBCSDtNQWtCTSw0QkFBNkIsRUFBQTtFQWxCbkM7TUFrQk0sNEJBQTZCLEVBQUE7RUFsQm5DO01Ba0JNLDRCQUE2QixFQUFBO0VBbEJuQztNQWtCTSw0QkFBNkIsRUFBQTtFQWxCbkM7TUFrQk0sNEJBQTZCLEVBQUEiLCJmaWxlIjoic3JjL2FwcC92aWV3cy9ob21lL3NlYXJjaC1hdXRvY29tcGxldGUvc2VhcmNoLWF1dG9jb21wbGV0ZS5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIkBpbXBvcnQgJy4uLy4uLy4uL21vZGVscy9jb2xvclZhci5zY3NzJztcclxuXHJcbiRncmV5ICAgICAgOiAjZWRlZGVkO1xyXG4kc2VjLWNvbG9yIDogI2UwZTBlMDtcclxuXHJcbi5zZWFyY2gtY29uIHtcclxuICBwb3NpdGlvbiA6IHJlbGF0aXZlO1xyXG5cclxuICAuc2VhcmNoIHtcclxuICAgIHBhZGRpbmcgICAgICAgICAgOiAyMHB4O1xyXG4gICAgYm9yZGVyLXJhZGl1cyAgICA6IDZweDtcclxuICAgIGJhY2tncm91bmQtY29sb3IgOiAjZmZmZmZmYjM7XHJcbiAgICBib3JkZXIgICAgICAgICAgIDogMDtcclxuICAgIGNvbG9yICAgICAgICAgICAgOiAjMmUyZTJlO1xyXG4gICAgQG1lZGlhKG1heC13aWR0aCA6IDc2MHB4KSB7XHJcbiAgICAgIHBhZGRpbmcgOiA5cHggMTBweDtcclxuICAgIH1cclxuICAgIEBtZWRpYShtYXgtd2lkdGggOiA1NzVweCkge1xyXG4gICAgICBtYXgtd2lkdGggOiA4MCU7XHJcbiAgICAgIG1hcmdpbiAgICA6IGF1dG87XHJcbiAgICB9XHJcblxyXG4gICAgJjo6cGxhY2Vob2xkZXIge1xyXG4gICAgICBjb2xvciA6IHJnYmEoNDYsIDQ2LCA0NiwgMC43KTtcclxuICAgIH1cclxuICB9XHJcbn1cclxuIl19 */</style><style ng-transition="easy-school">
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL3NoYXJlZC92aWV3cy9sYXp5LWFkc2Vucy9sYXp5LWFkc2Vucy5jb21wb25lbnQuc2NzcyJ9 */</style><style ng-transition="easy-school">.card-un[_ngcontent-sc9] {
+  box-shadow: 0 0 6px #00000029;
+  color: #444;
+  border-radius: 6px;
+  padding: 20px;
+  display: block;
+  text-decoration: none;
+  margin-bottom: 80px;
+  text-align: center; }
+  .card-un[_ngcontent-sc9]   img[_ngcontent-sc9] {
+    position: relative;
+    top: -65px;
+    margin-bottom: -35px;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    box-shadow: 2px 3px 10px #00000059; }
+  .card-un[_ngcontent-sc9]   h2[_ngcontent-sc9] {
+    font-size: 18px; }
+  .card-un[_ngcontent-sc9]   h2[_ngcontent-sc9]   a[_ngcontent-sc9] {
+      color: #00415f;
+      text-transform: capitalize; }
+  .card-un[_ngcontent-sc9]   .row[_ngcontent-sc9]   a[_ngcontent-sc9] {
+    color: #00415f; }
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvdmlld3MvaG9tZS9jYXJkL0Q6XFxMZWFybkFuZFdvcmtcXERldmVsb3BOZXR3b3JrXFxlYXN5c2Nob29sc2Zyb250L3NyY1xcYXBwXFx2aWV3c1xcaG9tZVxcY2FyZFxcY2FyZC5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvdmlld3MvaG9tZS9jYXJkL0Q6XFxMZWFybkFuZFdvcmtcXERldmVsb3BOZXR3b3JrXFxlYXN5c2Nob29sc2Zyb250L3NyY1xcYXBwXFxtb2RlbHNcXGNvbG9yVmFyLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBRUE7RUFDRSw2QkFBbUM7RUFDbkMsV0FBc0I7RUFDdEIsa0JBQXFCO0VBQ3JCLGFBQXNCO0VBQ3RCLGNBQXVCO0VBQ3ZCLHFCQUFzQjtFQUN0QixtQkFBc0I7RUFDdEIsa0JBQXdCLEVBQUE7RUFSMUI7SUFXSSxrQkFBd0I7SUFDeEIsVUFBcUI7SUFDckIsb0JBQXFCO0lBQ3JCLFdBQW9CO0lBQ3BCLFlBQW9CO0lBQ3BCLGtCQUFtQjtJQUNuQixrQ0FBc0MsRUFBQTtFQWpCMUM7SUFxQkksZUFBZ0IsRUFBQTtFQXJCcEI7TUF3Qk0sY0N6QlM7TUQwQlQsMEJBQTJCLEVBQUE7RUF6QmpDO0lBK0JNLGNDaENTLEVBQUEiLCJmaWxlIjoic3JjL2FwcC92aWV3cy9ob21lL2NhcmQvY2FyZC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIkBpbXBvcnQgJy4uLy4uLy4uL21vZGVscy9jb2xvclZhci5zY3NzJztcclxuXHJcbi5jYXJkLXVuIHtcclxuICBib3gtc2hhZG93ICAgICAgOiAwIDAgNnB4ICMwMDAwMDAyOTtcclxuICBjb2xvciAgICAgICAgICAgOiAjNDQ0O1xyXG4gIGJvcmRlci1yYWRpdXMgICA6IDZweDtcclxuICBwYWRkaW5nICAgICAgICAgOiAyMHB4O1xyXG4gIGRpc3BsYXkgICAgICAgICA6IGJsb2NrO1xyXG4gIHRleHQtZGVjb3JhdGlvbiA6IG5vbmU7XHJcbiAgbWFyZ2luLWJvdHRvbSAgIDogODBweDtcclxuICB0ZXh0LWFsaWduICAgICAgOiBjZW50ZXI7XHJcblxyXG4gIGltZyB7XHJcbiAgICBwb3NpdGlvbiAgICAgIDogcmVsYXRpdmU7XHJcbiAgICB0b3AgICAgICAgICAgIDogLTY1cHg7XHJcbiAgICBtYXJnaW4tYm90dG9tIDogLTM1cHg7XHJcbiAgICB3aWR0aCAgICAgICAgIDogOTBweDtcclxuICAgIGhlaWdodCAgICAgICAgOiA5MHB4O1xyXG4gICAgYm9yZGVyLXJhZGl1cyA6IDUwJTtcclxuICAgIGJveC1zaGFkb3cgICAgOiAycHggM3B4IDEwcHggIzAwMDAwMDU5O1xyXG4gIH1cclxuXHJcbiAgaDIge1xyXG4gICAgZm9udC1zaXplIDogMThweDtcclxuXHJcbiAgICBhIHtcclxuICAgICAgY29sb3IgICAgICAgICAgOiAkYmx1ZTtcclxuICAgICAgdGV4dC10cmFuc2Zvcm0gOiBjYXBpdGFsaXplO1xyXG4gICAgfVxyXG4gIH1cclxuXHJcbiAgLnJvdyB7XHJcbiAgICBhIHtcclxuICAgICAgY29sb3IgOiAkYmx1ZTtcclxuICAgIH1cclxuICB9XHJcbn1cclxuIiwiJGdyYXkgOiAjN2U3ZTdlO1xyXG4kYmx1ZSA6ICMwMDQxNWYiXX0= */</style></head>
+  <body>
+    <app-root _nghost-sc0="" ng-version="8.0.0"><div _ngcontent-sc0="" class="notification"><p _ngcontent-sc0=""><span _ngcontent-sc0="">لم نستطع ارسال اشعارات بخصوص التحديثات على مصروفات المدارس من فصلك</span><span _ngcontent-sc0="">لاستقبال التحديثات</span></p><button _ngcontent-sc0="" class="btn close-btn"><i _ngcontent-sc0="" class="fas fa-times"></i></button></div><app-nav-bar _ngcontent-sc0="" _nghost-sc1=""><div _ngcontent-sc1="" class="navs-con"><div _ngcontent-sc1="" class="download-app"><app-download-app _ngcontent-sc1="" _nghost-sc5=""><!----><div _ngcontent-sc5="" class="download-app" lazy-load-images=""><div _ngcontent-sc5="" class="row"><div _ngcontent-sc5="" class="col-md-2"><i _ngcontent-sc5="" class="fas fa-times" id="close-download-app"></i></div><div _ngcontent-sc5="" class="col-md-6"><img _ngcontent-sc5="" alt="EasySchools" data-src="assets/easyschools-logo-resized.png"></div><div _ngcontent-sc5="" class="col-md-4"><div _ngcontent-sc5="" class="btn btn-info"><!----><!----></div></div></div></div></app-download-app></div><nav _ngcontent-sc1="" class="first-nav navbar navbar-expand"><div _ngcontent-sc1="" class="container"><a _ngcontent-sc1="" class="navbar-brand" href="#"><img _ngcontent-sc1="" alt="" src="/assets/easyschools-logo-resized.png"></a><form _ngcontent-sc1="" class="search-box ng-untouched ng-pristine ng-valid" currentdir="" novalidate="" dir="rtl" style="text-align: right;"><input _ngcontent-sc1="" aria-describedby="search" aria-label="Example text with button addon Search" type="text" placeholder=""><button _ngcontent-sc1="" aria-label="search for schools , teachers , ..." aria-labelledby="search for schools , teachers , ..." class="btn" id="button-addon1" role="button" type="button"><i _ngcontent-sc1="" class="fas fa-search"></i></button><ul _ngcontent-sc1="" class="list-group search-res" dir="ltr"><!----><!----></ul></form><div _ngcontent-sc1="" class="nav-btns"><!----><!----><div _ngcontent-sc1="" class="login btn-sm-show"><span _ngcontent-sc1="" title="profile"><i _ngcontent-sc1="" class="fas fa-user-circle" style="font-size: 20px;"></i><sup _ngcontent-sc1="" style="vertical-align: top; color: #dc3545;"><i _ngcontent-sc1="" class="fas fa-exclamation"></i></sup></span><div _ngcontent-sc1="" class="login-dropdown"><!----><a _ngcontent-sc1="" class="btn-a d-block ml-0 mb-3" href="/ar/login">تسجيل الدخول</a><!----><a _ngcontent-sc1="" class="btn-a d-block ml-0 mb-3" href="/ar/register">سجل الان</a><!----><!----><a _ngcontent-sc1="" class="btn- d-block ml-0" title="link" href="/ar/en/backup.sql">english </a></div></div><!----><a _ngcontent-sc1="" class="btn-a btn-sm-none" href="/ar/login">تسجيل الدخول</a><!----><a _ngcontent-sc1="" class="btn-a btn-sm-none" href="/ar/register">سجل الان</a><!----><!----><a _ngcontent-sc1="" class="btn-a btn-sm-none" title="link" href="/en/backup.sql">english </a></div></div></nav><nav _ngcontent-sc1="" class="second-nav navbar navbar-expand"><div _ngcontent-sc1="" class="container"><div _ngcontent-sc1="" class="collapse navbar-collapse" id="navbarSupportedContent"><ul _ngcontent-sc1="" class="navbar-nav"><li _ngcontent-sc1="" class="nav-item dropdown-trigger"><a _ngcontent-sc1="" class="nav-link" href="/ar/schools">مدارس في مصر <i _ngcontent-sc1="" class="fas fa-sort-down"></i></a><div _ngcontent-sc1="" class="dropdown-div"><ul _ngcontent-sc1=""><!----><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A3%D8%B3%D9%88%D8%A7%D9%86">مدارس في&nbsp;أسوان</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A3%D8%B3%D9%8A%D9%88%D8%B7">مدارس في&nbsp;أسيوط</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D8%B1">مدارس في&nbsp;الأقصر</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9">مدارس في&nbsp;الإسكندرية</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A7%D9%84%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%D9%8A%D8%A9">مدارس في&nbsp;الإسماعيلية</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1">مدارس في&nbsp;البحر الأحمر</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A7%D9%84%D8%A8%D8%AD%D9%8A%D8%B1%D8%A9">مدارس في&nbsp;البحيرة</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9">مدارس في&nbsp;الجيزة</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A7%D9%84%D8%AF%D9%82%D9%87%D9%84%D9%8A%D8%A9">مدارس في&nbsp;الدقهلية</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3">مدارس في&nbsp;السويس</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9">مدارس في&nbsp;الشرقية</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9">مدارس في&nbsp;الغربية</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A7%D9%84%D9%81%D9%8A%D9%88%D9%85">مدارس في&nbsp;الفيوم</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9">مدارس في&nbsp;القاهرة</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A7%D9%84%D9%82%D9%84%D9%8A%D9%88%D8%A8%D9%8A%D8%A9">مدارس في&nbsp;القليوبية</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A7%D9%84%D9%85%D9%86%D9%88%D9%81%D9%8A%D8%A9">مدارس في&nbsp;المنوفية</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A7%D9%84%D9%85%D9%86%D9%8A%D8%A7">مدارس في&nbsp;المنيا</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9">مدارس في&nbsp;الواحات البحرية</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A7%D9%84%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF">مدارس في&nbsp;الوادي الجديد</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A8%D9%86%D9%89-%D8%B3%D9%88%D9%8A%D9%81">مدارس في&nbsp;بنى سويف</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%A8%D9%88%D8%B1%D8%B3%D8%B9%D9%8A%D8%AF">مدارس في&nbsp;بورسعيد</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%AC%D9%86%D9%88%D8%A8-%D8%B3%D9%8A%D9%86%D8%A7%D8%A1">مدارس في&nbsp;جنوب سيناء</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%AF%D9%85%D9%8A%D8%A7%D8%B7">مدارس في&nbsp;دمياط</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%B3%D9%88%D9%87%D8%A7%D8%AC">مدارس في&nbsp;سوهاج</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%B4%D8%B1%D9%85-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE">مدارس في&nbsp;شرم الشيخ</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D8%B4%D9%85%D8%A7%D9%84-%D8%B3%D9%8A%D9%86%D8%A7%D8%A1">مدارس في&nbsp;شمال سيناء</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D9%82%D9%86%D8%A7">مدارس في&nbsp;قنا</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D9%83%D9%81%D8%B1-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE">مدارس في&nbsp;كفر الشيخ</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/schools/city/%D9%85%D8%B7%D8%B1%D9%88%D8%AD">مدارس في&nbsp;مطروح</a></li></ul></div></li><li _ngcontent-sc1="" class="nav-item dropdown-trigger"><a _ngcontent-sc1="" class="nav-link" href="/ar/nurseries">حضانات مصر <i _ngcontent-sc1="" class="fas fa-sort-down"></i></a><div _ngcontent-sc1="" class="dropdown-div"><ul _ngcontent-sc1=""><!----><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A3%D8%B3%D9%88%D8%A7%D9%86">حضانات في&nbsp;أسوان</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A3%D8%B3%D9%8A%D9%88%D8%B7">حضانات في&nbsp;أسيوط</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D8%B1">حضانات في&nbsp;الأقصر</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9">حضانات في&nbsp;الإسكندرية</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%D9%8A%D8%A9">حضانات في&nbsp;الإسماعيلية</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1">حضانات في&nbsp;البحر الأحمر</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%A8%D8%AD%D9%8A%D8%B1%D8%A9">حضانات في&nbsp;البحيرة</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9">حضانات في&nbsp;الجيزة</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%AF%D9%82%D9%87%D9%84%D9%8A%D8%A9">حضانات في&nbsp;الدقهلية</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3">حضانات في&nbsp;السويس</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9">حضانات في&nbsp;الشرقية</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9">حضانات في&nbsp;الغربية</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A7%D9%84%D9%81%D9%8A%D9%88%D9%85">حضانات في&nbsp;الفيوم</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9">حضانات في&nbsp;القاهرة</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A7%D9%84%D9%82%D9%84%D9%8A%D9%88%D8%A8%D9%8A%D8%A9">حضانات في&nbsp;القليوبية</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A7%D9%84%D9%85%D9%86%D9%88%D9%81%D9%8A%D8%A9">حضانات في&nbsp;المنوفية</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A7%D9%84%D9%85%D9%86%D9%8A%D8%A7">حضانات في&nbsp;المنيا</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9">حضانات في&nbsp;الواحات البحرية</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A7%D9%84%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF">حضانات في&nbsp;الوادي الجديد</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A8%D9%86%D9%89-%D8%B3%D9%88%D9%8A%D9%81">حضانات في&nbsp;بنى سويف</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%A8%D9%88%D8%B1%D8%B3%D8%B9%D9%8A%D8%AF">حضانات في&nbsp;بورسعيد</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%AC%D9%86%D9%88%D8%A8-%D8%B3%D9%8A%D9%86%D8%A7%D8%A1">حضانات في&nbsp;جنوب سيناء</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%AF%D9%85%D9%8A%D8%A7%D8%B7">حضانات في&nbsp;دمياط</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%B3%D9%88%D9%87%D8%A7%D8%AC">حضانات في&nbsp;سوهاج</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%B4%D8%B1%D9%85-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE">حضانات في&nbsp;شرم الشيخ</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D8%B4%D9%85%D8%A7%D9%84-%D8%B3%D9%8A%D9%86%D8%A7%D8%A1">حضانات في&nbsp;شمال سيناء</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D9%82%D9%86%D8%A7">حضانات في&nbsp;قنا</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D9%83%D9%81%D8%B1-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE">حضانات في&nbsp;كفر الشيخ</a></li><li _ngcontent-sc1=""><a _ngcontent-sc1="" href="/ar/nurseries/city/%D9%85%D8%B7%D8%B1%D9%88%D8%AD">حضانات في&nbsp;مطروح</a></li></ul></div></li><li _ngcontent-sc1="" class="nav-item"><a _ngcontent-sc1="" class="nav-link" href="/ar/unviersites"> جامعات</a></li><li _ngcontent-sc1="" class="nav-item"><a _ngcontent-sc1="" class="nav-link" href="/ar/teachers">مدرسين</a></li><li _ngcontent-sc1="" class="nav-item"><a _ngcontent-sc1="" class="nav-link" href="/ar/payment">اسأل عن المدارس</a></li><li _ngcontent-sc1="" class="nav-item"><a _ngcontent-sc1="" class="nav-link" href="/ar/jobs">وظائف</a></li><li _ngcontent-sc1="" class="nav-item"><a _ngcontent-sc1="" class="nav-link" href="/ar/solutions">برامج إدارة المدرسة</a></li><li _ngcontent-sc1="" class="nav-item"><a _ngcontent-sc1="" class="nav-link" href="/ar/articles">مقالات</a></li><li _ngcontent-sc1="" class="nav-item"><a _ngcontent-sc1="" class="nav-link" href="/ar/community">منتدي</a></li><li _ngcontent-sc1="" class="nav-item"><a _ngcontent-sc1="" class="nav-link" href="/ar/search-by-location"> خريطة المدارس</a></li><li _ngcontent-sc1="" class="nav-item"><a _ngcontent-sc1="" class="nav-link" href="/ar/about-us">معلومات عنا</a></li><li _ngcontent-sc1="" class="nav-item"><a _ngcontent-sc1="" class="nav-link" href="/ar/contact-us">اتصل بنا</a></li></ul></div></div></nav></div></app-nav-bar><app-alert _ngcontent-sc0="" _nghost-sc2=""><!----></app-alert><div _ngcontent-sc0="" class="container top-space"><div _ngcontent-sc0=""><router-outlet _ngcontent-sc0=""></router-outlet><app-home _nghost-sc6=""><div _ngcontent-sc6="" class="home-page"><div _ngcontent-sc6="" lazy-load-images=""><div _ngcontent-sc6="" class="advaced" currentdir="" dir="rtl" data-background-src="assets/kimberly-farmer-lUaaKCUANVI-unsplash.jpg"><div _ngcontent-sc6="" class="row"><div _ngcontent-sc6="" class="col-md-8 mx-auto"><form _ngcontent-sc6="" novalidate="" class="ng-untouched ng-pristine ng-valid"><h1 _ngcontent-sc6="" currentdir="" dir="rtl">home-msg</h1><app-search-autocomplete _ngcontent-sc6="" currentdir="" _nghost-sc7="" dir="rtl"><div _ngcontent-sc7="" class="search-con"><input _ngcontent-sc7="" class="form-control search ng-untouched ng-pristine ng-valid" title="search" type="text" value="" placeholder="search for education institution"></div></app-search-autocomplete><div _ngcontent-sc6="" class="col-12 mx-auto" dir="ltr"><ul _ngcontent-sc6="" class="list-group search-res"><!----></ul></div></form></div></div></div></div><div _ngcontent-sc6="" class="ads-space"></div><app-lazy-adsens _ngcontent-sc6="" _nghost-sc8=""><ng-adsense _ngcontent-sc8=""><ins class="adsbygoogle" style="display:block;width:100%px;height:180pxpx;" data-ad-client="ca-pub-5518639241625534" data-ad-slot="8531722215" data-ad-format="auto" data-ad-region="page-10111"></ins></ng-adsense></app-lazy-adsens><div _ngcontent-sc6="" class="ads-space"></div><div _ngcontent-sc6="" class="row mt-5  navagtionCards" currentdir="" dir="rtl" style="text-align: right;"><!----><div _ngcontent-sc6="" class="col-md-4"><app-card _ngcontent-sc6="" _nghost-sc9=""><div _ngcontent-sc9="" class="card-un" lazy-load-images=""><img _ngcontent-sc9="" data-src="assets/home page images/Untitled-1.jpg" alt="جامعات"><h2 _ngcontent-sc9=""><a _ngcontent-sc9="" title="جامعات" href="/ar//(unviersites)">جامعات</a></h2><hr _ngcontent-sc9="" style="width: 60%;"><div _ngcontent-sc9="" class="row"><!----><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="جامعات القاهرة" href="/ar//(unviersites)">القاهرة</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="جامعات الجيزة" href="/ar//(unviersites)">الجيزة</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="جامعات الإسكندرية" href="/ar//(unviersites)">الإسكندرية</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="جامعات أسوان" href="/ar//(unviersites)">أسوان</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="جامعات المنيا" href="/ar//(unviersites)">المنيا</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="جامعات سوهاج" href="/ar//(unviersites)">سوهاج</a></div></div></div></app-card></div><div _ngcontent-sc6="" class="col-md-4"><app-card _ngcontent-sc6="" _nghost-sc9=""><div _ngcontent-sc9="" class="card-un" lazy-load-images=""><img _ngcontent-sc9="" data-src="assets/home page images/Untitled-2.jpg" alt="مدارس"><h2 _ngcontent-sc9=""><a _ngcontent-sc9="" title="مدارس" href="/ar//(schools)">مدارس</a></h2><hr _ngcontent-sc9="" style="width: 60%;"><div _ngcontent-sc9="" class="row"><!----><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس القاهرة" href="/ar//(schools/city/%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9)">القاهرة</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس الجيزة" href="/ar//(schools/city/%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9)">الجيزة</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس الإسكندرية" href="/ar//(schools/city/%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9)">الإسكندرية</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس أسوان" href="/ar//(schools/city/%D8%A3%D8%B3%D9%88%D8%A7%D9%86)">أسوان</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس المنيا" href="/ar//(schools/city/%D8%A7%D9%84%D9%85%D9%86%D9%8A%D8%A7)">المنيا</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس سوهاج" href="/ar//(schools/city/%D8%B3%D9%88%D9%87%D8%A7%D8%AC)">سوهاج</a></div></div></div></app-card></div><div _ngcontent-sc6="" class="col-md-4"><app-card _ngcontent-sc6="" _nghost-sc9=""><div _ngcontent-sc9="" class="card-un" lazy-load-images=""><img _ngcontent-sc9="" data-src="assets/home page images/Untitled-3.jpg" alt="حضانات"><h2 _ngcontent-sc9=""><a _ngcontent-sc9="" title="حضانات" href="/ar//(nurseries)">حضانات</a></h2><hr _ngcontent-sc9="" style="width: 60%;"><div _ngcontent-sc9="" class="row"><!----><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="حضانات القاهرة" href="/ar//(nurseries/city/%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9)">القاهرة</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="حضانات الجيزة" href="/ar//(nurseries/city/%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9)">الجيزة</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="حضانات الإسكندرية" href="/ar//(nurseries/city/%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9)">الإسكندرية</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="حضانات أسوان" href="/ar//(nurseries/city/%D8%A3%D8%B3%D9%88%D8%A7%D9%86)">أسوان</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="حضانات المنيا" href="/ar//(nurseries/city/%D8%A7%D9%84%D9%85%D9%86%D9%8A%D8%A7)">المنيا</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="حضانات سوهاج" href="/ar//(nurseries/city/%D8%B3%D9%88%D9%87%D8%A7%D8%AC)">سوهاج</a></div></div></div></app-card></div><div _ngcontent-sc6="" class="col-md-4"><app-card _ngcontent-sc6="" _nghost-sc9=""><div _ngcontent-sc9="" class="card-un" lazy-load-images=""><img _ngcontent-sc9="" data-src="assets/home page images/Untitled-4.jpg" alt="مدراس لغات"><h2 _ngcontent-sc9=""><a _ngcontent-sc9="" title="مدراس لغات" href="/ar//(schools)">مدراس لغات</a></h2><hr _ngcontent-sc9="" style="width: 60%;"><div _ngcontent-sc9="" class="row"><!----><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدراس لغات القاهرة" href="/ar//(schools/city/%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9)">القاهرة</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدراس لغات الجيزة" href="/ar//(schools/city/%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9)">الجيزة</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدراس لغات الإسكندرية" href="/ar//(schools/city/%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9)">الإسكندرية</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدراس لغات أسوان" href="/ar//(schools/city/%D8%A3%D8%B3%D9%88%D8%A7%D9%86)">أسوان</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدراس لغات المنيا" href="/ar//(schools/city/%D8%A7%D9%84%D9%85%D9%86%D9%8A%D8%A7)">المنيا</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدراس لغات سوهاج" href="/ar//(schools/city/%D8%B3%D9%88%D9%87%D8%A7%D8%AC)">سوهاج</a></div></div></div></app-card></div><div _ngcontent-sc6="" class="col-md-4"><app-card _ngcontent-sc6="" _nghost-sc9=""><div _ngcontent-sc9="" class="card-un" lazy-load-images=""><img _ngcontent-sc9="" data-src="assets/home page images/Untitled-5.jpg" alt="مدارس دولية"><h2 _ngcontent-sc9=""><a _ngcontent-sc9="" title="مدارس دولية" href="/ar//(schools)">مدارس دولية</a></h2><hr _ngcontent-sc9="" style="width: 60%;"><div _ngcontent-sc9="" class="row"><!----><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس دولية القاهرة" href="/ar//(schools/city/%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9)">القاهرة</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس دولية الجيزة" href="/ar//(schools/city/%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9)">الجيزة</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس دولية الإسكندرية" href="/ar//(schools/city/%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9)">الإسكندرية</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس دولية أسوان" href="/ar//(schools/city/%D8%A3%D8%B3%D9%88%D8%A7%D9%86)">أسوان</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس دولية المنيا" href="/ar//(schools/city/%D8%A7%D9%84%D9%85%D9%86%D9%8A%D8%A7)">المنيا</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس دولية سوهاج" href="/ar//(schools/city/%D8%B3%D9%88%D9%87%D8%A7%D8%AC)">سوهاج</a></div></div></div></app-card></div><div _ngcontent-sc6="" class="col-md-4"><app-card _ngcontent-sc6="" _nghost-sc9=""><div _ngcontent-sc9="" class="card-un" lazy-load-images=""><img _ngcontent-sc9="" data-src="assets/home page images/Untitled-6.jpg" alt="مدارس خاصة"><h2 _ngcontent-sc9=""><a _ngcontent-sc9="" title="مدارس خاصة" href="/ar//(schools)">مدارس خاصة</a></h2><hr _ngcontent-sc9="" style="width: 60%;"><div _ngcontent-sc9="" class="row"><!----><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس خاصة القاهرة" href="/ar//(schools/city/%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9)">القاهرة</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس خاصة الجيزة" href="/ar//(schools/city/%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9)">الجيزة</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس خاصة الإسكندرية" href="/ar//(schools/city/%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9)">الإسكندرية</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس خاصة أسوان" href="/ar//(schools/city/%D8%A3%D8%B3%D9%88%D8%A7%D9%86)">أسوان</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس خاصة المنيا" href="/ar//(schools/city/%D8%A7%D9%84%D9%85%D9%86%D9%8A%D8%A7)">المنيا</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="مدارس خاصة سوهاج" href="/ar//(schools/city/%D8%B3%D9%88%D9%87%D8%A7%D8%AC)">سوهاج</a></div></div></div></app-card></div></div><div _ngcontent-sc6="" class="ads-space"></div><app-lazy-adsens _ngcontent-sc6="" _nghost-sc8=""><ng-adsense _ngcontent-sc8=""><ins class="adsbygoogle" style="display:block;width:100%px;height:180pxpx;" data-ad-client="ca-pub-5518639241625534" data-ad-slot="2910949620" data-ad-format="auto" data-ad-region="page-33341"></ins></ng-adsense></app-lazy-adsens><div _ngcontent-sc6="" class="ads-space"></div><div _ngcontent-sc6="" class="row mt-5 justify-content-between navagtionCards" currentdir="" dir="rtl" style="text-align: right;"><!----><div _ngcontent-sc6="" class="col-md-4 "><app-card _ngcontent-sc6="" _nghost-sc9=""><div _ngcontent-sc9="" class="card-un" lazy-load-images=""><img _ngcontent-sc9="" data-src="https://backend.easyschools.org/uploads/cities/BRxvNsBqggkrFOW7OQW8A5P7KvsXZXs2z2DiFwk6.jpeg" alt="القاهرة"><h2 _ngcontent-sc9=""><a _ngcontent-sc9="" title="القاهرة" href="/ar/">القاهرة</a></h2><hr _ngcontent-sc9="" style="width: 60%;"><div _ngcontent-sc9="" class="row"><!----><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="القاهرة جامعات" href="/ar//(unviersites)">جامعات</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="القاهرة مدارس" href="/ar//(schools/city/%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9)">مدارس</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="القاهرة حضانات" href="/ar//(nurseries/city/%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9)">حضانات</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="القاهرة مدرسين" href="/ar//(teachers)">مدرسين</a></div></div></div></app-card></div><div _ngcontent-sc6="" class="col-md-4 "><app-card _ngcontent-sc6="" _nghost-sc9=""><div _ngcontent-sc9="" class="card-un" lazy-load-images=""><img _ngcontent-sc9="" data-src="https://backend.easyschools.org/uploads/cities/4yLYZMhlOJN3AkyqMBvAJSBaQJSqS6oFngJfWWQx.jpeg" alt="الجيزة"><h2 _ngcontent-sc9=""><a _ngcontent-sc9="" title="الجيزة" href="/ar/">الجيزة</a></h2><hr _ngcontent-sc9="" style="width: 60%;"><div _ngcontent-sc9="" class="row"><!----><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="الجيزة جامعات" href="/ar//(unviersites)">جامعات</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="الجيزة مدارس" href="/ar//(schools/city/%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9)">مدارس</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="الجيزة حضانات" href="/ar//(nurseries/city/%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9)">حضانات</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="الجيزة مدرسين" href="/ar//(teachers)">مدرسين</a></div></div></div></app-card></div><div _ngcontent-sc6="" class="col-md-4 "><app-card _ngcontent-sc6="" _nghost-sc9=""><div _ngcontent-sc9="" class="card-un" lazy-load-images=""><img _ngcontent-sc9="" data-src="https://backend.easyschools.org/uploads/cities/dGm26AcBBGqmFlYZo5rSxd0whoPE2x4TlMhyvzXN.jpeg" alt="الإسكندرية"><h2 _ngcontent-sc9=""><a _ngcontent-sc9="" title="الإسكندرية" href="/ar/">الإسكندرية</a></h2><hr _ngcontent-sc9="" style="width: 60%;"><div _ngcontent-sc9="" class="row"><!----><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="الإسكندرية جامعات" href="/ar//(unviersites)">جامعات</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="الإسكندرية مدارس" href="/ar//(schools/city/%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9)">مدارس</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="الإسكندرية حضانات" href="/ar//(nurseries/city/%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9)">حضانات</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="الإسكندرية مدرسين" href="/ar//(teachers)">مدرسين</a></div></div></div></app-card></div><div _ngcontent-sc6="" class="col-md-4 "><app-card _ngcontent-sc6="" _nghost-sc9=""><div _ngcontent-sc9="" class="card-un" lazy-load-images=""><img _ngcontent-sc9="" data-src="https://backend.easyschools.org/uploads/cities/NWhUGKppucCFESSKAYv6DQ2w4jEOhnIDNWPlV4Sy.jpeg" alt="أسوان"><h2 _ngcontent-sc9=""><a _ngcontent-sc9="" title="أسوان" href="/ar/">أسوان</a></h2><hr _ngcontent-sc9="" style="width: 60%;"><div _ngcontent-sc9="" class="row"><!----><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="أسوان جامعات" href="/ar//(unviersites)">جامعات</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="أسوان مدارس" href="/ar//(schools/city/%D8%A3%D8%B3%D9%88%D8%A7%D9%86)">مدارس</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="أسوان حضانات" href="/ar//(nurseries/city/%D8%A3%D8%B3%D9%88%D8%A7%D9%86)">حضانات</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="أسوان مدرسين" href="/ar//(teachers)">مدرسين</a></div></div></div></app-card></div><div _ngcontent-sc6="" class="col-md-4 "><app-card _ngcontent-sc6="" _nghost-sc9=""><div _ngcontent-sc9="" class="card-un" lazy-load-images=""><img _ngcontent-sc9="" data-src="https://backend.easyschools.org/uploads/cities/b4VbE5Wmdpsrt4xhnBZP1liM2OGei4j7tUADB250.jpeg" alt="المنيا"><h2 _ngcontent-sc9=""><a _ngcontent-sc9="" title="المنيا" href="/ar/">المنيا</a></h2><hr _ngcontent-sc9="" style="width: 60%;"><div _ngcontent-sc9="" class="row"><!----><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="المنيا جامعات" href="/ar//(unviersites)">جامعات</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="المنيا مدارس" href="/ar//(schools/city/%D8%A7%D9%84%D9%85%D9%86%D9%8A%D8%A7)">مدارس</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="المنيا حضانات" href="/ar//(nurseries/city/%D8%A7%D9%84%D9%85%D9%86%D9%8A%D8%A7)">حضانات</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="المنيا مدرسين" href="/ar//(teachers)">مدرسين</a></div></div></div></app-card></div><div _ngcontent-sc6="" class="col-md-4 "><app-card _ngcontent-sc6="" _nghost-sc9=""><div _ngcontent-sc9="" class="card-un" lazy-load-images=""><img _ngcontent-sc9="" data-src="https://backend.easyschools.org/uploads/cities/ggY08RxpYBITTSRIIwmtLyB6rV5jn9B0qVslZnmB.jpeg" alt="سوهاج"><h2 _ngcontent-sc9=""><a _ngcontent-sc9="" title="سوهاج" href="/ar/">سوهاج</a></h2><hr _ngcontent-sc9="" style="width: 60%;"><div _ngcontent-sc9="" class="row"><!----><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="سوهاج جامعات" href="/ar//(unviersites)">جامعات</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="سوهاج مدارس" href="/ar//(schools/city/%D8%B3%D9%88%D9%87%D8%A7%D8%AC)">مدارس</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="سوهاج حضانات" href="/ar//(nurseries/city/%D8%B3%D9%88%D9%87%D8%A7%D8%AC)">حضانات</a></div><div _ngcontent-sc9="" class="col-md-6 text-center mb-2" currentdir="" dir="rtl" style="text-align: right;"><a _ngcontent-sc9="" title="سوهاج مدرسين" href="/ar//(teachers)">مدرسين</a></div></div></div></app-card></div></div><div _ngcontent-sc6="" class="ads-space"></div><app-lazy-adsens _ngcontent-sc6="" _nghost-sc8=""><ng-adsense _ngcontent-sc8=""><ins class="adsbygoogle" style="display:block;width:100%px;height:180pxpx;" data-ad-client="ca-pub-5518639241625534" data-ad-slot="8531722215" data-ad-format="auto" data-ad-region="page-51561"></ins></ng-adsense></app-lazy-adsens><div _ngcontent-sc6="" class="ads-space"></div></div><ngx-json-ld _ngcontent-sc6=""><script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "Website",
+  "url": "https://www.easyschools.org/ar/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.easyschools.org/en/schools?search={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}</script></ngx-json-ld><ngx-json-ld _ngcontent-sc6=""><script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "ايزى سكولز",
+  "alternateName": "EasySchools",
+  "url": "https://www.easyschools.org/ar",
+  "logo": "https://www.easyschools.org/en/assets/easy%20school%20logo.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+201000726577",
+    "contactType": "customer service",
+    "availableLanguage": [
+      "English",
+      "French",
+      "Arabic"
+    ]
+  },
+  "sameAs": [
+    "https://www.facebook.com/EasySchooleducation/",
+    "https://twitter.com/easyschools?lang=en",
+    "https://plus.google.com/112496544733160970444",
+    "https://www.instagram.com/easyschools/",
+    "https://www.youtube.com/channel/UCBEVWG84apy9KicxSA6wxog",
+    "https://www.linkedin.com/company/easyschools",
+    "https://github.com/Easyschools/",
+    "en"
+  ]
+}</script></ngx-json-ld></app-home></div></div><app-footer _ngcontent-sc0="" _nghost-sc3=""><footer _ngcontent-sc3=""><div _ngcontent-sc3="" class="container"><div _ngcontent-sc3="" class="row"><div _ngcontent-sc3="" class="col-md-10 ml-auto"><h5 _ngcontent-sc3=""> ايزي سكولز أكبر موقع مدارس  فى الوطن العربى لمساعدة الآباء والطلاب والمعلمين في العثور على أفضل مؤسسات تعليمية</h5></div><div _ngcontent-sc3="" class="col-md-8 ml-auto"><div _ngcontent-sc3="" class="row"><div _ngcontent-sc3="" class="col-md-3 d-none d-md-block"><!----><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" title="" href="/ar/schools/city/%D8%A3%D8%B3%D9%88%D8%A7%D9%86">مدارس في أسوان</a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" title="" href="/ar/schools/city/%D8%A3%D8%B3%D9%8A%D9%88%D8%B7">مدارس في أسيوط</a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" title="" href="/ar/schools/city/%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D8%B1">مدارس في الأقصر</a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" title="" href="/ar/schools/city/%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9">مدارس في الإسكندرية</a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" title="" href="/ar/schools/city/%D8%A7%D9%84%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%D9%8A%D8%A9">مدارس في الإسماعيلية</a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" title="" href="/ar/schools/city/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1">مدارس في البحر الأحمر</a></li></ul></div><div _ngcontent-sc3="" class="col-md-3 d-none d-md-block"><!----><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" title="" href="/ar/schools/city/%D8%A7%D9%84%D8%A8%D8%AD%D9%8A%D8%B1%D8%A9">مدارس في البحيرة</a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" title="" href="/ar/schools/city/%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9">مدارس في الجيزة</a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" title="" href="/ar/schools/city/%D8%A7%D9%84%D8%AF%D9%82%D9%87%D9%84%D9%8A%D8%A9">مدارس في الدقهلية</a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" title="" href="/ar/schools/city/%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3">مدارس في السويس</a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" title="" href="/ar/schools/city/%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9">مدارس في الشرقية</a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" title="" href="/ar/schools/city/%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9">مدارس في الغربية</a></li></ul></div><div _ngcontent-sc3="" class="col-md-3 d-none d-md-block"><!----><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" href="/ar/nurseries/city/%D8%A3%D8%B3%D9%88%D8%A7%D9%86"> حضانات في أسوان </a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" href="/ar/nurseries/city/%D8%A3%D8%B3%D9%8A%D9%88%D8%B7"> حضانات في أسيوط </a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D8%B1"> حضانات في الأقصر </a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9"> حضانات في الإسكندرية </a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%D9%8A%D8%A9"> حضانات في الإسماعيلية </a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1"> حضانات في البحر الأحمر </a></li></ul></div><div _ngcontent-sc3="" class="col-md-3 d-none d-md-block"><!----><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%A8%D8%AD%D9%8A%D8%B1%D8%A9"> حضانات في البحيرة </a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9"> حضانات في الجيزة </a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%AF%D9%82%D9%87%D9%84%D9%8A%D8%A9"> حضانات في الدقهلية </a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3"> حضانات في السويس </a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9"> حضانات في الشرقية </a></li></ul><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" href="/ar/nurseries/city/%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9"> حضانات في الغربية </a></li></ul></div></div></div><div _ngcontent-sc3="" class="col-md-2"><div _ngcontent-sc3="" class="social-links mb-2"><!----><a _ngcontent-sc3="" rel="noreferrer" target="_blank" title="link" href="https://www.facebook.com/EasySchooleducation/"><i _ngcontent-sc3="" class="fab fa-facebook-square" classname="fab fa-facebook-square"></i></a><a _ngcontent-sc3="" rel="noreferrer" target="_blank" title="link" href="https://twitter.com/easyschools?lang=en"><i _ngcontent-sc3="" class="fab fa-twitter-square" classname="fab fa-twitter-square"></i></a><a _ngcontent-sc3="" rel="noreferrer" target="_blank" title="link" href="https://plus.google.com/112496544733160970444"><i _ngcontent-sc3="" class="fab  fa-google" classname="fab  fa-google"></i></a><a _ngcontent-sc3="" rel="noreferrer" target="_blank" title="link" href="https://www.instagram.com/easyschools/"><i _ngcontent-sc3="" class="fab fa-instagram" classname="fab fa-instagram"></i></a><a _ngcontent-sc3="" rel="noreferrer" target="_blank" title="link" href="https://www.linkedin.com/company/easyschools"><i _ngcontent-sc3="" class="fab fa-linkedin-square" classname="fab fa-linkedin-square"></i></a></div><ul _ngcontent-sc3=""><li _ngcontent-sc3=""><a _ngcontent-sc3="" title="link" href="/ar/privacy">خصوصية</a></li><li _ngcontent-sc3=""><a _ngcontent-sc3="" title="link" href="/ar/terms">شروط والاحكام</a></li><li _ngcontent-sc3=""> تحميل الان </li><li _ngcontent-sc3=""><a _ngcontent-sc3="" href="https://itunes.apple.com/us/app/easyschools/id1344484011?mt=8" lazy-load-images="" title="itunes"><img _ngcontent-sc3="" alt="itunes" class="img-fluid apple" data-src="assets/ios-store-tic.png"></a></li><li _ngcontent-sc3=""><a _ngcontent-sc3="" href="https://play.google.com/store/apps/details?id=com.easyschool.easyschoolwebsite&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" lazy-load-images=""><img _ngcontent-sc3="" alt="Get it on Google Play" class="img-fluid google" data-src="assets/android-store-tic.png"></a></li></ul></div></div></div></footer></app-footer><app-ask-question _ngcontent-sc0="" _nghost-sc4=""><!----><div _ngcontent-sc4="" class="ask rtl" id="open-ask-question"><img _ngcontent-sc4="" alt="ask-ar" src="assets/ask-ar.png"></div><!----></app-ask-question></app-root>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+      <iframe
+        height="0"
+        src="https://www.googletagmanager.com/ns.html?id=GTM-PZC6PJL"
+        style="display: none; visibility: hidden"
+        width="0"
+      ></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!-- <script
+  rel="preconnect"
+  defer
+  async
+  src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"
+></script> -->
+    <script async="" defer="">
+      let newVersion = "3.1.00";
+      if (localStorage.getItem("app-version")) {
+        if (localStorage.getItem("app-version") != newVersion) {
+          caches.keys().then((e) => {
+            e.forEach((key) => {
+              caches.delete(key);
+            });
+          });
+          // location.reload(true)
+        } else {
+          // Check that service workers are registered
+          if ("serviceWorker" in navigator) {
+            window.addEventListener("load", () => {
+              navigator.serviceWorker.register("./main-sw.js");
+            });
+          }
+        }
+      } else {
+        localStorage.setItem("app-version", newVersion);
+        // Check that service workers are registered
+        if ("serviceWorker" in navigator) {
+          window.addEventListener("load", () => {
+            navigator.serviceWorker.register("./main-sw.js");
+          });
+        }
+      }
+    </script>
+    <!-- <script
+      crossorigin="anonymous"
+      integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+      src="https://code.jquery.com/jquery-3.4.1.min.js"
+    ></script> -->
+  <script type="text/javascript" src="assets/js/jquery-3.4.1.slim.min.js"></script>
+
+    <script async="" crossorigin="anonymous" src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+    <script crossorigin="anonymous" src="https://kit.fontawesome.com/9a07467a57.js"></script>
+    <!-- <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId: "169861816989288",
+      autoLogAppEvents: true,
+      xfbml: true,
+      version: "v6.0"
+    });
+  };
+</script> -->
+    <!-- <script
+  async
+  defer
+  src="https://connect.facebook.net/en_US/sdk.js#version=v6.0"
+></script> -->
+  <script src="runtime.js"></script><script src="polyfills-es5.js" nomodule=""></script><script src="polyfills.js"></script><script src="vendor.js"></script><script src="main.js"></script>
+
+<script id="easy-school-state" type="application/json">{&q;https://backend.easyschools.org/api/v3/main/get-cities?country_id=1&q;:{&q;status&q;:200,&q;success&q;:true,&q;data&q;:[{&q;id&q;:3,&q;name_en&q;:&q;Aswan&q;,&q;name_ar&q;:&q;أسوان&q;,&q;slug_en&q;:&q;aswan&q;,&q;slug_ar&q;:&q;أسوان&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/L0ofnLunGK9j5GXWu2mTf83yM6DfR4Sywrl11trp.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/NWhUGKppucCFESSKAYv6DQ2w4jEOhnIDNWPlV4Sy.jpeg&q;},{&q;id&q;:23,&q;name_en&q;:&q;Assiut&q;,&q;name_ar&q;:&q;أسيوط&q;,&q;slug_en&q;:&q;assiut&q;,&q;slug_ar&q;:&q;أسيوط&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/n993iVASZ1CGqMr3m8YNFCfw9F1hnkze2cn671o1.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/clHCccPRrgAsGi9mQfSkG5lZOUVRAQMor6vshhT4.jpeg&q;},{&q;id&q;:6,&q;name_en&q;:&q;Luxor&q;,&q;name_ar&q;:&q;الأقصر&q;,&q;slug_en&q;:&q;luxor&q;,&q;slug_ar&q;:&q;الأقصر&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/Hf5cPH1PtkOpzFo4Q2d8W43YW7vNyo5695A4tFNJ.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/7DRvqpAqc9CeCwbWvw289skU9whZSVIthPtmsSYM.jpeg&q;},{&q;id&q;:5,&q;name_en&q;:&q;Alexandria&q;,&q;name_ar&q;:&q;الإسكندرية&q;,&q;slug_en&q;:&q;alexandria&q;,&q;slug_ar&q;:&q;الإسكندرية&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/USDsv8J05iUxpqRHzuXnHZ35TlTbHvkiEeNZp37v.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/dGm26AcBBGqmFlYZo5rSxd0whoPE2x4TlMhyvzXN.jpeg&q;},{&q;id&q;:17,&q;name_en&q;:&q;Ismailia&q;,&q;name_ar&q;:&q;الإسماعيلية&q;,&q;slug_en&q;:&q;ismailia&q;,&q;slug_ar&q;:&q;الإسماعيلية&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/Njvi0SafpVZ7aldnW9ukAOhVHpuXxQWchKFnuWCf.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/vsoVWLKWhcXceUNudioJsMlSUkv6vIelRoMlQGsu.jpeg&q;},{&q;id&q;:19,&q;name_en&q;:&q;The Red Sea&q;,&q;name_ar&q;:&q;البحر الأحمر&q;,&q;slug_en&q;:&q;the-red-sea&q;,&q;slug_ar&q;:&q;البحر-الأحمر&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/DhImWr6Wb9KBr57TsoaqEHulYiAKFlj4O2BMmpMR.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/BrhpnUtOz56ehbxxFKZstmWuaHbY8RvOh9TIRtP7.jpeg&q;},{&q;id&q;:12,&q;name_en&q;:&q;Beheira&q;,&q;name_ar&q;:&q;البحيرة&q;,&q;slug_en&q;:&q;beheira&q;,&q;slug_ar&q;:&q;البحيرة&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/bxX6xyA94yMaUHFRevM1ltC2Dk1hsnTlOszCN12d.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/ff3S3qH3EZVWWDZjrtlZnpeFy1EnE2TP48SgDEFN.jpeg&q;},{&q;id&q;:2,&q;name_en&q;:&q;Giza&q;,&q;name_ar&q;:&q;الجيزة&q;,&q;slug_en&q;:&q;giza&q;,&q;slug_ar&q;:&q;الجيزة&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/l2rAmJz3I4ZaBh2ZnUmkKxF3QgmEV561fA91eXf9.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/4yLYZMhlOJN3AkyqMBvAJSBaQJSqS6oFngJfWWQx.jpeg&q;},{&q;id&q;:8,&q;name_en&q;:&q;Dakahliya&q;,&q;name_ar&q;:&q;الدقهلية&q;,&q;slug_en&q;:&q;dakahliya&q;,&q;slug_ar&q;:&q;الدقهلية&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/dY9PN8EEu8pQxq6LBjc1RlkGyFyV4pYMjZoSGc0T.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/RMueviwyuT9Wi8Ctea8U2jwVwEghDVBLkEn5zID7.jpeg&q;},{&q;id&q;:16,&q;name_en&q;:&q;Suez&q;,&q;name_ar&q;:&q;السويس&q;,&q;slug_en&q;:&q;suez&q;,&q;slug_ar&q;:&q;السويس&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/sMiRMsiu2yzfD9tETVUAz337wvPjztXcV7TYD2GT.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/SuGlae252wSDi4mwZDtEIENjlO00QgVyDUlNj5S1.jpeg&q;},{&q;id&q;:15,&q;name_en&q;:&q;Sharkia&q;,&q;name_ar&q;:&q;الشرقية&q;,&q;slug_en&q;:&q;sharkia&q;,&q;slug_ar&q;:&q;الشرقية&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/qKQJc6m6kt9jJWvqz6ZFKWcnOADoCkG8pfgLiXaA.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/3eI3K1HQQf3aIymSFk0izimTfnYXWb5OZjABXIy1.jpeg&q;},{&q;id&q;:22,&q;name_en&q;:&q;Gharbia&q;,&q;name_ar&q;:&q;الغربية&q;,&q;slug_en&q;:&q;gharbia&q;,&q;slug_ar&q;:&q;الغربية&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/zbHZWMh6jXE9k3RpXyqeAfygbabogLgjz92EoNbq.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/RerIH3OFalbsZRH39ReTzh9xkZpzPjpdt5sLo1ll.jpeg&q;},{&q;id&q;:13,&q;name_en&q;:&q;Fayoum&q;,&q;name_ar&q;:&q;الفيوم&q;,&q;slug_en&q;:&q;fayoum&q;,&q;slug_ar&q;:&q;الفيوم&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/pwLV6hbP8OmLXs7EABRoRafo0wXKSu5cuyyIqYmd.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/ywYrs1B5DSmVC3ygsSUxYBcgLA9BJ5wErv0ArY9L.jpeg&q;},{&q;id&q;:1,&q;name_en&q;:&q;Cairo&q;,&q;name_ar&q;:&q;القاهرة&q;,&q;slug_en&q;:&q;cairo&q;,&q;slug_ar&q;:&q;القاهرة&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/CfeofJc5PibXl3xPc59Z1P6jUmFhPOPUn8OOPUfm.png&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/BRxvNsBqggkrFOW7OQW8A5P7KvsXZXs2z2DiFwk6.jpeg&q;},{&q;id&q;:11,&q;name_en&q;:&q;Qalubia&q;,&q;name_ar&q;:&q;القليوبية&q;,&q;slug_en&q;:&q;qalubia&q;,&q;slug_ar&q;:&q;القليوبية&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/91MuFULOuhRaJSsTmugbe8VbcG9ioQJeFklhikmZ.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/g9ZutxkKj5E2NrmlKu1Fjns5lnAI53w4MH5SQPOL.jpeg&q;},{&q;id&q;:18,&q;name_en&q;:&q;Monofiya&q;,&q;name_ar&q;:&q;المنوفية&q;,&q;slug_en&q;:&q;monofiya&q;,&q;slug_ar&q;:&q;المنوفية&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/GLe7xlr2Pu98wP6DzvvtPip67ZeY4gccjnbG9BRm.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/g6opD9Fw4xT0xARQFLblFDP0vHMndlFVfB9USpWR.jpeg&q;},{&q;id&q;:10,&q;name_en&q;:&q;Menia&q;,&q;name_ar&q;:&q;المنيا&q;,&q;slug_en&q;:&q;menia&q;,&q;slug_ar&q;:&q;المنيا&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/lKommpsaQD5zzsQSzTfCCMbtx9Jdg6l9htyMmZqM.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/b4VbE5Wmdpsrt4xhnBZP1liM2OGei4j7tUADB250.jpeg&q;},{&q;id&q;:29,&q;name_en&q;:&q;Marine Oasis&q;,&q;name_ar&q;:&q;الواحات البحرية&q;,&q;slug_en&q;:&q;marine-oasis&q;,&q;slug_ar&q;:&q;الواحات-البحرية&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/ZI8zmw8Xbss2yuQMOowB9Ji9HXBdErGCiJCJu2Dy.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/kZLQkrIPpl9EhzUGvBuGlTIG8EF1lUDXJhORHWcZ.jpeg&q;},{&q;id&q;:25,&q;name_en&q;:&q;New Valley&q;,&q;name_ar&q;:&q;الوادي الجديد&q;,&q;slug_en&q;:&q;new-valley&q;,&q;slug_ar&q;:&q;الوادي-الجديد&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/rMNE2LgFRFa0sIptRxbIHBYxmNPzfWFFO4WRV5NC.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/vW2PNtu6wsFaT4hkEqlHAZ7Vur9hTvzydZL8cjMQ.jpeg&q;},{&q;id&q;:27,&q;name_en&q;:&q;Bani Souwaif&q;,&q;name_ar&q;:&q;بنى سويف&q;,&q;slug_en&q;:&q;bani-souwaif&q;,&q;slug_ar&q;:&q;بنى-سويف&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/tKvlRnuyO1hY1cWHvdGFUneS27DnxzupbsFdKWeB.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/Llt2oBhZIUZn3o4vlbCVzk9U1lM4VxiJpvQz9ZLl.jpeg&q;},{&q;id&q;:21,&q;name_en&q;:&q;Port Said&q;,&q;name_ar&q;:&q;بورسعيد&q;,&q;slug_en&q;:&q;port-said&q;,&q;slug_ar&q;:&q;بورسعيد&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/NNFiB0jfywVVoTkH77SLrIp181E7siMHde7LQ8sC.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/tg94bkE23SpUDz84tisQNAh0w1BCf3y80E9kybRH.jpeg&q;},{&q;id&q;:26,&q;name_en&q;:&q;North Sinai&q;,&q;name_ar&q;:&q;جنوب سيناء&q;,&q;slug_en&q;:&q;north-sinai&q;,&q;slug_ar&q;:&q;جنوب-سيناء&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/AioveHS01wC1QMuj9QRhNQY6MJqQOhkwKeoNqaPN.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/7n7X7iQvC8XLwJqT4SiB2k94Z2BWnDzTI8jTPjM6.jpeg&q;},{&q;id&q;:24,&q;name_en&q;:&q;Damietta&q;,&q;name_ar&q;:&q;دمياط&q;,&q;slug_en&q;:&q;damietta&q;,&q;slug_ar&q;:&q;دمياط&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/RFmzdA7SiGcc6UlSTF9fHQaZtQZoH28fWERq0wM8.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/kwxFBfLwEkwYDunkAu85izS0EL3vl942Mnr5GuYt.jpeg&q;},{&q;id&q;:4,&q;name_en&q;:&q;Sohag&q;,&q;name_ar&q;:&q;سوهاج&q;,&q;slug_en&q;:&q;sohag&q;,&q;slug_ar&q;:&q;سوهاج&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/UX8xQCEWFr5Qa8Rll4vDk1WNYDLt2nzUu0qkOktm.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/ggY08RxpYBITTSRIIwmtLyB6rV5jn9B0qVslZnmB.jpeg&q;},{&q;id&q;:14,&q;name_en&q;:&q;Sharm El Sheikh&q;,&q;name_ar&q;:&q;شرم الشيخ&q;,&q;slug_en&q;:&q;sharm-el-sheikh&q;,&q;slug_ar&q;:&q;شرم-الشيخ&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/5Nez9wKMPwvngGhqjXm2GwWhzFzhIA9JTphDTkdu.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/sXB4rN4yE777mYBKWad6jg9nezNkEslPfogK5zlW.jpeg&q;},{&q;id&q;:20,&q;name_en&q;:&q;South sinai&q;,&q;name_ar&q;:&q;شمال سيناء&q;,&q;slug_en&q;:&q;south-sinai&q;,&q;slug_ar&q;:&q;شمال-سيناء&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/zOJ75jOQEwnVTWyibeg0j801fLPLBFoV7nJfTouA.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/VrmioL5esmhHBBPYrmy3A4zkERWFXUa67aQE3NRt.jpeg&q;},{&q;id&q;:7,&q;name_en&q;:&q;Qena&q;,&q;name_ar&q;:&q;قنا&q;,&q;slug_en&q;:&q;qena&q;,&q;slug_ar&q;:&q;قنا&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/smHePByKM2OD7yrmTFoXVFub0A1lXUrgsdp5aqim.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/H4g17CPPL0LpJ5rKcWDKBbHIewm1itgoeOe9oWEw.jpeg&q;},{&q;id&q;:9,&q;name_en&q;:&q;Kafr El Sheikh&q;,&q;name_ar&q;:&q;كفر الشيخ&q;,&q;slug_en&q;:&q;kafr-el-sheikh&q;,&q;slug_ar&q;:&q;كفر-الشيخ&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/SD9wTqohxUTYcJka4UWgY1ClG3907gLdyiY7bpdb.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/dgIutYsfPn3ZI4hvE1nYQIPQZmg60RtIUGC7TEPm.jpeg&q;},{&q;id&q;:28,&q;name_en&q;:&q;Matrouh&q;,&q;name_ar&q;:&q;مطروح&q;,&q;slug_en&q;:&q;matrouh&q;,&q;slug_ar&q;:&q;مطروح&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/J7Jl7NILrXS5TZp5nwYsyOWnRb4or4mGuzmnZoT5.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/5M4zxvW0URJE7doCkuxMd6LBef0wQ2dlQb36RHRs.jpeg&q;}],&q;message&q;:&q;cities data&q;},&q;G.https://backend.easyschools.org/api/v3/main/get-cities?country_id=1?&q;:{&q;body&q;:{&q;status&q;:200,&q;success&q;:true,&q;data&q;:[{&q;id&q;:3,&q;name_en&q;:&q;Aswan&q;,&q;name_ar&q;:&q;أسوان&q;,&q;slug_en&q;:&q;aswan&q;,&q;slug_ar&q;:&q;أسوان&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/L0ofnLunGK9j5GXWu2mTf83yM6DfR4Sywrl11trp.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/NWhUGKppucCFESSKAYv6DQ2w4jEOhnIDNWPlV4Sy.jpeg&q;},{&q;id&q;:23,&q;name_en&q;:&q;Assiut&q;,&q;name_ar&q;:&q;أسيوط&q;,&q;slug_en&q;:&q;assiut&q;,&q;slug_ar&q;:&q;أسيوط&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/n993iVASZ1CGqMr3m8YNFCfw9F1hnkze2cn671o1.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/clHCccPRrgAsGi9mQfSkG5lZOUVRAQMor6vshhT4.jpeg&q;},{&q;id&q;:6,&q;name_en&q;:&q;Luxor&q;,&q;name_ar&q;:&q;الأقصر&q;,&q;slug_en&q;:&q;luxor&q;,&q;slug_ar&q;:&q;الأقصر&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/Hf5cPH1PtkOpzFo4Q2d8W43YW7vNyo5695A4tFNJ.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/7DRvqpAqc9CeCwbWvw289skU9whZSVIthPtmsSYM.jpeg&q;},{&q;id&q;:5,&q;name_en&q;:&q;Alexandria&q;,&q;name_ar&q;:&q;الإسكندرية&q;,&q;slug_en&q;:&q;alexandria&q;,&q;slug_ar&q;:&q;الإسكندرية&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/USDsv8J05iUxpqRHzuXnHZ35TlTbHvkiEeNZp37v.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/dGm26AcBBGqmFlYZo5rSxd0whoPE2x4TlMhyvzXN.jpeg&q;},{&q;id&q;:17,&q;name_en&q;:&q;Ismailia&q;,&q;name_ar&q;:&q;الإسماعيلية&q;,&q;slug_en&q;:&q;ismailia&q;,&q;slug_ar&q;:&q;الإسماعيلية&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/Njvi0SafpVZ7aldnW9ukAOhVHpuXxQWchKFnuWCf.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/vsoVWLKWhcXceUNudioJsMlSUkv6vIelRoMlQGsu.jpeg&q;},{&q;id&q;:19,&q;name_en&q;:&q;The Red Sea&q;,&q;name_ar&q;:&q;البحر الأحمر&q;,&q;slug_en&q;:&q;the-red-sea&q;,&q;slug_ar&q;:&q;البحر-الأحمر&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/DhImWr6Wb9KBr57TsoaqEHulYiAKFlj4O2BMmpMR.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/BrhpnUtOz56ehbxxFKZstmWuaHbY8RvOh9TIRtP7.jpeg&q;},{&q;id&q;:12,&q;name_en&q;:&q;Beheira&q;,&q;name_ar&q;:&q;البحيرة&q;,&q;slug_en&q;:&q;beheira&q;,&q;slug_ar&q;:&q;البحيرة&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/bxX6xyA94yMaUHFRevM1ltC2Dk1hsnTlOszCN12d.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/ff3S3qH3EZVWWDZjrtlZnpeFy1EnE2TP48SgDEFN.jpeg&q;},{&q;id&q;:2,&q;name_en&q;:&q;Giza&q;,&q;name_ar&q;:&q;الجيزة&q;,&q;slug_en&q;:&q;giza&q;,&q;slug_ar&q;:&q;الجيزة&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/l2rAmJz3I4ZaBh2ZnUmkKxF3QgmEV561fA91eXf9.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/4yLYZMhlOJN3AkyqMBvAJSBaQJSqS6oFngJfWWQx.jpeg&q;},{&q;id&q;:8,&q;name_en&q;:&q;Dakahliya&q;,&q;name_ar&q;:&q;الدقهلية&q;,&q;slug_en&q;:&q;dakahliya&q;,&q;slug_ar&q;:&q;الدقهلية&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/dY9PN8EEu8pQxq6LBjc1RlkGyFyV4pYMjZoSGc0T.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/RMueviwyuT9Wi8Ctea8U2jwVwEghDVBLkEn5zID7.jpeg&q;},{&q;id&q;:16,&q;name_en&q;:&q;Suez&q;,&q;name_ar&q;:&q;السويس&q;,&q;slug_en&q;:&q;suez&q;,&q;slug_ar&q;:&q;السويس&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/sMiRMsiu2yzfD9tETVUAz337wvPjztXcV7TYD2GT.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/SuGlae252wSDi4mwZDtEIENjlO00QgVyDUlNj5S1.jpeg&q;},{&q;id&q;:15,&q;name_en&q;:&q;Sharkia&q;,&q;name_ar&q;:&q;الشرقية&q;,&q;slug_en&q;:&q;sharkia&q;,&q;slug_ar&q;:&q;الشرقية&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/qKQJc6m6kt9jJWvqz6ZFKWcnOADoCkG8pfgLiXaA.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/3eI3K1HQQf3aIymSFk0izimTfnYXWb5OZjABXIy1.jpeg&q;},{&q;id&q;:22,&q;name_en&q;:&q;Gharbia&q;,&q;name_ar&q;:&q;الغربية&q;,&q;slug_en&q;:&q;gharbia&q;,&q;slug_ar&q;:&q;الغربية&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/zbHZWMh6jXE9k3RpXyqeAfygbabogLgjz92EoNbq.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/RerIH3OFalbsZRH39ReTzh9xkZpzPjpdt5sLo1ll.jpeg&q;},{&q;id&q;:13,&q;name_en&q;:&q;Fayoum&q;,&q;name_ar&q;:&q;الفيوم&q;,&q;slug_en&q;:&q;fayoum&q;,&q;slug_ar&q;:&q;الفيوم&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/pwLV6hbP8OmLXs7EABRoRafo0wXKSu5cuyyIqYmd.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/ywYrs1B5DSmVC3ygsSUxYBcgLA9BJ5wErv0ArY9L.jpeg&q;},{&q;id&q;:1,&q;name_en&q;:&q;Cairo&q;,&q;name_ar&q;:&q;القاهرة&q;,&q;slug_en&q;:&q;cairo&q;,&q;slug_ar&q;:&q;القاهرة&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/CfeofJc5PibXl3xPc59Z1P6jUmFhPOPUn8OOPUfm.png&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/BRxvNsBqggkrFOW7OQW8A5P7KvsXZXs2z2DiFwk6.jpeg&q;},{&q;id&q;:11,&q;name_en&q;:&q;Qalubia&q;,&q;name_ar&q;:&q;القليوبية&q;,&q;slug_en&q;:&q;qalubia&q;,&q;slug_ar&q;:&q;القليوبية&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/91MuFULOuhRaJSsTmugbe8VbcG9ioQJeFklhikmZ.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/g9ZutxkKj5E2NrmlKu1Fjns5lnAI53w4MH5SQPOL.jpeg&q;},{&q;id&q;:18,&q;name_en&q;:&q;Monofiya&q;,&q;name_ar&q;:&q;المنوفية&q;,&q;slug_en&q;:&q;monofiya&q;,&q;slug_ar&q;:&q;المنوفية&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/GLe7xlr2Pu98wP6DzvvtPip67ZeY4gccjnbG9BRm.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/g6opD9Fw4xT0xARQFLblFDP0vHMndlFVfB9USpWR.jpeg&q;},{&q;id&q;:10,&q;name_en&q;:&q;Menia&q;,&q;name_ar&q;:&q;المنيا&q;,&q;slug_en&q;:&q;menia&q;,&q;slug_ar&q;:&q;المنيا&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/lKommpsaQD5zzsQSzTfCCMbtx9Jdg6l9htyMmZqM.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/b4VbE5Wmdpsrt4xhnBZP1liM2OGei4j7tUADB250.jpeg&q;},{&q;id&q;:29,&q;name_en&q;:&q;Marine Oasis&q;,&q;name_ar&q;:&q;الواحات البحرية&q;,&q;slug_en&q;:&q;marine-oasis&q;,&q;slug_ar&q;:&q;الواحات-البحرية&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/ZI8zmw8Xbss2yuQMOowB9Ji9HXBdErGCiJCJu2Dy.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/kZLQkrIPpl9EhzUGvBuGlTIG8EF1lUDXJhORHWcZ.jpeg&q;},{&q;id&q;:25,&q;name_en&q;:&q;New Valley&q;,&q;name_ar&q;:&q;الوادي الجديد&q;,&q;slug_en&q;:&q;new-valley&q;,&q;slug_ar&q;:&q;الوادي-الجديد&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/rMNE2LgFRFa0sIptRxbIHBYxmNPzfWFFO4WRV5NC.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/vW2PNtu6wsFaT4hkEqlHAZ7Vur9hTvzydZL8cjMQ.jpeg&q;},{&q;id&q;:27,&q;name_en&q;:&q;Bani Souwaif&q;,&q;name_ar&q;:&q;بنى سويف&q;,&q;slug_en&q;:&q;bani-souwaif&q;,&q;slug_ar&q;:&q;بنى-سويف&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/tKvlRnuyO1hY1cWHvdGFUneS27DnxzupbsFdKWeB.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/Llt2oBhZIUZn3o4vlbCVzk9U1lM4VxiJpvQz9ZLl.jpeg&q;},{&q;id&q;:21,&q;name_en&q;:&q;Port Said&q;,&q;name_ar&q;:&q;بورسعيد&q;,&q;slug_en&q;:&q;port-said&q;,&q;slug_ar&q;:&q;بورسعيد&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/NNFiB0jfywVVoTkH77SLrIp181E7siMHde7LQ8sC.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/tg94bkE23SpUDz84tisQNAh0w1BCf3y80E9kybRH.jpeg&q;},{&q;id&q;:26,&q;name_en&q;:&q;North Sinai&q;,&q;name_ar&q;:&q;جنوب سيناء&q;,&q;slug_en&q;:&q;north-sinai&q;,&q;slug_ar&q;:&q;جنوب-سيناء&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/AioveHS01wC1QMuj9QRhNQY6MJqQOhkwKeoNqaPN.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/7n7X7iQvC8XLwJqT4SiB2k94Z2BWnDzTI8jTPjM6.jpeg&q;},{&q;id&q;:24,&q;name_en&q;:&q;Damietta&q;,&q;name_ar&q;:&q;دمياط&q;,&q;slug_en&q;:&q;damietta&q;,&q;slug_ar&q;:&q;دمياط&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/RFmzdA7SiGcc6UlSTF9fHQaZtQZoH28fWERq0wM8.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/kwxFBfLwEkwYDunkAu85izS0EL3vl942Mnr5GuYt.jpeg&q;},{&q;id&q;:4,&q;name_en&q;:&q;Sohag&q;,&q;name_ar&q;:&q;سوهاج&q;,&q;slug_en&q;:&q;sohag&q;,&q;slug_ar&q;:&q;سوهاج&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/UX8xQCEWFr5Qa8Rll4vDk1WNYDLt2nzUu0qkOktm.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/ggY08RxpYBITTSRIIwmtLyB6rV5jn9B0qVslZnmB.jpeg&q;},{&q;id&q;:14,&q;name_en&q;:&q;Sharm El Sheikh&q;,&q;name_ar&q;:&q;شرم الشيخ&q;,&q;slug_en&q;:&q;sharm-el-sheikh&q;,&q;slug_ar&q;:&q;شرم-الشيخ&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/5Nez9wKMPwvngGhqjXm2GwWhzFzhIA9JTphDTkdu.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/sXB4rN4yE777mYBKWad6jg9nezNkEslPfogK5zlW.jpeg&q;},{&q;id&q;:20,&q;name_en&q;:&q;South sinai&q;,&q;name_ar&q;:&q;شمال سيناء&q;,&q;slug_en&q;:&q;south-sinai&q;,&q;slug_ar&q;:&q;شمال-سيناء&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/zOJ75jOQEwnVTWyibeg0j801fLPLBFoV7nJfTouA.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/VrmioL5esmhHBBPYrmy3A4zkERWFXUa67aQE3NRt.jpeg&q;},{&q;id&q;:7,&q;name_en&q;:&q;Qena&q;,&q;name_ar&q;:&q;قنا&q;,&q;slug_en&q;:&q;qena&q;,&q;slug_ar&q;:&q;قنا&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/smHePByKM2OD7yrmTFoXVFub0A1lXUrgsdp5aqim.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/H4g17CPPL0LpJ5rKcWDKBbHIewm1itgoeOe9oWEw.jpeg&q;},{&q;id&q;:9,&q;name_en&q;:&q;Kafr El Sheikh&q;,&q;name_ar&q;:&q;كفر الشيخ&q;,&q;slug_en&q;:&q;kafr-el-sheikh&q;,&q;slug_ar&q;:&q;كفر-الشيخ&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/SD9wTqohxUTYcJka4UWgY1ClG3907gLdyiY7bpdb.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/dgIutYsfPn3ZI4hvE1nYQIPQZmg60RtIUGC7TEPm.jpeg&q;},{&q;id&q;:28,&q;name_en&q;:&q;Matrouh&q;,&q;name_ar&q;:&q;مطروح&q;,&q;slug_en&q;:&q;matrouh&q;,&q;slug_ar&q;:&q;مطروح&q;,&q;country_id&q;:1,&q;image_en&q;:&q;https://backend.easyschools.org/uploads/cities/J7Jl7NILrXS5TZp5nwYsyOWnRb4or4mGuzmnZoT5.jpeg&q;,&q;image_ar&q;:&q;https://backend.easyschools.org/uploads/cities/5M4zxvW0URJE7doCkuxMd6LBef0wQ2dlQb36RHRs.jpeg&q;}],&q;message&q;:&q;cities data&q;},&q;headers&q;:{&q;server&q;:[&q;nginx&q;],&q;date&q;:[&q;Tue, 27 Jan 2026 21:19:05 GMT&q;],&q;content-type&q;:[&q;application/json&q;],&q;transfer-encoding&q;:[&q;chunked&q;],&q;connection&q;:[&q;keep-alive&q;],&q;vary&q;:[&q;Accept-Encoding&q;],&q;cache-control&q;:[&q;no-cache, private&q;],&q;access-control-allow-origin&q;:[&q;*&q;],&q;access-control-allow-headers&q;:[&q;Origin, X-Requested-With, Content-Type, accept, authorization, x-localization, channel, location, business_id, api_key, device-udid&q;],&q;access-control-allow-methods&q;:[&q;PUT, GET, POST, DELETE, HEAD, OPTIONS&q;],&q;strict-transport-security&q;:[&q;max-age=63072000; includeSubDomains; preload&q;],&q;access-control-max-age&q;:[&q;3600&q;],&q;x-xss-protection&q;:[&q;1; mode=block&q;],&q;x-content-type-options&q;:[&q;nosniff&q;],&q;x-nginx-upstream-cache-status&q;:[&q;EXPIRED&q;],&q;x-server-powered-by&q;:[&q;Engintron&q;]},&q;status&q;:200,&q;statusText&q;:&q;OK&q;,&q;url&q;:&q;https://backend.easyschools.org/api/v3/main/get-cities?country_id=1&q;}}</script></body></html>

@@ -1,0 +1,1436 @@
+<!DOCTYPE html>
+<!--[if lte IE 10]> <html data-lang="ar" lang="ar" class="ar ie9"> <![endif]--> 
+<!--[if !IE]><!--> <html data-lang="ar" lang="ar" class="ar">             <!--<![endif]-->
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1,  maximum-scale=1, user-scalable=no">
+<meta name="robots" content="noindex, follow" />
+
+<script src="/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6" type="text/javascript"></script>
+<!-- Language Type starts here -->
+
+<meta http-equiv="content-language" content="ar" />
+
+<!-- Language Type ends here. -->
+
+<!-- Ahref to tracking code -->
+<meta name="ahrefs-site-verification" content="01d8c4e1303bd522e068e4ff61472a05c9a03ab2b9df1947cdd8a91e7eba69f8">
+
+
+<!-- below code for disable telephone number detection in devices-->
+<meta name = "format-detection" content = "telephone=no">
+
+<script>
+ if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+    navigator.serviceWorker.register("https://ui.cltp.co/flyinstatic/common/themes/v2/sw.js").then(function(s){console.log('service worker started')}).catch(function(e){console.log('-----service worker error', e)});
+  });
+}
+</script>
+<script src="https://checkout-web-components.checkout.com/index.js" />
+
+<!-- Knowledge Graph Code starts here -->
+
+
+  <script type="application/ld+json">
+    {
+   "@context" : "http://schema.org",
+   "@type" : "WebSite",
+   "name" : "Flyin",
+   "url" : "https://www.flyin.com",
+   "logo": "https://www.flyin.com/img/social/logo.png",
+   "sameAs" : [
+   "https://www.facebook.com/flyin.com",
+   "https://twitter.com/flyincom",
+   "https://www.linkedin.com/company/flyin-com",
+   "https://www.instagram.com/flyincom"
+   ]
+   }
+   </script>
+
+
+
+<!-- Knowledge Graph Code ends here -->
+<link rel="manifest" href="/manifest.json">
+
+<title>فلاي إن - أفضل عروض الطيران والفنادق</title>
+<meta name="description" content="صمم رحلتك بنفسك بأفضل وارخص سعر مضمون ✓ احجز تذاكر الطيران ✈ والفنادق في جميع انحاء العالم بما يتناسب مع جميع الميزانيات، احجز الآن عبر الآنترنت مع فلاي ان" >
+<meta name="keywords" content="حجز طيران, حجز فنادق, حجز تذاكر طيران, ارخص طيران, حجوزات طيران, تذاكر طيران, ارخص تذاكر طيران, موقع حجز طيران, حجز طيران اونلين, حجز فنادق اونلين" >
+
+<meta name="msvalidate.01" content="921504FD6F94AD36B13F3B8638499B43" />
+ 
+
+<!-- Canonical starts here -->
+
+
+
+<!-- Canonical ends here -->
+
+
+<!-- Alternate starts here -->
+
+
+<!-- Alternate ends here -->
+
+<meta name="twitter:card" content="summary" >
+<meta name="twitter:site" content="@flyincom" >
+<meta name="twitter:creator" content="@flyincom" >
+<meta name="twitter:title" content="فلاي إن - أفضل عروض الطيران والفنادق" />
+<meta name="twitter:description" content="صمم رحلتك بنفسك بأفضل وارخص سعر مضمون ✓ احجز تذاكر الطيران ✈ والفنادق في جميع انحاء العالم بما يتناسب مع جميع الميزانيات، احجز الآن عبر الآنترنت مع فلاي ان" />
+<meta name="twitter:image" content="" />
+
+<meta property="og:type" content="website" >
+<meta property="og:site_name" content="flyin.com" >
+<meta property="og:title" content="فلاي إن - أفضل عروض الطيران والفنادق">
+<meta property="og:description" content="صمم رحلتك بنفسك بأفضل وارخص سعر مضمون ✓ احجز تذاكر الطيران ✈ والفنادق في جميع انحاء العالم بما يتناسب مع جميع الميزانيات، احجز الآن عبر الآنترنت مع فلاي ان">
+ <meta property="og:locale" content="en-US">
+<meta property="og:locale:alternate" content="ar" />
+<meta property="og:url" content="">
+<meta property="og:image" content="">
+<meta property="og:image:width" content="300">
+<meta property="og:image:height" content="200">
+
+<meta property="fb:app_id" content="1520994121498325" > 
+
+<link rel="icon" type="image/x-icon" href="https://ui.cltp.co/flyinstatic/common/themes/v2/img/favicon.ico" />
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<link href="https://ui.cltp.co/flyinstatic/css/flyin-icons.css?v=v57241" rel="stylesheet"/>
+
+
+<link href="https://ui.cltp.co/flyinstatic/common/themes/v2/css/bundle-ar.css" rel="stylesheet"/>
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+ 
+ 
+  
+
+
+<link href="https://ui.cltp.co/flyinstatic/common/themes/v2/css/device-ar.css" rel="stylesheet"/> 
+ 
+
+<script src="https://ui.cltp.co/flyinstatic/common/themes/globalFunction.js"></script>
+<script>
+  var dataLayer = dataLayer || [];
+  share.deviceCheck();
+  share.domainName();
+  share.jsVersion({"css/activities-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/activities-ar.css","css/activities.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/activities.css","css/airway-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/airway-ar.css","css/airway.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/airway.css","css/alHilal-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/alHilal-ar.css","css/alHilal.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/alHilal.css","css/bbcStyle-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/bbcStyle-ar.css","css/bbcStyle.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/bbcStyle.css","css/best-price-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/best-price-ar.css","css/best-price.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/best-price.css","css/black-friday-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/black-friday-ar.css","css/black-friday.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/black-friday.css","css/bootstrap-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/bootstrap-ar.css","css/bootstrap.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/bootstrap.css","css/bundle-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/bundle-ar.css","css/bundle-en.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/bundle-en.css","css/career-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/career-ar.css","css/career.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/career.css","css/cars.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/cars.css","css/common-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/common-ar.css","css/common.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/common.css","css/confirmation-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/confirmation-ar.css","css/confirmation.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/confirmation.css","css/daterangepicker.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/daterangepicker.css","css/device-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/device-ar.css","css/device.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/device.css","css/droidarabickufi.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/droidarabickufi.css","css/filter-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/filter-ar.css","css/filter.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/filter.css","css/flyinFreeNight-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/flyinFreeNight-ar.css","css/flyinFreeNight.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/flyinFreeNight.css","css/franchise-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/franchise-ar.css","css/franchise.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/franchise.css","css/hotelReward-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/hotelReward-ar.css","css/hotelReward.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/hotelReward.css","css/installment-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/installment-ar.css","css/installment.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/installment.css","css/intlTelInput.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/intlTelInput.css","css/itineraryStyle-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/itineraryStyle-ar.css","css/itineraryStyle.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/itineraryStyle.css","css/jquery-clockpicker.min-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/jquery-clockpicker.min-ar.css","css/jquery-clockpicker.min.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/jquery-clockpicker.min.css","css/jquery.mCustomScrollbar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/jquery.mCustomScrollbar.css","css/landing-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/landing-ar.css","css/landing.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/landing.css","css/marketing-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/marketing-ar.css","css/marketing.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/marketing.css","css/myAccount-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/myAccount-ar.css","css/myAccount.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/myAccount.css","css/packages-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/packages-ar.css","css/packages.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/packages.css","css/qitaf.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/qitaf.css","css/results-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/results-ar.css","css/results.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/results.css","css/review-rating-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/review-rating-ar.css","css/review-rating.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/review-rating.css","css/reviewPage-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/reviewPage-ar.css","css/reviewPage.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/reviewPage.css","css/roboto.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/roboto.css","css/staticPage-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/staticPage-ar.css","css/staticPage.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/staticPage.css","css/tistahel-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/tistahel-ar.css","css/tistahel.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/tistahel.css","css/unused.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/unused.css","css/visa-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/visa-ar.css","css/visa.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/visa.css","css/wallet-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/wallet-ar.css","css/wallet.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/wallet.css","css/weekend-getaways-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/weekend-getaways-ar.css","css/weekend-getaways.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/weekend-getaways.css","css/world-cup-russia-ar.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/world-cup-russia-ar.css","css/world-cup-russia.css":"https://ui.cltp.co/flyinstatic/common/themes/v2/css/world-cup-russia.css","js/BindLite.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/BindLite.js","js/Qitaf.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/Qitaf.js","js/activitiesServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/activitiesServiceLayer.js","js/addonsServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/addonsServiceLayer.js","js/analyticsServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/analyticsServiceLayer.js","js/bbcServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/bbcServiceLayer.js","js/bootstrap.min.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/bootstrap.min.js","js/carServiceProtoExt.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/carServiceProtoExt.js","js/carsRoutes.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/carsRoutes.js","js/carsServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/carsServiceLayer.js","js/cleverTapJSlib.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/cleverTapJSlib.js","js/common.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/common.js","js/commonPayment.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/commonPayment.js","js/couponsServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/couponsServiceLayer.js","js/datepicker-ar.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/datepicker-ar.js","js/daterangepicker.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/daterangepicker.js","js/filter.min.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/filter.min.js","js/flightComboServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/flightComboServiceLayer.js","js/flightServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/flightServiceLayer.js","js/flyin.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/flyin.js","js/fphFlightFilter.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/fphFlightFilter.js","js/fphHotelFilter.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/fphHotelFilter.js","js/fphServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/fphServiceLayer.js","js/global.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/global.js","js/handlebars.min.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/handlebars.min.js","js/holidayServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/holidayServiceLayer.js","js/hotelFilters.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/hotelFilters.js","js/hotelServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/hotelServiceLayer.js","js/hudge.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/hudge.js","js/imagesloaded.pkgd.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/imagesloaded.pkgd.js","js/infobox.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/infobox.js","js/intlTelInput.min.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/intlTelInput.min.js","js/ion.rangeSlider.min.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/ion.rangeSlider.min.js","js/jquery-1.9.1.min.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/jquery-1.9.1.min.js","js/jquery-birthday-picker.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/jquery-birthday-picker.js","js/jquery-clockpicker.min.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/jquery-clockpicker.min.js","js/jquery-hijriday-picker.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/jquery-hijriday-picker.js","js/jquery.countdown.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/jquery.countdown.js","js/jquery.dataTables.min.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/jquery.dataTables.min.js","js/jquery.formance.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/jquery.formance.js","js/jquery.mCustomScrollbar.concat.min.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/jquery.mCustomScrollbar.concat.min.js","js/jquery.min.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/jquery.min.js","js/jquery.pagination.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/jquery.pagination.js","js/jssor.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/jssor.js","js/jssor.slider.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/jssor.slider.js","js/jssorSlider2.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/jssorSlider2.js","js/landing.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/landing.js","js/lazyLoader.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/lazyLoader.js","js/lib.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/lib.js","js/loanrequest.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/loanrequest.js","js/lodash.min.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/lodash.min.js","js/mapview.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/mapview.js","js/masonry.pkgd.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/masonry.pkgd.js","js/myAccountSeatMapServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/myAccountSeatMapServiceLayer.js","js/myAccountServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/myAccountServiceLayer.js","js/myProfileServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/myProfileServiceLayer.js","js/offer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/offer.js","js/offersServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/offersServiceLayer.js","js/owl-carousel.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/owl-carousel.js","js/pack.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/pack.js","js/packagesServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/packagesServiceLayer.js","js/pageRefresh.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/pageRefresh.js","js/payment-validations.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/payment-validations.js","js/payment_flight.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/payment_flight.js","js/routes.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/routes.js","js/seatMapServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/seatMapServiceLayer.js","js/store.legacy.min.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/store.legacy.min.js","js/swiper.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/swiper.js","js/theia-sticky-sidebar.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/theia-sticky-sidebar.js","js/transferServiceLayer.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/transferServiceLayer.js","js/utils.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/utils.js","js/walletQitaf.js":"https://ui.cltp.co/flyinstatic/common/themes/v2/js/walletQitaf.js","vers":"v57241","basePathCDN":"https://ui.cltp.co/flyinstatic/"});
+
+  window.addEventListener("load", () => {
+       (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-5C26K9');
+});
+</script>
+
+<!-- UseInsider Code starts here //flyin.api.useinsider.com/ins.js?id=10001225 -->
+<!--<script async src=" "></script>-->
+<!-- UseInsider Code ends here -->
+
+
+<style>
+/*
+ * Droid Arabic Kufi (Arabic) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://ui.cltp.co/flyinstatic/common/themes/v2/css/fonts/DroidKufi-Regular.eot);
+  src: url(https://ui.cltp.co/flyinstatic/common/themes/v2/css/fonts/DroidKufi-Regular.eot?#iefix) format('embedded-opentype'),
+       url(https://ui.cltp.co/flyinstatic/common/themes/v2/css/fonts/DroidKufi-Regular.woff) format('woff'),
+       url(https://ui.cltp.co/flyinstatic/common/themes/v2/css/fonts/DroidKufi-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://ui.cltp.co/flyinstatic/common/themes/v2/css/fonts/DroidKufi-Bold.eot);
+  src: url(https://ui.cltp.co/flyinstatic/common/themes/v2/css/fonts/DroidKufi-Bold.eot?#iefix) format('embedded-opentype'),
+       url(https://ui.cltp.co/flyinstatic/common/themes/v2/css/fonts/DroidKufi-Bold.woff) format('woff'),
+       url(https://ui.cltp.co/flyinstatic/common/themes/v2/css/fonts/DroidKufi-Bold.ttf) format('truetype');
+}
+
+/*
+ * Roboto https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700
+ */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: local('Roboto Thin'), local('Roboto-Thin'), url(https://ui.cltp.co/flyinstatic/common/themes/v2/css/fonts/vzIUHo9z-oJ4WgkpPOtg1_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local('Roboto Light'), local('Roboto-Light'), url(https://ui.cltp.co/flyinstatic/common/themes/v2/css/fonts/Hgo13k-tfSpn0qi1SFdUfT8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://ui.cltp.co/flyinstatic/common/themes/v2/css/fonts/2UX7WLTfW3W8TclTUvlFyQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local('Roboto Medium'), local('Roboto-Medium'), url(https://ui.cltp.co/flyinstatic/common/themes/v2/css/fonts/RxZJdnzeo3R5zSexge8UUT8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Roboto Bold'), local('Roboto-Bold'), url(https://ui.cltp.co/flyinstatic/common/themes/v2/css/fonts/d-6IYplOFocCacKzxwXSOD8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+.pr-4, .px-4 {
+    padding-right: 16px;
+}
+.pl-4 {
+    padding-left: 16px;
+}
+.pb-3 {
+    padding-bottom: 2px;
+}
+.pt-3 {
+    padding-top: 5px;
+}
+.p-fixed {
+    position: fixed;
+}
+.flex-middle {
+    align-items: center;
+}
+.flex {
+    display: flex;
+}
+</style>
+
+
+</head>
+
+
+
+<body class="gDomain  " >
+
+
+<!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5C26K9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+
+
+<header>
+  <div class="container">
+  	<div class="headLeft">
+      <div class="clearfix" data="[{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/new-year&#34;,&#34;ar&#34;:&#34;/ar/offers/new-year&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Get up to 120 SAR on flight bookings&#34;,&#34;cardDescription&#34;:&#34;On International Flights &#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/430-215en.jpg&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;احصل على خصم حتى 120 ريال  على حجوزات الطيران&#34;,&#34;cardDescription&#34;:&#34;على الحجوزات الدولية&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/430-215ar.jpg&#34;},&#34;code&#34;:&#34;NY2026&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/aircairo&#34;,&#34;ar&#34;:&#34;/ar/offers/aircairo&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Travel with exclusive fares on Air Cairo&#34;,&#34;cardDescription&#34;:&#34;Travel smart &#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/ÃÂ¦ÃÂ¦574-287-en.jpg&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;سافر بأسعار حصرية مع إير كايرو &#34;,&#34;cardDescription&#34;:&#34;سافر بذكاء &#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/ÃÂ¥ÃÂ¥ÃÂ¥574-287-ar.jpg&#34;},&#34;code&#34;:&#34;N/A&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/philippine-airlines&#34;,&#34;ar&#34;:&#34;/ar/offers/philippine-airlines&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Exclusive one-way fare from Riyadh to Manila for a limited time&#34;,&#34;cardDescription&#34;:&#34;Travel smart with Philippine Airlines &#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/574-287-en.jpÃÂÃÂ©g.jpg&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34; سعر مميز لرحلة الذهاب من الرياض إلى مانيلا لفترة محدودة&#34;,&#34;cardDescription&#34;:&#34;سافر بذكاء مع طيران الفلبين &#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/574-287ÃÂÃÂ¨-ar.jpg&#34;},&#34;code&#34;:&#34;N/A&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/flynas&#34;,&#34;ar&#34;:&#34;/ar/offers/flynas&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Special fares from Flynas starting at SAR 149&#34;,&#34;cardDescription&#34;:&#34;Travel smart with flynas &#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/574-287en.jpgÃÂ ÃÂ¶.jpg&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;أسعار حصرية على فلاي إن من طيران ناس تبدأ من 149 ريال&#34;,&#34;cardDescription&#34;:&#34;سافر بذكاء مع طيران ناس &#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/574-287ar.jpgÃÂ§ÃÂ°.jpg&#34;},&#34;code&#34;:&#34;N/A&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/qiddiya&#34;,&#34;ar&#34;:&#34;/ar/offers/qiddiya&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Up to 25% Off Your Ultimate Six Flags Experience&#34;,&#34;cardDescription&#34;:&#34;The Qiddiya package includes flights, hotels, entry tickets, and transportation to and from Qiddiya&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/435x215-ENcvb.jpg&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;خصم يصل إلى 25% على تجربة Six Flags &#34;,&#34;cardDescription&#34;:&#34;تشمل الباقة إلى القدية الطيران والفنادق وتذاكر الدخول والمواصلات من وإلى القدية&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/435x215-Ar vbn(1).jpg&#34;},&#34;code&#34;:&#34;QIDDIYA&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/save-more-on-flight-bookings!&#34;,&#34;ar&#34;:&#34;/ar/offers/save-more-on-flight-bookings!&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Flyin&#39;s Guaranteed Discount&#34;,&#34;cardDescription&#34;:&#34;Save more on flight bookings!&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/flyin/prod/merchandising/upload_92386ec849256d5952921f882507332b.jpg&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;خصم حصري على تذاكر الطيران&#34;,&#34;cardDescription&#34;:&#34;وفر أكثر على حجوزات الطيران&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/flyin/prod/merchandising/upload_b21510c283de2655b2001954e7f0b6b7.jpg&#34;},&#34;code&#34;:&#34;FLY&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/airasia&#34;,&#34;ar&#34;:&#34;/ar/offers/airasia&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Fly with AirAsia &#34;,&#34;cardDescription&#34;:&#34;Premium comfort, thoughtful service, and seamless travel from takeoff to touchdown. Experience a better way to fly.&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/landing-page-fly-in-EN-2.jpg&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;سافر مع طيران آسيا&#34;,&#34;cardDescription&#34;:&#34;راحة فائقة، وخدمة مميزة، ورحلة سلسة من الإقلاع إلى الهبوط. جرّب تجربة سفر جوي أفضل.&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/landing-page-fly-in-Ar-2.jpg&#34;},&#34;code&#34;:&#34;N/A&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/cathay-pacific&#34;,&#34;ar&#34;:&#34;/ar/offers/cathay-pacific&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Travel the world with Cathay Pacific and enjoy a seamless flying experience&#34;,&#34;cardDescription&#34;:&#34;Your journey starts the moment you step on board&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/574x287-EN.jpg9.jpg&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;سافر حول العالم مع كاثي باسيفيك واستمتع بتجربة طيران سلسة&#34;,&#34;cardDescription&#34;:&#34;لتعيش تجربة سفر بمعايير عالمية في كل تفصيلة.&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/574x287-AR.jpg9.jpg&#34;},&#34;code&#34;:&#34;N/A&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/exclusive-discounts-to-abu-dhabi&#34;,&#34;ar&#34;:&#34;/ar/offers/exclusive-discounts-to-abu-dhabi&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Exclusive Discounts to Abu Dhabi&#34;,&#34;cardDescription&#34;:&#34;Save up to 15% on your trip!&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/abu-dhabi2.png&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;خصومات حصرية إلى أبو ظبي&#34;,&#34;cardDescription&#34;:&#34;وفّر حتى 15٪ على رحلتك!&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/abu-dhabi-ar.png&#34;},&#34;code&#34;:&#34;ABUDHABI&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/special-discounts-on-trips-to-dubai&#34;,&#34;ar&#34;:&#34;/ar/offers/special-discounts-on-trips-to-dubai&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Special Discounts on Trips to Dubai&#34;,&#34;cardDescription&#34;:&#34;Enjoy deals on flights, hotels and packages.&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/flyin/prod/merchandising/upload_5a8985aedd1a62dcd0497b1416ec5188.jpg&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;خصم خاص على الرحلات إلى دبي&#34;,&#34;cardDescription&#34;:&#34;استمتع بالعروض على الطيران والفنادق والباقات&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/flyin/prod/merchandising/upload_9c74e6045758e78f48e2edaeeaaa5ef8.jpg&#34;},&#34;code&#34;:&#34;DUBAI&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/special-offers-to-hongkong&#34;,&#34;ar&#34;:&#34;/ar/offers/special-offers-to-hongkong&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Special Offers To HongKong&#34;,&#34;cardDescription&#34;:&#34;Up to 15% off!&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/hong-kong.png&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;عروض خاصة على السفر إلى هونج كونج&#34;,&#34;cardDescription&#34;:&#34;وفّر حتى 15٪ على رحلتك!&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/hong-kong-ar.png&#34;},&#34;code&#34;:&#34;HONGKONG&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/discount-on-bookings-to-germany&#34;,&#34;ar&#34;:&#34;/ar/offers/discount-on-bookings-to-germany&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Special offer on trips to Germany&#34;,&#34;cardDescription&#34;:&#34;Up to 15% off!&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/germany.png&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;سافر لألمانيا بخصومات خاصة&#34;,&#34;cardDescription&#34;:&#34;استمتع بخصم 15% على حجوزات الفنادق والطيران والباقات&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/germany-ar.png&#34;},&#34;code&#34;:&#34;GERMANY&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/discover-qatar-with-exclusive-discounts&#34;,&#34;ar&#34;:&#34;/ar/offers/discover-qatar-with-exclusive-discounts&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Exclusive Discount to Qatar&#34;,&#34;cardDescription&#34;:&#34;Enjoy up to 15% off on bookings!&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/qatar.png&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;خصم حصري إلى قطر&#34;,&#34;cardDescription&#34;:&#34;استمتع بخصم 15% على حجوزات الطيران والفنادق والباقات!&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/qatar-ar.png&#34;},&#34;code&#34;:&#34;QATAR&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/exclusive-deals-to-ras-al-khaimah&#34;,&#34;ar&#34;:&#34;/ar/offers/exclusive-deals-to-ras-al-khaimah&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Discount on bookings to Ras Al Khaimah&#34;,&#34;cardDescription&#34;:&#34;Enjoy 10% off on flight and 15% off on hotel bookings&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/435x215-EN.png&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;سافر لرأس الخيمة بخصومات خاصة&#34;,&#34;cardDescription&#34;:&#34; استمتع بخصم 15% على حجوزات الفنادق و10% على حجوزات الطيران&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/435x215.png&#34;},&#34;code&#34;:&#34;RAK&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/your-bahrain-getaway-starts-here-incredible-deals-await&#34;,&#34;ar&#34;:&#34;/ar/offers/your-bahrain-getaway-starts-here-incredible-deals-await&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Discount on bookings to Bahrain&#34;,&#34;cardDescription&#34;:&#34;Enjoy 5% off on flight and 10% off on hotel and 15% off on packages bookings&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/ÃÂ§ÃÂÃÂ¨ÃÂ­ÃÂ±ÃÂÃÂ.png&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;سافر للبحرين بخصومات خاصة&#34;,&#34;cardDescription&#34;:&#34;استمتع بخصم 10% على حجوزات الفنادق و5% على حجوزات الطيران و15% على حجوزات الباقات&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/-arÃÂ§ÃÂÃÂ¨ÃÂ­ÃÂ±ÃÂÃÂ.png&#34;},&#34;code&#34;:&#34;BAHRAIN&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/discover-singapore-with-exclusive-discounts&#34;,&#34;ar&#34;:&#34;/ar/offers/discover-singapore-with-exclusive-discounts&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Exclusive Discount to Singapore!&#34;,&#34;cardDescription&#34;:&#34;Enjoy Up to 15% off on bookings!&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/singapore - en.png&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;خصم حصري إلى سنغافورة&#34;,&#34;cardDescription&#34;:&#34;استمتع بخصم حتى 15% على حجوزات الطيران والفنادق والباقات!&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/singapore-ar.png&#34;},&#34;code&#34;:&#34;SG&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/score-a-deal-to-manchester&#34;,&#34;ar&#34;:&#34;/ar/offers/score-a-deal-to-manchester&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Score a deal to Manchester&#34;,&#34;cardDescription&#34;:&#34;Up to 10% off on bookings&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/manchester.png&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;لا تفوت عرض مانشستر المميز!&#34;,&#34;cardDescription&#34;:&#34;استمتع بخصم حتى 10% على حجوزات الطيران والفنادق&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/manchester-ar.png&#34;},&#34;code&#34;:&#34;Manchester&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/discount-on-bookings-to-oman&#34;,&#34;ar&#34;:&#34;/ar/offers/discount-on-bookings-to-oman&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Oman Awaits!&#34;,&#34;cardDescription&#34;:&#34;Enjoy 15% off on flight and hotel and Package bookings&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/360x280-.png&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;عمان بانتظارك!&#34;,&#34;cardDescription&#34;:&#34;استمتع بخصم 15% على حجوزات الفنادق والطيران والباقات&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/offers-ui/OfferPages/offers/cms/360x280- AR.png&#34;},&#34;code&#34;:&#34;OMAN&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/fly-now-and-pay-later&#34;,&#34;ar&#34;:&#34;/ar/offers/fly-now-and-pay-later&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Fly now, Pay Later&#34;,&#34;cardDescription&#34;:&#34;Travel the world now, pay in 4 easy installments!&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/flyin/prod/merchandising/upload_d48f4ed5cb0381ad339d66cda2d0ad2b.jpg&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;سافر الآن وادفع لاحقًا &#34;,&#34;cardDescription&#34;:&#34;اكتشف العالم وسافر الآن، وادفع على 4 دفعات بكل سهولة!&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/flyin/prod/merchandising/upload_43bc0017ce9759ede10a9848af5a2728.jpg&#34;},&#34;code&#34;:&#34;&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/book-your-adventure-to-yas-island&#34;,&#34;ar&#34;:&#34;/ar/offers/book-your-adventure-to-yas-island&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Book Your Adventure to Yas Island&#34;,&#34;cardDescription&#34;:&#34;Your Yas Island Adventure Starts Here&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/flyin/prod/merchandising/upload_cebe1e002a22adc9dcb5b1e1952e9bc1.jpg&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;احجز مغامرتك إلى جزيرة ياس&#34;,&#34;cardDescription&#34;:&#34;احجز مغامرتك إلى جزيرة ياس&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/flyin/prod/merchandising/upload_e5294bb75fc9ba311ae5bbcf41014dce.jpg&#34;},&#34;code&#34;:&#34;ABUDHABI&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/explore-egypt-and-save-big&#34;,&#34;ar&#34;:&#34;/ar/offers/explore-egypt-and-save-big&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Explore Egypt and save big&#34;,&#34;cardDescription&#34;:&#34;Explore Egypt and save big&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/flyin/prod/merchandising/upload_07bbf4038706f6383b2e5bdc494eac1c.png&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;سافر إلى مصر بأكبر خصم&#34;,&#34;cardDescription&#34;:&#34;سافر إلى مصر بأكبر خصم&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/flyin/prod/merchandising/upload_2cb0ce0340354910328442f0fc14d828.png&#34;},&#34;code&#34;:&#34;EGYPT&#34;},{&#34;Url&#34;:{&#34;en&#34;:&#34;/en/offers/discover-spain-with-the-best-travel-deals&#34;,&#34;ar&#34;:&#34;/ar/offers/discover-spain-with-the-best-travel-deals&#34;},&#34;en&#34;:{&#34;cardTitle&#34;:&#34;Discover Spain with the Best Travel Deals&#34;,&#34;cardDescription&#34;:&#34;Discover Spain with the Best Travel Deals&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/flyin/prod/merchandising/upload_cbcc5de67259bdfe9a4f3c67027b5224.png&#34;},&#34;ar&#34;:{&#34;cardTitle&#34;:&#34;أفضل عروض السفر إلى إسبانيا&#34;,&#34;cardDescription&#34;:&#34;أفضل عروض السفر إلى إسبانيا&#34;,&#34;mobileImage&#34;:&#34;https://ui.cltp.co/flyin/prod/merchandising/upload_09800d432ccf39974cad3db7a8a8a43c.png&#34;},&#34;code&#34;:&#34;SPAIN&#34;}]">
+       
+          <div class="logo"><a class="home"  href="/" onclick="logoClick()" data-tracker="HEADER_LOGO"> 
+		 <!--<img width="214" height="130" alt="فلاي إن" src="https://ui.cltp.co/flyinstatic/common/themes/v2/img/flyinLogo.png" > -->
+		  </a> </div>
+           <!-- top nav starts here -->
+            <ul class="topMenu">   
+              <li class="dp-opt tDeals" style="display: inline-block !important;"><a href="/ar/offers" data-tracker="DEALS_HEADER">عروض</a></li>			
+			 <li class="dp-opt myAc" style="display:inline-block">
+			 <input type="hidden" id="uName" value="" />
+       <input type="hidden" id="uId" value='' />
+        
+          <a class="load_ls_window" href="javascript:void(0)">تسجيل الدخول </a>
+        
+        <div class="dropdown" style="display: none;"> 
+            <ul class="profile">
+              <!-- <li><a href="/myDashboard" data-tracker="MY_DASHBOARD"> <i class="icon-dashboard"></i> لوحة التحكم الخاصة بي</a> </li> -->
+			  
+            <!-- <li><a  href="/myProfile" data-tracker="MY_PROFILE" > <i class="icon-user2"></i>معلوماتي الشخصية</a></li> -->
+            <li><a href="/accounts/trips" data-tracker="MY_TRIPS"> <i class="icon-bookings"></i>حجوزاتي</a> </li>
+					            <li><a href="/ar/wallet" data-tracker="MY_TRIPS_MYWALLET"><i class="icon-wallet3"></i>محفظتي</a></li>
+ 
+           <!-- <li> <a  href="/coupons" data-tracker="MY_TRIPS_COUPONS"> 			  -->
+           <!-- <i class="icon-percentage"></i>الكوبونات</a> </li> -->
+          <!--  <li><a href="#"> <i class="icon-saved"></i> <span>البرامج المحفوطة</span></a> </li> -->
+      
+	  <!-- <li><a href="/savedHotels" data-tracker="SAVEDHOTELS" ><i class="icon-favorite"></i>الفنادق المفضَلة</a> </li> -->
+	  <li><a href="/manageReviews" data-tracker="MANAGE_REVIEWS" ><i class="icon-myReviews"></i>تعليقاتي</a> </li>
+		   <!-- <li><a href="/changePassword" data-tracker="CHANGE_PASSWORD" ><i class="icon-locked"></i>تغيير كلمة المرور</a> </li> -->
+            <li><a href="/feedback" data-tracker="FEEDBACK"><i class="icon-feedback"></i>شاركنا برأيك</a> </li>
+            <!-- <li><a href="/settings" data-tracker="SETTINGS"><i class="icon-setting"></i>الضبط</a> </li> -->
+            <li class="dp-profile-logout _showDelAcntPop"><a href="#"><i class="icon-delete"></i>حذف الحساب</a> </li>
+            <li class="dp-profile-logout"><a href="#" onclick="signOut(); return false;"><i class="icon-signoff"></i>الخروج</a> </li>
+			</ul>
+          </div>
+        </li>
+		 
+              <li class="load_ls_window"> <a href="javascript:void(0);">حجوزاتي</a>  </li>
+              
+              			
+          
+      <!--<li class="dp-opt country" style="display:inline-block" > 
+	  
+        
+        <a href="javascript:void(0)"><i class="icon-globe1"></i> عالمي
+          </a>
+
+        
+        
+        <div style="display: none;" class="dropdown">
+		
+	 <ul class="profile">
+            
+                   
+                    <li><a  class="" onclick="changeCountry('EG')" data-tracker="CHANGE_COUNTRY"><i class=" cc-flag eg"></i> مصر</a> </li>
+                   
+            
+                   
+            
+                   
+                    <li><a  class="" onclick="changeCountry('AE')" data-tracker="CHANGE_COUNTRY"><i class=" icon-globe1"></i> عالمي</a> </li>
+                   
+            
+            </ul>
+			
+          </div>
+        </li>  
+		
+              <li class="currency dp-opt" style="display:inline-block">
+        <a href="javascript:void(0)" ><span class="curChange">ريال</span> </a>
+              <div class="row dropdown currencyDropdown">
+                <div class="col-sm-6 col-md-4">
+                  <div class="tit"><strong>الأكثر استخداما</strong></div>
+                  <ul>
+                    <li class="active"><a href="javascript:void(0)" class="SAR" data-name="Saudi Riyal" onclick="changeCurrency('SAR',this)" data-cur="SAR" data-tracker="CHANGE_CURRENCY"><strong class="sprite riyal-icon">الريال السعودي</strong><span>SAR</span></a></li>
+                    <li class=""><a href="javascript:void(0)" class="USD" data-name="US Dollar" onclick="changeCurrency('USD',this)" data-cur="USD" data-tracker="CHANGE_CURRENCY"><strong class="sprite dollor-icon">دولار أمريكي</strong><span>USD</span></a></li>
+                    <li class=""><a href="javascript:void(0)" class="EUR" data-name="Euro" onclick="changeCurrency('EUR',this)" data-cur="EUR" data-tracker="CHANGE_CURRENCY"><strong class="sprite euro-icon">يورو</strong><span>EUR</span></a></li>
+                    <li class=""><a href="javascript:void(0)" class="AED" data-name="Dirham" onclick="changeCurrency('AED',this)" data-cur="AED" data-tracker="CHANGE_CURRENCY"><strong class="sprite dirham-icon">درهم اماراتى</strong><span>AED</span></a></li>
+                  </ul>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                  <div class="tit"><strong>عملات أخرى</strong></div>
+                  <ul>
+                  <li class=""><a href="javascript:void(0)" class="BHD" data-name="Bahrain Dinar" onclick="changeCurrency('BHD',this)" data-cur="BHD" data-tracker="CHANGE_CURRENCY"><strong class="sprite dinar-icon">دينار بحريني</strong><span>BHD</span></a></li>
+                  <li class=""><a href="javascript:void(0)" class="EGP" data-name="Egypt Pound" onclick="changeCurrency('EGP',this)" data-cur="EGP" data-tracker="CHANGE_CURRENCY"><strong class="sprite egyPound-icon">جنيه مصري</strong> <span>EGP</span></a></li>
+                  <li class=""><a href="javascript:void(0)" class="GBP" data-name="British Pound" onclick="changeCurrency('GBP',this)" data-cur="GBP" data-tracker="CHANGE_CURRENCY"><strong class="sprite pound-icon">الجنيه البريطاني</strong> <span>GBP</span></a></li>
+                  <li class=""><a href="javascript:void(0)" class="KWD" data-name="Kuwait Dinar" onclick="changeCurrency('KWD',this)" data-cur="KWD" data-tracker="CHANGE_CURRENCY"><strong class="sprite kuwaitDinar-icon">دينار كويتي</strong> <span>KWD</span></a></li>
+				  </ul>
+                </div>
+                <div class="col-sm-6 col-md-4 pull-right">
+                  <div class="tit hidden-sm"> &nbsp;</div>
+                  <ul>
+                  <li class=""><a href="javascript:void(0)" class="OMR" data-name="Oman Riyal" onclick="changeCurrency('OMR',this)" data-cur="OMR"><strong class="sprite omanRiyal-icon">ريال عماني</strong><span>OMR</span></a></li>
+				  <li class=""><a href="javascript:void(0)" class="QAR" data-name="Qatar Riyal" onclick="changeCurrency('QAR',this)" data-cur="QAR"><strong class="sprite qatarRiyal-icon">ريال قطري</strong> <span>QAR</span></a></li>
+                    <li class="last"><span></span></li>
+                  </ul>
+                </div>
+              </div>
+            </li>-->
+            
+			
+			<li class="dp-opt language" style="display:inline-block"> 
+			
+			<a href="javascript:void(0)"><span class="cntryIcon"><i class="icon-globe1"></i></span><span class="langSelec">English</span>  | <span class="curChange">ريال</span></a>
+			
+			 <div style="display: none;" class="dropdown">
+			 <div class="lngChng">
+				<div class="init">حدد اللغة</div>
+				<ul class="profile">             
+									
+						<li class="lang enLang" style=&#34;display:inline-block&#34;><a class="small-icon-english" onclick="changeLanguage('en')" data-tracker="CHANGE_LANGUAGE">English</a></li>
+						<li class="lang arLang active" style=&#34;display:inline-block&#34;><a class="small-icon-arabic" onclick="changeLanguage('ar')" data-tracker="CHANGE_LANGUAGE">عربي</a></li>			
+								 
+				</ul>
+			</div>
+			<div class="chsCntry">
+				<div class="init">حدد الدولة</div>				
+				<div class="slctCntry" id="slctVal1">
+				<i class="icon-globe1"></i>
+					عالمي
+					
+				</div>		
+			<div class="proCls" style="display:none;">
+				<ul class="profile">				
+					
+						
+                    <li><a  class="" onclick="changeCountry('EG')" data-tracker="CHANGE_COUNTRY"><i class=" cc-flag eg"></i> مصر</a> </li>
+						
+					
+						
+					
+						
+                    <li><a  class="" onclick="changeCountry('AE')" data-tracker="CHANGE_COUNTRY"><i class=" icon-globe1"></i> عالمي</a> </li>
+						
+					
+				</ul>
+			</div>
+			</div>
+			<div class="chsCntry currencyDropdown">
+				<div class="init">حدد العملة</div>
+				<div class="slctCrncy" id="slctVal2">				
+					<a href="javascript:void(0)" class="sprite SAR"><span class="currncNm">الريال السعودي</span> (<span class="curChange">ريال</span>)</a>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</div>
+				<div class='proCls'  style="display:none;">
+					<ul class="profile">	
+						<li class="active"><a href="javascript:void(0)" class="SAR" data-name="الريال السعودي" onclick="changeCurrency('SAR',this)" data-cur="SAR" data-tracker="CHANGE_CURRENCY"><span>SAR</span><strong class="sprite riyal-icon">الريال السعودي</strong></a></li>
+						<li class=""><a href="javascript:void(0)" class="USD" data-name="دولار أمريكي" onclick="changeCurrency('USD',this)" data-cur="USD" data-tracker="CHANGE_CURRENCY"><span>USD</span><strong class="sprite dollor-icon">دولار أمريكي</strong></a></li>
+						<li class=""><a href="javascript:void(0)" class="EUR" data-name="يورو" onclick="changeCurrency('EUR',this)" data-cur="EUR" data-tracker="CHANGE_CURRENCY"><span>EUR</span><strong class="sprite euro-icon">يورو</strong></a></li>
+						<li class=""><a href="javascript:void(0)" class="AED" data-name="درهم اماراتى" onclick="changeCurrency('AED',this)" data-cur="AED" data-tracker="CHANGE_CURRENCY"><span>AED</span><strong class="sprite dirham-icon">درهم اماراتى</strong></a></li>
+						<li class=""><a href="javascript:void(0)" class="BHD" data-name="دينار بحريني" onclick="changeCurrency('BHD',this)" data-cur="BHD" data-tracker="CHANGE_CURRENCY"><span>BHD</span><strong class="sprite dinar-icon">دينار بحريني</strong></a></li>
+						<li class=""><a href="javascript:void(0)" class="EGP" data-name="جنيه مصري" onclick="changeCurrency('EGP',this)" data-cur="EGP" data-tracker="CHANGE_CURRENCY"><span>EGP</span><strong class="sprite egyPound-icon">جنيه مصري</strong></a></li>
+						<li class=""><a href="javascript:void(0)" class="GBP" data-name="الجنيه البريطاني" onclick="changeCurrency('GBP',this)" data-cur="GBP" data-tracker="CHANGE_CURRENCY"><span>GBP</span><strong class="sprite pound-icon">الجنيه البريطاني</strong></a></li>
+						<li class=""><a href="javascript:void(0)" class="KWD" data-name="دينار كويتي" onclick="changeCurrency('KWD',this)" data-cur="KWD" data-tracker="CHANGE_CURRENCY"><span>KWD</span><strong class="sprite kuwaitDinar-icon">دينار كويتي</strong></a></li>
+						<li class=""><a href="javascript:void(0)" class="OMR" data-name="ريال عماني" onclick="changeCurrency('OMR',this)" data-cur="OMR"><span>OMR</span><strong class="sprite omanRiyal-icon">ريال عماني</strong></a></li>
+						<li class=""><a href="javascript:void(0)" class="QAR" data-name="ريال قطري" onclick="changeCurrency('QAR',this)" data-cur="QAR"><span>QAR</span><strong class="sprite qatarRiyal-icon">ريال قطري</strong></a></li>
+                  </ul>
+				</div>
+		</div>
+		  </div>
+        </li>
+	 
+             
+    
+      <li class="nav-outer">
+        <div class="headerWhatsapp supportCont"><a href="https://wa.me/+966920025959" target="_blank" class="selText">+966920025959</a></div>
+      </li>
+    
+          </ul>
+       
+       <!-- top nav ends here -->
+      </div>
+      
+      <!-- main nav starts here -->
+      <div class="nav-outer clearfix">
+       <ul class="navLinks">          
+          <li class="tnlFlight"><a href="/ar/flights" onclick="landingPageChange('','F')" data-tracker="FLIGHTS_HOME">طيران </a></li>
+          <li class="tnlHotel"><a href="/ar/hotels" onclick="landingPageChange('','H')" data-tracker="HOTELS_HOME">فنادق</a></li>
+          <li class="tnlFPH"><a href="/ar/flights-hotels" onclick="landingPageChange('','FPH')" data-tracker="PACKAGES_HOME"> طيران + فنادق</a></li>
+		  <!-- <li class="tnlPACKAGES"><a href="/ar/staycations"  onclick="landingPageChange('','PACKAGES')">العطلات القصيرة <span class="new">جديد</span></a></li>
+		   <li class="tnlACTIVITIES"><a href="/ar/activities"  onclick="landingPageChange('','PACKAGES')">الأنشطة <span class="new">جديد</span></a></li> -->
+       <!-- <li class="tnlPACKAGES"><a href="/ar/staycations"  onclick="landingPageChange('','PACKAGES')">العطلات القصيرة</a></li>
+		   <li class="tnlACTIVITIES"><a href="/ar/activities"  onclick="landingPageChange('','PACKAGES')">الأنشطة</a></li> -->
+		<!--   <li class="tnlCars"><a href="/ar/cars" data-tracker="CARS_HOME">سيارات</a></li> -->
+        </ul>
+        
+      </div>
+      <!-- main nav ends here -->
+	</div>
+  <a class="headRight" target="_blank" href="/aboutUs.ar.html#awards" rel="nofollow"><img title="أفضل شركة سفر للحجز عبر الانترنت في الشرق الأوسط لعام2015-2016-2017-2018م" alt="أفضل شركة سفر للحجز عبر الانترنت في الشرق الأوسط لعام2015-2016-2017-2018م" src="https://ui.cltp.co/flyinstatic/common/themes/v2/img/award.png"></a>
+  </div>
+  <div class="fbDataPop" style="display:none">
+     <div class="row ls-box">
+	   <div class="header">
+	   <h4 class="icon-facebook">إدخال البيانات</h4>
+	   <h4 class="icon-google-plus">إدخال البيانات</h4>
+	   </div>
+	   <div class="formInfo">
+	     <form>
+		   <label>اللقب</label>
+		 <div class="form-group">
+		    <div class="custom-select-v3">
+                  <select name="title"  id="sTitle" class="form-control ls-input-text title">
+                    <option value="">اللقب</option>
+                    <option value="Mr" data-i18n="mr">السيد</option>
+                    <option value="Mrs" data-i18n="mrs">السيدة</option>
+                    <option value="Miss" data-i18n="miss">الآنسة</option>    
+                  </select>
+                </div>
+		   </div>
+		   <div class="form-group">
+		   <label>الاسم الأول</label>
+		    <input type="text" id="sFname" class="form-control ls-input-text first_name englishOnly arabiValidation" >
+		   </div>
+		   <div class="form-group">
+		   <label>الاسم الأخير</label>
+		    <input type="text" id="sLname" class="form-control ls-input-text last_name englishOnly arabiValidation" >
+		   </div>
+		   <div class="form-group hFbMail"  style='display:none;'>
+		   <label>البريد الإلكتروني</label>
+		    <input type="email" id="email_fb" class="form-control ls-input-text fbEmail englishOnly arabiValidation" >
+		   </div>
+		   <div class="form-group text-center">
+		    <input type="button" class="_smlBtn ls-btn ls-btn-green"  value = "تابع">
+        <input type="hidden" id="smlResData" value="" >
+       </div>
+		 </form>
+	   </div>
+	 </div>
+  </div>
+  
+  <!-- sigin/signup popup starts here -->
+  <div class="login-signup-box loginNowPop">
+  <div class="row ls-box">
+      <div title="إغلاق" class="ls-close-btn icon-close"></div>
+<div class="col-md-6 col-sm-6 col-xs-12 ls-custom-col col-left">
+<div class="ls-signup-list"> <strong>سجل في فلاي إن<em>وتمتع بالمزايا التالية</em> </strong>
+              <ul>
+                <li class="icon-percentage">عروض خاصة للرحلات، الفنادق، الفنادق+ الرحلات و عطلات</li>
+                <li class="icon-travelinfo">إضافة وحفظ بيانات المسافرين الآخرين من العائلة أو الأصدقاء</li>
+                <li class="icon-easyChkOut">سهولة وسرعة الحجز حيث لا يتطلب إدخال بياناتك مرة أخرى</li>
+                <li class="icon-bookingInfo">ادارة حجزك </li>
+				
+				<li class="icon-wallet3">استعادة المبالغ بسرعة إلى المحفظة </li>
+              </ul>
+            </div>
+</div>
+<div class="col-md-6 col-sm-6 col-xs-12 ls-custom-col col-right">
+<div class="logintab">
+<div class="useLogin">
+<ul class="sign-I-U">
+<li id="signin" class="active"><a>تسجيل الدخول</a></li>
+
+<li id="signUp"><a>التسجيل</a></li>
+
+</ul>
+<div id="signin-cont" class="descrptn">
+<div class="ls-login-window">
+  
+            <form action="/home" method="post">
+              <div class="social-media-login">  <a class="googleSigninButton" href="#" onclick="gPlusSigninBtn();"> <span class="icon-google-plus gp">جوجل</span></a> </div>
+            </form>
+            
+            <div class="div-or-line">
+              <div class="div-or">أو</div>
+            </div>
+            
+            <div class="clearfix"></div>
+            <form id="loginForm">
+              <div class="form-group icon-mail showlabel">
+                <!--<label>البريد الإلكتروني</label>-->
+                <input type="email" class="form-control ls-input-text email_address" id="email_id" placeholder="أدخل عنوان بريدك">
+              </div>
+              <div class="form-group icon-locked showlabel">
+                <!--<label>كلمة المرور</label>-->
+                <input type="password" autocomplete="off" class="form-control ls-input-text email_pwd" id="account_pwd" placeholder="أدخل كلمة المرور">
+				<span class="shwHid icon-eye">
+				<input type='checkbox' id='showpass' class="shwHidchk" value='0' >
+				</span>
+			  </div>
+              <div class="row signReminder">
+                <div class="col-xs-6 col-sm-7 col-md-7  text-left">
+				  <div class="text-left">
+					  <input type="checkbox" class="customCheckbox agreement" id="remember_me">
+					  <label for="remember_me">حفظ بيانات تسجيل الدخول </label>
+				  </div>
+				 
+                </div>
+                <div class="col-xs-6 col-sm-5 col-md-5 ls-fp-link text-right"> <a href="#"> هل نسيت كلمة المرور؟ </a> </div>
+              </div>
+			  
+			  <div class="row signReminder">
+                <div class="col-xs-12 col-sm-12 col-md-12  text-left">
+               <div class="signReminder">   <label >بتسجيل الدخول، أنت توافق على  <a  title="شروط الاستخدام" href="/termsOfUse.ar.html" target="_blank">شروط الاستخدام </a> و <a  title="سياسة الخصوصية" href="/privacyPolicy.ar.html" target="_blank">سياسة الخصوصية </a>. </label>
+              </div>  </div>
+              </div>
+			  
+              <input type="submit" class="ls-btn ls-btn-green _signin" value="تسجيل الدخول" data-tracker="_SIGN_IN" id="header-sign-in" onclick="if(validateLogin(this)===false) return false;" >
+            </form> 
+        </div>
+      
+</div>
+<div id="signUp-cont" class="descrptn" style="display: none;">
+<div class="ls-form-box-left">
+           
+            <div class="social-media-login"> <a class="googleSigninButton" href="#" onclick="gPlusSigninBtn();" > <span class="icon-google-plus gp">جوجل</span></a> </div>
+            <div class="div-or-line">
+              <div class="div-or">أو</div>
+            </div>
+            <div class="clearfix"></div>
+            <form id="signUpFrom">
+			<div class="NameDtls clearfix">
+			 <div class="form-group showlabel LoginPagetitle">
+                <div class="custom-select-v3">
+                  <select name="title" id="signup_utitle" class="form-control ls-input-text title">
+                    <option value="">اللقب</option>
+                    <option value="Mr" data-i18n="mr">السيد</option>
+                    <option value="Mrs" data-i18n="mrs">السيدة</option>
+                    <option value="Miss" data-i18n="miss">الآنسة</option>
+                    
+                  </select>
+                </div>
+				</div>
+			
+			<div class="form-group showlabel">
+                <input id="signup_ufname" class="form-control ls-input-text first_name englishOnly" type="text" placeholder="الاسم الأول"></div>
+				
+				<div class="form-group showlabel lastN">
+                <input id="signup_ulname" class="form-control ls-input-text last_name englishOnly" type="text" placeholder="الاسم الأخير">
+			</div>
+              
+              <div class="form-group icon-mail showlabel">
+                <input type="email" class="form-control ls-input-text email_address englishOnly" id="signup_email" placeholder="أدخل عنوان بريدك">
+              </div>
+              <div class="form-group icon-locked showlabel" >
+                <input type="password" autocomplete="off" class="form-control ls-input-text email_pwd" id="signup_pwd" placeholder="أدخل كلمة المرور">
+              <span class="shwHid icon-eye">
+				<input type='checkbox' class="shwHidchk" value='0' >
+				</span>
+
+       
+			  </div>
+              <div class="text-left">
+               <div style="display:none"> <input type="checkbox" class="customCheckbox agreement" id="checkbox2" checked></div>
+               <div class="signReminder"> <label >لقد قرأت وأوافق على <a  title="شروط الاستخدام" href="/termsOfUse.ar.html" target="_blank">شروط الاستخدام </a>and <a  title="سياسة الخصوصية" href="/privacyPolicy.ar.html" target="_blank">سياسة الخصوصية </a> الخاصة بفلاي إن.</label></div>
+                <div class="clearfix"></div>
+              </div>
+			  
+			  
+              <div class="noDisplayfootballClub"></div>
+			 
+       <!-- signup check box-->
+       <div class="text-left">
+        <input type="checkbox" class="customCheckbox footBallLeag" id="mkrtngSubscription">
+        <label for="mkrtngSubscription">أرغب بتلقي عروض السفر والأخبار عن طريق البريد الإلكتروني والرسائل </label>
+        <div class="clearfix"></div>
+      </div>
+
+			 <div class="text-left">
+			 <div class="clearfix"></div>
+              </div>
+              <input type="submit" style="bottom:20px" class="ls-btn ls-btn-green" value="التسجيل"  data-tracker="_SIGN_UP" id="header-sign-up" onclick="if(validateSignup(this)===false) return false">
+              
+            </div>
+			</form>
+        </div>
+</div>
+</div>
+  <div style="display: none;" class="ls-forgot-password-window">
+          <div class="ls-form-box-left">
+            <h3 class="ls-title ls-fp">نسيت كلمة المرور</h3>
+            <i>الرجاء إدخال بريدك الإلكتروني لإعادة تعيين كلمة المرور الجديدة الخاصة بك. </i>
+            <form class="sign-in-frm" method="post" id="forgotPasswordForm">
+              <div class="form-group showlabel">
+                <!--<label>البريد الإلكتروني</label>-->
+                <input type="email" class="form-control ls-input-text email_address" id="reset_emailId" placeholder="ادخل عنوان بريدك الإلكتروني">
+              </div>
+              <!--<div class="div-or-line"></div>-->
+               <input type="submit" class="ls-btn ls-btn-blue" value="إرسال" id="reset_Password" data-tracker="RESET_PASSWORD" onclick="if(validateReset(this)===false) return false;" >
+              <span class="gbk">
+			  <a href="#" class="ls-back-link removeErrorFrgtPwd" data-tracker="BACK_FORGOT_PASSWORD">العودة الى تسجيل الدخول</a>
+            </span>
+			</form>
+          </div>
+        </div>
+</div>
+</div>
+</div>
+</div>
+<!-- sigin/signup popup ends here -->
+
+<!-- manage bookings popup starts here --> 
+<div style="display: none;" class="guest-signup-box">
+  <div class="ls-box">
+    <div class="row ls-content-box">
+      <div class="ls-close-btn load_ls_window2 icon-close" title="إغلاق"></div>
+      <div class="col-md-6 col-sm-6 col-xs-12 ls-custom-col">
+        <div class="ls-login-window2">
+         <form enctype="application/x-www-form-urlencoded" action="/managedBooking" method="post" name="GuestSearch1" id="GuestSearch1">
+            <h3 class="ls-title">ادارة حجزك</h3>
+            <div class="sub-text">اعرض اطبع، ارسل ايميل او غيّر خط سير الرحلة</div>
+            <div class="form-group showlabel">
+              <label>البريد الإلكتروني</label>
+              <input type="text" class="form-control ls-input-text email_address" id="email" placeholder="البريد الالكتروني المستخدم أثناء الحجز" name="email">
+            </div>
+            <div class="form-group showlabel">
+              <label>الرقم المرجعي الخاص بفلاي إن</label>
+              <input type="text" class="form-control ls-input-text email_pwd" id="iternaryNo" placeholder="الرقم المرجعي الخاص بفلاي إن" name="iternaryNo">
+            </div>
+            <div class="ls-fp-link"> <a href="#">هل نسيت الرقم المرجعي؟</a></div>
+            <input type="submit" class="ls-btn ls-btn-green" name="header-sign-in1" data-tracker="_MANAGE_BOOKING" id="header-sign-in1" value="استعادة الحجز" onclick="if(validateRetrieveBooking()===false) return false">
+          </form>
+        </div>
+        <div style="display: none;" class="ls-forgot-password-window3">
+          <div class="ls-form-box-left">
+            <h3 class="ls-title">هل نسيت الرقم المرجعي؟</h3>
+            <i class="sub-text">سنقوم بإرسال الرقم المرجعي إلى البريد الإلكتروني المستخدم أثناء الحجز.</i>
+            <form enctype="application/x-www-form-urlencoded" class="sign-in-frm" action="/managedBooking" method="post" name="forgotIternaryForm" id="forgotIternaryForm">
+              <div class="form-group showlabel">
+                <label>البريد الإلكتروني</label>
+                <input type="text" class="form-control ls-input-text email_address" id="forgot_emailId" placeholder="ادخل عنوان بريدك الإلكتروني">
+              </div>
+              <div class="div-or-line"></div>
+              <input type="submit" class="ls-btn ls-btn-blue" name="sendIternary" id="sendIternary" value="إرسال" data-tracker="_MANAGE_BOOKING_FORGOT_REF"  onclick="if(validatesendIternary()===false) return false">
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<input type="hidden" id="domainNa" value="Global" >
+<!-- manage bookings popup ends here -->
+</header>
+<div id="delAcntModal" class="modal" role="dialog">
+  <div class="modal-dialog mDialogPop"><div class="modal-content">
+    <div class="modal-header"><h4 class="modal-title">هل أنت متأكد من أنك تريد حذف حسابك؟</h4></div>
+    <div class="modal-body"><h5>سوف تفقد الوصول إلى كل شيء في حسابك على فلاي إن، بما في ذلك رصيد المحفظة، وتاريخ الرحلات والفنادق.</h5></div>
+    <div class="modal-footer">
+      <button type="button" class="btn btn-default btn-sm" data-dismiss="modal">إلغاء</button>
+      <button type="button" class="btn btn-primary btn-sm deleteAcnt" data-dismiss="modal">حذف</button>
+    </div>
+  </div>
+  </div>
+</div>
+
+<!--body content start here-->
+<div class="errorPage">
+<div class="errorCont">
+<span class="sprite ePage-ic">
+</span>
+<h1>نأسف! لقد حصل خطأ ما</h1>
+
+<p class="small">نأسف لم نستطع إتمام العملية المطلوبة. يرجى إعادة المحاولة مرة أخرى أو اتصل بنا: واتساب رقم 966112246333+ أو الاتصال من السعودية 920025959 و من داخل مصر 0225873888</p>
+
+<a class="btn btn-default btn-sm errorBtn" href='/'>الرجوع إلى الصفحة الرئيسية</a>
+</div>
+</div>
+<!--body content End here-->
+<section class="topListSec">
+	<div class="container">
+
+		<!-- Top Destinations -->
+		<div class="tlsBlock inline-heading">
+			<div class="inline-row">
+				<div class="inline-title">
+					أفضل الوجهات:
+				</div>
+				<ul class="inline-links">
+					<li>
+						<a target="_parent" href="/bahrain.ar.html">
+							البحرين
+						</a>
+					</li>
+
+					
+							<li>
+								<a target="_parent" href="/hotels/oman.ar.html"
+									data-tracker="TOP_AIRLINES">
+									عمان
+								</a>
+							</li>
+							
+							<li>
+								<a target="_parent" href="/hotels/egypt.ar.html"
+									data-tracker="TOP_AIRLINES">
+									مصر
+								</a>
+							</li>
+							
+							<li>
+								<a target="_parent" href="/hotels/saudi-arabia.ar.html"
+									data-tracker="TOP_AIRLINES">
+									المملكة العربية السعودية
+								</a>
+							</li>
+							
+							<li>
+								<a target="_parent" href="/hotels/united-arab-emirates.ar.html"
+									data-tracker="TOP_AIRLINES">
+									الإمارات العربية المتحدة
+								</a>
+							</li>
+							
+							<li>
+								<a target="_parent" href="/hotels/south-korea.ar.html"
+									data-tracker="TOP_AIRLINES">
+									كوريا الجنوبية
+								</a>
+							</li>
+							
+									<li>
+										<a target="_parent" href="/hotels/united-arab-emirates/abu-dhabi.ar.html"
+											data-tracker="TOP_AIRLINES">
+											أبوظبي
+										</a>
+									</li>
+									
+									<li>
+										<a target="_parent" href="/hotels/united-arab-emirates/ajman.ar.html"
+											data-tracker="TOP_AIRLINES">
+											عجمان
+										</a>
+									</li>
+									
+									<li>
+										<a target="_parent" href="/hotels/saudi-arabia/al-khobar.ar.html"
+											data-tracker="TOP_AIRLINES">
+											الخبر
+										</a>
+									</li>
+									
+									<li>
+										<a target="_parent" href="/hotels/egypt/aswan.ar.html"
+											data-tracker="TOP_AIRLINES">
+											أسوان
+										</a>
+									</li>
+									
+									<li>
+										<a target="_parent" href="/hotels/egypt/cairo.ar.html"
+											data-tracker="TOP_AIRLINES">
+											القاهرة
+										</a>
+									</li>
+									
+									<li>
+										<a target="_parent" href="/hotels/saudi-arabia/dammam.ar.html"
+											data-tracker="TOP_AIRLINES">
+											الدمام
+										</a>
+									</li>
+									
+									<li>
+										<a target="_parent" href="/hotels/united-arab-emirates/dubai.ar.html"
+											data-tracker="TOP_AIRLINES">
+											دبي
+										</a>
+									</li>
+									
+									<li>
+										<a target="_parent" href="/hotels/saudi-arabia/jeddah.ar.html"
+											data-tracker="TOP_AIRLINES">
+											جدة
+										</a>
+									</li>
+									
+									<li>
+										<a target="_parent" href="/hotels/saudi-arabia/madinah.ar.html"
+											data-tracker="TOP_AIRLINES">
+											المدينة المنورة
+										</a>
+									</li>
+									
+									<li>
+										<a target="_parent" href="/hotels/egypt/luxor.ar.html"
+											data-tracker="TOP_AIRLINES">
+											الأقصر
+										</a>
+									</li>
+									
+									<li>
+										<a target="_parent" href="/hotels/saudi-arabia/makkah.ar.html"
+											data-tracker="TOP_AIRLINES">
+											مكة المكرمة
+										</a>
+									</li>
+									
+									<li>
+										<a target="_parent" href="/hotels/united-arab-emirates/ras-al-khaimah.ar.html"
+											data-tracker="TOP_AIRLINES">
+											رأس الخيمة
+										</a>
+									</li>
+									
+									<li>
+										<a target="_parent" href="/hotels/saudi-arabia/riyadh.ar.html"
+											data-tracker="TOP_AIRLINES">
+											الرياض
+										</a>
+									</li>
+									
+									<li>
+										<a target="_parent" href="/hotels/egypt/sharm-el-sheikh.ar.html"
+											data-tracker="TOP_AIRLINES">
+											شرم الشيخ
+										</a>
+									</li>
+									
+				</ul>
+			</div>
+		</div>
+
+		<!-- Top Airlines -->
+		<div class="tlsBlock inline-heading">
+			<div class="inline-row">
+				<div class="inline-title">
+					أفضل شركات الطيران :
+				</div>
+				<ul class="inline-links">
+					
+						<li> <a target="_parent" href="/airlines/Saudi-Arabian-Airlines.ar.html"
+								data-tracker="TOP_AIRLINES">
+								الخطوط الجوية السعودية
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/FLYNAS.ar.html"
+								data-tracker="TOP_AIRLINES">
+								طيران ناس 
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Nesma-Airlines.ar.html"
+								data-tracker="TOP_AIRLINES">
+								طيران نسما
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Flyadeal-Airlines.ar.html"
+								data-tracker="TOP_AIRLINES">
+								طيران أديل
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/NILE-AIR-.ar.html"
+								data-tracker="TOP_AIRLINES">
+								طيران النيل
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Egypt-Air.ar.html"
+								data-tracker="TOP_AIRLINES">
+								مصر للطيران
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/KUWAIT-AIRWAYS-.ar.html"
+								data-tracker="TOP_AIRLINES">
+								الخطوط الجوية الكويتية
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Turkish-Airlines.ar.html"
+								data-tracker="TOP_AIRLINES">
+								الخطوط الجوية التركية
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Fly-Dubai-.ar.html"
+								data-tracker="TOP_AIRLINES">
+								فلاي دبي
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Air-Arabia.ar.html"
+								data-tracker="TOP_AIRLINES">
+								طيران العربية 
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Srilankan-Airlines.ar.html"
+								data-tracker="TOP_AIRLINES">
+								الخطوط الجوية السيرلانكية 
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/air-india.ar.html"
+								data-tracker="TOP_AIRLINES">
+								الخطوط الهندية
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/British-Airways.ar.html"
+								data-tracker="TOP_AIRLINES">
+								الخطوط الجوية البريطانية
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Jet-Airways.ar.html"
+								data-tracker="TOP_AIRLINES">
+								جت ايرويز
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Philippine-Airlines.ar.html"
+								data-tracker="TOP_AIRLINES">
+								 الخطوط الجوية الفلبينية
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Lufthansa.ar.html"
+								data-tracker="TOP_AIRLINES">
+								لوفتهانزا
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Gulf-Air.ar.html"
+								data-tracker="TOP_AIRLINES">
+								طيران الخليج
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Oman-Air.ar.html"
+								data-tracker="TOP_AIRLINES">
+								الطيران العماني
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/ethiopian-airlines.ar.html"
+								data-tracker="TOP_AIRLINES">
+								الخطوط الجوية الاثيوبية
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Royal-Jordanian.ar.html"
+								data-tracker="TOP_AIRLINES">
+								الخطوط الملكية الأردنية
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Etihad-Airways.ar.html"
+								data-tracker="TOP_AIRLINES">
+								طيران الاتحاد
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Air-France.ar.html"
+								data-tracker="TOP_AIRLINES">
+								الخطوط الجوية الفرنسية
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Air-Cairo.ar.html"
+								data-tracker="TOP_AIRLINES">
+								اير كايرو
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/singapore-airlines.ar.html"
+								data-tracker="TOP_AIRLINES">
+								الخطوط الجوية السنغافورية
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Qatar-Airways.ar.html"
+								data-tracker="TOP_AIRLINES">
+								الخطوط الجوية القطرية
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/ROYAL-AIR-MAROC.ar.html"
+								data-tracker="TOP_AIRLINES">
+								الخطوط الملكية المغربية
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/Middle-East-Airlines.ar.html"
+								data-tracker="TOP_AIRLINES">
+								طيران الشرق الاوسط
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/bangkok-airways.ar.html"
+								data-tracker="TOP_AIRLINES">
+								الخطوط الجوية بانكوك
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/cebu-pacific-air.ar.html"
+								data-tracker="TOP_AIRLINES">
+								طيران سيبو باسيفيك  
+							</a></li>
+						
+						<li> <a target="_parent" href="/airlines/eritrean-airlines.ar.html"
+								data-tracker="TOP_AIRLINES">
+								الخطوط الجوية الإريترية
+							</a></li>
+						
+				</ul>
+			</div>
+		</div>
+
+	</div>
+</section>
+
+<footer>
+	<div class="container" id="footerId">
+		<div class="top clearfix">
+
+			<div class="subscribe">
+				<form enctype="application/x-www-form-urlencoded" action="/home" method="post" name="newsLetterFormId"
+					id="newsLetterFormId">
+					<input type="hidden" value="newsLetterFormId" name="newsLetterFormId">
+					<div class="subscribeInput">
+						<input type="text" id="newslettersubemail" placeholder=" enterYourEmailId"
+						class="form-control news-letter text" />
+						<input type="hidden" value="Newsletter Registration Success!" id="newsletterSuccess">
+						<input type="hidden" value="Please provide valid Email Id" id="newsletterfailed">
+						<a class="subscribe-btn" id="newsletterSubscribeBtn" href="javascript:void(0);"
+							data-tracker="SUBSCRIBE">
+							الاشتراك
+						</a>
+					</div>
+				</form>
+				<a class="subscribeLink" href="javascript:void(0);" data-tracker="SUBSCRIBE_NEW_OFFERS"><i
+						class="icon-mail"></i>
+					اشترك في آخر العروض
+				</a>
+			</div>
+			<div class="brHotbc"><a title="استعراض الفنادق على حسب الدولة"
+					href="/property/countries.ar.html" target="_blank"
+					data-tracker="BROWSE_HOTELS_BY_COUNTRY">استعراض الفنادق على حسب الدولة</a></div>
+			<div class="social-icons ">
+
+				
+					<a rel="nofollow" data-tracker="FACEBOOK" class="facebook icon-facebook" target="_blank"
+						href="https://www.facebook.com/flyin.com"></a>
+					<a rel="nofollow" data-tracker="TWITTER" class="twitter icon-twitter" target="_blank"
+						href="https://twitter.com/flyincom"></a>
+					<!-- <a rel="nofollow"  data-tracker="GOOGLE_PLUS" class="google-plus icon-google-plus" target="_blank" href="https://plus.google.com/+flyin/posts"></a>  -->
+					<a rel="nofollow" data-tracker="LINKEDIN" class="linkedIn icon-linkedin" target="_blank"
+						href="https://www.linkedin.com/company/flyin-com"></a>
+					<a rel="nofollow" data-tracker="INSTAGRAM" class="instagram icon-instagram" target="_blank"
+						href="https://www.instagram.com/flyincom/"></a>
+					<a class="youtubeIcon icon-youtube" href="https://www.youtube.com/user/FlyinVideos"
+						target="_blank"></a>
+					
+			</div>
+
+		</div>
+		<div class="footerAirlines">
+			<!--<a id="footerAir" class="btn-primary-light visible-xs"> أفضل شركات الطيران  </a>-->
+			<div class="bLinks clearfix">
+				<!-- <div class="footerNav">
+      <h5>فلاي إن</h5>     
+       <a data-tracker="ABOUT_FLYIN_COM" title="من نحن" href="/aboutUs.ar.html" target="_blank">من نحن</a>
+	   </div>
+    <div class="footerNav">
+      <h5>قطاع الأعمال</h5>
+    </div> -->
+
+				<div class="mainFootLinks">
+					<ul>
+
+						
+							<!-- <li><a class="active" title="احصل على تمويل لسفرك" href="/travel-loan.html">احصل على تمويل لسفرك</a></li> -->
+							
+									<!-- <li><a data-tracker="FLYIN_WALLET" title="محفظتي في فلاي إن"
+											href="/flyin-wallet.ar.html">
+											محفظتي في فلاي إن
+										</a></li> -->
+									<!--
+		<li><a data-tracker="SADAD_ACCOUNTS" title="دليل حساب سداد" href="/sadadAccount.ar.html">دليل حساب سداد</a></li>
+		-->
+									<li><a data-tracker="CONTACT_US" title="اتصل بنا"
+											href="/contactUs.ar.html" target="_blank">
+											اتصل بنا
+										</a></li>
+					</ul>
+					<ul>
+						<!-- <li> <a data-tracker="FLYIN_COM_FRANCHISE" title="شركات السفر والسياحة" href="/franchise/joinUs.ar.html" target="_blank">وكيل فلاي إن</a></li> -->
+						<li><a class="adypp" data-tracker="FLYIN_BUSINESS" target="_blank"
+								title="أضف عقارك"
+								href="https://extranet.flyin.com/#/hotels/suppliers/edit">
+								أضف عقارك
+							</a></li>
+					</ul>
+				</div>
+
+				<div class="partWus mobileAppLogo">
+
+					<h5>
+						طيران وفنادق في مكان واحد‎ <span>
+								حمل التطبيق الآن لاستخدام أسهل وأسرع
+							</span>
+					</h5>
+
+					<a rel="nofollow" href="https://itunes.apple.com/us/app/flyin.com-tyran-w-fnadq/id1106268318"
+						class="ios"></a>
+					<a rel="nofollow" href="https://play.google.com/store/apps/details?id=com.flyin.bookings"
+						class="android"></a>
+
+				</div>
+			</div>
+			
+				<div class="licenseNumbers">
+					<div class="ttslNumber">
+						<p>
+							رقم ترخيص خدمات السياحة و السفر
+						</p>
+						<p>
+							٧٣١٠٠٥٥٩
+						</p>
+					</div>
+					<div>
+						<p>
+							فئة الترخيص
+						</p>
+						<p>
+							وكالة السفر و السياحة
+						</p>
+					</div>
+					<!-- <hr class="between-line"></hr> -->
+					<div class="crNumber">
+						<p>
+							رقم السجل التجاري
+						</p>
+						<p>
+							٧٠٠١٦٢٣٠٠٣
+						</p>
+					</div>
+				</div>
+				
+		</div>
+		<div class="copyRfooter clearfix">
+			<div class="listInline">
+				<a data-tracker="ABOUT_FLYIN_COM" title="من نحن" href="/aboutUs.ar.html"
+					target="_blank">
+					من نحن
+				</a>
+				<a data-tracker="FAQ" title="أسئلة وأجوبة" href="/faqs.ar.html" target="_blank">
+					أسئلة وأجوبة
+				</a>
+				<a data-tracker="PRIVACY_POLICY" title="الخصوصية"
+					href="/privacyPolicy.ar.html" target="_blank">
+					الخصوصية
+				</a>
+				<a data-tracker="TERMS_OF_USE" title="شروط الاستخدام" href="/termsOfUse.ar.html"
+					target="_blank">
+					شروط الاستخدام
+				</a>
+				<a data-tracker="FILE_A_CLAIM" title="كيفية الاعتراض " href="/howTo.ar.html"
+					target="_blank">
+					كيفية الاعتراض
+				</a>
+				<a data-tracker="CAREER" title="وظائف " href="https://careers.flyin.com/" target="_blank">
+					وظائف
+				</a>
+			</div>
+
+			<div class="footerImg">
+				
+					<img class="img-responsive lozad" alt="Paypal"
+						data-src="https://ui.cltp.co/flyinstatic/common/themes/v2/img/support-cards.png">
+					
+
+			</div>
+			<div class="copyright" style="display: flex;justify-content: flex-end;margin-top: 0px"><span style="
+	display: inline-block;
+	vertical-align: top;
+	padding-top: 9px;
+ "> &copy;
+					<script>var d = new Date(); var n = d.getFullYear(); document.write(n);</script>
+					
+						شركة إبريز السعودية للخدمات الإلكترونية 
+							
+				</span>
+				<div style="padding-left: 12px"></div>
+				<a target="_blank" href="https://ui.cltp.co/flyin-static/docs/flyin-VAT-cert.pdf" style="
+	display: inline-block;
+ "><img width="28" height="28" class="img-responsive lozad" alt="Paypal"
+						data-src="https://ui.cltp.co/flyin-static/img/vat-cert-logo.png"
+						src="https://ui.cltp.co/flyin-static/img/vat-cert-logo.png" data-loaded="true" style="
+	vertical-align: m;
+ "> </a>
+			</div>
+		</div>
+	</div>
+	<input type="hidden" id="nonActiveBin" value="">
+</footer>
+<div class="IePopup">
+	<div class="modal fade in upadteIEpopup">
+		<div class="modal-dialog modal-md">
+			<div class="modal-content">
+				<div class="modal-body">
+					<p>
+						مرحبا ، كنت تستخدم نسخة قديمة دات لم نعد دعم ، يرجى تحديث المتصفح الخاص بك إلى أحدث إصدار نسخة أو استخدام بديل.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="alert_custom">
+	<button type="button" class="closeAlert" data-dismiss="alert" aria-hidden="true">&#x2716;</button>
+	<!-- <strong style="font-size:24px;">تنبيه</strong><br> -->
+	<span class="alert-msg">Please select your Flight</span>
+</div>
+
+
+<a data-tracker="SCROLLUP" onClick="scrollUp()" href="javascript:void(0)" class="scrollup" style="display: none;"> </a>
+
+<!-- Modal -->
+<div class="modal fade tripAdvsr" id="tripAdvsrPop" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	<div class="modal-dialog" role="document">
+		<a href="javascript:void(0);" class="close" data-dismiss="modal" aria-label="Close"> <span class="icon-close"
+				aria-hidden="true"> </span> <span class="sr-only"> Close </span> </a>
+		<div class="modal-content">
+			<div class="modal-body">
+				<section class="" id="ContentFrame">
+					<div class="modalHeader">
+						<header>
+							<span class="ctBrand tripAdvisorBrand" style="display:none"></span>
+							<h2></h2>
+							<nav class="itinerarySummary">
+								<ul class="inline clearFix selected">
+									<li><small>
+											تاريخ الدخول
+										</small><span class="cin">Sat, 15 Oct</span></li>
+									<li><small>
+											تاريخ الخروج
+										</small><span class="cout">Tue, 18 Oct</span></li>
+									<li><small class="_gLabel">
+											الضيف
+										</small><span class="pass">2 adults </span></li>
+									<li><small><span class="nights">1 room, 3 nights</span></small><strong
+											class="selectedRoomPrice"> <span class="INR" data-pr="32524">SAR</span>
+										</strong></li>
+									<li class="cta">
+										<input class="booking changeTab btn btn-primary btn-sm _bookNow" id="bookNowBtn"
+											rel="roomsRates" value="احجز الآن" type="button">
+									</li>
+								</ul>
+							</nav>
+						</header>
+					</div>
+					<!-- Tabs Content holder -->
+					<div class="modalBody rtngSumry">
+						<div class="left rating">
+							<div class="taBreakup">
+								<h4>
+									تقييم المسافرين:
+								</h4>
+								<nav>
+									<ul class="taBreakdown">
+
+									</ul>
+								</nav>
+							</div>
+							<p> <small>
+									مشغل بواسطة:
+								</small><i class="fullTaLogo hotelSprite">&nbsp;</i> </p>
+						</div>
+						<div class="right reviews">
+							<div class="scrlr"></div>
+						</div>
+					</div>
+				</section>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- below Modal for bank detals update sucess -->
+<div aria-labelledby="myModalLabel" role="dialog" tabindex="-1" id="bnkDtlsUpdSucs" class="modal fade bnkDtlsUpdSucs">
+	<div class="modal-dialog mDialogPop">
+		<a href="javascript:void(0);" data-dismiss="modal" class="close">
+			<div class="icon-close" aria-hidden="true"> </div> <span class="sr-only"> Close </span>
+		</a>
+		<div class="modal-content">
+
+			<div class="modal-body editYourDetails hTravllrDtl">
+				<h4 id="myModalLabel" class="modal-title">
+					شكرا لك
+				</h4>
+				<ul>
+					<li>
+						تم استلام معلومات الدفع الخاصة بك، وجاري المراجعة
+					</li>
+
+					<li>
+						سيتم إرسال تأكيد الحجز وإرساله إلى البريد الإلكتروني بعد ساعة واحدة من  استلام المبلغ
+					</li>
+				</ul>
+			</div>
+			<div class="modal-footer">
+				<a href="/" class="btn btn-primary btn-sm">
+					الرجوع إلى الصفحة الرئيسية
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- below Modal for google sign in and register -->
+<div id="socialMediaPop" class="modal fade in" role="dialog">
+	<div class="modal-dialog mDialogPop">
+		<div class="modal-content text-center">
+			<img src="https://ui.cltp.co/flyinstatic/common/themes/v2/img/loadingTrans.gif" alt="loader">
+		</div>
+	</div>
+</div>
+
+<div id="cookie-popup" style='display:none'>
+	<div class="flex flex-middle p-fixed"
+		style="bottom: 0px;background-color: rgba(0, 0, 0, 0.9);width: 100%;z-index:20 ;">
+		<div class="container">
+			<div class="flex flex-middle"
+				style="width: 100%;align-items: flex-start;justify-content: space-between;padding: 15px 0;">
+				<p style="font-size: 13px; color: white; line-height:20px;margin: 0">
+					نحن نستخدم ملفات تعريف الارتباط وقد نشارك معلوماتك مع أطراف ثالثة لتخصيص الإعلانات وتحليل حركة المرور وتقديم الخدمات ذات الصلة بوسائل التواصل الاجتماعي. <br>
+						باستخدام موقعنا، فإنك تقبل سياسة ملفات تعريف الارتباط الخاصة بنا.<a onclick="PopUp('hide')" href="/privacyPolicy.ar.html"
+								target="_blank" style="color: white; text-decoration: underline;">
+								 انقر هنا لمعرفة المزيد
+							</a>
+				</p>
+				<div onClick="PopUp('hide')"
+					style="font-size: 20px;position: relative;cursor: pointer;color: white;font-weight: 600;">x</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+ 
+<script src="https://ui.cltp.co/flyinstatic/common/themes/v2/js/pack.js"></script> 
+<script src="https://ui.cltp.co/flyin-static/resources/javascripts/analytics/pageload.js" defer></script>
+<script src="https://ui.cltp.co/flyinstatic/common/themes/v2/js/analyticsServiceLayer.js"></script>
+<script  src="https://ui.cltp.co/flyinstatic/common/themes/v2/js/store.legacy.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- FPH Flow Related Services  Starts Here -->
+
+
+
+
+
+<!-- FPH Flow Related Ends Here -->
+
+<!-- MyAccount Related Service Layer Starts Here -->
+
+
+
+
+<!-- MyAccount Related Service Layer Ends Here -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script  src="https://ui.cltp.co/flyinstatic/common/themes/v2/js/bbcServiceLayer.js"></script>
+<script src=""></script>
+
+
+
+<!-- <script  src="https://ui.cltp.co/flyinstatic/common/themes/v2/js/intlTelInput.min.js"></script> -->
+
+
+	<script src="https://ui.cltp.co/flyinstatic/common/themes/v2/js/cleverTapJSlib.js"></script>
+     	 
+
+<div class="dynamic_results_loader" style="display:none"><div id="cssload-contain"><div class="loading loading--double"></div></div></div>
+</body>
+</html> 
+

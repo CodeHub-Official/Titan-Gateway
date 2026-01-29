@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="en" data-ph-id="ph-page-element-page9-migration-OJL38u" class="desktop en_us external">
+
+<head data-ph-id="ph-page-element-page9-migration-UyGh4S"><meta name="robots" content="index" /><meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" data-ph-id="ph-page-element-page9-migration-utSMoj" />
+	
+	
+	
+	<link type="image/x-icon" href="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/en_us/desktop/assets/images/favicon.ico?v=1715775894125" rel="icon" data-ph-id="ph-page-element-page9-migration-xKvlCf" />
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/en_us/desktop/assets/images/180x180-apple-touch-icon.png?v=1703150114156" data-ph-id="ph-page-element-page9-migration-MIw2Sr" />
+	<link rel="apple-touch-icon-precomposed" sizes="167x167" href="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/en_us/desktop/assets/images/167x167-apple-touch-icon.png?v=1703150113189" data-ph-id="ph-page-element-page9-migration-fLOT8y" />
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/en_us/desktop/assets/images/152x152-apple-touch-icon.png?v=1703150111199" data-ph-id="ph-page-element-page9-migration-x5TROH" />
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/en_us/desktop/assets/images/120x120-apple-touch-icon.png?v=1703150112759" data-ph-id="ph-page-element-page9-migration-Cq2zLv" />
+	<link rel="apple-touch-icon-precomposed" href="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/en_us/desktop/assets/images/apple-touch-icon-precomposed.png?v=1703150112335" data-ph-id="ph-page-element-page9-migration-W2Txwf" />
+	<link rel="shortcut icon" href="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/en_us/desktop/assets/images/apple-touch-icon.png?v=1703150113635" data-ph-id="ph-page-element-page9-migration-Cvy8vt" />
+	<link rel="apple-touch-startup-image" href="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/en_us/desktop/assets/images/splash.png?v=1703150111875" data-ph-id="ph-page-element-page9-migration-zEmKmd" />
+	
+<script type="text/javascript">/*&lt;!--*/ var phApp = phApp || {"widgetApiEndpoint":"https://careers.king.com/widgets","country":"us","deviceType":"desktop","locale":"en_us","absUrl":true,"refNum":"ACMKDSUS","cdnUrl":"https://cdn.phenompeople.com/CareerConnectResources","baseUrl":"https://careers.king.com/us/en/","baseDomain":"https://careers.king.com","phenomTrackURL":"careers.king.com/us/en/phenomtrack.min.js","pageName":"home","siteType":"external","rootDomain":"https://careers.king.com","pageId":"page9-migration"}; phApp.ddo = {"siteConfig":{"status":"success","errorCode":null,"errorMsg":null,"data":{"settingsIdentifiersFileUrl":"https://cdn.phenompeople.com/CareerConnectResources/pcs/common/1765810488809-classesForCms.js","phwPxScrVerionUrl_old":"pcs/common/1749810627131-phw-px-hadlr.js","thirdPartyLibraries":{"internal":["heap-analytics","open-replay"]},"phBridgeEvents":["apply_click","job_preview_click"],"imEagerLoadDdoList":[{"name":"getProfileStatus","cache":false},{"name":"getRegionLocales","cache":true},{"name":"getIMConfigurations","cache":true},{"name":"getClientReferFlow","cache":true},{"name":"imVariantsConfigInfo","cache":true},{"name":"mergedProfile","cache":false},{"name":"getProfileWeightage","cache":false},{"name":"masterFrequencyV1","cache":true},{"name":"userAlertSettings","cache":true},{"name":"fitScoreSettingsIM","cache":true},{"name":"employeeSearchConfig","cache":true},{"name":"getEmployeeProfile","cache":false},{"name":"getGroupInfo","cache":true},{"name":"getAppliedJobs","cache":true},{"name":"getProfileFieldsSettings","cache":true}],"filePicker":{"dropbox":{"clientId":"1vpordy4ijn2x08","devkey":""}},"ignoreCovidWidgetPagesList":["chatbot"],"uniqueEventSubsList":["getUserProfileData"],"smoothAnchorSettings":{"ignore":true},"embedScriptVersion":"0.9.4","isUrlLowerForSeo":false,"recommendedTrackingConfig":{"category":{"storageKey":"categories","ddoKeysToStore":["category"],"maxKeysToStore":"4"},"job":{"storageKey":"jobsViewed","ddoKeysToStore":["jobSeqNo"],"maxKeysToStore":"4"},"search-results":[{"storageKey":"keywords","ddoKeysToStore":["keywords"],"maxKeysToStore":"4"},{"storageKey":"locations","ddoKeysToStore":["location","field"],"maxKeysToStore":"4"}]},"debounceTimer":350,"eagerLoadDDOsToSkipLazyCalls":["apply"],"ignoreCookiePages":["chatbot"],"trustArc":{"attr":{"id":"truste-show-consent"},"actionMethod":"truste.eu.clickListener"},"elementsToLoadByModule":{"videoAssessment":[{"tag":"link","attributes":{"href":"https://cdn.phenompeople.com/CareerConnectResources/common/video-platform/js/vs-master-theme-1744368002549.css","rel":"stylesheet","type":"text/css"}}],"automationEngine":[{"tag":"script","attributes":{"src":"https://cdn.phenompeople.com/CareerConnectResources/hvh/aeBootstrapper1.js","type":"text/javascript"},"elementId":"aeBundle"}],"onboarding":[{"tag":"link","attributes":{"href":"https://pp-cdn.phenompeople.com/CareerConnectResources/st/common/video-platform/js/onboarding-theme.css","rel":"stylesheet","type":"text/css"},"elementId":"onboardingTheme"},{"tag":"link","attributes":{"href":"https://pp-cdn.phenompeople.com/CareerConnectResources/st/common/video-platform/js/form-renderer.css","rel":"stylesheet","type":"text/css"},"elementId":"onboardingFormRenderer"}]},"globalManagedWidgetIds":["8b82bfdaafd4d8504005407db933c9a6"],"phwPxScrVerionUrl_bkp":"common/js/canvas/vendor/phw-px-hadlr-1.3.js","securiti":{"attr":{"href":"javascript:showConsentPreferencesPopup()"}},"maps":{"google":{"apiScript":"https://maps.googleapis.com/maps/api/js","clusterJsScript":"markerclusterer-v1.js","gmapsInfoBoxScript":"gmaps-infobox-v1.js","phpppeak":"QUl6YVN5QnFNLXJXMHItc1I5UGVyTkF2dnNtemJCZW9GdTNZY3o4"},"mapbox":{"mapboxScript":"mapbox-gl.js","superClusterJsScript":"supercluster.min.js","phpppeak":"cGsuZXlKMUlqb2ljR2hsYm05dGNHVnZjR3hsSWl3aVlTSTZJbU5xYTNkcmVEVmtaREI0WVdFemFtOWhNWHAwZVdWcWJYZ2lmUS5NcG5hMUtJcVU4R2o2empQeTRpeWd3"},"mapboxCN":{"mapboxScript":"mapbox-gl-v1.1.0.js","superClusterJsScript":"supercluster.min.js","mapboxTurf":"mapbox-turf.min-v1.js","mapboxSearch":"mapbox-gl-geocoder.min.js","mapboxDirections":"mapbox-gl-directions.js","enableDirections":true,"baseApiUrl":"https://api.mapbox.cn","phpppeak":"cGsuZXlKMUlqb2ljR2hsYm05dGNHVnZjR3hsSWl3aVlTSTZJbU5xYTNkcmVEVmtaREI0WVdFemFtOWhNWHAwZVdWcWJYZ2lmUS5TcmwyLXB3M3hEUmlseW1FakVvZWln"}},"otPrivacyPolicyScript":"https://cdn.phenompeople.com/CareerConnectResources/prod/pcs/common/ot-priv-pol-3.0.js","ignoreLinkedInStateParam":false,"tokenConfiguredTenants":{"refNums":["RBCAA0088"]},"fetchBlogShareSettingsFromSiteconfig":true,"pxScrVerionUrl_bkp":"common/js/vendor/ph-px-hadlr-1.15.js","phwPxScrVerionUrl_bkp_new":"pcs/common/phw-px-hadlr.js","oneTrust":{"class":["ot-sdk-show-settings"]},"videoScreeningGlobalStyles":"https://pp-cdn.phenompeople.com/CareerConnectResources/st/common/video-platform/js/ph-vs-global-styles-v1.css","cdnConfig":{"cdnDdos":["fitScoreSettings","landingPageOverview","categoryContentV2","candidateProfileConfig","categoryMasterData","jobTagSettings","getBusinessRules","getMasterCategories","categoryMasterDataV2","caasFetchRawConfig","globalSearchConfig","categoryContent","siteBranding","blogsharewidgetsettings","audiencePxWidgetConfig","jobsharewidgetsettings","npsConfig","socialConnectOptions","getRegionLocales","jobLogoConfig","supportedLanguages","getMasterLocations","locationmapsettings","pxAudJobwidgetsettings","getRegionLocales","eventsharewidgetsettings","jobwidgetsettings","fyfConfig","getPiiConsentConfig","glassdoorReviews","masterFrequencyV1","getWidgetVersions"],"globallyManagedDdos":["getWidgetVersions"],"cdnUrl":"https://content-us.phenompeople.com","pageNameLevelDdos":[],"pageIdlevelDdos":[]},"platformLevelTriggers":[{"triggerCondition":[{"operand":"AND","conditions":[{"triggerType":"site_config_based_trigger","triggerMetadata":{"configKey":["aiSummaryEnabled"]}}]}],"triggerActions":[{"actionType":"load_widget","actionMetadata":{"widgetId":"zVydrA","instanceId":"inzVydrA","placementDataByPage":{"job":{"selector":"[data-func-widget-id^=\"ph-job-details-v1-job-nav\"]","position":"before"}},"defaultPlacementData":{"selector":"[data-func-widget-id^=\"ph-job-details-v1-job-nav\"]","position":"before"}}}]}],"crawlerUserAgents":"Screaming Frog|googlebot|yahoo|bingbot|baiduspider|facebookexternalhit|twitterbot|rogerbot|linkedinbot|embedly|showyoubot|outbrain|pinterest|slackbot|vkShare|W3C_Validator|redditbot|Applebot|WhatsApp|flipboard|tumblr|bitlybot|SkypeUriPreview|nuzzel|Discordbot|Google Page Speed|Qwantify|pinterestbot|Custom|msnbot|DuckDuckBot|BingPreview|spider|MJ12bot|deepcrawl|Chrome-Lighthouse","siteSettings":{"glassdoor":{},"glassdoorReviews":{},"twitter":{},"refineSearch":{"enabledFacets":["country","city","category"],"facetDisplayNames":{"country":"Country","city":"City","category":"Category"},"facetPlaceholderNames":{"country":"Search in country","city":"Search in city","category":"Search in category"},"defaultFacetsToOpen":["category"]},"linkedIn":{"phpppeak":"NzUyeGUxY2llbzh1dHY="},"oauth":{"linkedIn":{"clientId":"86kp7vauysmn4b","loginUrl":"https://www.linkedin.com/oauth/v2/authorization","logoutUrl":"https://api.linkedin.com/uas/oauth/invalidateToken","redirectUri":"/socialAuth/li","response_type":"code","scope":"r_liteprofile r_emailaddress","phpppeak":"NzUyeGUxY2llbzh1dHY=","phpppecs":"KuYSs7RXXTikGSE9"},"google":{"loginUrl":"https://accounts.google.com/o/oauth2/auth","logoutUrl":"https://www.google.com/accounts/Logout?continue=https://appengine.google.com/_ah/logout","clientId":"876228513716-npfer46h51po4nn5c1pafndsg87i2bm7.apps.googleusercontent.com","scope":"https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/user.phonenumbers.read","redirectUri":"/socialAuth/g","response_type":"code"},"facebook":{"loginUrl":"https://www.facebook.com/dialog/oauth","logoutUrl":"","clientId":"314102134023707","redirectUri":"/socialAuth/fb","scope":"email public_profile","response_type":"code"}},"gdpr":{"cookieType":"persistent","enabled":false},"phpppegmak":"QUl6YVN5QVBvcWVMcFhYeDR0cWlXSE1ZSmtZNDJ5RFNfZjNnTkpz"},"size":"10","refNum":"ACMKDSUS","siteVariant":"external","iubenda":{"class":["iubenda-cs-preferences-link"],"attr":{"href":"javascript:_iub.cs.ui.openPreferences()"}},"isNativeEmailClientForBlog":true,"iscdnEnabled":true,"trackingConfig":{"ddoDataPath":{"jobDetail":"data.job"},"job_category_click":{"trait14":"key"},"job_category_search_click":{"trait14":"key"},"play_click":{"trait260":"videotype","videoId":"videoid"},"pause_click":{"trait260":"videotype","videoId":"videoid"},"similar_job_click":{"trait12":"jobSeqNo","related":{"ddo":[{"name":"jobDetail","data":{"trait5":"jobSeqNo","trait14":"category"}}]}},"linkedin_recommended_job_click":{"trait5":"jobSeqNo","trait14":"category"},"recently_viewed_job_click":{"trait5":"jobSeqNo","trait14":"category"},"recommended_job_click":{"trait5":"jobSeqNo","trait14":"category"},"next_click":{"trait254":"stepName","typedValue":"typedValue","selected_values":"selected_values"},"ddo_failure":{"trait254":"stepName","response":"response","ddoKey":"ddoKey"},"ddo_error":{"trait254":"stepName","error":"error","ddoKey":"ddoKey"},"skip_questions_click":{"trait254":"stepName"},"previous_click":{"trait254":"stepName"},"registration_submit":{"trait27":"email","trait15":"firstName","trait24":"phone"},"edit_profile_information":{},"resume_remove_click":{},"profile_questions_click":{},"resume_upload_click":{},"create_profile_click":{},"upload_new_file_click":{},"clear_text_click":{"trait6":"clearSearchValue"},"send_feedback_click":{"userFeedback":"userFeedback"},"submit_rating_click":{"userRating":"userRating"},"near_job_click":{"trait5":"jobSeqNo","trait14":"category"},"suggestions":{"stepName":"stepName","typed_values":"typed_values","selected_values":"selected_values"},"fyf_step_loaded":{"step":"step"},"fyf_options_closed":{},"favorite_job_click":{"trait5":"jobSeqNo","trait14":"category"},"job_added_to_jobcart":{"trait5":"jobSeqNo","trait14":"category"},"job_unfavorited":{"trait5":"jobSeqNo","trait14":"category"},"job_favorite_delete_click":{"trait5":"jobSeqNo","trait14":"category"},"type_ahead_search":{},"similar_job_see_more_click":{},"linkedin_login_click":{},"linkedin_logout_click":{},"view_all_glassdoor_reviews_click":{},"homepage_category_click":{"trait14":"key"},"category_click":{"trait14":"key"},"job_click":{"trait5":"jobSeqNo","trait14":"category"},"previous_job_click":{"trait5":"jobSeqNo"},"next_job_click":{"trait5":"jobSeqNo"},"linkedin_recommended_category_click":{"trait14":"category"},"back_to_search_results_click":{},"share_event":{"trait269":"eventScheduleId","trait213":"provider"},"blog_click":{"trait283":"url"},"blog_category_click":{"trait14":"categoryName"},"next_blog_click":{"trait283":"url"},"previous_blog_click":{"trait283":"url"},"blog_details_view":{"trait283":"blog"},"navigate_to_tweet_click":{"tweetUrl":"tweetUrl"},"fit_level_loaded":{"jobsFitLevel":"jobsFitLevel","totalJobs":"totalJobs","availableFitLevelCount":"availableFitLevelCount"},"smart_tags_loaded":{"smartJobTags":"smartJobTags","totalJobs":"totalJobs","availableJobTagCount":"availableJobTagCount"},"edit_role_click":{"trait13":"trait13"},"select_role_click":{"trait13":"trait13","trait260":"trait260"},"save_employee_info_click":{"trait62":"trait62"},"update_employee_info_click":{"trait62":"trait62"},"signIn_click":{"trait260":"trait260","userId":"userName"},"signUp_click":{"trait260":"trait260","userId":"userName"},"reset_password_click":{"trait260":"trait260","userId":"userName"},"create_password_click":{"trait260":"trait260","type":"type"},"app_download_click":{"trait260":"appName","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId"},"user_decline_click":{"trait5":"videoScreenId","trait14":"category","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId"},"user_accept_click":{"trait5":"videoScreenId","trait14":"category","trait261":"userId","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId"},"start_process_click":{"trait5":"videoScreenId","trait14":"category","trait261":"userId","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId"},"accept_practice_click":{"trait261":"userId","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId"},"reject_practice_click":{"trait261":"userId","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId"},"answer_record_click":{"trait5":"videoScreenId","trait14":"category","trait261":"userId","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId","videoScreenQuestionId":"videoScreenQuestionId"},"answer_submit_click":{"trait5":"videoScreenId","trait14":"category","trait261":"userId","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId"},"answer_retake_click":{"trait5":"videoScreenId","trait14":"category","trait261":"userId","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId","videoScreenQuestionId":"videoScreenQuestionId"},"answer_continue_click":{"trait5":"videoScreenId","trait14":"category","trait261":"userId","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId","videoScreenQuestionId":"videoScreenQuestionId"},"answer_review_click":{"trait5":"videoScreenId","trait14":"category","trait261":"userId","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId","videoScreenQuestionId":"videoScreenQuestionId"},"submit_application_click":{"trait5":"videoScreenId","trait14":"category","trait261":"userId","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId"},"export_videos_click":{"trait5":"videoScreenId","trait14":"category","trait261":"userId","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId"},"restart_application_click":{"trait5":"videoScreenId","trait14":"category","trait261":"userId","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId"},"start_now_click":{"trait5":"videoScreenId","trait14":"category","trait261":"userId","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId"},"continue_process_click":{"trait5":"videoScreenId","trait14":"category","trait261":"userId","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId"},"contact_recruiter_click":{"trait261":"userId","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId"},"agree_click":{"videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId"},"submit_feedback_click":{"rating":"rating","feedback":"feedback","videoScreenId":"videoScreenId","videoScreenInterviewId":"videoScreenInterviewId"},"video-upload-error":{"url":"url","status":"status","questionId":"questionId","response":"response"},"apply_thank_you_loaded":{"hvhConfig":"hvhConfig"},"hvh_asset_initiated":{"thankYouUri":"thankYouUri"},"hvh_asset_res":{"res":"res"}},"lqipImage":"https://assets.phenompeople.com/CareerConnectResources/common/assets/images/gray.png","navItems":{"showExternalEvents":false,"candidateHome":true,"cdnCaasContentUrl":"https://content-us.phenompeople.com/api/content-delivery/caasContentV1","eventsEnabled":false,"audPxConfig":{"oldVersion":"2.0","newVersion":"4.0"},"blogsEnabled":true,"navMenuItems":["blogs","candidateHome"],"cdnCaasContentEnabled":true,"showExternalBlogs":true,"navMenuItemsData":{"blogs":{"url":"https://careers.king.com/us/en/blog"},"events":{"url":"https://careers.king.com/us/en/events"}}},"imageLoadType":{"desktop":"progressive","mobile":"lazy"},"resumableUploadConfig":{"chunkSize":"1","simultaneousUploads":"1","allowedVideoFormats":["mp4","m4p","m4v","mov","qt","avi","wmv","webm","mpg","mpeg"]},"locale":"en_us","siteLevelWidgetBindables":{"97e696f90c1e5c417da8b4484b49c7b0":{"locationSearch":true},"ad204a0c40fc1a98d614669f1bc50ab3":{"locationSearch":true}},"phwPxScrVerionUrl":"https://cdn.phenompeople.com/CareerConnectResources/pcs/common/phw-px-hadlr-1759419021369.js","vendorScripts":{"jquery":"jquery-3.6.1.min.js","jqueryMigrate":"jquery-migrate.min-1.1.js","plyrScript":"plyr-3.7.8.js","plyrStyle":"plyr-3.7.8_1.css","videojs-wavesurfer":"videojs-wavesurfer_3.9.0.js","wavesurfer":"wavesurfer_6.6.4.min.js","wavesurfer-microphone":"wavesurfer.microphone.min_6.6.4.js","mediaInfo":"mediainfo_0.1.9.min.js"},"phwPxScrVerionUrl_1":"prod/pcs/common/phw-px-hadlr-1728036837721.js","widgetScriptsConfig":{"cdnBaseUrl":"https://pp-cdn.phenompeople.com","widgetScriptPath":"CareerConnectResources/pp/agWidgets"},"ally":{"layerEnabled":true,"cdnUrl":"/common/js/ally/ph-ally-v1.1.js","allyScript":"/common/js/ally/ph-ally-layer-v1.19.js","allySkipToContent":{"isEnabled":true,"selectors":"#skip-content, #ph-skip-content, #skipToMainContent, .ae-skipto-main"},"reorderCookie":true,"userAgent":"AudioEye"},"pxScrVerionUrl":"https://cdn.phenompeople.com/CareerConnectResources/pcs/common/1755880496065-ph-px-hadlr-1.0.js","videoAssessmentPagesList":["video-assessment-landing-page","video-assessment-recording","video-assessment-thankyou","interview-landing-page","interview-recording","interview-thankyou","video assessment landing page","video assessment recording","video assessment thankyou","interview landing page","interview recording","interview thankyou","screening-welcome","screening-answering","screening-thankyou"],"oauth":{"indeed":{"clientId":"bd63e9975aacf4577c4662fcb002494dcb83887f82d51453405f60b29c77609a"},"xing":{"clientId":"c3bdfb74291c0e358e89"},"linkedIn":{"clientId":"86kp7vauysmn4b","loginUrl":"https://www.linkedin.com/oauth/v2/authorization","logoutUrl":"https://api.linkedin.com/uas/oauth/invalidateToken","redirectUri":"/socialAuth/li","response_type":"code","scope":"r_liteprofile r_emailaddress","phpppeak":"NzUyeGUxY2llbzh1dHY=","phpppecs":"KuYSs7RXXTikGSE9"},"google":{"loginUrl":"https://accounts.google.com/o/oauth2/auth","logoutUrl":"https://www.google.com/accounts/Logout?continue=https://appengine.google.com/_ah/logout","clientId":"876228513716-npfer46h51po4nn5c1pafndsg87i2bm7.apps.googleusercontent.com","scope":"https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/user.phonenumbers.read","redirectUri":"/socialAuth/g","response_type":"code"},"google-signin":{"loginUrl":"https://accounts.google.com/o/oauth2/auth","logoutUrl":"https://www.google.com/accounts/Logout?continue=https://appengine.google.com/_ah/logout","clientId":"876228513716-npfer46h51po4nn5c1pafndsg87i2bm7.apps.googleusercontent.com","scope":"https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/user.phonenumbers.read","redirectUri":"/iauth/g","response_type":"code"},"facebook":{"loginUrl":"https://www.facebook.com/dialog/oauth","logoutUrl":"","clientId":"314102134023707","redirectUri":"/socialAuth/fb","scope":"email public_profile","response_type":"code"}},"phpppecak":{"clientId":"aPuJFtcvVzuUHrqeLmPL36170","userZone":true,"phpppeat":"YXBpMTUxNDQ4Mjg4NEh5bEROOHRxYTZtZ1F4V0NwbmpvMzYxNzA="},"pageNameMap":{"404":"404_page_view","home":"home_page_view","category":"job_category_page_view","job":"job_details_view","search-results":"search_result_page_view","apply":"apply_page_view","glassdoorReviews":"glassdoor_reviews_page_view","jobcart":"favorites_page_view","jointalentcommunity":"jtc_page_view","featuredOpportunities":"job_category_page_view","businessUnit":"job_category_page_view","event":"event_details_view","events":"event_results_page_view","saved-jobs":"favorites_page_view","blogarticle":"blog_details_page","video-assessment-landing-page":"video_assessment_landing_page_view","video-assessment-recording":"video_assessment_recording_page_view","video-assessment-thankyou":"video_assessment_thankyou_page_view","interview-landing-page":"interview_landing_page_view","interview-recording":"interview_recording_page_view","interview-thankyou":"interview_thankyou_page_view","screening-welcome":"screening_welcome_page_view","screening-answering":"screening_answering_page_view","screening-outro":"screening_thankyou_page_view"},"blogsharewidgetsettings":{"options":[{"name":"whatsapp","order":0,"baseUrl":"https://api.whatsapp.com/send?&text=","eventName":"Share_whatsapp","settings":{"icon":"icon-whatsapp-1","iconBrandColor":"","popUpParams":"resizable,scrollbars,status,height=500,width=500","params":{},"label":false},"isSelected":true},{"name":"linkedin","order":1,"baseUrl":"https://www.linkedin.com/shareArticle?mini=true&url=","eventName":"share_blog","settings":{"icon":"icon-linkedin-2","iconBrandColor":"","popUpParams":"resizable,scrollbars,status,height=500,width=500","params":{"title":"shareInfoText"},"label":false},"isSelected":true},{"name":"facebook","order":3,"baseUrl":"https://facebook.com/sharer.php?u=","eventName":"share_blog","settings":{"icon":"icon-facebook","iconBrandColor":"","popUpParams":"resizable,scrollbars,status,height=500,width=500","params":{"t":"shareInfoText"},"label":false},"isSelected":true},{"name":"twitter","order":0,"baseUrl":"https://twitter.com/share?url=","eventName":"share_blog","settings":{"icon":"icon-twitter","iconBrandColor":"","popUpParams":"resizable,scrollbars,status,height=500,width=500","params":{"text":"shareInfoText"},"label":false},"isSelected":true},{"name":"email","order":6,"baseUrl":"","eventName":"share_blog","settings":{"icon":"icon-email-2","iconBrandColor":"","popUpParams":"resizable,scrollbars,status,height=500,width=500","params":{},"label":false},"isSelected":true}],"brandStyle":true,"widgetStyle":"style3","isInline":true,"size":"16","spacing":"21","color":"#fff","backgroundColor":"#ggg","height":"34","width":"34","line-height":"30","lineHeight":"30","borderWidth":"1","borderStyle":"solid","borderColor":"transparent","borderRadius":"100","locale":"en_us","siteVariant":"external"},"botEnabled":false,"onboardingPagesList":["onboarding-tasks","onboarding-home","Onboarding-Tasks","Onboarding-Home"],"kalturaConfig":{"partnerId":"2716851","playerId":"45245971"},"pxScrVerionUrl_backup":"https://cdn.phenompeople.com/CareerConnectResources/pcs/common/1744722002080-ph-px-hadlr.js","mapBoxGlScript":"mapbox-gl-v1.1.0.js","urlMap":{"home":"home","category":"c/:category","job":"job/:jobId/:title","service":"service/:jobId/:title","jobcart":"jobcart","search-results":"search-results","glassdoor-reviews":"glassdoor-reviews","event":"event/:eventScheduleId/:title","events":"events","talentcommunity":"talentcommunity","talentcommunityupdate":"talentcommunityupdate","blogarticle":"blogarticle/:url","jobalert":"jobalert","employee-profile":"employeeprofile","editprofile":"editprofile","businessUnit":":url","featuredOpportunities":":url","di_about":"di/about/:groupId","di_details":"di/details/:groupId","di_events":"di/events/:groupId","di_groups":"di/groups","di_highlights":"di/highlights/:groupId","di_jobs":"di/jobs/:groupId","di_members":"di/members/:groupId","referrals_candidate":"referrals/candidate","referrals_referredcandidates":"referrals/referredcandidates","referrals_friendsinterests":"referrals/friendsinterests","referrals_home":"referrals/home","referrals_candidatesuniversity":"referrals/candidatescompany","employees_home":"employees/home","lms_courses":"lms/courses","lms_savedcourses":"lms/savedcourses","gigs_details":"gigs/details/:gigId","gigs_searchresults":"gigs/searchresults","nla_home":"nla/home","nla_search":"nla/search","gigs_manage":"gigs/manage","gigs_applications":"gigs/applications","gigs_applicants":"gigs/applicants/:gigId","events_event":"events/event/:eventScheduleId/:title","events_home":"events/home","my-profile":"myprofile","cp_createpath":"cp/createpath","cp_home":"cp/home","cp_explore":"cp/explore","mentoring_relationship":"mentoring/relationship/:mentorshipId","mentoring_mentees":"mentoring/mentees","mentoring_mentors":"mentoring/mentors","mentoring_searchresults":"mentoring/searchresults","settings":"settings","story":"story/:contentId/:title","video-assessment-landing-page":"video-assessment-landing-page","video-assessment-recording":"video-assessment-recording","video-assessment-thankyou":"video-assessment-thankyou","forwardApply":"hvhapply","interview-landing-page":"interview-landing-page","interview-recording":"interview-recording","interview-thankyou":"interview-thankyou","roles_details":"roles/details/:jobCode/:jobTitle","roles_search-results":"roles/searchresults","screening-welcome":"screening-welcome","screening-answering":"screening-answering","screening-thankyou":"screening-thankyou","pmr_review":"pmr/review/:formId","alumni_my-profile":"alumni/myprofile"},"categoryUrlMap":{},"isNativeEmailClient":true,"captchaConfig":{"useCaptcha":false,"siteKey":"6LcV6MIUAAAAAN99to_j66BSDkGwjWcsjh2iTj1W","scriptSrc":"https://www.google.com/recaptcha/api.js?render=explicit&hl={{locale}}","divId":"ph-custom-captcha"},"automationEnginePagesList":["hvh-apply2","hvh apply","hvh apply2","hvhapply","hvh-apply","Hvh apply2","schedule-slot","onboarding","Onboarding","onboarding-tasks","onboarding-home","Onboarding-Tasks","Onboarding-Home"]},"reqData":null},"flashParams":{}}; phApp.experimentData = {}; phApp.inlinePreview = false;phApp.eagerLoadDDOs = ["siteConfig"];; phApp.sessionParams = {"csrfToken":"351cb91295d547a9907068a8af26820a","jdsource":""}; /*--&gt;*/</script><meta charset="UTF-8" /><meta content="en" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="canonical" href="https://careers.king.com/us/en/home" /><meta name="description" content="home" key-description="external-default-home-description" /><meta name="keywords" content="Jobs at King, Jobs at King Games, Careers at King Design Studio, King Design Studio jobs, job opportunities in King Design Studio, job openings, career opportunities" key-keywords="external-default-home-keywords" /><link rel="alternate" href="https://careers.king.com/us/en/" hreflang="en-global" data-seo="1" data-ddo="" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@King" /><meta name="twitter:creator" content="@Careers - King" /><meta name="twitter:image" content="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/twitter_logo_1024-1678700280233-1711610301129.jpg" page-seo-overriden="true" /><meta name="twitter:title" content="Careers at King | King jobs" /><meta name="twitter:description" content="home" /><meta property="og:type" content="website" /><meta property="og:image" content="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/og_logo_1200-1678700303568-1711610237721.jpg" page-seo-overriden="true" /><meta property="og:site_name" content="King" /><meta property="og:url" content="https://careers.king.com/us/en/home" /><meta property="og:title" content="Careers at King | King jobs" /><meta property="og:description" content="home" /><meta property="fb:admins" content="" /><meta property="og:image:width" content="200" /><meta property="og:image:height" content="200" /><title data-ph-id="ph-page-element-page9-migration-uW7qlW" key="external-default-home-title">Careers at King | Making the World Playful </title><script id="ph_app_page_id" type="text/javascript"> phApp.pageId = "page9-migration"</script><script type="application/ld+json">{"@context": "http://schema.org","@type": "WebSite","url": "https://careers.king.com/","potentialAction": {"@type": "SearchAction","target": "https://careers.king.com/us/en/search-results?keywords={search_term_string}","query-input": "required name=search_term_string"}}</script><link rel="stylesheet" type="text/css" href="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/canvas/default/common/fontfaces/fontface-1684943804429.css" id="fontfaces-default" /><script id="launchScript" type="text/javascript" src="https://cdn.phenompeople.com/CareerConnectResources/common/js/canvas/launchScript/launch-script-1766490790144.js" defer=""></script><link rel="stylesheet" type="text/css" href="https://cdn.phenompeople.com/CareerConnectResources/platform/css/ph-ui-platform-1764842710760.css" id="uiPlatform" /><link rel="stylesheet" type="text/css" href="https://cdn.phenompeople.com/CareerConnectResources/master/canvas/css/master-theme-1759849768145.css" id="masterTheme" /><link rel="stylesheet" type="text/css" href="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/canvas/kings/common/fontfaces/fontface-1722340926584.css" id="fontfaces" /><link rel="stylesheet" type="text/css" href="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/canvas/default/css/template-theme-1675158571524.css" id="masterTheme-default" /><link rel="stylesheet" type="text/css" href="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/canvas/assets/css/kings/canvas-site-custom-styles-1741598607048.css" id="customStyles" /><link rel="stylesheet" type="text/css" href="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/canvas/default/common/canvas-global-branding1711642819525.css" id="siteBrandingCss-default" /><link rel="stylesheet" type="text/css" href="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/canvas/kings/common/canvas-global-branding1722358666561.css" id="siteBrandingCss" /><script id="PHAPP-SYSTEM-ICON-URL" type="text/javascript"> phApp.systemIconUrl = "https://cdn.phenompeople.com/CareerConnectResources/CANVUS/canvas/icons/system-icons-1737370065231.svg";</script><script id="PHAPP-CUSTOM-ICON-URL" type="text/javascript"> phApp.customIconUrl = "https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/canvas/icons/kings/custom-icons-1711628925760.svg";</script><meta name="google-site-verification" content="PNvqN_jwAG3y88Q7r4hIH215MDadAE_96za0TIP6-5Y" /><script id="structural-tag" type="application/ld+json">{"@context": "https://schema.org","@type": "WebPage","inLanguage": "en_us","name": "home","url": "https://careers.king.com/us/en","datePublished": "2025-03-10","dateModified": "2025-03-10"}</script></head>
+
+<body data-ph-id="ph-page-element-page9-migration-aPbt6S" style="visibility: hidden;"><a href="search-results" class="hide" style="display: none">Search results</a>
+	<!-- ph-header start-->
+	<!-- this is the header area for the layout. It should be wrapped inside a container with class 'ph-header' -->
+	<header class="ph-header" data-ph-id="ph-page-element-page9-migration-sEPCvH"><section data-static-widget-id="KZFVv6" instance-id="hf-king-with-logo-on-the-left" has-edit="true" view-rev="0.0" type="header" sync-with-desktop="true"><div class="phw-widget-ctr phw-widget-empty-ctr phw-c-9aaf3ae5 phw-g-i-foMXy9" data-ps="9aaf3ae5-div-8">
+    <div data-hf-block="top" class="phw-container" data-ps="9aaf3ae5-div-9">
+        <div class="phw-c-9aaf3ae5-header-block phw-pt-3 phw-pb-3 phw-pt-sm-1-5 phw-pb-sm-1-5 phw-d-flex phw-align-items-center phw-justify-content-between phw-g-i-CgQpA3" data-ps="9aaf3ae5-div-10">
+            <div class="phw-c-9aaf3ae5-logo-block phw-d-lg-none phw-mr-6 phw-mr-xl-4" data-ps="9aaf3ae5-div-12">
+                <a href="https://careers.king.com/us/en/home" aria-label="Company Logo" phw-track="'logo_click'" data-ps="9aaf3ae5-a-2" target="_self">
+                    <img src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/Kinglogo-1679923120876-1686718393202.png" class="phw-c-9aaf3ae5-header-logo phw-header-logo phw-g-biglogo" alt="Kinglogo-1679923120876" data-ps="9aaf3ae5-img-2" />
+                </a>
+            </div>
+            <div class="phw-c-9aaf3ae5-nav-mobile-block phw-d-md-block" data-ps="9aaf3ae5-div-11">
+                <section class="phw-widget phw-load-widget" data-ph-component-name="menu" widget="phw-menu-list-default-default-v1" theme="default" instance-id="hf-king-with-logo-on-the-left$$z4HDz3vS" data-func-widget-id="gbobHe" content-id="phw-menu-list-default-default-v1" data-ps="9aaf3ae5-section-6"></section>
+            </div>
+            <div class="phw-c-9aaf3ae5-logo-block phw-d-none phw-d-lg-block phw-pl-xs-0 phw-d-md-flex phw-m-md-0-auto phw-justify-md-content-end" data-ps="9aaf3ae5-div-13">
+                <a href="/" aria-label="Company Logo" data-mobile="true" data-ps="9aaf3ae5-a-3" target="">
+                    <img src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/Kinglogo-1679923120876-1686718393202.png" class="phw-c-9aaf3ae5-header-logo phw-header-logo" alt="King logo" data-mobile="true" data-ps="9aaf3ae5-img-3" />
+                </a>
+            </div>
+
+            <div class="phw-c-9aaf3ae5-addition-widgets-block" data-ps="9aaf3ae5-div-14">
+                <ul class="phw-d-flex phw-justify-content-end phw-m-0 phw-p-0 phw-list-none" data-ps="9aaf3ae5-ul-2">
+                    <li class="phw-c-9aaf3ae5-candidate-login phw-pr-2 phw-pl-2 phw-pr-xl-1-5 phw-pl-xl-1-5 phw-pl-lg-1 phw-pr-lg-1 phw-d-flex phw-align-items-center phw-d-sm-block" data-ps="9aaf3ae5-li-4" data-component="candidate-login">
+                        <section class="phw-widget phw-load-widget" widget="phw-candidatelogin-default-header-default-v1" content-id="phw-candidatelogin-default-header-default-v1" data-func-widget-id="fmAme4" instance-id="hf-king-with-logo-on-the-left$$4HDz3vS" flow-type="signUp" theme="default" hide-on-mobile="true" data-parent-elem-remove="true" data-ps="9aaf3ae5-section-8"></section>
+                    </li>
+                    <li class="phw-c-9aaf3ae5-language-selector phw-pr-2 phw-pl-2 phw-pr-xl-1-5 phw-pl-xl-1-5 phw-pl-lg-1 phw-pr-lg-1 phw-d-sm-none phw-d-flex phw-align-items-center" data-ps="9aaf3ae5-li-5" data-component="language-selector">
+                        <section class="phw-widget phw-load-widget" widget="phw-language-selector-default-default-v1" content-id="phw-language-selector-default-default-v1" data-func-widget-id="q1abxJ" widget-id="languageSelectorDefaultDefault" instance-id="hf-king-with-logo-on-the-left$$Aq1abxJ" hide-on-mobile="true" data-parent-elem-remove="true" data-ps="9aaf3ae5-section-9"></section>
+                    </li>
+                    <li class="phw-c-9aaf3ae5-job-cart phw-pr-2 phw-pl-2 phw-pr-xl-1-5 phw-pl-xl-1-5 phw-pl-lg-1 phw-pr-lg-0 phw-d-flex phw-align-items-center phw-d-sm-block" data-ps="9aaf3ae5-li-6" data-component="job-cart-count">
+                        <section class="phw-widget phw-load-widget" widget="phw-job-cart-count-default-default-v1" data-func-widget-id="hl5Fa2" data-phw-widget-id="phw-job-cart-count-default-default-v1" widget-id="phw-job-cart-count-default-default-v1" instance-id="hf-king-with-logo-on-the-left$$Ahl5Fa2" content-id="phw-job-cart-count-default-default-v1" data-parent-elem-remove="true" data-ps="9aaf3ae5-section-10"></section>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+</section></header>
+	<!-- ph-header end-->
+
+	<!-- ph-page start-->
+	<!-- this is the page area for the layout. It should be wrapped inside a container with class 'ph-page' -->
+	<main class="ph-page" data-ph-id="ph-page-element-page9-migration-tSstQq"><section data-static-widget-id="mpP1yM" class="phw-widget" panel-id="" data-ph-id="-1695719427890" instance-id="Pej5EtSa" view-rev="14" has-edit="false" sync-with-desktop="true"><div class="phw-widget-ctr phw-g-i-fpdx8l" data-ps="c3e4c149-div-1">
+    <div class="phw-container" data-ps="c3e4c149-div-2">
+        <div class="phw-card-block phw-text-md-c" data-map-id="video" data-phw-video-opts="eyJhdXRvcGxheSI6dHJ1ZSwidm9sdW1lIjoxLCJsb29wIjp0cnVlLCJjb250cm9scyI6dHJ1ZSwibG9hZGVyIjpmYWxzZSwiY2FwdGlvbnMiOmZhbHNlLCJ0cmFuc2NyaXB0VmlkZW9JZCI6Imh0dHBzOi8vYXNzZXRzLnBoZW5vbXBlb3BsZS5jb20vQ2FyZWVyQ29ubmVjdFJlc291cmNlcy9wcm9kL1BNQ05VUy9kb2N1bWVudHMvVzNDX0lOVFJPX1NGSEkxLTE2ODg3MjQwNjc3MTYucGRmIiwidHJhbnNjcmlwdEVuYWJsZSI6ZmFsc2V9" data-phw-video-content="eyJkdXJhdGlvbiI6IjAiLCJjb3ZlcmltYWdlIjpudWxsLCJ0cmFuc2NyaXB0IjpudWxsLCJ2aWRl
+b3R5cGUiOiJ5b3V0dWJlIiwic2l6ZSI6IjcxOTE3NyIsInNyYyI6Imh0dHBzOi8veW91dHUuYmUv
+QUY0eko3b3Y2SU0iLCJjb250ZW50SWQiOiJFcWNqZG1aQy1iekhabXZtbiIsImFsdCI6IlRoZSBL
+aW5nZG9tIiwiZGVzY3JpcHRpb24iOiIiLCJ0aXRsZSI6IlRoZSBLaW5nZG9tIiwiY2FwdGlvbnMi
+Om51bGwsImF1ZGlvZGVzY3JpcHRpb24iOm51bGx9" data-phw-description-video="ewogICAgInZpZGVvdHlwZSI6ICJtcDQiLAogICAgInNpemUiOiAyMTQ0OTcwMCwKICAgICJzcmMiOiAiaHR0cHM6Ly9hc3NldHMucGhlbm9tcGVvcGxlLmNvbS9DYXJlZXJDb25uZWN0UmVzb3VyY2VzL3Byb2QvUE1DTlVTL3ZpZGVvcy9JbnRyb2R1Y3Rpb250b1dlYkFjY2Vzc2liaWxpdHlhbmRXM0NTdGFuZGFyZHMtMTY4ODcyMzkyNjI1Mi5tcDQiLAogICAgImRlc2NyaXB0aW9uIjogIldlYkFjY2Vzc2liaWxpdHlhbmRXM0NTdGFuZGFyZCIsCiAgICAidGl0bGUiOiAiV2ViQWNjZXNzaWJpbGl0eWFuZFczQ1N0YW5kYXJkIiwKICAgICJwbGF5SW1nIjoge30KfQ==" data-ps="c3e4c149-div-3">
+            <div class="phw-grid phw-grid-2 phw-d-md-flex phw-flex-md-column-reverse phw-justify-content-center phw-align-items-center" data-ps="c3e4c149-div-4">
+                <div class="phw-width-4 phw-g-i-piqFo2" data-ps="c3e4c149-div-5">
+                    <h1 class="phw-mb-2 phw-g-i-uuh5aQ" data-map-id="H1-heading" data-component="card-title" data-ps="c3e4c149-h1-1" text-element="text">At King, we <span fromckedit="true">bring </span>moments of <span class="phw-g-kaktoes-hero-text" fromckedit="true">magic</span> to hundreds of millions of people, every single day.</h1>
+                    <div data-tag-type="p" class="phw-mb-6 phw-mb-sm-4 phw-g-i-EGOOA1" data-map-id="description" data-component="card-description" data-ps="c3e4c149-div-6" text-element="text">We’re continuously experimenting, learning and adapting to shape the industry in ways yet<br />
+to be imagined. And we’re not afraid to have fun along the way. Together, we’ll create new experiences that raise the bar, delight millions of people and redefine the world of games.<br />
+<br />
+Are you ready to join us in Making the World Playful?&nbsp;</div>
+                    <div data-ps="c3e4c149-div-7" class="phw-mb-6 phw-mb-sm-4">
+                        <button class="phw-btn phw-width-sm-4 phw-g-i-IdcGem" type="button" data-modal-content-id="modalVideoPopupLarge" aria-label="watch video - Working with us" aria-haspopup="dialog" data-component="video-action-button" data-ps="c3e4c149-button-1">
+                            <span class="phw-icon-ctr phw-mr-1" data-ps="c3e4c149-span-1">
+                                <svg aria-hidden="true" class="phw-i-sz-4 phw-g-i-qKfQmB" fill="currentcolor" data-map-id="video-play-icon" data-component="video-play-icon" data-ps="c3e4c149-svg-1">
+                                    <use href="#phw-cns-icon-play-circle" data-ps="c3e4c149-use-1"></use>
+                                </svg>
+                            </span>
+                            <span data-map-id="video-action-text" data-ps="c3e4c149-span-2" text-element="text">Working at King&nbsp;</span>
+                        </button>
+                        <div data-modal-id="modalVideoPopupLarge" class="phw-d-none phw-video-cntr phw-video-dialog" data-ps="c3e4c149-div-8">
+                            <div class="phw-modal-header phw-flex-row-reverse phw-dialog-close" data-ps="c3e4c149-div-9">
+                                <button class="phw-modal-close" aria-label="close dialog" data-ps="c3e4c149-button-2">
+                                    <span class="phw-icon-ctr" data-ps="c3e4c149-span-3">
+                                        <svg class="phw-icon" aria-hidden="true" fill="currentcolor" data-ps="c3e4c149-svg-2">
+                                            <use href="#phw-cns-icon-close" data-ps="c3e4c149-use-2"></use>
+                                        </svg>
+                                    </span>
+                                </button>
+                            </div>
+                            <div class="phw-video-cntr phw-video-dialog" data-ps="c3e4c149-div-10"></div>
+                            <div class="phw-mt-4 phw-d-flex phw-s-transcript phw-flex-sm-wrap phw-d-none" data-ps="c3e4c149-div-11">
+                                <button class="phw-btn phw-description phw-g-btn-audio-description phw-width-sm-4" aria-live="assertive" aria-pressed="false" data-ps="c3e4c149-button-3">
+                                    <span class="phw-icon-ctr phw-mr-1" data-ps="c3e4c149-span-4">
+                                        <svg class="phw-icon phw-i-sz-4" aria-hidden="true" fill="currentcolor" data-ps="c3e4c149-svg-3">
+                                            <use href="#phw-cns-icon-audio-description" data-ps="c3e4c149-use-3"></use>
+                                        </svg>
+                                    </span>
+                                    <span class="disableDescripton phw-d-none" data-ps="c3e4c149-span-5" text-element="text">Disable Audio Description</span>
+                                    <span class="enableDescripton" data-ps="c3e4c149-span-6" text-element="text">Enable Audio Description</span>
+                                </button>
+                                <a class="phw-btn phw-transcript phw-ml-2 phw-ml-sm-0 phw-mt-sm-2 phw-g-btn-video-transcript phw-width-sm-4" href="javascript:void(0)" data-ps="c3e4c149-a-1" target="" aria-label="" title="">
+                                    <span class="phw-icon-ctr phw-mr-1" data-ps="c3e4c149-span-7">
+                                        <svg class="phw-icon phw-i-sz-2-5" aria-hidden="true" fill="currentcolor" data-ps="c3e4c149-svg-4">
+                                            <use href="#phw-cns-icon-file" data-ps="c3e4c149-use-4"></use>
+                                        </svg>
+                                    </span>
+                                    <span data-ps="c3e4c149-span-8" text-element="text">Transcript</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <section class="phw-widget phw-load-widget" widget="phw-global-search-default-default-v1" data-func-widget-id="88wGuc" instance-id="Pej5EtSa$$gsdsEfrbb" data-component="global-search" content-id="phw-global-search-default-default-v1" theme="default" data-ps="c3e4c149-section-1" content-model-type="keyword_suggestion"></section>
+                </div>
+                <div class="phw-ml-5 phw-ml-md-0 phw-mb-md-6 phw-mb-sm-4" data-ps="c3e4c149-div-12">
+                    <figure role="presentation" class="phw-img-ctr phw-width-sm-4 phw-height-4 phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-component="card-image" data-ps="c3e4c149-figure-1">
+                        <img src="https://cdn.phenompeople.com/CareerConnectResources/canvas/common/widgets/images/1693399681229_media_icon_medium1.jpg" alt="" class="phw-width-4 phw-height-4" data-map-id="image" data-ps="c3e4c149-img-1" />
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</section><section data-static-widget-id="bCVq1A" class="phw-widget" panel-id="" data-ph-id="-1711448308908" instance-id="N11Ouo8G" view-rev="19" has-edit="false" sync-with-desktop="true"><div class="phw-widget-ctr phw-c-e31cf0ca phw-g-i-tmqzAw" data-ps="e404b94b-div-13">
+    <div class="phw-container" data-ps="e404b94b-div-14">
+        <div class="phw-header-block phw-text-c" data-ps="e404b94b-div-15" data-component="header-block">
+            <h2 class="phw-mb-2 phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-ps="e404b94b-h2-2" data-map-id="widget-heading" data-component="widget-title" text-element="text">Lorem ipsum</h2>
+            <div data-tag-type="p" class="phw-g-p-widget-subheading-style-1 phw-mb-2 phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-ps="e404b94b-p-10" data-map-id="widget-sub-heading" data-component="widget-subtitle" text-element="text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
+            <div data-ps="e404b94b-div-18">
+                <a href="javascript:void(0)" class="phw-btn phw-g-btn-primary phw-mb-2 phw-d-none" data-ps="e404b94b-a-6" data-map-id="widget-action-link" data-component="widget-link" aria-label="" target="" title="">
+                    <span class="phw-actionlink-text" data-map-id="action-link-text" data-ps="e404b94b-span-11" text-element="text">Learn more</span>
+                    <span class="phw-icon-ctr phw-d-none" data-ps="e404b94b-span-12" data-component="action-icon">
+                        <svg aria-hidden="true" class="phw-i-sz-2-5" fill="currentcolor" data-ps="e404b94b-svg-6" data-map-id="widget-action-link-icon">
+                            <use href="#phw-cns-icon-chevron-right" data-ps="e404b94b-use-6"></use>
+                        </svg>
+                    </span>
+                </a>
+            </div>
+        </div>
+        <div class="phw-content-block phw-content-block-top-space phw-grid phw-grid-md-2 phw-gap-2 phw-grid-3 phw-grid-sm-3" role="list" data-ps="e404b94b-div-16">
+            <div class="phw-card-block phw-p-2 phw-g-i-7NHkoS" phw-repeatable="" role="listitem" data-ps="e404b94b-div-5"> 
+ <figure class="phw-img-ctr phw-p-3 phw-text-c phw-g-i-GHYgE1" role="presentation" data-ps="e404b94b-figure-5" data-component="card-image"> 
+  <img src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/Highlights-04-1707150567185.png" alt="" data-map-id="image" class="phw-width-4 phw-height-4 phw-object-fit-cover" data-ps="e404b94b-img-5" /> 
+ </figure> 
+ <div class="phw-text-c phw-g-i-5OtN4U" data-ps="e404b94b-div-17"> 
+  <div data-tag-type="p" class="phw-g-p-large-dark phw-d-none" data-ps="e404b94b-p-11" data-map-id="meta" data-component="card-text" text-element="text">lorem ipsum</div> 
+  <h3 data-ps="e404b94b-h3-5" data-map-id="H3-heading" data-component="card-title" text-element="text" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none phw-g-i-zfkFpj">Lorem Ipsum</h3> 
+  <div data-tag-type="p" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none phw-g-i-mpfNjV" data-ps="e404b94b-p-12" data-map-id="description" data-component="card-description" text-element="text">Lorem Ipsum is simply dummy text.</div> 
+  <a href="javascript:void(0)" class="phw-g-btn-link phw-d-none" data-ps="e404b94b-a-7" data-map-id="action-link" data-component="card-link" target="" aria-label="" title=""> <span class="phw-actionlink-text" data-map-id="action-link-text" data-ps="e404b94b-span-13" text-element="text">Learn more</span> <span class="phw-icon-ctr phw-d-none" data-ps="e404b94b-span-14" data-component="action-icon"> 
+    <svg aria-hidden="true" class="phw-i-sz-2-5" fill="currentcolor" data-ps="e404b94b-svg-7" data-map-id="action-link-icon"> 
+     <use href="#phw-cns-icon-chevron-right" data-ps="e404b94b-use-7"></use> 
+    </svg> </span> </a> 
+ </div> 
+</div><div class="phw-card-block phw-p-2 phw-g-i-7NHkoS" phw-repeatable="" role="listitem" data-ps="e404b94b-div-5"> 
+ <figure class="phw-img-ctr phw-p-3 phw-text-c phw-g-i-GHYgE1" role="presentation" data-ps="e404b94b-figure-5" data-component="card-image"> 
+  <img src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/Highlights-05-1707150568785.png" alt="" data-map-id="image" class="phw-width-4 phw-height-4 phw-object-fit-cover" data-ps="e404b94b-img-5" /> 
+ </figure> 
+ <div class="phw-text-c phw-g-i-5OtN4U" data-ps="e404b94b-div-17"> 
+  <div data-tag-type="p" class="phw-g-p-large-dark phw-d-none" data-ps="e404b94b-p-11" data-map-id="meta" data-component="card-text" text-element="text">lorem ipsum</div> 
+  <h3 data-ps="e404b94b-h3-5" data-map-id="H3-heading" data-component="card-title" text-element="text" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none phw-g-i-zfkFpj">Lorem Ipsum</h3> 
+  <div data-tag-type="p" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none phw-g-i-mpfNjV" data-ps="e404b94b-p-12" data-map-id="description" data-component="card-description" text-element="text">Lorem Ipsum is simply dummy text.</div> 
+  <a href="javascript:void(0)" class="phw-g-btn-link phw-d-none" data-ps="e404b94b-a-7" data-map-id="action-link" data-component="card-link" target="" title="" aria-label=""> <span class="phw-actionlink-text" data-map-id="action-link-text" data-ps="e404b94b-span-13" text-element="text">Learn more</span> <span class="phw-icon-ctr phw-d-none" data-ps="e404b94b-span-14" data-component="action-icon"> 
+    <svg aria-hidden="true" class="phw-i-sz-2-5" fill="currentcolor" data-ps="e404b94b-svg-7" data-map-id="action-link-icon"> 
+     <use href="#phw-cns-icon-chevron-right" data-ps="e404b94b-use-7"></use> 
+    </svg> </span> </a> 
+ </div> 
+</div><div class="phw-card-block phw-p-2 phw-g-i-7NHkoS" phw-repeatable="" role="listitem" data-ps="e404b94b-div-5"> 
+ <figure class="phw-img-ctr phw-p-3 phw-text-c phw-g-i-GHYgE1" role="presentation" data-ps="e404b94b-figure-5" data-component="card-image"> 
+  <img src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/Highlights-06-1707150538116.png" alt="" data-map-id="image" class="phw-width-4 phw-height-4 phw-object-fit-cover" data-ps="e404b94b-img-5" /> 
+ </figure> 
+ <div class="phw-text-c phw-g-i-5OtN4U" data-ps="e404b94b-div-17"> 
+  <div data-tag-type="p" class="phw-g-p-large-dark phw-d-none" data-ps="e404b94b-p-11" data-map-id="meta" data-component="card-text" text-element="text">lorem ipsum</div> 
+  <h3 data-ps="e404b94b-h3-5" data-map-id="H3-heading" data-component="card-title" text-element="text" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none phw-g-i-zfkFpj">Lorem Ipsum</h3> 
+  <div data-tag-type="p" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none phw-g-i-mpfNjV" data-ps="e404b94b-p-12" data-map-id="description" data-component="card-description" text-element="text">Lorem Ipsum is simply dummy text.</div> 
+  <a href="javascript:void(0)" class="phw-g-btn-link phw-d-none" data-ps="e404b94b-a-7" data-map-id="action-link" data-component="card-link" title="" target="" aria-label=""> <span class="phw-actionlink-text" data-map-id="action-link-text" data-ps="e404b94b-span-13" text-element="text">Learn more</span> <span class="phw-icon-ctr phw-d-none" data-ps="e404b94b-span-14" data-component="action-icon"> 
+    <svg aria-hidden="true" class="phw-i-sz-2-5" fill="currentcolor" data-ps="e404b94b-svg-7" data-map-id="action-link-icon"> 
+     <use href="#phw-cns-icon-chevron-right" data-ps="e404b94b-use-7"></use> 
+    </svg> </span> </a> 
+ </div> 
+</div>
+            
+            
+            
+        </div>
+        <div class="phw-footer-block phw-footer-block-top-space phw-text-c phw-d-none" data-component="footer-block" data-ps="e404b94b-div-19">
+            <div data-tag-type="p" class="phw-g-p-widget-subheading-style-1 phw-mt-2 phw-d-none" data-map-id="widget-footer-subtitle" data-component="widget-footer-subtitle" data-ps="e404b94b-p-13" text-element="text">A sense of mutual respect and mindfulness permeates our culture-in fact, it’s the key to our success.</div>
+            <div data-ps="e404b94b-div-20">
+                <a href="javascript:void(0)" class="phw-btn phw-g-btn-primary phw-mt-2 phw-d-none" data-map-id="widget-footer-action-link" data-component="widget-footer-link" data-ps="e404b94b-a-8" aria-label="" title="" target="">
+                    <span class="phw-actionlink-text" data-map-id="action-link-text" data-ps="e404b94b-span-15" text-element="text">Learn more</span>
+                    <span class="phw-icon-ctr phw-d-none" data-component="action-icon" data-ps="e404b94b-span-16">
+                        <svg aria-hidden="true" class="phw-i-sz-2-5" fill="currentcolor" data-map-id="widget-footer-action-link-icon" data-ps="e404b94b-svg-8">
+                            <use href="#phw-cns-icon-chevron-right" data-ps="e404b94b-use-8"></use>
+                        </svg>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+</section><section data-static-widget-id="z3960J" class="phw-widget" panel-id="" data-ph-id="-1700127402722" instance-id="BdiUfktw" view-rev="14" has-edit="false" sync-with-desktop="true"><div class="phw-widget-ctr phw-g-i-xibh3r" data-ps="5bdfbb93-div-1">
+    <div class="phw-container phw-posn-relative" data-ps="5bdfbb93-div-2">
+        <div class="phw-header-block phw-text-c" data-ps="5bdfbb93-div-3" data-component="header-block">
+            <h2 data-map-id="widget-heading" data-component="widget-title" data-ps="5bdfbb93-h2-1" text-element="text" class="phw-g-i-UBQJk4">Our Crafts</h2>
+            <div data-tag-type="p" class="phw-g-p-widget-subheading-style-1 phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-map-id="widget-sub-heading" data-component="widget-subtitle" data-ps="5bdfbb93-p-1" text-element="text">A career at Phenom Foods Market is more than the work you do. impact on the community, your personal                growth and team members.</div>
+            <div data-ps="5bdfbb93-div-4">
+                <a href="javascript:void(0)" class="phw-btn phw-g-btn-primary phw-mt-3 phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-map-id="widget-action-link" data-component="widget-link" phw-track="Headerblock_actionlink_click" data-ps="5bdfbb93-a-1" target="" aria-label="" title="">
+                    <span class="phw-actionlink-text" data-hide-settings="true" data-ps="5bdfbb93-span-1" text-element="text">See more</span>
+                    <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="5bdfbb93-span-2">
+                        <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="widget-action-link-icon" data-ps="5bdfbb93-svg-1">
+                            <use href="#phw-cns-icon-chevron-right" data-ps="5bdfbb93-use-1"></use>
+                        </svg>
+                    </span>
+                </a>
+            </div>
+        </div>
+        <div class="phw-content-block phw-content-block-top-space" data-ps="5bdfbb93-div-5">
+            <div class="phw-slider phw-cwctr default phw-g-i-fUG9vo" data-phw-slider-opts="eyJnYXAiOiIxNnB4IiwidHlwZSI6InNsaWRlIiwiYXJyb3dQYXRoIjoiTTE4LjIzMjUgMjRMMjEuODEgMjAuNDIyNUgxMy44MjE3VjE4Ljc1NThIMjEuODFMMTguMjMyNSAxNS4xNzgzTDE5LjQxMDggMTRMMjUgMTkuNTg5MkwxOS40MTA4IDI1LjE3ODNMMTguMjMyNSAyNFoiLCJtZWRpYVF1ZXJ5IjoibWluIiwic2xpZGVyQXJyb3dzQ3RyIjp0cnVlLCJicmVha3BvaW50cyI6eyIzMjAiOnsicGFnaW5hdGlvbiI6dHJ1ZSwiYXJyb3dzIjpmYWxzZSwibnVtYmVycyI6ZmFsc2UsInBlclBhZ2UiOjEsInBlck1vdmUiOjEsInNwZWVkIjo2LCJwZXJQYWdlLW92ZXJyaWRkZW4iOnRydWUsInBlck1vdmUtb3ZlcnJpZGRlbiI6dHJ1ZSwiZ2FwIjoiMHB4IiwiZ2FwLW92ZXJyaWRkZW4iOnRydWV9LCI3NjgiOnsicGFnaW5hdGlvbiI6dHJ1ZSwiYXJyb3dzIjpmYWxzZSwibnVtYmVycyI6ZmFsc2UsInBlclBhZ2UiOjQsInBlck1vdmUiOjQsInNwZWVkIjo2LCJnYXAiOiIyMHB4In0sIjEyODAiOnsicGFnaW5hdGlvbiI6dHJ1ZSwiYXJyb3dzIjpmYWxzZSwibnVtYmVycyI6ZmFsc2UsInBlclBhZ2UiOjQsInBlck1vdmUiOjQsInNwZWVkIjo2LCJnYXAiOiIyMHB4In0sIjE5MjAiOnsicGFnaW5hdGlvbiI6dHJ1ZSwiYXJyb3dzIjpmYWxzZSwibnVtYmVycyI6ZmFsc2UsInBlclBhZ2UiOjQsInBlck1vdmUiOjQsInNwZWVkIjo2LCJnYXAiOiIyMHB4In19LCJwYXVzZU9uSG92ZXIiOnRydWV9" data-ps="5bdfbb93-div-6">
+                <div class="phw-slider-track" data-ps="5bdfbb93-div-7">
+                    <div class="phw-slider-list" data-ps="5bdfbb93-div-8">
+                        <div class="phw-card-block phw-slider-slide phw-text-c phw-stroke-dark phw-word-break phw-d-flex phw-flex-column g-col-1 phw-g-craftcard" phw-repeatable="" data-ps="5bdfbb93-div-9"> 
+ <figure role="presentation" class="phw-img-ctr phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-component="card-image" data-ps="5bdfbb93-figure-1"> 
+  <img src="https://cdn.phenompeople.com/CareerConnectResources/canvas/common/widgets/images/1699954765490_media-001.jpeg" class="phw-width-4" alt="" data-map-id="image" data-ps="5bdfbb93-img-1" /> 
+ </figure> 
+ <div class="phw-p-4 phw-pt-xl-3 phw-pb-xl-3 phw-pl-sm-2 phw-pr-sm-2 phw-d-flex phw-flex-column phw-flex-grow phw-g-craftscard" data-ps="5bdfbb93-div-10"> 
+  <div data-tag-type="p" class="phw-mb-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="meta" data-component="card-text" data-ps="5bdfbb93-p-2" text-element="text">lorem ipsum</div> 
+  <h3 data-map-id="H3-heading" data-component="card-title" data-ps="5bdfbb93-h3-1" text-element="text" class="phw-g-i-pSFyE3">Games Design &amp; Production</h3> 
+  <div data-tag-type="p" class="phw-t-l phw-mt-2 phw-mb-4 phw-xl-5 phw-xs-4 phw-g-paragraph-text" data-component="card-description" data-map-id="description" data-ps="5bdfbb93-p-3" text-element="text">As level designers, economy designers, audio experts, project managers, and producers, bringing moments of joy to millions of people is all in a day’s work.</div> 
+  <div class="phw-mt-auto" data-ps="5bdfbb93-div-11"> 
+   <a class="phw-btn phw-g-i-DWhwO8" aria-label="" data-map-id="action-link" data-component="card-link" phw-track="Static_content_click" href="https://careers.king.com/us/en/game-design-production-page" data-ps="5bdfbb93-a-2" title="" target="_self"> <span class="phw-actionlink-text" data-hide-settings="true" data-ps="5bdfbb93-span-3" text-element="text">Read more</span> <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="5bdfbb93-span-4"> 
+     <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="action-link-icon" data-ps="5bdfbb93-svg-2"> 
+      <use href="#phw-cns-icon-chevron-right" data-ps="5bdfbb93-use-2"></use> 
+     </svg> </span> </a> 
+  </div> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-text-c phw-stroke-dark phw-word-break phw-d-flex phw-flex-column g-col-1 phw-g-craftcard" phw-repeatable="" data-ps="5bdfbb93-div-9"> 
+ <figure role="presentation" class="phw-img-ctr phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-component="card-image" data-ps="5bdfbb93-figure-1"> 
+  <img src="https://cdn.phenompeople.com/CareerConnectResources/canvas/common/widgets/images/1699954765690_media-001.jpeg" class="phw-width-4" alt="" data-map-id="image" data-ps="5bdfbb93-img-1" /> 
+ </figure> 
+ <div class="phw-p-4 phw-pt-xl-3 phw-pb-xl-3 phw-pl-sm-2 phw-pr-sm-2 phw-d-flex phw-flex-column phw-flex-grow phw-g-craftscard" data-ps="5bdfbb93-div-10"> 
+  <div data-tag-type="p" class="phw-mb-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="meta" data-component="card-text" data-ps="5bdfbb93-p-2" text-element="text">lorem ipsum</div> 
+  <h3 data-map-id="H3-heading" data-component="card-title" data-ps="5bdfbb93-h3-1" text-element="text" class="phw-g-i-pSFyE3">Technology &amp; Development</h3> 
+  <div data-tag-type="p" class="phw-t-l phw-mt-2 phw-mb-4 phw-xl-5 phw-xs-4 phw-g-paragraph-text" data-component="card-description" data-map-id="description" data-ps="5bdfbb93-p-3" text-element="text">We create unforgettable games that are loved by hundreds of millions of players around the world. Every day we experiment, prototype and challenge the norms.</div> 
+  <div class="phw-mt-auto" data-ps="5bdfbb93-div-11"> 
+   <a class="phw-btn phw-g-i-DWhwO8" aria-label="" data-map-id="action-link" data-component="card-link" phw-track="Static_content_click" href="https://careers.king.com/us/en/technology-development-page" data-ps="5bdfbb93-a-2" title="" target="_self"> <span class="phw-actionlink-text" data-hide-settings="true" data-ps="5bdfbb93-span-3" text-element="text">Read more</span> <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="5bdfbb93-span-4"> 
+     <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="action-link-icon" data-ps="5bdfbb93-svg-2"> 
+      <use href="#phw-cns-icon-chevron-right" data-ps="5bdfbb93-use-2"></use> 
+     </svg> </span> </a> 
+  </div> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-text-c phw-stroke-dark phw-word-break phw-d-flex phw-flex-column g-col-1 phw-g-craftcard" phw-repeatable="" data-ps="5bdfbb93-div-9"> 
+ <figure role="presentation" class="phw-img-ctr phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-component="card-image" data-ps="5bdfbb93-figure-1"> 
+  <img src="https://cdn.phenompeople.com/CareerConnectResources/canvas/common/widgets/images/1699954765845_media-001.jpeg" class="phw-width-4" alt="" data-map-id="image" data-ps="5bdfbb93-img-1" /> 
+ </figure> 
+ <div class="phw-p-4 phw-pt-xl-3 phw-pb-xl-3 phw-pl-sm-2 phw-pr-sm-2 phw-d-flex phw-flex-column phw-flex-grow phw-g-craftscard" data-ps="5bdfbb93-div-10"> 
+  <div data-tag-type="p" class="phw-mb-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="meta" data-component="card-text" data-ps="5bdfbb93-p-2" text-element="text">lorem ipsum</div> 
+  <h3 data-map-id="H3-heading" data-component="card-title" data-ps="5bdfbb93-h3-1" text-element="text" class="phw-g-i-pSFyE3">Art&nbsp;</h3> 
+  <div data-tag-type="p" class="phw-t-l phw-mt-2 phw-mb-4 phw-xl-5 phw-xs-4 phw-g-paragraph-text" data-component="card-description" data-map-id="description" data-ps="5bdfbb93-p-3" text-element="text">Creators, imagineers, and visual storytellers. We bring beauty, excitement and depth to the games millions of people hold dear to their hearts.</div> 
+  <div class="phw-mt-auto" data-ps="5bdfbb93-div-11"> 
+   <a class="phw-btn phw-g-i-DWhwO8" aria-label="" data-map-id="action-link" data-component="card-link" phw-track="Static_content_click" href="https://careers.king.com/us/en/art-page" data-ps="5bdfbb93-a-2" target="_self" title=""> <span class="phw-actionlink-text" data-hide-settings="true" data-ps="5bdfbb93-span-3" text-element="text">Read more</span> <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="5bdfbb93-span-4"> 
+     <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="action-link-icon" data-ps="5bdfbb93-svg-2"> 
+      <use href="#phw-cns-icon-chevron-right" data-ps="5bdfbb93-use-2"></use> 
+     </svg> </span> </a> 
+  </div> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-text-c phw-stroke-dark phw-word-break phw-d-flex phw-flex-column g-col-1 phw-g-craftcard" phw-repeatable="" data-ps="5bdfbb93-div-9"> 
+ <figure role="presentation" class="phw-img-ctr phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-component="card-image" data-ps="5bdfbb93-figure-1"> 
+  <img src="https://cdn.phenompeople.com/CareerConnectResources/canvas/common/widgets/images/1699954766054_media-001.jpeg" class="phw-width-4" alt="" data-map-id="image" data-ps="5bdfbb93-img-1" /> 
+ </figure> 
+ <div class="phw-p-4 phw-pt-xl-3 phw-pb-xl-3 phw-pl-sm-2 phw-pr-sm-2 phw-d-flex phw-flex-column phw-flex-grow phw-g-craftscard" data-ps="5bdfbb93-div-10"> 
+  <div data-tag-type="p" class="phw-mb-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="meta" data-component="card-text" data-ps="5bdfbb93-p-2" text-element="text">lorem ipsum</div> 
+  <h3 data-map-id="H3-heading" data-component="card-title" data-ps="5bdfbb93-h3-1" text-element="text" class="phw-g-i-pSFyE3">UX &amp; UI</h3> 
+  <div data-tag-type="p" class="phw-t-l phw-mt-2 phw-mb-4 phw-xl-5 phw-xs-4 phw-g-paragraph-text" data-component="card-description" data-map-id="description" data-ps="5bdfbb93-p-3" text-element="text">We are the Kingsters who look at the big picture, to uncover the small moments of joy we can bring into players’ lives.</div> 
+  <div class="phw-mt-auto" data-ps="5bdfbb93-div-11"> 
+   <a class="phw-btn phw-g-i-DWhwO8" aria-label="" data-map-id="action-link" data-component="card-link" phw-track="Static_content_click" href="https://careers.king.com/us/en/ux-ui-page" data-ps="5bdfbb93-a-2" target="_self" title=""> <span class="phw-actionlink-text" data-hide-settings="true" data-ps="5bdfbb93-span-3" text-element="text">Read more</span> <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="5bdfbb93-span-4"> 
+     <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="action-link-icon" data-ps="5bdfbb93-svg-2"> 
+      <use href="#phw-cns-icon-chevron-right" data-ps="5bdfbb93-use-2"></use> 
+     </svg> </span> </a> 
+  </div> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-text-c phw-stroke-dark phw-word-break phw-d-flex phw-flex-column g-col-1 phw-g-craftcard" phw-repeatable="" data-ps="5bdfbb93-div-9"> 
+ <figure role="presentation" class="phw-img-ctr phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-component="card-image" data-ps="5bdfbb93-figure-1"> 
+  <img src="https://cdn.phenompeople.com/CareerConnectResources/canvas/common/widgets/images/1699954766054_media-001.jpeg" class="phw-width-4" alt="" data-map-id="image" data-ps="5bdfbb93-img-1" /> 
+ </figure> 
+ <div class="phw-p-4 phw-pt-xl-3 phw-pb-xl-3 phw-pl-sm-2 phw-pr-sm-2 phw-d-flex phw-flex-column phw-flex-grow phw-g-craftscard" data-ps="5bdfbb93-div-10"> 
+  <div data-tag-type="p" class="phw-mb-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="meta" data-component="card-text" data-ps="5bdfbb93-p-2" text-element="text">lorem ipsum</div> 
+  <h3 data-map-id="H3-heading" data-component="card-title" data-ps="5bdfbb93-h3-1" text-element="text" class="phw-g-i-pSFyE3">Data, Analytics &amp; Strategy</h3> 
+  <div data-tag-type="p" class="phw-t-l phw-mt-2 phw-mb-4 phw-xl-5 phw-xs-4 phw-g-paragraph-text" data-component="card-description" data-map-id="description" data-ps="5bdfbb93-p-3" text-element="text">We’re the magicians that inform King’s decisions. The data scientists who swap ‘boring’ for boring down into billions upon billions of gameplay events – every day – to deliver game-changing insights.</div> 
+  <div class="phw-mt-auto" data-ps="5bdfbb93-div-11"> 
+   <a class="phw-btn phw-g-i-DWhwO8" aria-label="" data-map-id="action-link" data-component="card-link" phw-track="Static_content_click" href="https://careers.king.com/us/en/data,-analytics-strategy-page" data-ps="5bdfbb93-a-2" target="_self" title=""> <span class="phw-actionlink-text" data-hide-settings="true" data-ps="5bdfbb93-span-3" text-element="text">Read more</span> <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="5bdfbb93-span-4"> 
+     <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="action-link-icon" data-ps="5bdfbb93-svg-2"> 
+      <use href="#phw-cns-icon-chevron-right" data-ps="5bdfbb93-use-2"></use> 
+     </svg> </span> </a> 
+  </div> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-text-c phw-stroke-dark phw-word-break phw-d-flex phw-flex-column g-col-1 phw-g-craftcard" phw-repeatable="" data-ps="5bdfbb93-div-9"> 
+ <figure role="presentation" class="phw-img-ctr phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-component="card-image" data-ps="5bdfbb93-figure-1"> 
+  <img src="https://cdn.phenompeople.com/CareerConnectResources/canvas/common/widgets/images/1699954766054_media-001.jpeg" class="phw-width-4" alt="" data-map-id="image" data-ps="5bdfbb93-img-1" /> 
+ </figure> 
+ <div class="phw-p-4 phw-pt-xl-3 phw-pb-xl-3 phw-pl-sm-2 phw-pr-sm-2 phw-d-flex phw-flex-column phw-flex-grow phw-g-craftscard" data-ps="5bdfbb93-div-10"> 
+  <div data-tag-type="p" class="phw-mb-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="meta" data-component="card-text" data-ps="5bdfbb93-p-2" text-element="text">lorem ipsum</div> 
+  <h3 data-map-id="H3-heading" data-component="card-title" data-ps="5bdfbb93-h3-1" text-element="text" class="phw-g-i-pSFyE3">Customer &amp; Game Support</h3> 
+  <div data-tag-type="p" class="phw-t-l phw-mt-2 phw-mb-4 phw-xl-5 phw-xs-4 phw-g-paragraph-text" data-component="card-description" data-map-id="description" data-ps="5bdfbb93-p-3" text-element="text">We’re the Kingsters our players count on to resolve their issues, and the gatherers of insights that raise service levels across the Kingdom.</div> 
+  <div class="phw-mt-auto" data-ps="5bdfbb93-div-11"> 
+   <a class="phw-btn phw-g-i-DWhwO8" aria-label="" data-map-id="action-link" data-component="card-link" phw-track="Static_content_click" href="https://careers.king.com/us/en/customer-game-support-page" data-ps="5bdfbb93-a-2" target="" title=""> <span class="phw-actionlink-text" data-hide-settings="true" data-ps="5bdfbb93-span-3" text-element="text">Read more</span> <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="5bdfbb93-span-4"> 
+     <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="action-link-icon" data-ps="5bdfbb93-svg-2"> 
+      <use href="#phw-cns-icon-chevron-right" data-ps="5bdfbb93-use-2"></use> 
+     </svg> </span> </a> 
+  </div> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-text-c phw-stroke-dark phw-word-break phw-d-flex phw-flex-column g-col-1 phw-g-craftcard" phw-repeatable="" data-ps="5bdfbb93-div-9"> 
+ <figure role="presentation" class="phw-img-ctr phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-component="card-image" data-ps="5bdfbb93-figure-1"> 
+  <img src="https://cdn.phenompeople.com/CareerConnectResources/canvas/common/widgets/images/1699954766054_media-001.jpeg" class="phw-width-4" alt="" data-map-id="image" data-ps="5bdfbb93-img-1" /> 
+ </figure> 
+ <div class="phw-p-4 phw-pt-xl-3 phw-pb-xl-3 phw-pl-sm-2 phw-pr-sm-2 phw-d-flex phw-flex-column phw-flex-grow phw-g-craftscard" data-ps="5bdfbb93-div-10"> 
+  <div data-tag-type="p" class="phw-mb-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="meta" data-component="card-text" data-ps="5bdfbb93-p-2" text-element="text">lorem ipsum</div> 
+  <h3 data-map-id="H3-heading" data-component="card-title" data-ps="5bdfbb93-h3-1" text-element="text" class="phw-g-i-pSFyE3">Marketing</h3> 
+  <div data-tag-type="p" class="phw-t-l phw-mt-2 phw-mb-4 phw-xl-5 phw-xs-4 phw-g-paragraph-text" data-component="card-description" data-map-id="description" data-ps="5bdfbb93-p-3" text-element="text">We craft new ways to delight our community of players and create unforgettable events that inspire others to begin their quests.</div> 
+  <div class="phw-mt-auto" data-ps="5bdfbb93-div-11"> 
+   <a class="phw-btn phw-g-i-DWhwO8" aria-label="" data-map-id="action-link" data-component="card-link" phw-track="Static_content_click" href="https://careers.king.com/us/en/marketing" data-ps="5bdfbb93-a-2" title="" target="_self"> <span class="phw-actionlink-text" data-hide-settings="true" data-ps="5bdfbb93-span-3" text-element="text">Read more</span> <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="5bdfbb93-span-4"> 
+     <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="action-link-icon" data-ps="5bdfbb93-svg-2"> 
+      <use href="#phw-cns-icon-chevron-right" data-ps="5bdfbb93-use-2"></use> 
+     </svg> </span> </a> 
+  </div> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-text-c phw-stroke-dark phw-word-break phw-d-flex phw-flex-column g-col-1 phw-g-craftcard" phw-repeatable="" data-ps="5bdfbb93-div-9"> 
+ <figure role="presentation" class="phw-img-ctr phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-component="card-image" data-ps="5bdfbb93-figure-1"> 
+  <img src="https://cdn.phenompeople.com/CareerConnectResources/canvas/common/widgets/images/1699954766054_media-001.jpeg" class="phw-width-4" alt="" data-map-id="image" data-ps="5bdfbb93-img-1" /> 
+ </figure> 
+ <div class="phw-p-4 phw-pt-xl-3 phw-pb-xl-3 phw-pl-sm-2 phw-pr-sm-2 phw-d-flex phw-flex-column phw-flex-grow phw-g-craftscard" data-ps="5bdfbb93-div-10"> 
+  <div data-tag-type="p" class="phw-mb-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="meta" data-component="card-text" data-ps="5bdfbb93-p-2" text-element="text">lorem ipsum</div> 
+  <h3 data-map-id="H3-heading" data-component="card-title" data-ps="5bdfbb93-h3-1" text-element="text" class="phw-g-i-pSFyE3">HR &amp; Business Support</h3> 
+  <div data-tag-type="p" class="phw-t-l phw-mt-2 phw-mb-4 phw-xl-5 phw-xs-4 phw-g-paragraph-text" data-component="card-description" data-map-id="description" data-ps="5bdfbb93-p-3" text-element="text">We craft the global culture that allows our fellow Kingsters to bring their whole selves to work. Our mission is to make the Kingdom a fun, friendly and playful place for everyone.</div> 
+  <div class="phw-mt-auto" data-ps="5bdfbb93-div-11"> 
+   <a class="phw-btn phw-g-i-DWhwO8" aria-label="" data-map-id="action-link" data-component="card-link" phw-track="Static_content_click" href="https://careers.king.com/us/en/hr-business-support-page" data-ps="5bdfbb93-a-2" title="" target="_self"> <span class="phw-actionlink-text" data-hide-settings="true" data-ps="5bdfbb93-span-3" text-element="text">Read more</span> <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="5bdfbb93-span-4"> 
+     <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="action-link-icon" data-ps="5bdfbb93-svg-2"> 
+      <use href="#phw-cns-icon-chevron-right" data-ps="5bdfbb93-use-2"></use> 
+     </svg> </span> </a> 
+  </div> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-text-c phw-stroke-dark phw-word-break phw-d-flex phw-flex-column g-col-1 phw-g-craftcard" phw-repeatable="" data-ps="5bdfbb93-div-9"> 
+ <figure role="presentation" class="phw-img-ctr phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-component="card-image" data-ps="5bdfbb93-figure-1"> 
+  <img src="https://cdn.phenompeople.com/CareerConnectResources/canvas/common/widgets/images/1699954766054_media-001.jpeg" class="phw-width-4" alt="" data-map-id="image" data-ps="5bdfbb93-img-1" /> 
+ </figure> 
+ <div class="phw-p-4 phw-pt-xl-3 phw-pb-xl-3 phw-pl-sm-2 phw-pr-sm-2 phw-d-flex phw-flex-column phw-flex-grow phw-g-craftscard" data-ps="5bdfbb93-div-10"> 
+  <div data-tag-type="p" class="phw-mb-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="meta" data-component="card-text" data-ps="5bdfbb93-p-2" text-element="text">lorem ipsum</div> 
+  <h3 data-map-id="H3-heading" data-component="card-title" data-ps="5bdfbb93-h3-1" text-element="text" class="phw-g-i-pSFyE3">Finance</h3> 
+  <div data-tag-type="p" class="phw-t-l phw-mt-2 phw-mb-4 phw-xl-5 phw-xs-4 phw-g-paragraph-text" data-component="card-description" data-map-id="description" data-ps="5bdfbb93-p-3" text-element="text">From business modelling to smart accounting, commercial insight to cross-team collaboration, we help the Kingdom continue to dream bigger.</div> 
+  <div class="phw-mt-auto" data-ps="5bdfbb93-div-11"> 
+   <a class="phw-btn phw-g-i-DWhwO8" aria-label="" data-map-id="action-link" data-component="card-link" phw-track="Static_content_click" href="https://careers.king.com/us/en/finance-page" data-ps="5bdfbb93-a-2" target="_self" title=""> <span class="phw-actionlink-text" data-hide-settings="true" data-ps="5bdfbb93-span-3" text-element="text">Read more</span> <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="5bdfbb93-span-4"> 
+     <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="action-link-icon" data-ps="5bdfbb93-svg-2"> 
+      <use href="#phw-cns-icon-chevron-right" data-ps="5bdfbb93-use-2"></use> 
+     </svg> </span> </a> 
+  </div> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-text-c phw-stroke-dark phw-word-break phw-d-flex phw-flex-column g-col-1 phw-g-craftcard" phw-repeatable="" data-ps="5bdfbb93-div-9"> 
+ <figure role="presentation" class="phw-img-ctr phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-component="card-image" data-ps="5bdfbb93-figure-1"> 
+  <img src="https://cdn.phenompeople.com/CareerConnectResources/canvas/common/widgets/images/1699954766054_media-001.jpeg" class="phw-width-4" alt="" data-map-id="image" data-ps="5bdfbb93-img-1" /> 
+ </figure> 
+ <div class="phw-p-4 phw-pt-xl-3 phw-pb-xl-3 phw-pl-sm-2 phw-pr-sm-2 phw-d-flex phw-flex-column phw-flex-grow phw-g-craftscard" data-ps="5bdfbb93-div-10"> 
+  <div data-tag-type="p" class="phw-mb-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="meta" data-component="card-text" data-ps="5bdfbb93-p-2" text-element="text">lorem ipsum</div> 
+  <h3 data-map-id="H3-heading" data-component="card-title" data-ps="5bdfbb93-h3-1" text-element="text" class="phw-g-i-pSFyE3">Legal&nbsp;</h3> 
+  <div data-tag-type="p" class="phw-t-l phw-mt-2 phw-mb-4 phw-xl-5 phw-xs-4 phw-g-paragraph-text" data-component="card-description" data-map-id="description" data-ps="5bdfbb93-p-3" text-element="text">Change is constant so we’re always adapting at speed, advising our people and protecting the creativity of our teams.</div> 
+  <div class="phw-mt-auto" data-ps="5bdfbb93-div-11"> 
+   <a class="phw-btn phw-g-i-DWhwO8" aria-label="" data-map-id="action-link" data-component="card-link" phw-track="Static_content_click" href="https://careers.king.com/us/en/legal-page" data-ps="5bdfbb93-a-2" target="_self" title=""> <span class="phw-actionlink-text" data-hide-settings="true" data-ps="5bdfbb93-span-3" text-element="text">Read more</span> <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="5bdfbb93-span-4"> 
+     <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="action-link-icon" data-ps="5bdfbb93-svg-2"> 
+      <use href="#phw-cns-icon-chevron-right" data-ps="5bdfbb93-use-2"></use> 
+     </svg> </span> </a> 
+  </div> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-text-c phw-stroke-dark phw-word-break phw-d-flex phw-flex-column g-col-1 phw-g-craftcard" phw-repeatable="" data-ps="5bdfbb93-div-9"> 
+ <figure role="presentation" class="phw-img-ctr phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-component="card-image" data-ps="5bdfbb93-figure-1"> 
+  <img src="https://cdn.phenompeople.com/CareerConnectResources/canvas/common/widgets/images/1699954766054_media-001.jpeg" class="phw-width-4" alt="" data-map-id="image" data-ps="5bdfbb93-img-1" /> 
+ </figure> 
+ <div class="phw-p-4 phw-pt-xl-3 phw-pb-xl-3 phw-pl-sm-2 phw-pr-sm-2 phw-d-flex phw-flex-column phw-flex-grow phw-g-craftscard" data-ps="5bdfbb93-div-10"> 
+  <div data-tag-type="p" class="phw-mb-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="meta" data-component="card-text" data-ps="5bdfbb93-p-2" text-element="text">lorem ipsum</div> 
+  <h3 data-map-id="H3-heading" data-component="card-title" data-ps="5bdfbb93-h3-1" text-element="text" class="phw-g-i-pSFyE3">Advertising &amp; Sales&nbsp;</h3> 
+  <div data-tag-type="p" class="phw-t-l phw-mt-2 phw-mb-4 phw-xl-5 phw-xs-4 phw-g-paragraph-text" data-component="card-description" data-map-id="description" data-ps="5bdfbb93-p-3" text-element="text">We're shaping the industry and taking advertising to new levels.</div> 
+  <div class="phw-mt-auto" data-ps="5bdfbb93-div-11"> 
+   <a class="phw-btn phw-g-i-DWhwO8" aria-label="" data-map-id="action-link" data-component="card-link" phw-track="Static_content_click" href="https://careers.king.com/us/en/advertising-sales" data-ps="5bdfbb93-a-2" target="_self" title=""> <span class="phw-actionlink-text" data-hide-settings="true" data-ps="5bdfbb93-span-3" text-element="text">Read more</span> <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="5bdfbb93-span-4"> 
+     <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="action-link-icon" data-ps="5bdfbb93-svg-2"> 
+      <use href="#phw-cns-icon-chevron-right" data-ps="5bdfbb93-use-2"></use> 
+     </svg> </span> </a> 
+  </div> 
+ </div> 
+</div>
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="phw-footer-block phw-footer-block-top-space phw-text-c phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="footer-block" data-ps="5bdfbb93-div-21">
+            <div data-tag-type="p" class="phw-g-p-widget-subheading-style-1 phw-mt-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="widget-footer-subtitle" data-component="widget-footer-subtitle" data-ps="5bdfbb93-p-10" text-element="text">A sense of mutual respect and mindfulness permeates our culture-in fact, it’s the key to our success.</div>
+            <div data-ps="5bdfbb93-div-22">
+                <a href="javascript:void(0)" class="phw-btn phw-g-btn-primary phw-mt-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="widget-footer-action-link" data-component="widget-footer-link" phw-track="Footerblock_actionlink_click" data-ps="5bdfbb93-a-6" target="" aria-label="" title="">
+                    <span class="phw-actionlink-text" data-hide-settings="true" data-ps="5bdfbb93-span-11" text-element="text">Learn more</span>
+                    <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="5bdfbb93-span-12">
+                        <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="widget-footer-action-link-icon" data-ps="5bdfbb93-svg-6">
+                            <use href="#phw-cns-icon-chevron-right" data-ps="5bdfbb93-use-6"></use>
+                        </svg>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+</section><section data-static-widget-id="QPaykr" class="phw-widget" panel-id="" data-ph-id="-1740480853576" instance-id="N6gfQxR7" view-rev="18" has-edit="false" sync-with-desktop="true"><div class="phw-widget-ctr" data-ps="b922de22-div-10">
+    <div class="phw-container" data-ps="b922de22-div-11">
+        <div class="phw-header-block phw-text-c phw-mt-0 phw-mb-0 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="header-block" data-ps="b922de22-div-12">
+            <h2 class="" data-map-id="widget-heading" data-component="widget-title" data-ps="b922de22-h2-3" text-element="text">Heading</h2>
+            <div data-tag-type="p" class="phw-g-p-widget-subheading-style-1 phw-mt-3 phw-mt-sm-2 phw-mb-0" data-map-id="widget-sub-heading" data-component="widget-subtitle" data-ps="b922de22-p-3" text-element="text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered                alteration in some form, by injected humour, or randomised words which don't look even slightly                believable.</div>
+            <div class="phw-mt-4 phw-mt-xl-3" data-ps="b922de22-div-13">
+                <a href="javascript:void(0)" class="phw-btn phw-g-btn-primary" data-map-id="widget-action-link" data-component="widget-link" phw-track="Headerblock_actionlink_click" data-ps="b922de22-a-3" title="" target="" aria-label="">
+                    <span class="phw-actionlink-text" data-hide-settings="true" data-map-id="action-link-text" data-ps="b922de22-span-1" text-element="text">Learn more</span>
+                    <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="b922de22-span-2">
+                        <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="widget-action-link-icon" data-ps="b922de22-svg-1">
+                            <use href="#phw-cns-icon-chevron-right" data-ps="b922de22-use-1"></use>
+                        </svg>
+                    </span>
+                </a>
+            </div>
+        </div>
+        <div class="phw-content-block phw-content-block-top-space" data-ps="b922de22-div-14">
+            <div class="phw-card-block phw-grid phw-gap-5 phw-gap-sm-2 phw-g-i-MBaOKX" data-ps="b922de22-div-6">
+                <div class="phw-c-b5e3788a-media-block g-col-6 g-col-lg-12" data-ps="b922de22-div-15">
+                    <figure role="presentation" class="phw-img-ctr phw-g-i-DiNWhQ" data-component="card-image" data-ps="b922de22-figure-2">
+                        <img src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/location-barcelona-1700485283693.jpg" alt="location-barcelona" class="phw-width-4" data-map-id="image" data-ps="b922de22-img-2" />
+                    </figure>
+                </div>
+
+                <div class="phw-c-b5e3788a-card-content phw-pl-10 phw-pl-sm-5 phw-pr-sm-5 phw-pl-xs-2 phw-pr-xs-2 g-col-6 g-col-lg-12 phw-d-flex phw-justify-content-center phw-flex-column phw-g-i-YLUFsi" data-ps="b922de22-div-16">
+                    <h2 class="phw-text-c phw-g-i-KZRvQG" data-map-id="H2-heading" data-component="card-title" data-ps="b922de22-h2-4" text-element="text">Our Locations</h2>
+                    <div data-tag-type="p" class="phw-mt-3 phw-mt-sm-2 phw-mb-0 phw-g-i-SeHH2u" data-map-id="description" data-component="card-description" data-ps="b922de22-p-4" text-element="text">King has multiple locations around the world where our talented teams work to create amazing gaming experiences. From bustling cities to scenic landscapes, our workplaces are as diverse as the games we develop. Join us as we take you on a journey to some of our key locations.</div>
+                    <div class="phw-mt-4 phw-mt-xl-3 phw-text-c phw-text-lg-l" data-ps="b922de22-div-17">
+                        <a href="javascript:void(0)" class="phw-btn phw-g-btn-primary" data-map-id="action-link" data-component="card-link" phw-track="Static_content_click" data-ps="b922de22-a-4" target="_self" aria-label="" title="">
+                            <span class="phw-actionlink-text" data-hide-settings="true" data-map-id="action-link-text" data-ps="b922de22-span-3" text-element="text">Find out more</span>
+                            <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="b922de22-span-4">
+                                <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="action-link-icon" data-ps="b922de22-svg-2">
+                                    <use href="#phw-cns-icon-chevron-right" data-ps="b922de22-use-2"></use>
+                                </svg>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="phw-footer-block phw-footer-block-top-space phw-text-c phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="footer-block" data-ps="b922de22-div-18">
+            <div data-tag-type="p" class="phw-g-p-widget-subheading-style-1 phw-mt-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="widget-footer-subtitle" data-component="widget-footer-subtitle" data-ps="b922de22-p-5" text-element="text">A sense of mutual respect and mindfulness permeates our culture-in fact, it’s the key to our success.</div>
+            <div data-ps="b922de22-div-19">
+                <a href="javascript:void(0)" class="phw-btn phw-g-btn-primary phw-mt-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="widget-footer-action-link" data-component="widget-footer-link" phw-track="Footerblock_actionlink_click" data-ps="b922de22-a-5" title="" aria-label="" target="">
+                    <span class="phw-actionlink-text" data-hide-settings="true" data-map-id="action-link-text" data-ps="b922de22-span-5" text-element="text">Learn more</span>
+                    <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="b922de22-span-6">
+                        <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="widget-footer-action-link-icon" data-ps="b922de22-svg-3">
+                            <use href="#phw-cns-icon-chevron-right" data-ps="b922de22-use-3"></use>
+                        </svg>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+</section><section data-func-widget-id="bWTCqz" class="phw-widget" panel-id="" data-ph-id="-1687259492887" instance-id="eyVIB0tt" has-edit="true"></section><section data-func-widget-id="Z63bwq" class="phw-widget" panel-id="" data-ph-id="-1700131358321" instance-id="pKJ6yFQA" has-edit="true" content-model-type="blogarticle"></section><section data-static-widget-id="RUSYcV" class="phw-widget" panel-id="" data-ph-id="-1700649827780" instance-id="zHwsO123" view-rev="26" has-edit="false" sync-with-desktop="false"><div class="phw-widget-ctr phw-g-i-qhleLD" data-ps="483be4f0-div-10">
+    <div class="phw-container" data-ps="483be4f0-div-11">
+        <div class="phw-header-block phw-text-c" data-component="header-block" data-ps="483be4f0-div-12">
+            <h2 class="phw-g-i-lWowq4" data-map-id="widget-heading" data-component="widget-title" data-ps="483be4f0-h2-2" text-element="text">Sound good? Join our Talent Community.</h2>
+            <div data-tag-type="p" class="phw-g-p-widget-subheading-style-1 phw-d-none" data-map-id="widget-sub-heading" data-component="widget-subtitle" data-ps="483be4f0-p-3" text-element="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore assumenda asperiores distinctio est                perferendis esse animi maiores dolor numquam nihil sint, et quae nobis harum consequuntur! Assumenda                facere magnam nostrum?</div>
+            <div data-ps="483be4f0-div-13">
+                <a href="javascript:void(0)" class="phw-btn phw-g-btn-primary phw-d-none" data-map-id="widget-action-link" data-component="widget-link" phw-track="Headerblock_actionlink_click" data-ps="483be4f0-a-3" aria-label="" target="" title="">
+                    <span class="phw-actionlink-text" data-map-id="action-link-text" data-ps="483be4f0-span-5" text-element="text">Learn more</span>
+                    <span class="phw-icon-ctr phw-d-none" data-component="action-icon" data-ps="483be4f0-span-6">
+                        <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="widget-action-link-icon" data-ps="483be4f0-svg-3">
+                            <use href="#phw-cns-icon-chevron-right" data-ps="483be4f0-use-3"></use>
+                        </svg>
+                    </span>
+                </a>
+            </div>
+        </div>
+
+        <div class="phw-content-block phw-content-block-top-space phw-grid phw-mt-4 phw-mt-lg-3" data-ps="483be4f0-div-14">
+            <div class="phw-card-block g-col-12 default" data-ps="483be4f0-div-15">
+                <div class="phw-posn-relative" data-map-id="video" data-ps="483be4f0-div-16" data-phw-video-opts="eyJhdXRvcGxheSI6ZmFsc2UsInZvbHVtZSI6MSwibG9vcCI6dHJ1ZSwiY29udHJvbHMiOnRydWUsImxvYWRlciI6ZmFsc2UsInRyYW5zY3JpcHRWaWRlb0lkIjoiaHR0cHM6Ly9hc3NldHMucGhlbm9tcGVvcGxlLmNvbS9DYXJlZXJDb25uZWN0UmVzb3VyY2VzL0xJVElHTE9CQUwvZW5fZ2xvYmFsL2Rlc2t0b3AvYXNzZXRzL2ltYWdlcy9Db3Jwb3JhdGVfTGVhZGVyc2hpcF9Db25mZXJlbmNlX0NvbG9yLnBkZiIsInRyYW5zY3JpcHRFbmFibGUiOmZhbHNlfQ==" data-phw-video-content="ewogICAgInZpZGVvdHlwZSI6ICJtcDQiLAogICAgInNpemUiOiAyMTQ0OTcwMCwKICAgICJzcmMiOiAiaHR0cHM6Ly9jZG4ucGhlbm9tcGVvcGxlLmNvbS9DYXJlZXJDb25uZWN0UmVzb3VyY2VzL0xJVElHTE9CQUwvdmlkZW9zL2V0dmkyMjY0NzM2MF9jYXJlZXJzX3BhaWRfc29jaWFsX2dlbmVyYWxfXzE5MjBfeF84MDBPcmlnaW5hbC0xNjczMDIzODk1Mzk1Lm1wNCIsCiAgICAiZGVzY3JpcHRpb24iOiAiZXR2aTIyNjQ3MzYwX2NhcmVlcnNfcGFpZF9zb2NpYWxfZ2VuZXJhbF9fMTkyMF94XzgwME9yaWdpbmFsIiwKICAgICJ0aXRsZSI6ICJldHZpMjI2NDczNjBfY2FyZWVyc19wYWlkX3NvY2lhbF9nZW5lcmFsX18xOTIwX3hfODAwT3JpZ2luYWwiLAogICAgInBsYXlJbWciOiB7fQp9" data-phw-description-video="ewogICAgInZpZGVvdHlwZSI6ICJtcDQiLAogICAgInNpemUiOiAyMTQ0OTcwMCwKICAgICJzcmMiOiAiaHR0cHM6Ly9hc3NldHMucGhlbm9tcGVvcGxlLmNvbS9DYXJlZXJDb25uZWN0UmVzb3VyY2VzL3Byb2QvUE1DTlVTL3ZpZGVvcy9JbnRyb2R1Y3Rpb250b1dlYkFjY2Vzc2liaWxpdHlhbmRXM0NTdGFuZGFyZHMtMTY4ODcyMzkyNjI1Mi5tcDQiLAogICAgImRlc2NyaXB0aW9uIjogIldlYkFjY2Vzc2liaWxpdHlhbmRXM0NTdGFuZGFyZCIsCiAgICAidGl0bGUiOiAiV2ViQWNjZXNzaWJpbGl0eWFuZFczQ1N0YW5kYXJkIiwKICAgICJwbGF5SW1nIjoge30KfQ==">
+                    <figure data-component="card-image" role="presentation" class="phw-img-ctr phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-ps="483be4f0-figure-2">
+                        <img src="https://cdn.phenompeople.com/CareerConnectResources/canvas/common/widgets/images/1699588687405_vi_pic.png" data-map-id="image" alt="" class="phw-width-4" data-ps="483be4f0-img-2" />
+                    </figure>
+                    <button class="phw-posn-center phw-g-play-button phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-modal-content-id="mdl-video-default" data-component="video-action-button" aria-label="watch the video" data-ps="483be4f0-button-2" phw-track="play_click">
+                        <span class="phw-icon-ctr" data-ps="483be4f0-span-3">
+                            <svg aria-hidden="true" fill="currentcolor" data-map-id="video-play-icon" class="phw-width-4 phw-height-4 phw-g-icon-white" data-ps="483be4f0-svg-2">
+                                <use href="#phw-cns-icon-play-circle" data-ps="483be4f0-use-2"></use>
+                            </svg>
+                        </span>
+                    </button>
+                    <div data-modal-id="mdl-video-default" class="phw-d-none phw-video-cntr phw-video-dialog" data-ps="483be4f0-div-17">
+                        <div class="phw-modal-header phw-flex-row-reverse phw-dialog-close" data-ps="483be4f0-div-19">
+                            <button class="phw-modal-close" aria-label="close dialog" data-ps="483be4f0-button-3">
+                                <span class="phw-icon-ctr" data-ps="483be4f0-span-9">
+                                    <svg class="phw-icon" aria-hidden="true" fill="currentcolor" data-ps="483be4f0-svg-5" phw-track="close">
+                                        <use href="#phw-cns-icon-close" data-ps="483be4f0-use-5"></use>
+                                    </svg>
+                                </span>
+                            </button>
+                        </div>
+                        <div class="phw-video-cntr phw-video-dialog" data-ps="483be4f0-div-20"></div>
+                        <div class="phw-mt-4 phw-d-flex phw-s-transcript phw-flex-sm-wrap phw-d-none" data-ps="483be4f0-div-21">
+                            <button class="phw-btn phw-description phw-g-btn-audio-description" aria-live="assertive" aria-pressed="false" data-ps="483be4f0-button-4" phw-track="enable_description_video_click">
+                                <span class="phw-icon-ctr phw-mr-1" data-ps="483be4f0-span-10">
+                                    <svg class="phw-icon phw-i-sz-4" aria-hidden="true" fill="currentcolor" data-ps="483be4f0-svg-6">
+                                        <use href="#phw-cns-icon-audio-description" data-ps="483be4f0-use-6"></use>
+                                    </svg>
+                                </span>
+                                <span class="disableDescripton phw-d-none" data-ps="483be4f0-span-11" text-element="text">Disable Audio Description</span>
+                                <span class="enableDescripton" data-ps="483be4f0-span-12" text-element="text">Enable Audio Description</span>
+                            </button>
+                            <a class="phw-btn phw-transcript phw-ml-2 phw-ml-sm-0 phw-mt-sm-2 phw-g-btn-video-transcript" href="javascript:void(0)" data-ps="483be4f0-a-5" phw-track="transcript_click" target="" aria-label="" title="">
+                                <span class="phw-icon-ctr phw-mr-1" data-ps="483be4f0-span-13">
+                                    <svg class="phw-icon phw-i-sz-2-5" aria-hidden="true" fill="currentcolor" data-ps="483be4f0-svg-7">
+                                        <use href="#phw-cns-icon-file" data-ps="483be4f0-use-7"></use>
+                                    </svg>
+                                </span>
+                                <span data-ps="483be4f0-span-14" text-element="text">Transcript</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="phw-mt-xl-3 phw-text-c phw-text-sm-l phw-g-i-TSCgEV" data-ps="483be4f0-div-18">
+                    <h3 class="phw-d-none" data-map-id="H3-heading" data-component="card-title" data-ps="483be4f0-h3-2" text-element="text">Lorem ipsum</h3>
+                    <div data-tag-type="p" class="phw-text-md-l phw-g-paragraphtextcenteredwhite" data-map-id="description" data-component="card-description" data-ps="483be4f0-p-4" text-element="text">&nbsp;Get exclusive updates on career opportunities, company news, events and games!&nbsp;</div>
+                    <a href="https://activision.eightfold.ai/events/candidate?plannedEventId=Z7lxEpQ7" class="phw-btn phw-g-btn-secondary" data-map-id="action-link" data-component="card-link" phw-track="Static_content_click" data-ps="483be4f0-a-4" aria-label="Talent community" title="Talent community" target="_blank">
+                        <span class="phw-actionlink-text" data-map-id="action-link-text" data-ps="483be4f0-span-7" text-element="text">Join now</span>
+                        <span class="phw-icon-ctr phw-d-none" data-component="action-icon" data-ps="483be4f0-span-8">
+                            <svg aria-hidden="true" data-map-id="action-link-icon" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-ps="483be4f0-svg-4">
+                                <use href="#phw-cns-icon-chevron-right" data-ps="483be4f0-use-4"></use>
+                            </svg>
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="phw-footer-block phw-text-c phw-d-none" data-component="footer-block" data-ps="483be4f0-div-22">
+            <div data-tag-type="p" class="phw-g-p-widget-subheading-style-1 phw-mt-2 phw-d-none" data-map-id="widget-footer-subtitle" data-component="widget-footer-subtitle" data-ps="483be4f0-p-5" text-element="text">A sense of mutual respect and mindfulness permeates our culture-in fact, it’s the key to our success.</div>
+            <div data-ps="483be4f0-div-23">
+                <a href="javascript:void(0)" class="phw-btn phw-g-btn-primary phw-mt-2 phw-d-none" data-map-id="widget-footer-action-link" data-component="widget-footer-link" phw-track="Footerblock_actionlink_click" data-ps="483be4f0-a-6" target="" aria-label="" title="">
+                    <span class="phw-actionlink-text" data-map-id="action-link-text" data-ps="483be4f0-span-15" text-element="text">Learn more</span>
+                    <span class="phw-icon-ctr phw-d-none" data-component="action-icon" data-ps="483be4f0-span-16">
+                        <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="widget-footer-action-link-icon" data-ps="483be4f0-svg-8">
+                            <use href="#phw-cns-icon-chevron-right" data-ps="483be4f0-use-8"></use>
+                        </svg>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+</section><section data-static-widget-id="yyb5RR" class="phw-widget" panel-id="" data-ph-id="-1699370583176" instance-id="MlivWA4T" view-rev="29" has-edit="false" sync-with-desktop="true" saved-widget-id="FDgf9B7o"><div class="phw-widget-ctr phw-g-i-Tb8bdI" data-ps="403439f3-div-16">
+    <div class="phw-container phw-posn-relative" role="region" data-ps="403439f3-div-17" data-edit-attribute="aria-label,role">
+        <div class="phw-header-block phw-text-c" data-ps="403439f3-div-18" data-component="header-block">
+            <h2 class="phw-g-i-758dxZ" data-slider-header="true" data-ps="403439f3-h2-2" data-map-id="widget-heading" data-component="widget-title" text-element="text">#LifeAtKing</h2>
+            <div data-tag-type="p" class="phw-g-p-widget-subheading-style-1 phw-mt-2 phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-ps="403439f3-p-2" data-map-id="widget-sub-heading" data-component="widget-subtitle" text-element="text">These are our six core values, and they guide and shape teh way we do business.</div>
+            <div class="" data-ps="403439f3-div-26">
+                <a href="javascript:void(0)" class="phw-btn phw-g-btn-primary phw-mt-2 phw-mt-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="widget-action-link" data-component="widget-link" phw-track="Headerblock_actionlink_click" data-ps="403439f3-a-2" title="" aria-label="" target="">
+                    <span class="phw-actionlink-text" data-hide-settings="true" data-map-id="action-link-text" data-ps="403439f3-span-3" text-element="text">Learn more</span>
+                    <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="403439f3-span-4">
+                        <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="widget-action-link-icon" data-ps="403439f3-svg-2">
+                            <use href="#phw-cns-icon-chevron-right" data-ps="403439f3-use-2"></use>
+                        </svg>
+                    </span>
+                </a>
+            </div>
+        </div>
+
+        <div class="phw-content-block phw-content-block-top-space" data-ps="403439f3-div-19">
+            <div class="phw-slider phw-g-i-Lar5E0" data-phw-slider-opts="eyJnYXAiOiIxNnB4IiwidHlwZSI6InNsaWRlIiwiaGVpZ2h0IjoiYXV0byIsInNsaWRlckFycm93c0N0ciI6dHJ1ZSwibWVkaWFRdWVyeSI6Im1pbiIsImFycm93UGF0aCI6Ik0xOC4yMzI1IDI0TDIxLjgxIDIwLjQyMjVIMTMuODIxN1YxOC43NTU4SDIxLjgxTDE4LjIzMjUgMTUuMTc4M0wxOS40MTA4IDE0TDI1IDE5LjU4OTJMMTkuNDEwOCAyNS4xNzgzTDE4LjIzMjUgMjRaIiwiYnJlYWtwb2ludHMiOnsiMzIwIjp7InBhZ2luYXRpb24iOnRydWUsImFycm93cyI6ZmFsc2UsIm51bWJlcnMiOmZhbHNlLCJwZXJQYWdlIjoyLCJwZXJNb3ZlIjoyLCJzcGVlZCI6NiwicGVyUGFnZS1vdmVycmlkZGVuIjp0cnVlLCJwZXJNb3ZlLW92ZXJyaWRkZW4iOnRydWUsImFycm93cy1vdmVycmlkZGVuIjp0cnVlLCJudW1iZXJzLW92ZXJyaWRkZW4iOnRydWV9LCI3NjgiOnsicGFnaW5hdGlvbiI6dHJ1ZSwiYXJyb3dzIjp0cnVlLCJudW1iZXJzIjp0cnVlLCJwZXJQYWdlIjo0LCJwZXJNb3ZlIjo0LCJzcGVlZCI6Nn0sIjEyODAiOnsicGFnaW5hdGlvbiI6dHJ1ZSwiYXJyb3dzIjpmYWxzZSwibnVtYmVycyI6ZmFsc2UsInBlclBhZ2UiOjQsInBlck1vdmUiOjQsInNwZWVkIjo2fSwiMTkyMCI6eyJwYWdpbmF0aW9uIjp0cnVlLCJhcnJvd3MiOmZhbHNlLCJudW1iZXJzIjpmYWxzZSwicGVyUGFnZSI6NCwicGVyTW92ZSI6NCwic3BlZWQiOjZ9fX0=" data-ps="403439f3-div-20">
+                <div class="phw-slider-track" data-ps="403439f3-div-21">
+                    <div class="phw-slider-list" data-ps="403439f3-div-22">
+                        <div class="phw-card-block phw-slider-slide phw-p-0 g-col-4 phw-g-padding-zero" phw-repeatable="3" data-ps="403439f3-div-8"> 
+ <figure role="presentation" class="phw-img-ctr" data-ps="403439f3-figure-5" data-component="card-image"> 
+  <img class="phw-width-4 phw-g-i-VUrOOQ" src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/KING_LONDON_OFFICE-WIS0020611-1709283342357.jpg" alt="Barcelona Office Photo 2" data-map-id="image" data-ps="403439f3-img-5" /> 
+ </figure> 
+ <div class="phw-width-4 phw-pl-4 phw-pr-4 phw-pt-3 phw-pb-8 phw-g-zero-h" data-ps="403439f3-div-23"> 
+  <h3 data-ps="403439f3-h3-5" data-map-id="H3-heading" data-component="card-title" text-element="text" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none">We Care About our Communities and Environment</h3> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-p-0 phw-g-padding-zero" phw-repeatable="3" data-ps="403439f3-div-8"> 
+ <figure role="presentation" class="phw-img-ctr" data-ps="403439f3-figure-5" data-component="card-image"> 
+  <img class="phw-width-4 phw-g-11-aspect-image" src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/CopyofKingofficeStockholm-PhotographerClaesHelander-6-1700583625958.jpg" alt="Barcelona Office Photo 2" data-map-id="image" data-ps="403439f3-img-5" /> 
+ </figure> 
+ <div class="phw-width-4 phw-pl-4 phw-pr-4 phw-pt-3 phw-pb-8 phw-g-zero-h" data-ps="403439f3-div-23"> 
+  <h3 data-ps="403439f3-h3-5" data-map-id="H3-heading" data-component="card-title" text-element="text" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none">We Care About our Communities and Environment</h3> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-p-0 phw-g-padding-zero" phw-repeatable="3" data-ps="403439f3-div-8"> 
+ <figure role="presentation" class="phw-img-ctr" data-ps="403439f3-figure-5" data-component="card-image"> 
+  <img class="phw-width-4 phw-g-11-aspect-image" src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/KING_STOCKHOLM_OFFICE-WIS0058621-1709283473517.jpg" alt="Barcelona Office Photo 2" data-map-id="image" data-ps="403439f3-img-5" /> 
+ </figure> 
+ <div class="phw-width-4 phw-pl-4 phw-pr-4 phw-pt-3 phw-pb-8 phw-g-zero-h" data-ps="403439f3-div-23"> 
+  <h3 data-ps="403439f3-h3-5" data-map-id="H3-heading" data-component="card-title" text-element="text" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none">We Care About our Communities and Environment</h3> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-p-0 g-col-1 phw-g-padding-zero" phw-repeatable="3" data-ps="403439f3-div-8"> 
+ <figure role="presentation" class="phw-img-ctr" data-ps="403439f3-figure-5" data-component="card-image"> 
+  <img class="phw-width-4 phw-g-11-aspect-image" src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/CopyofDSC01476-min-1700145496892.jpg" alt="Barcelona Office Photo 2" data-map-id="image" data-ps="403439f3-img-5" /> 
+ </figure> 
+ <div class="phw-width-4 phw-pl-4 phw-pr-4 phw-pt-3 phw-pb-8 phw-g-zero-h" data-ps="403439f3-div-23"> 
+  <h3 data-ps="403439f3-h3-5" data-map-id="H3-heading" data-component="card-title" text-element="text" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none">We Care About our Communities and Environment</h3> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-p-0 phw-g-padding-zero" phw-repeatable="3" data-ps="403439f3-div-8"> 
+ <figure role="presentation" class="phw-img-ctr" data-ps="403439f3-figure-5" data-component="card-image"> 
+  <img class="phw-width-4 phw-g-11-aspect-image" src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/KING_BARCELONA_OFFICE-WIS00624-1698332205956.jpg" alt="Barcelona Office Photo 1 " data-map-id="image" data-ps="403439f3-img-5" /> 
+ </figure> 
+ <div class="phw-width-4 phw-pl-4 phw-pr-4 phw-pt-3 phw-pb-8 phw-g-zero-h" data-ps="403439f3-div-23"> 
+  <h3 data-ps="403439f3-h3-5" data-map-id="H3-heading" data-component="card-title" text-element="text" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none">We Create Profits and Prosperity</h3> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-p-0 phw-g-padding-zero" phw-repeatable="3" data-ps="403439f3-div-8"> 
+ <figure role="presentation" class="phw-img-ctr" data-ps="403439f3-figure-5" data-component="card-image"> 
+  <img class="phw-width-4 phw-g-11-aspect-image" src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/KING_LONDON_OFFICE-WIS046762-1709647701357.jpg" alt="Barcelona Office Photo 2" data-map-id="image" data-ps="403439f3-img-5" /> 
+ </figure> 
+ <div class="phw-width-4 phw-pl-4 phw-pr-4 phw-pt-3 phw-pb-8 phw-g-zero-h" data-ps="403439f3-div-23"> 
+  <h3 data-ps="403439f3-h3-5" data-map-id="H3-heading" data-component="card-title" text-element="text" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none">We Care About our Communities and Environment</h3> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-p-0 phw-g-padding-zero" phw-repeatable="3" data-ps="403439f3-div-8"> 
+ <figure role="presentation" class="phw-img-ctr" data-ps="403439f3-figure-5" data-component="card-image"> 
+  <img class="phw-width-4 phw-g-11-aspect-image" src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/KING_LONDON_OFFICE-WIS04971-1709647703628.jpg" alt="Barcelona Office Photo 2" data-map-id="image" data-ps="403439f3-img-5" /> 
+ </figure> 
+ <div class="phw-width-4 phw-pl-4 phw-pr-4 phw-pt-3 phw-pb-8 phw-g-zero-h" data-ps="403439f3-div-23"> 
+  <h3 data-ps="403439f3-h3-5" data-map-id="H3-heading" data-component="card-title" text-element="text" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none">We Care About our Communities and Environment</h3> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-p-0 phw-g-padding-zero" phw-repeatable="3" data-ps="403439f3-div-8"> 
+ <figure role="presentation" class="phw-img-ctr" data-ps="403439f3-figure-5" data-component="card-image"> 
+  <img class="phw-width-4 phw-g-11-aspect-image" src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/KING_STOCKHOLM_OFFICE-WIS00117-1709289152345.jpg" alt="Barcelona Office Photo 2" data-map-id="image" data-ps="403439f3-img-5" /> 
+ </figure> 
+ <div class="phw-width-4 phw-pl-4 phw-pr-4 phw-pt-3 phw-pb-8 phw-g-zero-h" data-ps="403439f3-div-23"> 
+  <h3 data-ps="403439f3-h3-5" data-map-id="H3-heading" data-component="card-title" text-element="text" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none">We Care About our Communities and Environment</h3> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-p-0 phw-g-padding-zero" phw-repeatable="3" data-ps="403439f3-div-8"> 
+ <figure role="presentation" class="phw-img-ctr" data-ps="403439f3-figure-5" data-component="card-image"> 
+  <img class="phw-width-4 phw-g-11-aspect-image" src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/DSC01421-1709649607119.jpg" alt="Barcelona Office Photo 2" data-map-id="image" data-ps="403439f3-img-5" /> 
+ </figure> 
+ <div class="phw-width-4 phw-pl-4 phw-pr-4 phw-pt-3 phw-pb-8 phw-g-zero-h" data-ps="403439f3-div-23"> 
+  <h3 data-ps="403439f3-h3-5" data-map-id="H3-heading" data-component="card-title" text-element="text" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none">We Care About our Communities and Environment</h3> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-p-0 phw-g-padding-zero" phw-repeatable="3" data-ps="403439f3-div-8"> 
+ <figure role="presentation" class="phw-img-ctr" data-ps="403439f3-figure-5" data-component="card-image"> 
+  <img class="phw-width-4 phw-g-11-aspect-image" src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/KING_STOCKHOLM_OFFICE-WIS00969-1706281653706.jpg" alt="Barcelona Office Photo 2" data-map-id="image" data-ps="403439f3-img-5" /> 
+ </figure> 
+ <div class="phw-width-4 phw-pl-4 phw-pr-4 phw-pt-3 phw-pb-8 phw-g-zero-h" data-ps="403439f3-div-23"> 
+  <h3 data-ps="403439f3-h3-5" data-map-id="H3-heading" data-component="card-title" text-element="text" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none">We Care About our Communities and Environment</h3> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-p-0 phw-g-padding-zero" phw-repeatable="3" data-ps="403439f3-div-8"> 
+ <figure role="presentation" class="phw-img-ctr" data-ps="403439f3-figure-5" data-component="card-image"> 
+  <img class="phw-width-4 phw-g-11-aspect-image" src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/CopyofKingofficeStockholm-PhotographerClaesHelander-14-1700583695016.jpg" alt="Barcelona Office Photo 2" data-map-id="image" data-ps="403439f3-img-5" /> 
+ </figure> 
+ <div class="phw-width-4 phw-pl-4 phw-pr-4 phw-pt-3 phw-pb-8 phw-g-zero-h" data-ps="403439f3-div-23"> 
+  <h3 data-ps="403439f3-h3-5" data-map-id="H3-heading" data-component="card-title" text-element="text" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none">We Care About our Communities and Environment</h3> 
+ </div> 
+</div><div class="phw-card-block phw-slider-slide phw-p-0 phw-g-padding-zero" phw-repeatable="3" data-ps="403439f3-div-8"> 
+ <figure role="presentation" class="phw-img-ctr" data-ps="403439f3-figure-5" data-component="card-image"> 
+  <img class="phw-width-4 phw-g-11-aspect-image" src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/KING_LONDON_OFFICE-WIS04090-1709647697352.jpg" alt="Barcelona Office Photo 2" data-map-id="image" data-ps="403439f3-img-5" /> 
+ </figure> 
+ <div class="phw-width-4 phw-pl-4 phw-pr-4 phw-pt-3 phw-pb-8 phw-g-zero-h" data-ps="403439f3-div-23"> 
+  <h3 data-ps="403439f3-h3-5" data-map-id="H3-heading" data-component="card-title" text-element="text" class="phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none">We Care About our Communities and Environment</h3> 
+ </div> 
+</div>
+
+                        
+
+                        
+
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="phw-footer-block phw-footer-block-top-space phw-text-c phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="footer-block" data-ps="403439f3-div-24">
+            <div data-tag-type="p" class="phw-g-p-widget-subheading-style-1 phw-mt-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="widget-footer-subtitle" data-component="widget-footer-subtitle" data-ps="403439f3-p-3" text-element="text">A sense of mutual respect and mindfulness permeates our culture-in fact, it’s the key to our success.</div>
+            <div data-ps="403439f3-div-25">
+                <a href="javascript:void(0)" class="phw-btn phw-g-btn-primary phw-mt-2 phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="widget-footer-action-link" data-component="widget-footer-link" phw-track="Footerblock_actionlink_click" data-ps="403439f3-a-1" aria-label="" target="" title="">
+                    <span class="phw-actionlink-text" data-hide-settings="true" data-map-id="action-link-text" data-ps="403439f3-span-1" text-element="text">Learn more</span>
+                    <span class="phw-icon-ctr phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-component="action-icon" data-ps="403439f3-span-2">
+                        <svg aria-hidden="true" class="phw-i-sz-2-5 phw-icon-flip" fill="currentcolor" data-map-id="widget-footer-action-link-icon" data-ps="403439f3-svg-1">
+                            <use href="#phw-cns-icon-chevron-right" data-ps="403439f3-use-1"></use>
+                        </svg>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+
+		<!-- hero block -->
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+	</main>
+	<!-- ph-page end-->
+
+
+	<!-- ph-footer start-->
+	<!-- this is the footer area for the layout. It should be wrapped inside a container with class 'ph-footer' -->
+	<footer class="ph-footer" data-ph-id="ph-page-element-page9-migration-EidXrD"><section data-static-widget-id="TxXFVM" instance-id="hf-centered-logo-footer" has-edit="true" view-rev="0.0" type="footer" class="phw-widget" sync-with-desktop="false"><div class="phw-widget-ctr phw-p-0 phw-g-i-hYdJ8E" data-ps="26e0d904-div-1">
+    
+    <div data-hf-block="middle" data-component="middle-section" data-ps="26e0d904-div-7">
+        <div class="phw-container" data-ps="26e0d904-div-8">
+            <div class="phw-pt-7 phw-g-i-IwlsNQ" data-ps="26e0d904-div-9">
+                <div class="" data-component="primary-menu" data-ps="26e0d904-div-10">
+                    <section class="phw-widget phw-load-widget phw-c-26e0d904-menu-widget" widget="phw-menu-list-view1-default-v1" theme="default" content-id="phw-menu-list-view1-default-v1" instance-id="hf-centered-logo-footer$$ytuyoo" data-func-widget-id="0tOMrd" data-ph-component-name="menu" data-ps="26e0d904-section-1"></section>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div data-hf-block="bottom" data-component="bottom-section" data-ps="26e0d904-div-11" class="phw-g-footerblack">
+        <div class="phw-container phw-pt-6 phw-pb-6 phw-pt-xl-5 phw-pb-xl-5 phw-pt-lg-8 phw-pb-lg-8 phw-pt-sm-5 phw-pb-sm-5 phw-d-flex phw-flex-lg-column phw-gap-6 phw-gap-xl-5 phw-gap-lg-4 phw-g-i-MkYmFs" data-ps="26e0d904-div-12">
+            <div class="phw-c-flex-width" data-ps="26e0d904-div-13">
+                <div data-tag-type="p" class="phw-g-i-81Mfjq" data-map-id="footer-description" data-component="description-block" data-ps="26e0d904-div-14" text-element="text"><strong>Accommodation Request:</strong>&nbsp;We are committed to working with and providing reasonable assistance to individuals with physical and mental disabilities. If you are a disabled individual requiring an accommodation to apply for an open position, please email your request to&nbsp;<a href="mailto:accommodationrequests@activisionblizzard.com">accommodationrequests@activisionblizzard.com</a>. General employment questions cannot be accepted or processed here. Thank you for your interest.<br />
+<br />
+While we strive to provide competitive offers to successful candidates, new hire compensation is negotiable.<br />
+<br />
+If you are a current employee, please use The Hub to access your personal data.</div>
+                <div data-tag-type="p" class="phw-mt-2 phw-mt-lg-4 phw-g-p-small-light phw-d-dt-none phw-d-mob-none phw-d-ldt-none phw-d-tab-none" data-map-id="footer-description" data-component="description-block" data-ps="26e0d904-div-15" text-element="text">
+                    We believe we are best equipped to help our associates, customers, and the communities we serve live
+                    better when we really know them. That means understanding, respecting, and valuing diversity- unique
+                    styles, experiences, identities, abilities, ideas and opinions- while being inclusive of all people.
+                    Walmart Inc. participates in E-Verify. Learn more about applicant rights under Federal Employment
+                    Laws.
+                </div>
+                <div data-tag-type="p" class="phw-mt-2 phw-mt-lg-4 phw-g-i-T2zPFa" data-map-id="footer-copyright" data-component="copyright-block" data-ps="26e0d904-div-16" text-element="text">© 2024 King.com Ltd. King, the King crown logo, Making the World Playful, the game names and related marks are trademarks of King.com Ltd or related entities. All rights reserved.</div>
+            </div>
+            <div class="phw-mt-4 phw-d-flex phw-justify-content-center phw-c-flex-width phw-g-footerlogo" data-ps="26e0d904-div-17">
+                <a href="https://www.king.com/" data-map-id="logo" data-component="logo" phw-track="footer_logo_click" class="" data-ps="26e0d904-a-3" target="_blank">
+                    <img src="https://cdn.phenompeople.com/CareerConnectResources/ACMKDSUS/images/footer-logo-1686218331277.png" data-map-id="img-logo" alt="footer-logo" class="phw-c-26e0d904-footer-logo" data-ps="26e0d904-img-1" />
+                </a>
+            </div>
+            <div class="phw-c-flex-width" data-ps="26e0d904-div-18">
+                <div data-tag-type="p" class="phw-mt-2 phw-mt-lg-4 phw-g-p-small-light phw-d-ldt-none phw-d-dt-none phw-d-tab-none phw-d-mob-none" data-map-id="footer-description" data-component="description-block" data-ps="26e0d904-div-20" text-element="text">
+                    We believe we are best equipped to help our associates, customers, and the communities we serve live
+                    better when we really know them. That means understanding, respecting, and valuing diversity- unique
+                    styles, experiences, identities, abilities, ideas and opinions- while being inclusive of all people.
+                    Walmart Inc. participates in E-Verify. Learn more about applicant rights under Federal Employment
+                    Laws.
+                </div>
+                <div class="" data-component="social-icons" data-ps="26e0d904-div-19">
+                    <h2 class="phw-visually-hidden" data-ps="26e0d904-h2-1" text-element="text">follow us</h2>
+                    <ul role="list" class="phw-d-flex phw-flex-wrap phw-list-none phw-gap-3 phw-justify-content-start phw-justify-lg-content-center phw-content-block phw-p-0 phw-pl-sm-0 phw-mb-2-5 phw-mt-lg-4" data-ps="26e0d904-ul-1">
+                        <li class="phw-card-block" role="listitem" phw-repeatable="" data-ps="26e0d904-li-1"> <a aria-label="King's Facebook" href="https://www.facebook.com/King/" class="phw-d-block phw-c-26e0d904-action-icon" data-ps="26e0d904-a-4" target="_blank"> <span class="phw-icon-ctr phw-d-flex phw-justify-content-center phw-align-items-center" data-ps="26e0d904-span-3"> 
+   <svg aria-hidden="true" class="phw-i-sz-3 phw-g-icon-dark phw-c-26e0d904-icon" fill="currentcolor" data-ps="26e0d904-svg-1"> 
+    <use href="#phw-cns-icon-facebook" data-ps="26e0d904-use-1"></use> 
+   </svg> </span> </a> </li><li class="phw-card-block" role="listitem" phw-repeatable="" data-ps="26e0d904-li-1"> <a aria-label="linkedIn" href="https://www.linkedin.com/company/king/" class="phw-d-block phw-c-26e0d904-action-icon" data-ps="26e0d904-a-4" target="_blank"> <span class="phw-icon-ctr phw-d-flex phw-justify-content-center phw-align-items-center" data-ps="26e0d904-span-3"> 
+   <svg aria-hidden="true" class="phw-i-sz-3 phw-g-icon-dark phw-c-26e0d904-icon" fill="currentcolor" data-ps="26e0d904-svg-1"> 
+    <use href="#phw-cns-icon-linkedin" data-ps="26e0d904-use-1"></use> 
+   </svg> </span> </a> </li><li class="phw-card-block" role="listitem" phw-repeatable="" data-ps="26e0d904-li-1"> <a aria-label="twitter" href="https://twitter.com/King_Games" class="phw-d-block phw-c-26e0d904-action-icon" data-ps="26e0d904-a-4" target="_blank"> <span class="phw-icon-ctr phw-d-flex phw-justify-content-center phw-align-items-center" data-ps="26e0d904-span-3"> 
+   <svg aria-hidden="true" class="phw-i-sz-3 phw-g-icon-dark phw-c-26e0d904-icon" fill="currentcolor" data-ps="26e0d904-svg-1"> 
+    <use href="#phw-cns-icon-twitter" data-ps="26e0d904-use-1"></use> 
+   </svg> </span> </a> </li><li class="phw-card-block" role="listitem" phw-repeatable="" data-ps="26e0d904-li-1"> <a aria-label="instagram" href="https://www.instagram.com/lifeatking/" class="phw-d-block phw-c-26e0d904-action-icon" data-ps="26e0d904-a-4" target="_blank"> <span class="phw-icon-ctr phw-d-flex phw-justify-content-center phw-align-items-center" data-ps="26e0d904-span-3"> 
+   <svg aria-hidden="true" class="phw-i-sz-3 phw-g-icon-dark phw-c-26e0d904-icon" fill="currentcolor" data-ps="26e0d904-svg-1"> 
+    <use href="#phw-cns-icon-instagram" data-ps="26e0d904-use-1"></use> 
+   </svg> </span> </a> </li><li class="phw-card-block" role="listitem" phw-repeatable="" data-ps="26e0d904-li-1"> <a aria-label="glassdoor" href="https://www.glassdoor.com/Reviews/King-Reviews-E597128.htm" class="phw-d-block phw-c-26e0d904-action-icon" data-ps="26e0d904-a-4" target="_blank"> <span class="phw-icon-ctr phw-d-flex phw-justify-content-center phw-align-items-center" data-ps="26e0d904-span-3"> 
+   <svg aria-hidden="true" class="phw-i-sz-3 phw-g-icon-dark phw-c-26e0d904-icon" fill="currentcolor" data-ps="26e0d904-svg-1"> 
+    <use href="#phw-cns-icon-glassdoor" data-ps="26e0d904-use-1"></use> 
+   </svg> </span> </a> </li><li class="phw-card-block" role="listitem" phw-repeatable="" data-ps="26e0d904-li-1"> <a aria-label="youtube" href="https://www.youtube.com/@KingOnlineGames" class="phw-d-block phw-c-26e0d904-action-icon" data-ps="26e0d904-a-4" target="_blank"> <span class="phw-icon-ctr phw-d-flex phw-justify-content-center phw-align-items-center" data-ps="26e0d904-span-3"> 
+   <svg aria-hidden="true" class="phw-i-sz-3 phw-g-icon-dark phw-c-26e0d904-icon" fill="currentcolor" data-ps="26e0d904-svg-1"> 
+    <use href="#phw-cns-icon-youtube" data-ps="26e0d904-use-1"></use> 
+   </svg> </span> </a> </li>
+                        
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+                <section class="phw-widget phw-load-widget phw-c-26e0d904-menu-widget-bottom" widget="phw-menu-list-view4-default-v1" theme="default" content-id="phw-menu-list-view4-default-v1" instance-id="hf-centered-logo-footer$$trytio" data-func-widget-id="NtwWCn" data-ph-component-name="menu" data-ps="26e0d904-section-2"></section>
+            </div>
+        </div>
+    </div>
+</div>
+</section></footer>
+	<!-- ph-footer end-->
+<script id="vueJs" type="text/javascript" src="https://cdn.phenompeople.com/CareerConnectResources/common/js/canvas/vendor/vue3_1719567713796.min.js" defer=""></script><script id="phwCommonJs" type="text/javascript" src="https://cdn.phenompeople.com/CareerConnectResources/common/js/canvas/common/phw-common-1766490789817.js" defer=""></script><script id="phwRunnerJs" type="text/javascript" src="https://cdn.phenompeople.com/CareerConnectResources/common/js/canvas/bootstrap/phw-runner-1766490789993.js" defer=""></script></body>
+
+</html><div id='csrfToken' style='display:none'>351cb91295d547a9907068a8af26820a</div>

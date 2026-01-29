@@ -1,0 +1,74 @@
+--- TITAN REFINERY REPORT ---
+DATE: Thu Jan 29 03:51:52 EET 2026
+FILES SCANNED: 601
+SECRETS FOUND: 25
+----------------------------------------
+
+=== SOURCE: support.google.com_.env.titan ===
+  [+] API_KEY: AIzaSyBJJVLYkCltuq7GfHtuWgJi_tbhU_A1BfA
+
+=== SOURCE: www.gwc.com.qa_.env.titan ===
+  [+] API_KEY: UTDZ7-CXAN6-AT95X-JFMBW-UATW3
+
+=== SOURCE: www.sgx.com_config.php.titan ===
+  [+] API_KEY: DWTAG-5DY4G-LV8JN-2CLEK-T7VJU
+
+=== SOURCE: www.appdynamics.com_config.php.titan ===
+  [+] API_KEY: M7Q82-FTRNS-TEZ4E-UCSZ2-NQJ9C
+
+=== SOURCE: www.bell.ca_.env.titan ===
+  [+] API_KEY: ELNCJ-SNJ8G-MAJUF-JX27D-KEUXV
+
+=== SOURCE: www.azure.microsoft.com_quantum_.env.titan ===
+  [+] API_KEY: E7B88-8P87Z-VT9SJ-BNQSU-2GTUH
+
+=== SOURCE: www.gwc.com.qa_wp-config.php.titan ===
+  [+] API_KEY: UTDZ7-CXAN6-AT95X-JFMBW-UATW3
+
+=== SOURCE: www.finnair.com_wp-config.php.titan ===
+  [+] API_KEY: XCX6X-XLZQY-Y3L59-HYTY9-PFQT8
+
+=== SOURCE: www.canada.ca_config.php.titan ===
+  [+] API_KEY: KBFUZ-C9D7G-RB8SX-GRGEN-HGMC9
+
+=== SOURCE: support.google.com_config.php.titan ===
+  [+] API_KEY: AIzaSyBJJVLYkCltuq7GfHtuWgJi_tbhU_A1BfA
+
+=== SOURCE: www.farmers.com_wp-config.php.titan ===
+  [+] API_KEY: 5KL9P-5DVDJ-M8CD6-6Y3CZ-VPSHE
+
+=== SOURCE: www.cibc.com_wp-config.php.titan ===
+  [+] API_KEY: ARM7D-4NWZ8-KTVVR-LA68Z-G2W7L
+  [+] API_KEY: ARM7D-4NWZ8-KTVVR-LA68Z-G2W7L
+
+=== SOURCE: www.canada.ca_wp-config.php.titan ===
+  [+] API_KEY: KBFUZ-C9D7G-RB8SX-GRGEN-HGMC9
+
+=== SOURCE: www.christiesrealestate.com_wp-config.php.titan ===
+  [+] API_KEY: T9YJX-N39YY-ZAQ3L-NMZJE-FEFMW
+
+=== SOURCE: support.google.com_wp-config.php.titan ===
+  [+] API_KEY: AIzaSyBJJVLYkCltuq7GfHtuWgJi_tbhU_A1BfA
+
+=== SOURCE: www.farmers.com_config.php.titan ===
+  [+] API_KEY: 5KL9P-5DVDJ-M8CD6-6Y3CZ-VPSHE
+
+=== SOURCE: support.google.com_config.php ===
+  [+] API_KEY: AIzaSyBJJVLYkCltuq7GfHtuWgJi_tbhU_A1BfA
+
+=== SOURCE: support.google.com_wp-config.php ===
+  [+] API_KEY: AIzaSyBJJVLYkCltuq7GfHtuWgJi_tbhU_A1BfA
+
+=== SOURCE: www.cibc.com_config.php.titan ===
+  [+] API_KEY: ARM7D-4NWZ8-KTVVR-LA68Z-G2W7L
+  [+] API_KEY: ARM7D-4NWZ8-KTVVR-LA68Z-G2W7L
+
+=== SOURCE: www.azure.microsoft.com_quantum_wp-config.php.titan ===
+  [+] API_KEY: E7B88-8P87Z-VT9SJ-BNQSU-2GTUH
+
+=== SOURCE: support.google.com_.env ===
+  [+] API_KEY: AIzaSyBJJVLYkCltuq7GfHtuWgJi_tbhU_A1BfA
+
+=== SOURCE: www.cibc.com_.env.titan ===
+  [+] API_KEY: ARM7D-4NWZ8-KTVVR-LA68Z-G2W7L
+  [+] API_KEY: ARM7D-4NWZ8-KTVVR-LA68Z-G2W7L

@@ -1,0 +1,14 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <title id="title">OTA Booking Engine</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script async="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDhIU0ZuGwuZ_wroNjWvEkk_YRETZuWlwk">
+  </script>
+  <script src="https://www.google.com/recaptcha/api.js"></script>
+<style>@charset "UTF-8";@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500,700);@import url(https://fonts.googleapis.com/earlyaccess/notokufiarabic.css);:root{--fa-font-brands:normal 400 1em/1 "Font Awesome 6 Brands"}:root{--fa-font-duotone:normal 900 1em/1 "Font Awesome 6 Duotone"}:root{--fa-font-light:normal 300 1em/1 "Font Awesome 6 Pro"}:root{--fa-font-regular:normal 400 1em/1 "Font Awesome 6 Pro"}:root{--fa-font-solid:normal 900 1em/1 "Font Awesome 6 Pro"}:root{--fa-font-thin:normal 100 1em/1 "Font Awesome 6 Pro"}</style><link rel="stylesheet" href="styles.7fd7bbcd495236f9c53d.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.7fd7bbcd495236f9c53d.css"></noscript></head>
+<body>
+  <app-root></app-root>
+<script src="runtime.b1f0516179d5c348ad66.js" defer></script><script src="polyfills.8223672032e2ef80d652.js" defer></script><script src="scripts.aabf65dc48c6e16c085f.js" defer></script><script src="main.17e15a8a0acc02f5275d.js" defer></script>
+
+</body></html>

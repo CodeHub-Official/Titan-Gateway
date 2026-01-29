@@ -1,0 +1,1729 @@
+<!DOCTYPE html><html lang="en" data-critters-container><head>
+  <meta charset="utf-8">
+  <title>Official Website | StarDream Cruises</title>
+  <meta name="description" content="Set sail on an unforgettable vacation with StarDream Cruises. Discover dream destinations and craft lasting memories aboard. Reserve your voyage today!">
+  <meta name="robots" content="index">
+  <base href="/">
+  <link rel="canonical" href="https://stardreamcruises.com/">
+  <meta name="keywords" content="luxury cruises, family cruises, Caribbean cruises, onboard entertainment, StarDream Cruises, cruise deals, Mediterranean cruises">
+  <meta name="color-scheme" content="light dark">
+  <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="msapplication-tap-highlight" content="no">
+  <meta name="google-site-verification" content="7auYYw3mm_P5BE9HeiMOTyQ5HinJfUK492cAL0taxxI">
+
+  <link rel="icon" type="image/png" href="assets/icon/favicon.png">
+
+  <!-- iOS -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="mobile-web-app-capable" content="yes">
+
+  <!-- Fonts (SRI removed due to dynamic content) -->
+  <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   -->
+  <!-- Used fonts / icons localy -->
+  <!-- <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet"
+    crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" crossorigin="anonymous"> -->
+
+  <!-- Manifest and Theme -->
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#1976d2">
+
+  <!-- Google Tag Manager (SRI not possible due to dynamic content) -->
+  <!-- <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'GTM-T28GM3BJ',{ 'debug_mode': true });
+
+    gtag('config', 'AW-11504779298');
+
+    gtag('config', 'AW-11504779298/DEOECOPn_oAaEKKA9O0q');
+  </script> -->
+   <!-- <script defer>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-MCRD2GN4');</script> -->
+  <!-- end gtag script -->
+  <!-- Meta Pixel Code -->
+  <!-- <script defer>
+    !function (f, b, e, v, n, t, s) {
+      if (f.fbq) return; n = f.fbq = function () {
+        n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+      };
+      if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+      n.queue = []; t = b.createElement(e); t.async = !0;
+      t.src = v; s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '985986892858847');
+    fbq('init', '202500489480773');
+    fbq('init', '855612732301751');
+    fbq('track', 'PageView');
+  </script> -->
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=985986892858847&ev=PageView&noscript=1"></noscript>
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=202500489480773&ev=PageView&noscript=1"></noscript>
+  <!-- End Meta Pixel Code -->
+  <!-- TikTok Pixel Code Start -->
+  <!-- <script>
+    (function() {
+      if (typeof window === 'undefined') return; // SSR-safe
+    
+      function loadTikTokPixel() {
+        !function(w, d, t) {
+          w.TiktokAnalyticsObject = t;
+          var ttq = w[t] = w[t] || [];
+          ttq.methods = [
+            "page","track","identify","instances","debug","on","off","once",
+            "ready","alias","group","enableCookie","disableCookie","holdConsent",
+            "revokeConsent","grantConsent"
+          ];
+          
+          ttq.setAndDefer = function(obj, method) {
+            obj[method] = function() {
+              obj.push([method].concat(Array.prototype.slice.call(arguments, 0)));
+            }
+          };
+    
+          for (var i = 0; i < ttq.methods.length; i++) {
+            ttq.setAndDefer(ttq, ttq.methods[i]);
+          }
+    
+          ttq.instance = function(name) {
+            var inst = ttq._i[name] || [];
+            for (var i = 0; i < ttq.methods.length; i++) {
+              ttq.setAndDefer(inst, ttq.methods[i]);
+            }
+            return inst;
+          };
+    
+          ttq.load = function(pixelId, options) {
+            var url = "https://analytics.tiktok.com/i18n/pixel/events.js";
+            ttq._i = ttq._i || {};
+            ttq._i[pixelId] = [];
+            ttq._i[pixelId]._u = url;
+            ttq._t = ttq._t || {};
+            ttq._t[pixelId] = +new Date;
+            ttq._o = ttq._o || {};
+            ttq._o[pixelId] = options || {};
+    
+            // Create script element
+            var s = document.createElement("script");
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = url + "?sdkid=" + pixelId + "&lib=" + t;
+    
+            // Fail-safe: remove script if not loaded in 5 seconds
+            setTimeout(function() {
+              if (!window.ttq) {
+                console.warn('TikTok events.js did not load, removing script');
+                s.remove();
+              }
+            }, 5000);
+    
+            var firstScript = document.getElementsByTagName("script")[0];
+            firstScript.parentNode.insertBefore(s, firstScript);
+          };
+    
+          ttq.load('CSM5NG3C77UF5CI65IOG');
+          ttq.page();
+        }(window, document, 'ttq');
+      }
+    
+      // Load script when browser idle or on window load
+      if ('requestIdleCallback' in window) {
+        requestIdleCallback(loadTikTokPixel);
+      } else {
+        window.addEventListener('load', loadTikTokPixel);
+      }
+    })();
+  </script> -->
+  <!-- TikTok Pixel Code End -->
+  <!-- <script src="assets/js/lightgallery-custom.umd.js"></script> -->
+  <!-- <meta name="mobile-web-app-capable" content="yes"> -->
+  <!-- Google reCAPTCHA (SRI not applicable due to dynamic loading) -->
+  <!-- <script src="https://www.google.com/recaptcha/api.js" async defer></script> -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photo-sphere-viewer@4/dist/plugins/markers.css"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photo-sphere-viewer@4/dist/photo-sphere-viewer.min.css"/> -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photo-sphere-viewer@4/dist/plugins/markers.css"
+    integrity="sha384-uk724hI4eGok3szkOrHPtAWRhsqcxe2hO052F9dNOCEla1wUGw5tNyYQMqgEUsTV" crossorigin="anonymous" />
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photo-sphere-viewer@4/dist/photo-sphere-viewer.min.css"
+    integrity="sha384-0naOCegrtwRgWKZ0InrJJ14YK5bP9knhk8lMKxUvNr+k/aKPEP+twjd2dg/q54s5" crossorigin="anonymous" /> -->
+  <!-- <link rel="stylesheet"
+    href="https://raw.githubusercontent.com/mistic100/photo-sphere-viewer/4.0.6/dist/photo-sphere-viewer.min.css"
+    integrity="sha384-mRLXiwMA+6FE7g3Y3xlolg98nAu9L1jDLfDo4rAuEW7RrrA5a12dfxtasiFf9vXW" crossorigin="anonymous" /> -->
+  
+<style>/*!****************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/bootstrap/dist/css/bootstrap.min.css?ngGlobalStyle ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";/*!
+ * Bootstrap  v5.3.8 (https://getbootstrap.com/)
+ * Copyright 2011-2025 The Bootstrap Authors
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */:root{--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-black:#000;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-gray-100:#f8f9fa;--bs-gray-200:#e9ecef;--bs-gray-300:#dee2e6;--bs-gray-400:#ced4da;--bs-gray-500:#adb5bd;--bs-gray-600:#6c757d;--bs-gray-700:#495057;--bs-gray-800:#343a40;--bs-gray-900:#212529;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-primary-rgb:13,110,253;--bs-secondary-rgb:108,117,125;--bs-success-rgb:25,135,84;--bs-info-rgb:13,202,240;--bs-warning-rgb:255,193,7;--bs-danger-rgb:220,53,69;--bs-light-rgb:248,249,250;--bs-dark-rgb:33,37,41;--bs-primary-text-emphasis:#052c65;--bs-secondary-text-emphasis:#2b2f32;--bs-success-text-emphasis:#0a3622;--bs-info-text-emphasis:#055160;--bs-warning-text-emphasis:#664d03;--bs-danger-text-emphasis:#58151c;--bs-light-text-emphasis:#495057;--bs-dark-text-emphasis:#495057;--bs-primary-bg-subtle:#cfe2ff;--bs-secondary-bg-subtle:#e2e3e5;--bs-success-bg-subtle:#d1e7dd;--bs-info-bg-subtle:#cff4fc;--bs-warning-bg-subtle:#fff3cd;--bs-danger-bg-subtle:#f8d7da;--bs-light-bg-subtle:#fcfcfd;--bs-dark-bg-subtle:#ced4da;--bs-primary-border-subtle:#9ec5fe;--bs-secondary-border-subtle:#c4c8cb;--bs-success-border-subtle:#a3cfbb;--bs-info-border-subtle:#9eeaf9;--bs-warning-border-subtle:#ffe69c;--bs-danger-border-subtle:#f1aeb5;--bs-light-border-subtle:#e9ecef;--bs-dark-border-subtle:#adb5bd;--bs-white-rgb:255,255,255;--bs-black-rgb:0,0,0;--bs-font-sans-serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--bs-font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;--bs-gradient:linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));--bs-body-font-family:var(--bs-font-sans-serif);--bs-body-font-size:1rem;--bs-body-font-weight:400;--bs-body-line-height:1.5;--bs-body-color:#212529;--bs-body-color-rgb:33,37,41;--bs-body-bg:#fff;--bs-body-bg-rgb:255,255,255;--bs-emphasis-color:#000;--bs-emphasis-color-rgb:0,0,0;--bs-secondary-color:rgba(33, 37, 41, 0.75);--bs-secondary-color-rgb:33,37,41;--bs-secondary-bg:#e9ecef;--bs-secondary-bg-rgb:233,236,239;--bs-tertiary-color:rgba(33, 37, 41, 0.5);--bs-tertiary-color-rgb:33,37,41;--bs-tertiary-bg:#f8f9fa;--bs-tertiary-bg-rgb:248,249,250;--bs-heading-color:inherit;--bs-link-color:#0d6efd;--bs-link-color-rgb:13,110,253;--bs-link-decoration:underline;--bs-link-hover-color:#0a58ca;--bs-link-hover-color-rgb:10,88,202;--bs-code-color:#d63384;--bs-highlight-color:#212529;--bs-highlight-bg:#fff3cd;--bs-border-width:1px;--bs-border-style:solid;--bs-border-color:#dee2e6;--bs-border-color-translucent:rgba(0, 0, 0, 0.175);--bs-border-radius:0.375rem;--bs-border-radius-sm:0.25rem;--bs-border-radius-lg:0.5rem;--bs-border-radius-xl:1rem;--bs-border-radius-xxl:2rem;--bs-border-radius-2xl:var(--bs-border-radius-xxl);--bs-border-radius-pill:50rem;--bs-box-shadow:0 0.5rem 1rem rgba(0, 0, 0, 0.15);--bs-box-shadow-sm:0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);--bs-box-shadow-lg:0 1rem 3rem rgba(0, 0, 0, 0.175);--bs-box-shadow-inset:inset 0 1px 2px rgba(0, 0, 0, 0.075);--bs-focus-ring-width:0.25rem;--bs-focus-ring-opacity:0.25;--bs-focus-ring-color:rgba(13, 110, 253, 0.25);--bs-form-valid-color:#198754;--bs-form-valid-border-color:#198754;--bs-form-invalid-color:#dc3545;--bs-form-invalid-border-color:#dc3545}*,::after,::before{box-sizing:border-box}@media (prefers-reduced-motion:no-preference){:root{scroll-behavior:smooth}}body{margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent}img{vertical-align:middle}iframe{border:0}:root{--bs-breakpoint-xs:0;--bs-breakpoint-sm:576px;--bs-breakpoint-md:768px;--bs-breakpoint-lg:992px;--bs-breakpoint-xl:1200px;--bs-breakpoint-xxl:1400px}:root{--bs-btn-close-filter: }:root{--bs-carousel-indicator-active-bg:#fff;--bs-carousel-caption-color:#fff;--bs-carousel-control-icon-filter: }
+/*# sourceMappingURL=bootstrap.min.css.map */
+/*!************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/jquery-ui-dist/jquery-ui.min.css?ngGlobalStyle ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! jQuery UI - v1.13.3 - 2024-04-26
+* https://jqueryui.com
+* Includes: core.css, accordion.css, autocomplete.css, menu.css, button.css, controlgroup.css, checkboxradio.css, datepicker.css, dialog.css, draggable.css, resizable.css, progressbar.css, selectable.css, selectmenu.css, slider.css, sortable.css, spinner.css, tabs.css, tooltip.css, theme.css
+* To view and modify this theme, visit https://jqueryui.com/themeroller/?bgShadowXPos=&bgOverlayXPos=&bgErrorXPos=&bgHighlightXPos=&bgContentXPos=&bgHeaderXPos=&bgActiveXPos=&bgHoverXPos=&bgDefaultXPos=&bgShadowYPos=&bgOverlayYPos=&bgErrorYPos=&bgHighlightYPos=&bgContentYPos=&bgHeaderYPos=&bgActiveYPos=&bgHoverYPos=&bgDefaultYPos=&bgShadowRepeat=&bgOverlayRepeat=&bgErrorRepeat=&bgHighlightRepeat=&bgContentRepeat=&bgHeaderRepeat=&bgActiveRepeat=&bgHoverRepeat=&bgDefaultRepeat=&iconsHover=url(%22images%2Fui-icons_555555_256x240.png%22)&iconsHighlight=url(%22images%2Fui-icons_777620_256x240.png%22)&iconsHeader=url(%22images%2Fui-icons_444444_256x240.png%22)&iconsError=url(%22images%2Fui-icons_cc0000_256x240.png%22)&iconsDefault=url(%22images%2Fui-icons_777777_256x240.png%22)&iconsContent=url(%22images%2Fui-icons_444444_256x240.png%22)&iconsActive=url(%22images%2Fui-icons_ffffff_256x240.png%22)&bgImgUrlShadow=&bgImgUrlOverlay=&bgImgUrlHover=&bgImgUrlHighlight=&bgImgUrlHeader=&bgImgUrlError=&bgImgUrlDefault=&bgImgUrlContent=&bgImgUrlActive=&opacityFilterShadow=%22alpha(opacity%3D30)%22&opacityFilterOverlay=%22alpha(opacity%3D30)%22&opacityShadowPerc=30&opacityOverlayPerc=30&iconColorHover=%23555555&iconColorHighlight=%23777620&iconColorHeader=%23444444&iconColorError=%23cc0000&iconColorDefault=%23777777&iconColorContent=%23444444&iconColorActive=%23ffffff&bgImgOpacityShadow=0&bgImgOpacityOverlay=0&bgImgOpacityError=95&bgImgOpacityHighlight=55&bgImgOpacityContent=75&bgImgOpacityHeader=75&bgImgOpacityActive=65&bgImgOpacityHover=75&bgImgOpacityDefault=75&bgTextureShadow=flat&bgTextureOverlay=flat&bgTextureError=flat&bgTextureHighlight=flat&bgTextureContent=flat&bgTextureHeader=flat&bgTextureActive=flat&bgTextureHover=flat&bgTextureDefault=flat&cornerRadius=3px&fwDefault=normal&ffDefault=Arial%2CHelvetica%2Csans-serif&fsDefault=1em&cornerRadiusShadow=8px&thicknessShadow=5px&offsetLeftShadow=0px&offsetTopShadow=0px&opacityShadow=.3&bgColorShadow=%23666666&opacityOverlay=.3&bgColorOverlay=%23aaaaaa&fcError=%235f3f3f&borderColorError=%23f1a899&bgColorError=%23fddfdf&fcHighlight=%23777620&borderColorHighlight=%23dad55e&bgColorHighlight=%23fffa90&fcContent=%23333333&borderColorContent=%23dddddd&bgColorContent=%23ffffff&fcHeader=%23333333&borderColorHeader=%23dddddd&bgColorHeader=%23e9e9e9&fcActive=%23ffffff&borderColorActive=%23003eff&bgColorActive=%23007fff&fcHover=%232b2b2b&borderColorHover=%23cccccc&bgColorHover=%23ededed&fcDefault=%23454545&borderColorDefault=%23c5c5c5&bgColorDefault=%23f6f6f6
+* Copyright OpenJS Foundation and other contributors; Licensed MIT */
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/intl-tel-input/build/css/intlTelInput.css?ngGlobalStyle ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[6].rules[1].use[0]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[6].rules[1].use[1]!./src/theme/variables.scss?ngGlobalStyle ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+.cdk-visually-hidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap;
+  outline: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  left: 0;
+}
+
+html {
+  --mat-ripple-color: rgba(0, 0, 0, 0.1);
+}
+
+html {
+  --mat-option-selected-state-label-text-color: #3f51b5;
+  --mat-option-label-text-color: rgba(0, 0, 0, 0.87);
+  --mat-option-hover-state-layer-color: rgba(0, 0, 0, 0.04);
+  --mat-option-focus-state-layer-color: rgba(0, 0, 0, 0.04);
+  --mat-option-selected-state-layer-color: rgba(0, 0, 0, 0.04);
+}
+
+html {
+  --mat-optgroup-label-text-color: rgba(0, 0, 0, 0.87);
+}
+
+html {
+  --mat-full-pseudo-checkbox-selected-icon-color: #ff4081;
+  --mat-full-pseudo-checkbox-selected-checkmark-color: #fafafa;
+  --mat-full-pseudo-checkbox-unselected-icon-color: rgba(0, 0, 0, 0.54);
+  --mat-full-pseudo-checkbox-disabled-selected-checkmark-color: #fafafa;
+  --mat-full-pseudo-checkbox-disabled-unselected-icon-color: #b0b0b0;
+  --mat-full-pseudo-checkbox-disabled-selected-icon-color: #b0b0b0;
+  --mat-minimal-pseudo-checkbox-selected-checkmark-color: #ff4081;
+  --mat-minimal-pseudo-checkbox-disabled-selected-checkmark-color: #b0b0b0;
+}
+
+html {
+  --mat-app-background-color: #fafafa;
+  --mat-app-text-color: rgba(0, 0, 0, 0.87);
+}
+
+html {
+  --mdc-elevated-card-container-shape: 4px;
+  --mdc-outlined-card-container-shape: 4px;
+  --mdc-outlined-card-outline-width: 1px;
+}
+
+html {
+  --mdc-elevated-card-container-color: white;
+  --mdc-elevated-card-container-elevation: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+  --mdc-outlined-card-container-color: white;
+  --mdc-outlined-card-outline-color: rgba(0, 0, 0, 0.12);
+  --mdc-outlined-card-container-elevation: 0px 0px 0px 0px rgba(0, 0, 0, 0.2), 0px 0px 0px 0px rgba(0, 0, 0, 0.14), 0px 0px 0px 0px rgba(0, 0, 0, 0.12);
+  --mat-card-subtitle-text-color: rgba(0, 0, 0, 0.54);
+}
+
+html {
+  --mdc-linear-progress-active-indicator-height: 4px;
+  --mdc-linear-progress-track-height: 4px;
+  --mdc-linear-progress-track-shape: 0;
+}
+
+html {
+  --mdc-plain-tooltip-container-shape: 4px;
+  --mdc-plain-tooltip-supporting-text-line-height: 16px;
+}
+
+html {
+  --mdc-plain-tooltip-container-color: #616161;
+  --mdc-plain-tooltip-supporting-text-color: #fff;
+}
+
+html {
+  --mdc-filled-text-field-active-indicator-height: 1px;
+  --mdc-filled-text-field-focus-active-indicator-height: 2px;
+  --mdc-filled-text-field-container-shape: 4px;
+  --mdc-outlined-text-field-outline-width: 1px;
+  --mdc-outlined-text-field-focus-outline-width: 2px;
+  --mdc-outlined-text-field-container-shape: 4px;
+}
+
+html {
+  --mdc-filled-text-field-caret-color: #3f51b5;
+  --mdc-filled-text-field-focus-active-indicator-color: #3f51b5;
+  --mdc-filled-text-field-focus-label-text-color: rgba(63, 81, 181, 0.87);
+  --mdc-filled-text-field-container-color: whitesmoke;
+  --mdc-filled-text-field-disabled-container-color: #fafafa;
+  --mdc-filled-text-field-label-text-color: rgba(0, 0, 0, 0.6);
+  --mdc-filled-text-field-hover-label-text-color: rgba(0, 0, 0, 0.6);
+  --mdc-filled-text-field-disabled-label-text-color: rgba(0, 0, 0, 0.38);
+  --mdc-filled-text-field-input-text-color: rgba(0, 0, 0, 0.87);
+  --mdc-filled-text-field-disabled-input-text-color: rgba(0, 0, 0, 0.38);
+  --mdc-filled-text-field-input-text-placeholder-color: rgba(0, 0, 0, 0.6);
+  --mdc-filled-text-field-error-hover-label-text-color: #f44336;
+  --mdc-filled-text-field-error-focus-label-text-color: #f44336;
+  --mdc-filled-text-field-error-label-text-color: #f44336;
+  --mdc-filled-text-field-error-caret-color: #f44336;
+  --mdc-filled-text-field-active-indicator-color: rgba(0, 0, 0, 0.42);
+  --mdc-filled-text-field-disabled-active-indicator-color: rgba(0, 0, 0, 0.06);
+  --mdc-filled-text-field-hover-active-indicator-color: rgba(0, 0, 0, 0.87);
+  --mdc-filled-text-field-error-active-indicator-color: #f44336;
+  --mdc-filled-text-field-error-focus-active-indicator-color: #f44336;
+  --mdc-filled-text-field-error-hover-active-indicator-color: #f44336;
+  --mdc-outlined-text-field-caret-color: #3f51b5;
+  --mdc-outlined-text-field-focus-outline-color: #3f51b5;
+  --mdc-outlined-text-field-focus-label-text-color: rgba(63, 81, 181, 0.87);
+  --mdc-outlined-text-field-label-text-color: rgba(0, 0, 0, 0.6);
+  --mdc-outlined-text-field-hover-label-text-color: rgba(0, 0, 0, 0.6);
+  --mdc-outlined-text-field-disabled-label-text-color: rgba(0, 0, 0, 0.38);
+  --mdc-outlined-text-field-input-text-color: rgba(0, 0, 0, 0.87);
+  --mdc-outlined-text-field-disabled-input-text-color: rgba(0, 0, 0, 0.38);
+  --mdc-outlined-text-field-input-text-placeholder-color: rgba(0, 0, 0, 0.6);
+  --mdc-outlined-text-field-error-caret-color: #f44336;
+  --mdc-outlined-text-field-error-focus-label-text-color: #f44336;
+  --mdc-outlined-text-field-error-label-text-color: #f44336;
+  --mdc-outlined-text-field-error-hover-label-text-color: #f44336;
+  --mdc-outlined-text-field-outline-color: rgba(0, 0, 0, 0.38);
+  --mdc-outlined-text-field-disabled-outline-color: rgba(0, 0, 0, 0.06);
+  --mdc-outlined-text-field-hover-outline-color: rgba(0, 0, 0, 0.87);
+  --mdc-outlined-text-field-error-focus-outline-color: #f44336;
+  --mdc-outlined-text-field-error-hover-outline-color: #f44336;
+  --mdc-outlined-text-field-error-outline-color: #f44336;
+  --mat-form-field-focus-select-arrow-color: rgba(63, 81, 181, 0.87);
+  --mat-form-field-disabled-input-text-placeholder-color: rgba(0, 0, 0, 0.38);
+  --mat-form-field-state-layer-color: rgba(0, 0, 0, 0.87);
+  --mat-form-field-error-text-color: #f44336;
+  --mat-form-field-select-option-text-color: inherit;
+  --mat-form-field-select-disabled-option-text-color: GrayText;
+  --mat-form-field-leading-icon-color: unset;
+  --mat-form-field-disabled-leading-icon-color: unset;
+  --mat-form-field-trailing-icon-color: unset;
+  --mat-form-field-disabled-trailing-icon-color: unset;
+  --mat-form-field-error-focus-trailing-icon-color: unset;
+  --mat-form-field-error-hover-trailing-icon-color: unset;
+  --mat-form-field-error-trailing-icon-color: unset;
+  --mat-form-field-enabled-select-arrow-color: rgba(0, 0, 0, 0.54);
+  --mat-form-field-disabled-select-arrow-color: rgba(0, 0, 0, 0.38);
+  --mat-form-field-hover-state-layer-opacity: 0.04;
+  --mat-form-field-focus-state-layer-opacity: 0.08;
+}
+
+html {
+  --mat-form-field-container-height: 56px;
+  --mat-form-field-filled-label-display: block;
+  --mat-form-field-container-vertical-padding: 16px;
+  --mat-form-field-filled-with-label-container-padding-top: 24px;
+  --mat-form-field-filled-with-label-container-padding-bottom: 8px;
+}
+
+html {
+  --mat-select-container-elevation-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.2), 0px 8px 10px 1px rgba(0, 0, 0, 0.14), 0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+}
+
+html {
+  --mat-select-panel-background-color: white;
+  --mat-select-enabled-trigger-text-color: rgba(0, 0, 0, 0.87);
+  --mat-select-disabled-trigger-text-color: rgba(0, 0, 0, 0.38);
+  --mat-select-placeholder-text-color: rgba(0, 0, 0, 0.6);
+  --mat-select-enabled-arrow-color: rgba(0, 0, 0, 0.54);
+  --mat-select-disabled-arrow-color: rgba(0, 0, 0, 0.38);
+  --mat-select-focused-arrow-color: rgba(63, 81, 181, 0.87);
+  --mat-select-invalid-arrow-color: rgba(244, 67, 54, 0.87);
+}
+
+html {
+  --mat-select-arrow-transform: translateY(-8px);
+}
+
+html {
+  --mat-autocomplete-container-shape: 4px;
+  --mat-autocomplete-container-elevation-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.2), 0px 8px 10px 1px rgba(0, 0, 0, 0.14), 0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+}
+
+html {
+  --mat-autocomplete-background-color: white;
+}
+
+html {
+  --mdc-dialog-container-elevation-shadow: 0px 11px 15px -7px rgba(0, 0, 0, 0.2), 0px 24px 38px 3px rgba(0, 0, 0, 0.14), 0px 9px 46px 8px rgba(0, 0, 0, 0.12);
+  --mdc-dialog-container-shadow-color: #000;
+  --mdc-dialog-container-shape: 4px;
+  --mat-dialog-container-max-width: 80vw;
+  --mat-dialog-container-small-max-width: 80vw;
+  --mat-dialog-container-min-width: 0;
+  --mat-dialog-actions-alignment: start;
+  --mat-dialog-actions-padding: 8px;
+  --mat-dialog-content-padding: 20px 24px;
+  --mat-dialog-with-actions-content-padding: 20px 24px;
+  --mat-dialog-headline-padding: 0 24px 9px;
+}
+
+html {
+  --mdc-dialog-container-color: white;
+  --mdc-dialog-subhead-color: rgba(0, 0, 0, 0.87);
+  --mdc-dialog-supporting-text-color: rgba(0, 0, 0, 0.6);
+}
+
+html {
+  --mdc-switch-disabled-selected-icon-opacity: 0.38;
+  --mdc-switch-disabled-track-opacity: 0.12;
+  --mdc-switch-disabled-unselected-icon-opacity: 0.38;
+  --mdc-switch-handle-height: 20px;
+  --mdc-switch-handle-shape: 10px;
+  --mdc-switch-handle-width: 20px;
+  --mdc-switch-selected-icon-size: 18px;
+  --mdc-switch-track-height: 14px;
+  --mdc-switch-track-shape: 7px;
+  --mdc-switch-track-width: 36px;
+  --mdc-switch-unselected-icon-size: 18px;
+  --mdc-switch-selected-focus-state-layer-opacity: 0.12;
+  --mdc-switch-selected-hover-state-layer-opacity: 0.04;
+  --mdc-switch-selected-pressed-state-layer-opacity: 0.1;
+  --mdc-switch-unselected-focus-state-layer-opacity: 0.12;
+  --mdc-switch-unselected-hover-state-layer-opacity: 0.04;
+  --mdc-switch-unselected-pressed-state-layer-opacity: 0.1;
+  --mat-switch-disabled-selected-handle-opacity: 0.38;
+  --mat-switch-disabled-unselected-handle-opacity: 0.38;
+  --mat-switch-unselected-handle-size: 20px;
+  --mat-switch-selected-handle-size: 20px;
+  --mat-switch-pressed-handle-size: 20px;
+  --mat-switch-with-icon-handle-size: 20px;
+  --mat-switch-selected-handle-horizontal-margin: 0;
+  --mat-switch-selected-with-icon-handle-horizontal-margin: 0;
+  --mat-switch-selected-pressed-handle-horizontal-margin: 0;
+  --mat-switch-unselected-handle-horizontal-margin: 0;
+  --mat-switch-unselected-with-icon-handle-horizontal-margin: 0;
+  --mat-switch-unselected-pressed-handle-horizontal-margin: 0;
+  --mat-switch-visible-track-opacity: 1;
+  --mat-switch-hidden-track-opacity: 1;
+  --mat-switch-visible-track-transition: transform 75ms 0ms cubic-bezier(0, 0, 0.2, 1);
+  --mat-switch-hidden-track-transition: transform 75ms 0ms cubic-bezier(0.4, 0, 0.6, 1);
+  --mat-switch-track-outline-width: 1px;
+  --mat-switch-track-outline-color: transparent;
+  --mat-switch-selected-track-outline-width: 1px;
+  --mat-switch-disabled-unselected-track-outline-width: 1px;
+  --mat-switch-disabled-unselected-track-outline-color: transparent;
+}
+
+html {
+  --mdc-switch-selected-focus-state-layer-color: #3949ab;
+  --mdc-switch-selected-handle-color: #3949ab;
+  --mdc-switch-selected-hover-state-layer-color: #3949ab;
+  --mdc-switch-selected-pressed-state-layer-color: #3949ab;
+  --mdc-switch-selected-focus-handle-color: #1a237e;
+  --mdc-switch-selected-hover-handle-color: #1a237e;
+  --mdc-switch-selected-pressed-handle-color: #1a237e;
+  --mdc-switch-selected-focus-track-color: #7986cb;
+  --mdc-switch-selected-hover-track-color: #7986cb;
+  --mdc-switch-selected-pressed-track-color: #7986cb;
+  --mdc-switch-selected-track-color: #7986cb;
+  --mdc-switch-disabled-selected-handle-color: #424242;
+  --mdc-switch-disabled-selected-icon-color: #fff;
+  --mdc-switch-disabled-selected-track-color: #424242;
+  --mdc-switch-disabled-unselected-handle-color: #424242;
+  --mdc-switch-disabled-unselected-icon-color: #fff;
+  --mdc-switch-disabled-unselected-track-color: #424242;
+  --mdc-switch-handle-surface-color: var(--mdc-theme-surface, #fff);
+  --mdc-switch-handle-elevation-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+  --mdc-switch-handle-shadow-color: black;
+  --mdc-switch-disabled-handle-elevation-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.2), 0px 0px 0px 0px rgba(0, 0, 0, 0.14), 0px 0px 0px 0px rgba(0, 0, 0, 0.12);
+  --mdc-switch-selected-icon-color: #fff;
+  --mdc-switch-unselected-focus-handle-color: #212121;
+  --mdc-switch-unselected-focus-state-layer-color: #424242;
+  --mdc-switch-unselected-focus-track-color: #e0e0e0;
+  --mdc-switch-unselected-handle-color: #616161;
+  --mdc-switch-unselected-hover-handle-color: #212121;
+  --mdc-switch-unselected-hover-state-layer-color: #424242;
+  --mdc-switch-unselected-hover-track-color: #e0e0e0;
+  --mdc-switch-unselected-icon-color: #fff;
+  --mdc-switch-unselected-pressed-handle-color: #212121;
+  --mdc-switch-unselected-pressed-state-layer-color: #424242;
+  --mdc-switch-unselected-pressed-track-color: #e0e0e0;
+  --mdc-switch-unselected-track-color: #e0e0e0;
+  --mdc-switch-disabled-label-text-color: rgba(0, 0, 0, 0.38);
+}
+
+html {
+  --mdc-switch-state-layer-size: 40px;
+}
+
+html {
+  --mdc-radio-disabled-selected-icon-opacity: 0.38;
+  --mdc-radio-disabled-unselected-icon-opacity: 0.38;
+  --mdc-radio-state-layer-size: 40px;
+}
+
+html {
+  --mdc-radio-state-layer-size: 40px;
+  --mat-radio-touch-target-display: block;
+}
+
+html {
+  --mat-slider-value-indicator-width: auto;
+  --mat-slider-value-indicator-height: 32px;
+  --mat-slider-value-indicator-caret-display: block;
+  --mat-slider-value-indicator-border-radius: 4px;
+  --mat-slider-value-indicator-padding: 0 12px;
+  --mat-slider-value-indicator-text-transform: none;
+  --mat-slider-value-indicator-container-transform: translateX(-50%);
+  --mdc-slider-active-track-height: 6px;
+  --mdc-slider-active-track-shape: 9999px;
+  --mdc-slider-handle-height: 20px;
+  --mdc-slider-handle-shape: 50%;
+  --mdc-slider-handle-width: 20px;
+  --mdc-slider-inactive-track-height: 4px;
+  --mdc-slider-inactive-track-shape: 9999px;
+  --mdc-slider-with-overlap-handle-outline-width: 1px;
+  --mdc-slider-with-tick-marks-active-container-opacity: 0.6;
+  --mdc-slider-with-tick-marks-container-shape: 50%;
+  --mdc-slider-with-tick-marks-container-size: 2px;
+  --mdc-slider-with-tick-marks-inactive-container-opacity: 0.6;
+}
+
+html {
+  --mdc-slider-handle-color: #3f51b5;
+  --mdc-slider-focus-handle-color: #3f51b5;
+  --mdc-slider-hover-handle-color: #3f51b5;
+  --mdc-slider-active-track-color: #3f51b5;
+  --mdc-slider-inactive-track-color: #3f51b5;
+  --mdc-slider-with-tick-marks-inactive-container-color: #3f51b5;
+  --mdc-slider-with-tick-marks-active-container-color: white;
+  --mdc-slider-disabled-active-track-color: #000;
+  --mdc-slider-disabled-handle-color: #000;
+  --mdc-slider-disabled-inactive-track-color: #000;
+  --mdc-slider-label-container-color: #000;
+  --mdc-slider-label-label-text-color: #fff;
+  --mdc-slider-with-overlap-handle-outline-color: #fff;
+  --mdc-slider-with-tick-marks-disabled-container-color: #000;
+  --mdc-slider-handle-elevation: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+  --mat-slider-ripple-color: #3f51b5;
+  --mat-slider-hover-state-layer-color: rgba(63, 81, 181, 0.05);
+  --mat-slider-focus-state-layer-color: rgba(63, 81, 181, 0.2);
+  --mat-slider-value-indicator-opacity: 0.6;
+}
+
+html {
+  --mat-menu-container-shape: 4px;
+  --mat-menu-divider-bottom-spacing: 0;
+  --mat-menu-divider-top-spacing: 0;
+  --mat-menu-item-spacing: 16px;
+  --mat-menu-item-icon-size: 24px;
+  --mat-menu-item-leading-spacing: 16px;
+  --mat-menu-item-trailing-spacing: 16px;
+  --mat-menu-item-with-icon-leading-spacing: 16px;
+  --mat-menu-item-with-icon-trailing-spacing: 16px;
+}
+
+html {
+  --mat-menu-item-label-text-color: rgba(0, 0, 0, 0.87);
+  --mat-menu-item-icon-color: rgba(0, 0, 0, 0.87);
+  --mat-menu-item-hover-state-layer-color: rgba(0, 0, 0, 0.04);
+  --mat-menu-item-focus-state-layer-color: rgba(0, 0, 0, 0.04);
+  --mat-menu-container-color: white;
+  --mat-menu-divider-color: rgba(0, 0, 0, 0.12);
+}
+
+html {
+  --mdc-list-list-item-container-shape: 0;
+  --mdc-list-list-item-leading-avatar-shape: 50%;
+  --mdc-list-list-item-container-color: transparent;
+  --mdc-list-list-item-selected-container-color: transparent;
+  --mdc-list-list-item-leading-avatar-color: transparent;
+  --mdc-list-list-item-leading-icon-size: 24px;
+  --mdc-list-list-item-leading-avatar-size: 40px;
+  --mdc-list-list-item-trailing-icon-size: 24px;
+  --mdc-list-list-item-disabled-state-layer-color: transparent;
+  --mdc-list-list-item-disabled-state-layer-opacity: 0;
+  --mdc-list-list-item-disabled-label-text-opacity: 0.38;
+  --mdc-list-list-item-disabled-leading-icon-opacity: 0.38;
+  --mdc-list-list-item-disabled-trailing-icon-opacity: 0.38;
+  --mat-list-active-indicator-color: transparent;
+  --mat-list-active-indicator-shape: 4px;
+}
+
+html {
+  --mdc-list-list-item-label-text-color: rgba(0, 0, 0, 0.87);
+  --mdc-list-list-item-supporting-text-color: rgba(0, 0, 0, 0.54);
+  --mdc-list-list-item-leading-icon-color: rgba(0, 0, 0, 0.38);
+  --mdc-list-list-item-trailing-supporting-text-color: rgba(0, 0, 0, 0.38);
+  --mdc-list-list-item-trailing-icon-color: rgba(0, 0, 0, 0.38);
+  --mdc-list-list-item-selected-trailing-icon-color: rgba(0, 0, 0, 0.38);
+  --mdc-list-list-item-disabled-label-text-color: black;
+  --mdc-list-list-item-disabled-leading-icon-color: black;
+  --mdc-list-list-item-disabled-trailing-icon-color: black;
+  --mdc-list-list-item-hover-label-text-color: rgba(0, 0, 0, 0.87);
+  --mdc-list-list-item-hover-leading-icon-color: rgba(0, 0, 0, 0.38);
+  --mdc-list-list-item-hover-trailing-icon-color: rgba(0, 0, 0, 0.38);
+  --mdc-list-list-item-focus-label-text-color: rgba(0, 0, 0, 0.87);
+  --mdc-list-list-item-hover-state-layer-color: black;
+  --mdc-list-list-item-hover-state-layer-opacity: 0.04;
+  --mdc-list-list-item-focus-state-layer-color: black;
+  --mdc-list-list-item-focus-state-layer-opacity: 0.12;
+}
+
+html {
+  --mdc-list-list-item-one-line-container-height: 48px;
+  --mdc-list-list-item-two-line-container-height: 64px;
+  --mdc-list-list-item-three-line-container-height: 88px;
+  --mat-list-list-item-leading-icon-start-space: 16px;
+  --mat-list-list-item-leading-icon-end-space: 32px;
+}
+
+html {
+  --mat-paginator-container-text-color: rgba(0, 0, 0, 0.87);
+  --mat-paginator-container-background-color: white;
+  --mat-paginator-enabled-icon-color: rgba(0, 0, 0, 0.54);
+  --mat-paginator-disabled-icon-color: rgba(0, 0, 0, 0.12);
+}
+
+html {
+  --mat-paginator-container-size: 56px;
+  --mat-paginator-form-field-container-height: 40px;
+  --mat-paginator-form-field-container-vertical-padding: 8px;
+}
+
+html {
+  --mdc-tab-indicator-active-indicator-height: 2px;
+  --mdc-tab-indicator-active-indicator-shape: 0;
+  --mdc-secondary-navigation-tab-container-height: 48px;
+  --mat-tab-header-divider-color: transparent;
+  --mat-tab-header-divider-height: 0;
+}
+
+html {
+  --mdc-checkbox-disabled-selected-checkmark-color: #fff;
+  --mdc-checkbox-selected-focus-state-layer-opacity: 0.16;
+  --mdc-checkbox-selected-hover-state-layer-opacity: 0.04;
+  --mdc-checkbox-selected-pressed-state-layer-opacity: 0.16;
+  --mdc-checkbox-unselected-focus-state-layer-opacity: 0.16;
+  --mdc-checkbox-unselected-hover-state-layer-opacity: 0.04;
+  --mdc-checkbox-unselected-pressed-state-layer-opacity: 0.16;
+}
+
+html {
+  --mdc-checkbox-disabled-selected-icon-color: rgba(0, 0, 0, 0.38);
+  --mdc-checkbox-disabled-unselected-icon-color: rgba(0, 0, 0, 0.38);
+  --mdc-checkbox-selected-checkmark-color: white;
+  --mdc-checkbox-selected-focus-icon-color: #ff4081;
+  --mdc-checkbox-selected-hover-icon-color: #ff4081;
+  --mdc-checkbox-selected-icon-color: #ff4081;
+  --mdc-checkbox-selected-pressed-icon-color: #ff4081;
+  --mdc-checkbox-unselected-focus-icon-color: #212121;
+  --mdc-checkbox-unselected-hover-icon-color: #212121;
+  --mdc-checkbox-unselected-icon-color: rgba(0, 0, 0, 0.54);
+  --mdc-checkbox-unselected-pressed-icon-color: rgba(0, 0, 0, 0.54);
+  --mdc-checkbox-selected-focus-state-layer-color: #ff4081;
+  --mdc-checkbox-selected-hover-state-layer-color: #ff4081;
+  --mdc-checkbox-selected-pressed-state-layer-color: #ff4081;
+  --mdc-checkbox-unselected-focus-state-layer-color: black;
+  --mdc-checkbox-unselected-hover-state-layer-color: black;
+  --mdc-checkbox-unselected-pressed-state-layer-color: black;
+  --mat-checkbox-disabled-label-color: rgba(0, 0, 0, 0.38);
+}
+
+html {
+  --mdc-checkbox-state-layer-size: 40px;
+  --mat-checkbox-touch-target-display: block;
+}
+
+html {
+  --mdc-text-button-container-shape: 4px;
+  --mdc-text-button-keep-touch-target: false;
+  --mdc-filled-button-container-shape: 4px;
+  --mdc-filled-button-keep-touch-target: false;
+  --mdc-protected-button-container-shape: 4px;
+  --mdc-protected-button-keep-touch-target: false;
+  --mdc-outlined-button-keep-touch-target: false;
+  --mdc-outlined-button-outline-width: 1px;
+  --mdc-outlined-button-container-shape: 4px;
+  --mat-text-button-horizontal-padding: 8px;
+  --mat-text-button-with-icon-horizontal-padding: 8px;
+  --mat-text-button-icon-spacing: 8px;
+  --mat-text-button-icon-offset: 0;
+  --mat-filled-button-horizontal-padding: 16px;
+  --mat-filled-button-icon-spacing: 8px;
+  --mat-filled-button-icon-offset: -4px;
+  --mat-protected-button-horizontal-padding: 16px;
+  --mat-protected-button-icon-spacing: 8px;
+  --mat-protected-button-icon-offset: -4px;
+  --mat-outlined-button-horizontal-padding: 15px;
+  --mat-outlined-button-icon-spacing: 8px;
+  --mat-outlined-button-icon-offset: -4px;
+}
+
+html {
+  --mdc-text-button-label-text-color: black;
+  --mdc-text-button-disabled-label-text-color: rgba(0, 0, 0, 0.38);
+  --mat-text-button-state-layer-color: black;
+  --mat-text-button-disabled-state-layer-color: black;
+  --mat-text-button-ripple-color: rgba(0, 0, 0, 0.1);
+  --mat-text-button-hover-state-layer-opacity: 0.04;
+  --mat-text-button-focus-state-layer-opacity: 0.12;
+  --mat-text-button-pressed-state-layer-opacity: 0.12;
+  --mdc-filled-button-container-color: white;
+  --mdc-filled-button-label-text-color: black;
+  --mdc-filled-button-disabled-container-color: rgba(0, 0, 0, 0.12);
+  --mdc-filled-button-disabled-label-text-color: rgba(0, 0, 0, 0.38);
+  --mat-filled-button-state-layer-color: black;
+  --mat-filled-button-disabled-state-layer-color: black;
+  --mat-filled-button-ripple-color: rgba(0, 0, 0, 0.1);
+  --mat-filled-button-hover-state-layer-opacity: 0.04;
+  --mat-filled-button-focus-state-layer-opacity: 0.12;
+  --mat-filled-button-pressed-state-layer-opacity: 0.12;
+  --mdc-protected-button-container-color: white;
+  --mdc-protected-button-label-text-color: black;
+  --mdc-protected-button-disabled-container-color: rgba(0, 0, 0, 0.12);
+  --mdc-protected-button-disabled-label-text-color: rgba(0, 0, 0, 0.38);
+  --mdc-protected-button-container-elevation-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2), 0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 1px 5px 0px rgba(0, 0, 0, 0.12);
+  --mdc-protected-button-disabled-container-elevation-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.2), 0px 0px 0px 0px rgba(0, 0, 0, 0.14), 0px 0px 0px 0px rgba(0, 0, 0, 0.12);
+  --mdc-protected-button-focus-container-elevation-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+  --mdc-protected-button-hover-container-elevation-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+  --mdc-protected-button-pressed-container-elevation-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.2), 0px 8px 10px 1px rgba(0, 0, 0, 0.14), 0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+  --mdc-protected-button-container-shadow-color: #000;
+  --mat-protected-button-state-layer-color: black;
+  --mat-protected-button-disabled-state-layer-color: black;
+  --mat-protected-button-ripple-color: rgba(0, 0, 0, 0.1);
+  --mat-protected-button-hover-state-layer-opacity: 0.04;
+  --mat-protected-button-focus-state-layer-opacity: 0.12;
+  --mat-protected-button-pressed-state-layer-opacity: 0.12;
+  --mdc-outlined-button-disabled-outline-color: rgba(0, 0, 0, 0.12);
+  --mdc-outlined-button-disabled-label-text-color: rgba(0, 0, 0, 0.38);
+  --mdc-outlined-button-label-text-color: black;
+  --mdc-outlined-button-outline-color: rgba(0, 0, 0, 0.12);
+  --mat-outlined-button-state-layer-color: black;
+  --mat-outlined-button-disabled-state-layer-color: black;
+  --mat-outlined-button-ripple-color: rgba(0, 0, 0, 0.1);
+  --mat-outlined-button-hover-state-layer-opacity: 0.04;
+  --mat-outlined-button-focus-state-layer-opacity: 0.12;
+  --mat-outlined-button-pressed-state-layer-opacity: 0.12;
+}
+
+html {
+  --mdc-text-button-container-height: 36px;
+  --mdc-filled-button-container-height: 36px;
+  --mdc-outlined-button-container-height: 36px;
+  --mdc-protected-button-container-height: 36px;
+  --mat-text-button-touch-target-display: block;
+  --mat-filled-button-touch-target-display: block;
+  --mat-protected-button-touch-target-display: block;
+  --mat-outlined-button-touch-target-display: block;
+}
+
+html {
+  --mdc-icon-button-icon-size: 24px;
+}
+
+html {
+  --mdc-icon-button-icon-color: inherit;
+  --mdc-icon-button-disabled-icon-color: rgba(0, 0, 0, 0.38);
+  --mat-icon-button-state-layer-color: black;
+  --mat-icon-button-disabled-state-layer-color: black;
+  --mat-icon-button-ripple-color: rgba(0, 0, 0, 0.1);
+  --mat-icon-button-hover-state-layer-opacity: 0.04;
+  --mat-icon-button-focus-state-layer-opacity: 0.12;
+  --mat-icon-button-pressed-state-layer-opacity: 0.12;
+}
+
+html {
+  --mat-icon-button-touch-target-display: block;
+}
+
+html {
+  --mdc-fab-container-shape: 50%;
+  --mdc-fab-icon-size: 24px;
+  --mdc-fab-small-container-shape: 50%;
+  --mdc-fab-small-icon-size: 24px;
+  --mdc-extended-fab-container-height: 48px;
+  --mdc-extended-fab-container-shape: 24px;
+}
+
+html {
+  --mdc-fab-container-color: white;
+  --mdc-fab-container-elevation-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2), 0px 6px 10px 0px rgba(0, 0, 0, 0.14), 0px 1px 18px 0px rgba(0, 0, 0, 0.12);
+  --mdc-fab-focus-container-elevation-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.2), 0px 8px 10px 1px rgba(0, 0, 0, 0.14), 0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+  --mdc-fab-hover-container-elevation-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.2), 0px 8px 10px 1px rgba(0, 0, 0, 0.14), 0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+  --mdc-fab-pressed-container-elevation-shadow: 0px 7px 8px -4px rgba(0, 0, 0, 0.2), 0px 12px 17px 2px rgba(0, 0, 0, 0.14), 0px 5px 22px 4px rgba(0, 0, 0, 0.12);
+  --mdc-fab-container-shadow-color: #000;
+  --mat-fab-foreground-color: black;
+  --mat-fab-state-layer-color: black;
+  --mat-fab-disabled-state-layer-color: black;
+  --mat-fab-ripple-color: rgba(0, 0, 0, 0.1);
+  --mat-fab-hover-state-layer-opacity: 0.04;
+  --mat-fab-focus-state-layer-opacity: 0.12;
+  --mat-fab-pressed-state-layer-opacity: 0.12;
+  --mat-fab-disabled-state-container-color: rgba(0, 0, 0, 0.12);
+  --mat-fab-disabled-state-foreground-color: rgba(0, 0, 0, 0.38);
+  --mdc-fab-small-container-color: white;
+  --mdc-fab-small-container-elevation-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2), 0px 6px 10px 0px rgba(0, 0, 0, 0.14), 0px 1px 18px 0px rgba(0, 0, 0, 0.12);
+  --mdc-fab-small-focus-container-elevation-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.2), 0px 8px 10px 1px rgba(0, 0, 0, 0.14), 0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+  --mdc-fab-small-hover-container-elevation-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.2), 0px 8px 10px 1px rgba(0, 0, 0, 0.14), 0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+  --mdc-fab-small-pressed-container-elevation-shadow: 0px 7px 8px -4px rgba(0, 0, 0, 0.2), 0px 12px 17px 2px rgba(0, 0, 0, 0.14), 0px 5px 22px 4px rgba(0, 0, 0, 0.12);
+  --mdc-fab-small-container-shadow-color: #000;
+  --mat-fab-small-foreground-color: black;
+  --mat-fab-small-state-layer-color: black;
+  --mat-fab-small-disabled-state-layer-color: black;
+  --mat-fab-small-ripple-color: rgba(0, 0, 0, 0.1);
+  --mat-fab-small-hover-state-layer-opacity: 0.04;
+  --mat-fab-small-focus-state-layer-opacity: 0.12;
+  --mat-fab-small-pressed-state-layer-opacity: 0.12;
+  --mat-fab-small-disabled-state-container-color: rgba(0, 0, 0, 0.12);
+  --mat-fab-small-disabled-state-foreground-color: rgba(0, 0, 0, 0.38);
+  --mdc-extended-fab-container-elevation-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2), 0px 6px 10px 0px rgba(0, 0, 0, 0.14), 0px 1px 18px 0px rgba(0, 0, 0, 0.12);
+  --mdc-extended-fab-focus-container-elevation-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.2), 0px 8px 10px 1px rgba(0, 0, 0, 0.14), 0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+  --mdc-extended-fab-hover-container-elevation-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.2), 0px 8px 10px 1px rgba(0, 0, 0, 0.14), 0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+  --mdc-extended-fab-pressed-container-elevation-shadow: 0px 7px 8px -4px rgba(0, 0, 0, 0.2), 0px 12px 17px 2px rgba(0, 0, 0, 0.14), 0px 5px 22px 4px rgba(0, 0, 0, 0.12);
+  --mdc-extended-fab-container-shadow-color: #000;
+}
+
+html {
+  --mat-fab-touch-target-display: block;
+  --mat-fab-small-touch-target-display: block;
+}
+
+html {
+  --mdc-snackbar-container-shape: 4px;
+}
+
+html {
+  --mdc-snackbar-container-color: #333333;
+  --mdc-snackbar-supporting-text-color: rgba(255, 255, 255, 0.87);
+  --mat-snack-bar-button-color: #ff4081;
+}
+
+html {
+  --mat-table-row-item-outline-width: 1px;
+}
+
+html {
+  --mat-table-background-color: white;
+  --mat-table-header-headline-color: rgba(0, 0, 0, 0.87);
+  --mat-table-row-item-label-text-color: rgba(0, 0, 0, 0.87);
+  --mat-table-row-item-outline-color: rgba(0, 0, 0, 0.12);
+}
+
+html {
+  --mat-table-header-container-height: 56px;
+  --mat-table-footer-container-height: 52px;
+  --mat-table-row-item-container-height: 52px;
+}
+
+html {
+  --mdc-circular-progress-active-indicator-width: 4px;
+  --mdc-circular-progress-size: 48px;
+}
+
+html {
+  --mdc-circular-progress-active-indicator-color: #3f51b5;
+}
+
+html {
+  --mat-badge-container-shape: 50%;
+  --mat-badge-container-size: unset;
+  --mat-badge-small-size-container-size: unset;
+  --mat-badge-large-size-container-size: unset;
+  --mat-badge-legacy-container-size: 22px;
+  --mat-badge-legacy-small-size-container-size: 16px;
+  --mat-badge-legacy-large-size-container-size: 28px;
+  --mat-badge-container-offset: -11px 0;
+  --mat-badge-small-size-container-offset: -8px 0;
+  --mat-badge-large-size-container-offset: -14px 0;
+  --mat-badge-container-overlap-offset: -11px;
+  --mat-badge-small-size-container-overlap-offset: -8px;
+  --mat-badge-large-size-container-overlap-offset: -14px;
+  --mat-badge-container-padding: 0;
+  --mat-badge-small-size-container-padding: 0;
+  --mat-badge-large-size-container-padding: 0;
+}
+
+html {
+  --mat-badge-background-color: #3f51b5;
+  --mat-badge-text-color: white;
+  --mat-badge-disabled-state-background-color: #b9b9b9;
+  --mat-badge-disabled-state-text-color: rgba(0, 0, 0, 0.38);
+}
+
+html {
+  --mat-bottom-sheet-container-shape: 4px;
+}
+
+html {
+  --mat-bottom-sheet-container-text-color: rgba(0, 0, 0, 0.87);
+  --mat-bottom-sheet-container-background-color: white;
+}
+
+html {
+  --mat-legacy-button-toggle-height: 36px;
+  --mat-legacy-button-toggle-shape: 2px;
+  --mat-legacy-button-toggle-focus-state-layer-opacity: 1;
+  --mat-standard-button-toggle-shape: 4px;
+  --mat-standard-button-toggle-hover-state-layer-opacity: 0.04;
+  --mat-standard-button-toggle-focus-state-layer-opacity: 0.12;
+}
+
+html {
+  --mat-legacy-button-toggle-text-color: rgba(0, 0, 0, 0.38);
+  --mat-legacy-button-toggle-state-layer-color: rgba(0, 0, 0, 0.12);
+  --mat-legacy-button-toggle-selected-state-text-color: rgba(0, 0, 0, 0.54);
+  --mat-legacy-button-toggle-selected-state-background-color: #e0e0e0;
+  --mat-legacy-button-toggle-disabled-state-text-color: rgba(0, 0, 0, 0.26);
+  --mat-legacy-button-toggle-disabled-state-background-color: #eeeeee;
+  --mat-legacy-button-toggle-disabled-selected-state-background-color: #bdbdbd;
+  --mat-standard-button-toggle-text-color: rgba(0, 0, 0, 0.87);
+  --mat-standard-button-toggle-background-color: white;
+  --mat-standard-button-toggle-state-layer-color: black;
+  --mat-standard-button-toggle-selected-state-background-color: #e0e0e0;
+  --mat-standard-button-toggle-selected-state-text-color: rgba(0, 0, 0, 0.87);
+  --mat-standard-button-toggle-disabled-state-text-color: rgba(0, 0, 0, 0.26);
+  --mat-standard-button-toggle-disabled-state-background-color: white;
+  --mat-standard-button-toggle-disabled-selected-state-text-color: rgba(0, 0, 0, 0.87);
+  --mat-standard-button-toggle-disabled-selected-state-background-color: #bdbdbd;
+  --mat-standard-button-toggle-divider-color: #e0e0e0;
+}
+
+html {
+  --mat-standard-button-toggle-height: 48px;
+}
+
+html {
+  --mat-datepicker-calendar-container-shape: 4px;
+  --mat-datepicker-calendar-container-touch-shape: 4px;
+  --mat-datepicker-calendar-container-elevation-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+  --mat-datepicker-calendar-container-touch-elevation-shadow: 0px 11px 15px -7px rgba(0, 0, 0, 0.2), 0px 24px 38px 3px rgba(0, 0, 0, 0.14), 0px 9px 46px 8px rgba(0, 0, 0, 0.12);
+}
+
+html {
+  --mat-datepicker-calendar-date-selected-state-text-color: white;
+  --mat-datepicker-calendar-date-selected-state-background-color: #3f51b5;
+  --mat-datepicker-calendar-date-selected-disabled-state-background-color: rgba(63, 81, 181, 0.4);
+  --mat-datepicker-calendar-date-today-selected-state-outline-color: white;
+  --mat-datepicker-calendar-date-focus-state-background-color: rgba(63, 81, 181, 0.3);
+  --mat-datepicker-calendar-date-hover-state-background-color: rgba(63, 81, 181, 0.3);
+  --mat-datepicker-toggle-active-state-icon-color: #3f51b5;
+  --mat-datepicker-calendar-date-in-range-state-background-color: rgba(63, 81, 181, 0.2);
+  --mat-datepicker-calendar-date-in-comparison-range-state-background-color: rgba(249, 171, 0, 0.2);
+  --mat-datepicker-calendar-date-in-overlap-range-state-background-color: #a8dab5;
+  --mat-datepicker-calendar-date-in-overlap-range-selected-state-background-color: #46a35e;
+  --mat-datepicker-toggle-icon-color: rgba(0, 0, 0, 0.54);
+  --mat-datepicker-calendar-body-label-text-color: rgba(0, 0, 0, 0.54);
+  --mat-datepicker-calendar-period-button-text-color: black;
+  --mat-datepicker-calendar-period-button-icon-color: rgba(0, 0, 0, 0.54);
+  --mat-datepicker-calendar-navigation-button-icon-color: rgba(0, 0, 0, 0.54);
+  --mat-datepicker-calendar-header-divider-color: rgba(0, 0, 0, 0.12);
+  --mat-datepicker-calendar-header-text-color: rgba(0, 0, 0, 0.54);
+  --mat-datepicker-calendar-date-today-outline-color: rgba(0, 0, 0, 0.38);
+  --mat-datepicker-calendar-date-today-disabled-state-outline-color: rgba(0, 0, 0, 0.18);
+  --mat-datepicker-calendar-date-text-color: rgba(0, 0, 0, 0.87);
+  --mat-datepicker-calendar-date-outline-color: transparent;
+  --mat-datepicker-calendar-date-disabled-state-text-color: rgba(0, 0, 0, 0.38);
+  --mat-datepicker-calendar-date-preview-state-outline-color: rgba(0, 0, 0, 0.24);
+  --mat-datepicker-range-input-separator-color: rgba(0, 0, 0, 0.87);
+  --mat-datepicker-range-input-disabled-state-separator-color: rgba(0, 0, 0, 0.38);
+  --mat-datepicker-range-input-disabled-state-text-color: rgba(0, 0, 0, 0.38);
+  --mat-datepicker-calendar-container-background-color: white;
+  --mat-datepicker-calendar-container-text-color: rgba(0, 0, 0, 0.87);
+}
+
+html {
+  --mat-divider-width: 1px;
+}
+
+html {
+  --mat-divider-color: rgba(0, 0, 0, 0.12);
+}
+
+html {
+  --mat-expansion-container-shape: 4px;
+  --mat-expansion-legacy-header-indicator-display: inline-block;
+  --mat-expansion-header-indicator-display: none;
+}
+
+html {
+  --mat-expansion-container-background-color: white;
+  --mat-expansion-container-text-color: rgba(0, 0, 0, 0.87);
+  --mat-expansion-actions-divider-color: rgba(0, 0, 0, 0.12);
+  --mat-expansion-header-hover-state-layer-color: rgba(0, 0, 0, 0.04);
+  --mat-expansion-header-focus-state-layer-color: rgba(0, 0, 0, 0.04);
+  --mat-expansion-header-disabled-state-text-color: rgba(0, 0, 0, 0.26);
+  --mat-expansion-header-text-color: rgba(0, 0, 0, 0.87);
+  --mat-expansion-header-description-color: rgba(0, 0, 0, 0.54);
+  --mat-expansion-header-indicator-color: rgba(0, 0, 0, 0.54);
+}
+
+html {
+  --mat-expansion-header-collapsed-state-height: 48px;
+  --mat-expansion-header-expanded-state-height: 64px;
+}
+
+html {
+  --mat-icon-color: inherit;
+}
+
+html {
+  --mat-sidenav-container-shape: 0;
+  --mat-sidenav-container-elevation-shadow: 0px 8px 10px -5px rgba(0, 0, 0, 0.2), 0px 16px 24px 2px rgba(0, 0, 0, 0.14), 0px 6px 30px 5px rgba(0, 0, 0, 0.12);
+  --mat-sidenav-container-width: auto;
+}
+
+html {
+  --mat-sidenav-container-divider-color: rgba(0, 0, 0, 0.12);
+  --mat-sidenav-container-background-color: white;
+  --mat-sidenav-container-text-color: rgba(0, 0, 0, 0.87);
+  --mat-sidenav-content-background-color: #fafafa;
+  --mat-sidenav-content-text-color: rgba(0, 0, 0, 0.87);
+  --mat-sidenav-scrim-color: rgba(0, 0, 0, 0.6);
+}
+
+html {
+  --mat-stepper-header-icon-foreground-color: white;
+  --mat-stepper-header-selected-state-icon-background-color: #3f51b5;
+  --mat-stepper-header-selected-state-icon-foreground-color: white;
+  --mat-stepper-header-done-state-icon-background-color: #3f51b5;
+  --mat-stepper-header-done-state-icon-foreground-color: white;
+  --mat-stepper-header-edit-state-icon-background-color: #3f51b5;
+  --mat-stepper-header-edit-state-icon-foreground-color: white;
+  --mat-stepper-container-color: white;
+  --mat-stepper-line-color: rgba(0, 0, 0, 0.12);
+  --mat-stepper-header-hover-state-layer-color: rgba(0, 0, 0, 0.04);
+  --mat-stepper-header-focus-state-layer-color: rgba(0, 0, 0, 0.04);
+  --mat-stepper-header-label-text-color: rgba(0, 0, 0, 0.54);
+  --mat-stepper-header-optional-label-text-color: rgba(0, 0, 0, 0.54);
+  --mat-stepper-header-selected-state-label-text-color: rgba(0, 0, 0, 0.87);
+  --mat-stepper-header-error-state-label-text-color: #f44336;
+  --mat-stepper-header-icon-background-color: rgba(0, 0, 0, 0.54);
+  --mat-stepper-header-error-state-icon-foreground-color: #f44336;
+  --mat-stepper-header-error-state-icon-background-color: transparent;
+}
+
+html {
+  --mat-stepper-header-height: 72px;
+}
+
+html {
+  --mat-sort-arrow-color: #757575;
+}
+
+html {
+  --mat-toolbar-container-background-color: whitesmoke;
+  --mat-toolbar-container-text-color: rgba(0, 0, 0, 0.87);
+}
+
+html {
+  --mat-toolbar-standard-height: 64px;
+  --mat-toolbar-mobile-height: 56px;
+}
+
+html {
+  --mat-tree-container-background-color: white;
+  --mat-tree-node-text-color: rgba(0, 0, 0, 0.87);
+}
+
+html {
+  --mat-tree-node-min-height: 48px;
+}
+
+/** Ionic CSS Variables **/
+:root {
+  /** primary **/
+  --ion-color-primary: #3880ff;
+  --ion-color-primary-rgb: 56, 128, 255;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #3171e0;
+  --ion-color-primary-tint: #4c8dff;
+  /** secondary **/
+  --ion-color-secondary: #3dc2ff;
+  --ion-color-secondary-rgb: 61, 194, 255;
+  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-secondary-contrast-rgb: 255, 255, 255;
+  --ion-color-secondary-shade: #36abe0;
+  --ion-color-secondary-tint: #50c8ff;
+  /** tertiary **/
+  --ion-color-tertiary: #5260ff;
+  --ion-color-tertiary-rgb: 82, 96, 255;
+  --ion-color-tertiary-contrast: #ffffff;
+  --ion-color-tertiary-contrast-rgb: 255, 255, 255;
+  --ion-color-tertiary-shade: #4854e0;
+  --ion-color-tertiary-tint: #6370ff;
+  /** success **/
+  --ion-color-success: #2dd36f;
+  --ion-color-success-rgb: 45, 211, 111;
+  --ion-color-success-contrast: #ffffff;
+  --ion-color-success-contrast-rgb: 255, 255, 255;
+  --ion-color-success-shade: #28ba62;
+  --ion-color-success-tint: #42d77d;
+  /** warning **/
+  --ion-color-warning: #ffc409;
+  --ion-color-warning-rgb: 255, 196, 9;
+  --ion-color-warning-contrast: #000000;
+  --ion-color-warning-contrast-rgb: 0, 0, 0;
+  --ion-color-warning-shade: #e0ac08;
+  --ion-color-warning-tint: #ffca22;
+  /** danger **/
+  --ion-color-danger: #D7182A;
+  --ion-color-danger-rgb: 235, 68, 90;
+  --ion-color-danger-contrast: #ffffff;
+  --ion-color-danger-contrast-rgb: 255, 255, 255;
+  --ion-color-danger-shade: #cf3c4f;
+  --ion-color-danger-tint: #ed576b;
+  /** dark **/
+  --ion-color-dark: #222428;
+  --ion-color-dark-rgb: 34, 36, 40;
+  --ion-color-dark-contrast: #ffffff;
+  --ion-color-dark-contrast-rgb: 255, 255, 255;
+  --ion-color-dark-shade: #1e2023;
+  --ion-color-dark-tint: #383a3e;
+  /** medium **/
+  --ion-color-medium: #92949c;
+  --ion-color-medium-rgb: 146, 148, 156;
+  --ion-color-medium-contrast: #ffffff;
+  --ion-color-medium-contrast-rgb: 255, 255, 255;
+  --ion-color-medium-shade: #808289;
+  --ion-color-medium-tint: #9d9fa6;
+  /** light **/
+  --ion-color-light: #f4f5f8;
+  --ion-color-light-rgb: 244, 245, 248;
+  --ion-color-light-contrast: #000000;
+  --ion-color-light-contrast-rgb: 0, 0, 0;
+  --ion-color-light-shade: #d7d8da;
+  --ion-color-light-tint: #f5f6f9;
+}
+
+@media (prefers-color-scheme: dark) {
+  /*
+   * Dark Colors
+   * -------------------------------------------
+   */
+  body {
+    --ion-color-primary: #428cff;
+    --ion-color-primary-rgb: 66, 140, 255;
+    --ion-color-primary-contrast: #ffffff;
+    --ion-color-primary-contrast-rgb: 255, 255, 255;
+    --ion-color-primary-shade: #3a7be0;
+    --ion-color-primary-tint: #5598ff;
+    --ion-color-secondary: #50c8ff;
+    --ion-color-secondary-rgb: 80, 200, 255;
+    --ion-color-secondary-contrast: #ffffff;
+    --ion-color-secondary-contrast-rgb: 255, 255, 255;
+    --ion-color-secondary-shade: #46b0e0;
+    --ion-color-secondary-tint: #62ceff;
+    --ion-color-tertiary: #6a64ff;
+    --ion-color-tertiary-rgb: 106, 100, 255;
+    --ion-color-tertiary-contrast: #ffffff;
+    --ion-color-tertiary-contrast-rgb: 255, 255, 255;
+    --ion-color-tertiary-shade: #5d58e0;
+    --ion-color-tertiary-tint: #7974ff;
+    --ion-color-success: #2fdf75;
+    --ion-color-success-rgb: 47, 223, 117;
+    --ion-color-success-contrast: #000000;
+    --ion-color-success-contrast-rgb: 0, 0, 0;
+    --ion-color-success-shade: #29c467;
+    --ion-color-success-tint: #44e283;
+    --ion-color-warning: #ffd534;
+    --ion-color-warning-rgb: 255, 213, 52;
+    --ion-color-warning-contrast: #000000;
+    --ion-color-warning-contrast-rgb: 0, 0, 0;
+    --ion-color-warning-shade: #e0bb2e;
+    --ion-color-warning-tint: #ffd948;
+    --ion-color-danger: #D7182A;
+    --ion-color-danger-rgb: 255, 73, 97;
+    --ion-color-danger-contrast: #ffffff;
+    --ion-color-danger-contrast-rgb: 255, 255, 255;
+    --ion-color-danger-shade: #e04055;
+    --ion-color-danger-tint: #ff5b71;
+    --ion-color-dark: #f4f5f8;
+    --ion-color-dark-rgb: 244, 245, 248;
+    --ion-color-dark-contrast: #000000;
+    --ion-color-dark-contrast-rgb: 0, 0, 0;
+    --ion-color-dark-shade: #d7d8da;
+    --ion-color-dark-tint: #f5f6f9;
+    --ion-color-medium: #989aa2;
+    --ion-color-medium-rgb: 152, 154, 162;
+    --ion-color-medium-contrast: #000000;
+    --ion-color-medium-contrast-rgb: 0, 0, 0;
+    --ion-color-medium-shade: #86888f;
+    --ion-color-medium-tint: #a2a4ab;
+    --ion-color-light: #fff;
+    --ion-color-light-rgb: 34, 36, 40;
+    --ion-color-light-contrast: #ffffff;
+    --ion-color-light-contrast-rgb: 255, 255, 255;
+    --ion-color-light-shade: #1e2023;
+    --ion-color-light-tint: #383a3e;
+  }
+  /*
+   * iOS Dark Theme
+   * -------------------------------------------
+   */
+  /*
+   * Material Design Dark Theme
+   * -------------------------------------------
+   */
+}
+html {
+  /* 
+   * For more information on dynamic font scaling, visit the documentation:
+   * https://ionicframework.com/docs/layout/dynamic-font-scaling
+   */
+  --ion-dynamic-font: var(--ion-default-dynamic-font);
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+/*!*****************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/core.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************/html{--ion-default-dynamic-font: -apple-system-body;--ion-font-family: var(--ion-default-font)}body{background:var(--ion-background-color)}.ion-page{left:0;right:0;top:0;bottom:0;display:flex;position:absolute;flex-direction:column;justify-content:space-between;contain:layout size style;z-index:0}.ion-page-invisible{opacity:0}@supports(padding-top: 20px){html{--ion-safe-area-top: var(--ion-statusbar-padding)}}@supports(padding-top: env(safe-area-inset-top)){html{--ion-safe-area-top: env(safe-area-inset-top);--ion-safe-area-bottom: env(safe-area-inset-bottom);--ion-safe-area-left: env(safe-area-inset-left);--ion-safe-area-right: env(safe-area-inset-right)}}/*# sourceMappingURL=core.css.map */
+
+/*!**********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/normalize.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************/img{max-width:100%}/*# sourceMappingURL=normalize.css.map */
+
+/*!**********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/structure.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************/
+*{box-sizing:border-box;-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-tap-highlight-color:transparent;-webkit-touch-callout:none}html{width:100%;height:100%;-webkit-text-size-adjust:100%;text-size-adjust:100%}html:not(.hydrated) body{display:none}body{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;margin-left:0;margin-right:0;margin-top:0;margin-bottom:0;padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;position:fixed;width:100%;max-width:100%;height:100%;max-height:100%;transform:translateZ(0);text-rendering:optimizeLegibility;overflow:hidden;touch-action:manipulation;-webkit-user-drag:none;-ms-content-zooming:none;word-wrap:break-word;overscroll-behavior-y:none;-webkit-text-size-adjust:none;text-size-adjust:none}/*# sourceMappingURL=structure.css.map */
+
+/*!***********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/typography.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************/
+html{font-family:var(--ion-font-family)}@supports(-webkit-touch-callout: none){html{font:var(--ion-dynamic-font, 16px var(--ion-font-family))}}/*# sourceMappingURL=typography.css.map */
+
+/*!********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/display.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************//*# sourceMappingURL=display.css.map */
+
+/*!********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/padding.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************//*# sourceMappingURL=padding.css.map */
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/float-elements.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************//*# sourceMappingURL=float-elements.css.map */
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/text-alignment.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************//*# sourceMappingURL=text-alignment.css.map */
+
+/*!********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/text-transformation.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************//*# sourceMappingURL=text-transformation.css.map */
+
+/*!***********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@ionic/angular/css/flex-utils.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************//*# sourceMappingURL=flex-utils.css.map */
+
+/*!********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/slick-carousel/slick/slick.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************/
+/* Slider */
+
+/*!**************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/slick-carousel/slick/slick-theme.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************/
+@charset 'UTF-8';
+/* Slider */
+
+/* Icons */
+/* Arrows */
+
+/* Dots */
+
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/@fortawesome/fontawesome-free/css/all.min.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************/
+/*!
+ * Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ * Copyright 2024 Fonticons, Inc.
+ */:root{--fa-style-family-brands:"Font Awesome 6 Brands";--fa-font-brands:normal 400 1em/1 "Font Awesome 6 Brands"}@font-face{font-family:"Font Awesome 6 Brands";font-style:normal;font-weight:400;font-display:block;src:url('fa-brands-400.86ee2658f0f3b5a5.woff2') format("woff2"),url('fa-brands-400.8eaf0c8893de015e.ttf') format("truetype")}:root{--fa-font-regular:normal 400 1em/1 "Font Awesome 6 Free"}@font-face{font-family:"Font Awesome 6 Free";font-style:normal;font-weight:400;font-display:block;src:url('fa-regular-400.849b82e233cfe2f9.woff2') format("woff2"),url('fa-regular-400.bd1cf947e4932a4d.ttf') format("truetype")}:root{--fa-style-family-classic:"Font Awesome 6 Free";--fa-font-solid:normal 900 1em/1 "Font Awesome 6 Free"}@font-face{font-family:"Font Awesome 6 Free";font-style:normal;font-weight:900;font-display:block;src:url('fa-solid-900.ee6983981ffcbb41.woff2') format("woff2"),url('fa-solid-900.7a5aa5abd625137f.ttf') format("truetype")}
+/*!************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./src/assets/styles/bootstrap.min.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";/*!
+ * Bootstrap  v5.2.3 (https://getbootstrap.com/)
+ * Copyright 2011-2022 The Bootstrap Authors
+ * Copyright 2011-2022 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */:root{--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-black:#000;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-gray-100:#f8f9fa;--bs-gray-200:#e9ecef;--bs-gray-300:#dee2e6;--bs-gray-400:#ced4da;--bs-gray-500:#adb5bd;--bs-gray-600:#6c757d;--bs-gray-700:#495057;--bs-gray-800:#343a40;--bs-gray-900:#212529;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-primary-rgb:13,110,253;--bs-secondary-rgb:108,117,125;--bs-success-rgb:25,135,84;--bs-info-rgb:13,202,240;--bs-warning-rgb:255,193,7;--bs-danger-rgb:220,53,69;--bs-light-rgb:248,249,250;--bs-dark-rgb:33,37,41;--bs-white-rgb:255,255,255;--bs-black-rgb:0,0,0;--bs-body-color-rgb:33,37,41;--bs-body-bg-rgb:255,255,255;--bs-font-sans-serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--bs-font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;--bs-gradient:linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));--bs-body-font-family:var(--bs-font-sans-serif);--bs-body-font-size:1rem;--bs-body-font-weight:400;--bs-body-line-height:1.5;--bs-body-color:#212529;--bs-body-bg:#fff;--bs-border-width:1px;--bs-border-style:solid;--bs-border-color:#dee2e6;--bs-border-color-translucent:rgba(0, 0, 0, 0.175);--bs-border-radius:0.375rem;--bs-border-radius-sm:0.25rem;--bs-border-radius-lg:0.5rem;--bs-border-radius-xl:1rem;--bs-border-radius-2xl:2rem;--bs-border-radius-pill:50rem;--bs-link-color:#0d6efd;--bs-link-hover-color:#0a58ca;--bs-code-color:#d63384;--bs-highlight-bg:#fff3cd}*,::after,::before{box-sizing:border-box}@media (prefers-reduced-motion:no-preference){:root{scroll-behavior:smooth}}body{margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent}img{vertical-align:middle}iframe{border:0}
+/*# sourceMappingURL=bootstrap.min.css.map */
+/*!****************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./src/assets/styles/media.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************/
+@media only screen and (max-width: 480px) {
+
+      /*
+      * Fiter
+      */
+
+      /*
+      * Deals Banner
+      */
+
+      /*
+      * page deals detail
+      */
+
+      /*
+      *  deals rooms
+      */
+
+
+}
+
+
+@media only screen and (max-width: 768px) {
+
+      /*
+      * page deals detail
+      */
+
+}
+
+@media only screen and (max-width: 990px) {
+
+      /*
+      * Filter
+      */
+
+      /*
+      * page deals detail
+      */
+
+      /*
+      *  deals rooms
+      */
+}
+
+@media only screen and (max-width: 991px) {
+
+      /*
+      * Filter
+      */
+}
+
+@media only screen and (max-width: 1366px) and (min-width: 1024px) {
+
+      /*
+      * Filter
+      */
+
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/lightgallery/css/lightgallery.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************/
+
+/*# sourceMappingURL=lightgallery.css.map */
+
+/*!***********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/lightgallery/css/lg-thumbnail.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************/
+
+/*# sourceMappingURL=lg-thumbnail.css.map */
+
+/*!******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/lightgallery/css/lg-zoom.css ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************/
+
+/*# sourceMappingURL=lg-zoom.css.map */
+
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[6].rules[1].use[0]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[6].rules[1].use[1]!./src/global.scss?ngGlobalStyle ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*
+ * App Global CSS
+ * ----------------------------------------------------------------------------
+ * Put style rules here that you want to apply globally. These styles are for
+ * the entire app and not just one component. Additionally, this file can be
+ * used as an entry point to import other CSS/Sass files to be included in the
+ * output CSS.
+ * For more information on global stylesheets, visit the documentation:
+ * https://ionicframework.com/docs/layout/global-stylesheets
+ */
+/* Core CSS required for Ionic components to work properly */
+/* Basic CSS for apps built with Ionic */
+/* Optional CSS utils that can be commented out */
+/** Swiper use */
+/**
+ * Swiper 11.2.10
+ * Most modern mobile touch slider and framework with hardware accelerated transitions
+ * https://swiperjs.com
+ *
+ * Copyright 2014-2025 Vladimir Kharlampidi
+ *
+ * Released under the MIT License
+ *
+ * Released on: June 28, 2025
+ */
+:root {
+  --swiper-theme-color: #007aff;
+  /*
+  --swiper-preloader-color: var(--swiper-theme-color);
+  --swiper-wrapper-transition-timing-function: initial;
+  */
+}
+
+/* Auto Height */
+
+/* 3D Effects */
+
+/* CSS Mode */
+
+/* Slide styles start */
+/* 3D Shadows */
+/* Slide styles end */
+:root {
+  --swiper-navigation-size: 44px;
+  /*
+  --swiper-navigation-top-offset: 50%;
+  --swiper-navigation-sides-offset: 10px;
+  --swiper-navigation-color: var(--swiper-theme-color);
+  */
+}
+
+/* Navigation font start */
+
+/* Navigation font end */
+:root {
+  /*
+  --swiper-pagination-color: var(--swiper-theme-color);
+  --swiper-pagination-left: auto;
+  --swiper-pagination-right: 8px;
+  --swiper-pagination-bottom: 8px;
+  --swiper-pagination-top: auto;
+  --swiper-pagination-fraction-color: inherit;
+  --swiper-pagination-progressbar-bg-color: rgba(0,0,0,0.25);
+  --swiper-pagination-progressbar-size: 4px;
+  --swiper-pagination-bullet-size: 8px;
+  --swiper-pagination-bullet-width: 8px;
+  --swiper-pagination-bullet-height: 8px;
+  --swiper-pagination-bullet-border-radius: 50%;
+  --swiper-pagination-bullet-inactive-color: #000;
+  --swiper-pagination-bullet-inactive-opacity: 0.2;
+  --swiper-pagination-bullet-opacity: 1;
+  --swiper-pagination-bullet-horizontal-gap: 4px;
+  --swiper-pagination-bullet-vertical-gap: 6px;
+  */
+}
+
+/* Common Styles */
+
+/* Bullets */
+
+/* Fraction */
+
+/* Progress */
+
+/* Import ngx-sharebuttons global styles */
+/** Colors variables */
+
+/* Import ngx-sharebuttons modern theme styles */
+/** Colors variables */
+
+/** bootstrap */
+/** lightgallery */
+
+/** Fonts */
+
+/* Remove number input arrows for all browsers */
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/slick-carousel/slick/slick.css?ngGlobalStyle ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************/
+/* Slider */
+
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/slick-carousel/slick/slick-theme.css?ngGlobalStyle ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset 'UTF-8'
+/* Slider */
+
+/* Icons */
+/* Arrows */
+
+/* Dots */
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/lightgallery/css/lg-thumbnail.css?ngGlobalStyle ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*# sourceMappingURL=lg-thumbnail.css.map */
+
+/*!********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/lightgallery/css/lg-zoom.css?ngGlobalStyle ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*# sourceMappingURL=lg-zoom.css.map */
+
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/lightgallery/css/lg-fullscreen.css?ngGlobalStyle ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*# sourceMappingURL=lg-fullscreen.css.map */
+
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/lightgallery/css/lightgallery-bundle.css?ngGlobalStyle ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*# sourceMappingURL=lightgallery-bundle.css.map */
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/lightgallery/css/lightgallery.css?ngGlobalStyle ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*# sourceMappingURL=lightgallery.css.map */
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./src/assets/styles/flipbook.style.css?ngGlobalStyle ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************/
+/*icomoon CSS*/
+
+
+/*icomoon CSS end*/
+
+
+
+
+/*.flipbook-menu-title {
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif !important;
+    font-size: 16px;
+    text-align: center;
+    display: block;
+    padding: 10px 0;
+    width: 100%;
+}*/
+
+
+
+
+/*
+.flipbook-totalPages {
+    background: none;  box-shadow: none;
+    position: absolute !important;
+    padding-left: 3em !important;
+    border: none !important;
+    width: 3em !important;
+    
+    font-size: 1.2em !important;
+    font-family: 'Open Sans','Helvetica Neue', Arial, sans-serif;
+    
+    text-align: left !important;
+    line-height: 30px !important;
+    
+    z-index: 9999;
+    height: 35px;
+}*/
+
+
+
+
+/* img{
+    -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    -o-transform: translateZ(0);
+    transform: translateZ(0);
+} */
+
+
+/* ui */
+
+
+
+
+/*dark*/
+
+
+
+
+/*light*/
+
+
+
+
+/*twilight*/
+
+
+
+
+/*darkgrey*/
+
+
+
+
+/*lightgrey*/
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+
+
+
+
+/*share*/
+
+
+/** preloader*/
+
+
+
+
+/**new preloader end*/
+
+
+
+
+/* Copyright 2014 Mozilla Foundation
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+/*.flipbook-page-simple-inner img{
+    transform:translateZ(0);
+}
+
+.flipbook-page-simple-inner canvas{
+    transform:translateZ(0);
+}*/
+
+/* print.js https://github.com/crabbly/Print.js/releases/tag/v1.5.0 */
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/flatpickr/dist/themes/material_blue.css?ngGlobalStyle ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************/
+/*
+      /*rtl:begin:ignore*/
+/*
+      /*rtl:end:ignore*/
+/*
+      /*rtl:begin:ignore*/
+/*
+      /*rtl:end:ignore*/
+
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].rules[0].oneOf[0].use[2]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[6].rules[1].use[0]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[6].rules[1].use[1]!./src/scss/local-style.scss?ngGlobalStyle ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* --------------------------------*/
+/* Start : Don't Change The Flow   */
+/* --------------------------------*/
+/* ----------------------*/
+/* Start : Font family   */
+/* ----------------------*/
+/* ----------------------*/
+/* End   : Font family   */
+/* ----------------------*/
+/* -----------------*/
+/* Start : Colors   */
+/* -----------------*/
+/* -----------------*/
+/* End   : Colors   */
+/* -----------------*/
+/* --------------------*/
+/* Start : Font Path   */
+/* --------------------*/
+/* --------------------*/
+/* End   : Font Path   */
+/* --------------------*/
+/* ----------------------*/
+/* Start : Image Path    */
+/* ----------------------*/
+/* ----------------------*/
+/* End   : Image Path    */
+/* ----------------------*/
+/* ----------------------------*/
+/* Start : Convert px to rem   */
+/* ----------------------------*/
+/* ----------------------------*/
+/* End   : Convert px to rem   */
+/* ----------------------------*/
+/* ----------------------------*/
+/* Start : Convert px to rem   */
+/* ----------------------------*/
+/* ----------------------------*/
+/* End   : Convert px to rem   */
+/* ----------------------------*/
+/* -------------------------- */
+/* Start : Generate Font Size */
+/* -------------------------- */
+/* ------------------------ */
+/* End : Generate Font Size */
+/* ------------------------ */
+/* -----------------*/
+/* Start : Colors   */
+/* -----------------*/
+/* -----------------*/
+/* End   : Colors   */
+/* -----------------*/
+
+/* --------------------------------*/
+/* End   : Don't Change The Flow   */
+/* --------------------------------*/
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/photo-sphere-viewer/dist/photo-sphere-viewer.css?ngGlobalStyle ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!
+ * Photo Sphere Viewer 4.8.1
+ * @copyright 2014-2015 Jérémy Heleine
+ * @copyright 2015-2022 Damien "Mistic" Sorel
+ * @licence MIT (https://opensource.org/licenses/MIT)
+ */
+/*# sourceMappingURL=photo-sphere-viewer.css.map */
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./src/assets/styles/roboto.css?ngGlobalStyle ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/@angular-devkit/build-angular/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./src/assets/styles/material-icons.css?ngGlobalStyle ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*# sourceMappingURL=styles.ad8ebc0a99ff43c6.css.map*/</style><link rel="stylesheet" href="styles.ad8ebc0a99ff43c6.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.ad8ebc0a99ff43c6.css"></noscript><style ng-app-id="ng">/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJhcHAuY29tcG9uZW50LnNjc3MifQ== */
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3NyYy9hcHAvYXBwLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFDQSxnS0FBZ0siLCJzb3VyY2VSb290IjoiIn0= */</style><style ng-app-id="ng">/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJyZWRpcmVjdC5jb21wb25lbnQuc2NzcyJ9 */
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL3NyYy9hcHAvY29tcG9uZW50cy9yZWRpcmVjdC9yZWRpcmVjdC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQ0Esb0tBQW9LIiwic291cmNlUm9vdCI6IiJ9 */</style></head>
+
+<body class="mat-typography"><!--nghm-->
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MCRD2GN4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <app-root _nghost-ng-c1005703465 ng-version="17.3.12" ngh="1" ng-server-context="ssr"><ion-app _ngcontent-ng-c1005703465 ngh="0"><app-non-ssr-outlet-wrapper _ngcontent-ng-c1005703465 ngskiphydration="true"><ion-router-outlet><app-redirect _nghost-ng-c2209493232 class="ion-page ion-page-invisible"></app-redirect></ion-router-outlet><!--container--></app-non-ssr-outlet-wrapper></ion-app></app-root>
+<script src="runtime.e1ad4e8ec0c4013a.js" type="module"></script><script src="polyfills.028757cb9bb6df98.js" type="module"></script><script src="scripts.d10d4f5d311099d5.js" defer></script><script src="vendor.a980b212ced7b4a8.js" type="module"></script><script src="main.89cd3b6912bf6c90.js" type="module"></script>
+
+<div class="cdk-live-announcer-element cdk-visually-hidden" aria-atomic="true" aria-live="polite" id="cdk-live-announcer-331"></div><script id="ng-state" type="application/json">{"2640406905":{"b":{"#wearehere":"#wearehere","Deals for You":"Deals for You","Our Destinations":"Our Destinations","Experiences that go beyond.":"Experiences that go beyond.","With StarDream Cruises, we have something for everyone on board. Eat out at our":"With StarDream Cruises, we have something for everyone on board. Eat out at our","world-class dining options, go for a thrilling ride on a 35m over-the-water zipline, pick up a":"world-class dining options, go for a thrilling ride on a 35m over-the-water zipline, pick up a","new skill at our workshops, shop till you drop, or even party the night away at Zouk.":"new skill at our workshops, shop till you drop, or even party the night away at Zouk.","FIND OUT MORE":"FIND OUT MORE","CONTACT US":"CONTACT US","MANAGE":"MANAGE","Check In":"Check In","Know Before You Sail":"Know Before You Sail","Prepare For Your Cruise":"Prepare For Your Cruise","Book A Cruise":"Book A Cruise","Contact Us":"Contact Us","Select Language":"Select Language","© 2026 StarDream Cruises. All rights reserved.":"© 2026 StarDream Cruises. All rights reserved.","At StarDream Cruises, we bring the classic resort experience to":"At StarDream Cruises, we bring the classic resort experience to","you even while at sea. Enjoy elevated experience while you explore":"you even while at sea. Enjoy elevated experience while you explore","all that Southeast Asia has to offer.":"all that Southeast Asia has to offer.","Stay Connected":"Stay Connected","SUBSCRIBE TO OUR NEWSLETTER":"SUBSCRIBE TO OUR NEWSLETTER","Please fill in this field.":"Please fill in this field.","Subscribe":"Subscribe","Careers":"Careers","Media & Resources":"Media & Resources","Partner Resource Center":"Partner Resource Center","Resorts World Cruise":"Resorts World Cruise","Bill of Rights":"Bill of Rights","Privacy Policy":"Privacy Policy","Cookie Policy":"Cookie Policy","Terms of Usage":"Terms of Usage","Passage Terms":"Passage Terms","Terms & Conditions":"Terms & Conditions","Resorts World Cruises":"Resorts World Cruises","Any Destination":"Any Destination","Destination To":"Destination To","Departing From":"Departing From","Any Departure Port":"Any Departure Port","Leaving":"Leaving","Any Month":"Any Month","Filter By":"Filter By","Number of Nights":"Number of Nights","Highest to Lowest Price":"Highest to Lowest Price","Lowest to Highest Price":"Lowest to Highest Price","Cruises":"Cruises","Filter Applied":"Filter Applied","Filters Applied":"Filters Applied","Clear All":"Clear All","Night":"Night","Nights":"Nights","Departing":"Departing","Visiting":"Visiting","Itinerary Id":"Itinerary Id","New Season":"New Season","From April 2026 onwards":"From April 2026 onwards","From February 2026 onwards":"From February 2026 onwards","Select Fare":"Select Fare","Choose your fare":"Choose your fare","Price From":"Price From","View Details":"View Details","Email":"Email","Sailing Date":"Sailing Date","Back to Book A Cruise":"Back to Book A Cruise","Pricing by stateroom category":"Pricing by stateroom category","Interior":"Interior","Oceanview":"Oceanview","Balcony":"Balcony","OCEANVIEW":"Oceanview","BALCONY":"Balcony","Suites":"Suites","Suite":"Suite","Itinerary Overview":"Itinerary Overview","Day":"Day","ETA:":"ETA:","ETD:":"ETD:","# Technical call only, no disembarkation allowed.":"# Technical call only, no disembarkation allowed.","Need to Know:":"Need to Know:","For any special request (subject to availability), please send an email to our reservation team":"For any special request (subject to availability), please send an email to our reservation team ","reservations.enrwcruises.com":"reservations.en@rwcruises.com","for your special request and to indicate your booking reservation number. Kindly do take note that this is subject to availability.":"for your special request and to indicate your booking reservation number. Kindly do take note that this is subject to availability.","For Booking and Reservation enquiry, Singapore toll free +65 800 852 8188, Malaysia toll free 1800814852":"For Booking and Reservation enquiry, Singapore toll free +65 800 852 8188, Malaysia toll free 1800814852","Select date":"Select date","Share":"Share","Back to search results":"Back to search results","Change date":"Change date","View Itinerary Details":"View Itinerary Details","Stateroom":"Stateroom","Room 1":"Room 1","2. No. of Guests":"2. No. of Guests","3. Cabin Type":"3. Cabin Type","4. Guest Info":"4. Guest Info","6. Payment":"6. Payment","Back":"Back","How many guests in your room?":"How many guests in your room?","Adult":"Adult","Child":"Child","* Age: below 12 years old":"* Age: below 12 years old","Infant":"Infant","* Age: above 6 months and below 2 years old":"* Age: above 6 months and below 2 years old","I need an accessible room":"I need an accessible room","Continue":"Continue","Select room type":"Select room type","From":"From","Max Occupancy":"Max Occupancy","Deck":"Deck","Per Person":"Per Person","Select":"Select","Guests":"Guests","Our Staterooms":"Our Staterooms","Promo Code":"Promo Code","Apply":"Apply","Summary":"Summary","Cruise Fare":"Cruise Fare","Discount":"Discount","Port Charge":"Port Charge","Total price":"Total price","(Gratuities are not included and will be payable onboard.)":"(Gratuities are not included and will be payable onboard.)","(Excludes gratuities)":"(Excludes gratuities)","View Amendments & Cancellation policy":"View Amendments & Cancellation policy","Who's travelling?":"Who's travelling?","Please make sure the details provided correspond with your travel documents.":"Please make sure the details provided correspond with your travel documents.","Guest Information - Room 1":"Guest Information - Room 1","First Name":"First Name","Last Name":"Last Name","GENDER":"Gender","Date of Birth":"Date of Birth","Nationality":"Nationality","Email address":"Email address","Passport number":"Passport number","Passport expiry date":"Passport expiry date","Contact number":"Contact number","Please provide your emergency contact details for notification in case of emergency.":"Please provide your emergency contact details for notification in case of emergency.","Emergency Contact Person":"Emergency Contact Person","Emergency Contact Number":"Emergency Contact Number","I consent to the collection, use, disclosure and/or transfer of my Personal Data by any company within the StarDream Cruises for the purposes of contacting me (either directly by the StarDream Cruises or by StarDream Cruises’s service providers) and provide marketing, advertising and promotional informational on products and services offered by StarDream Cruises, StarDream Cruises's co branding partners or business partners.":"* I consent to the collection, use, disclosure and/or transfer of my Personal Data by any company within the StarDream Cruises for the purposes of contacting me (either directly by the StarDream Cruises or by StarDream Cruises’s service providers) and provide marketing, advertising and promotional informational on products and services offered by StarDream Cruises, StarDream Cruises's co branding partners or business partners.","Sign up to receive information about our special offers and deals by email or phone. You can unsubscribe at any time.":"Sign up to receive information about our special offers and deals by email or phone. You can unsubscribe at any time.","I acknowledge the recommendation to obtain travel insurance for protection against unexpected events that could disrupt my cruise. I will ensure to have a valid passport with at least 6 months validity remaining from the end of the cruise date, along with any necessary VISAs.":"* I acknowledge the recommendation to obtain travel insurance for protection against unexpected events that could disrupt my cruise. I will ensure to have a valid passport with at least 6 months validity remaining from the end of the cruise date, along with any necessary VISAs.","How would you like to pay?":"How would you like to pay?","Pay with credit card":"Pay with credit card","Add your credit card information below to make a payment.":"Add your credit card information below to make a payment.","Card Number":"Card Number","Expiration date":"Expiration date","Month":"Month","Year":"Year","CVV":"CVV","Book this Cruise":"Book this Cruise","Your booking is confirmed!":"Your booking is confirmed!","We’ve sent you a confirmation email with all the details of your reservation. This email will arrive shortly in your inbox.":"We’ve sent you a confirmation email with all the details of your reservation. This email will arrive shortly in your inbox.","Please contact our reservation team at reservations.en@rwcruises.com if you need any further assistance. Thank you.":"Please contact our reservation team at reservations.en@rwcruises.com if you need any further assistance. Thank you.","Book another Cruise":"Book another Cruise","Back to Home":"Back to Home","First name is required.":"First name is required.","Last name is required.":"Last name is required.","Gender is required.":"Gender is required.","Please select a valid date of birth.":"Please select a valid date of birth.","The first guest must be an adult (greater than 18 years).":"The first guest must be an adult (greater than 18 years).","Minimum age of passenger should be 6 months at the time of travel":"Minimum age of passenger should be 6 months at the time of travel","Nationality is required":"Nationality is required","Email is required":"Email is required","Email is not valid":"Email is not valid","Passport expiry date is required. (If passport number is added).":"Passport expiry date is required. (If passport number is added).","Passport expiry date should be greater than 6 months from the Embarkation Date":"Passport expiry date should be greater than 6 months from the Embarkation Date","Contact Number is required":"Contact Number is required","Please select":"Please select","Our Ships":"Our Ships","City":"City","Country":"Country","Card Number is not valid.":"Card Number is not valid.","American Express cards are not accepted.":"American Express cards are not accepted.","CVV is required.":"CVV is required.","CVV is not valid.":"CVV is not valid.","Payments to be made using only credit cards. Please verify the transactions details should you wish to proceed with the payment. It is the cardholder responsibility to verify that all transaction information and other details are correct. Once a credit card transaction is approved, it cannot be voided. Payments made by credit card might attract various bank’s service fee dependent on the amount being transacted and the currency. International cardholders may incur international service fees, cross border charges in addition to the other service fees. All processing and miscellaneous fees will be borne by the cardholder. For cancellation and refund policies kindly refer to our website at":"Payments to be made using only credit cards. Please verify the transactions details should you wish to proceed with the payment. It is the cardholder responsibility to verify that all transaction information and other details are correct. Once a credit card transaction is approved, it cannot be voided. Payments made by credit card might attract various bank’s service fee dependent on the amount being transacted and the currency. International cardholders may incur international service fees, cross border charges in addition to the other service fees. All processing and miscellaneous fees will be borne by the cardholder. For cancellation and refund policies kindly refer to our website at","Payment Failed!":"Payment Failed!","Your Booking Number is:":"Your Booking Number is:","Hey, Seems like there was some trouble.":"Hey, Seems like there was some trouble.","January":"January","February":"February","March":"March","April":"April","May":"May","June":"June","July":"July","August":"August","September":"September","October":"October","November":"November","December":"December","With StarDream Cruises, we have something for everyone on board. Eat out at our world-class dining options, go for a thrilling ride on a 35m over-the-water zipline, pick up a new skill at our workshops, shop till you drop, or even party the night away at Zouk.":"With StarDream Cruises, we have something for everyone on board. Eat out at our world-class dining options, go for a thrilling ride on a 35m over-the-water zipline, pick up a new skill at our workshops, shop till you drop, or even party the night away at Zouk.","At StarDream Cruises, we bring the classic resort experience to you even while at sea. Enjoy elevated experience while you explore all that Southeast Asia has to offer.":"At StarDream Cruises, we bring the classic resort experience to you even while at sea. Enjoy elevated experience while you explore all that Southeast Asia has to offer.","Sailing from":"Sailing from","Remaining":"Remaining","Enter your email address":"Enter your email address","Name":"Name","Time expired":"Time expired","Cruse On":"Cruse On","Payment Declined!":"Payment Declined!","Your Payment Reference Number is:":"Your Payment Reference Number is:","Please check your email for booking confirmation slip. We hope you have an enjoyable stay.":"Please check your email for booking confirmation slip. We hope you have an enjoyable stay.","Please check your email for booking confirmation slip.":"Please check your email for booking confirmation slip.","We hope you have an enjoyable stay.":"We hope you have an enjoyable stay.","Please call your card issueing bank.":"Please call your card issueing bank.","Thank you for booking a cruise with us!":"Thank you for booking a cruise with us!","Same as previous":"Same as previous","Mobile number should contain numbers only.":"Mobile number should contain numbers only.","Jan":"Jan","Feb":"Feb","Mar":"Mar","Apr":"Apr","Jun":"Jun","Jul":"Jul","Aug":"Aug","Sep":"Sep","Oct":"Oct","Nov":"Nov","Dec":"Dec","Guest":"Guest","© 2026 StarDream Cruises":"© 2026 StarDream Cruises ","Cruise on Genting Dream":"Cruise on Genting Dream","Cruise on Resorts World One":"Cruise on Resorts World One","Mins":"Mins","Male":"Male","Female":"Female","Mandatory":"Mandatory","Day 1":"Day 1","Day 2":"Day 2","Day 3":"Day 3","Day 4":"Day 4","Day 5":"Day 5","Day 6":"Day 6","I have read, understood and agree to the Carrier’s Booking":"* I have read, understood and agree to the Carrier’s Booking ","Terms and Conditions":"Terms and Conditions","&":" & ","Passage Contract,":"Passage Contract","Please add at least 1 child or infant to enjoy this offer.":"Please add at least 1 child or infant to enjoy this offer.","Please select atleast one guest":"Please select atleast one guest","2nd Guest should be an adult.":"2nd Guest should be an adult.","To qualify for this offer, at least one passenger must be a senior citizen aged 50 or above.":"To qualify for this offer, at least one passenger must be a senior citizen aged 50 or above.","Counts of Adults do not match.":"Counts of Adults do not match.","Counts of Children do not match.":"Counts of Children do not match.","Counts of Infants do not match.":"Counts of Infants do not match.","Counts of Adults, Children and Infants do not match.":"Counts of Adults, Children and Infants do not match.","Counts of Adults and Infants do not match.":"Counts of Adults and Infants do not match.","Counts of Adults and Children do not match.":"Counts of Adults and Children do not match.","Counts of Children and Infants do not match.":"Counts of Children and Infants do not match.","Session Expiration Alert":"Session Expiration Alert","Your session is about to expire. Would you like to extend your session?":"Your session is about to expire. Would you like to extend your session?","Unfortunately, this cabin is no longer available. Please choose a different cabin.":"Unfortunately, this cabin is no longer available. Please choose a different cabin.","Resorts World Cruises Knows Asia Best":"Resorts World Cruises Knows Asia Best","Sorry your preferred cabins aren't available, please select from the below available categories":"Sorry your preferred cabins aren't available, please select from the below available categories","Sorry your preferred cabins aren't available":"Sorry your preferred cabins aren't available","Genting Rewards":"Genting Rewards","Manage":"Manage","GENTING REWARDS":"GENTING REWARDS","Promo code is not applicable for this promotion":"Promo code is not applicable for this promotion","Select Ship":"Select Ship","Any Ship":"Any Ship","All Occasions & Themes":"All Occasions & Themes","Genting Dream":"Genting Dream","Resorts World One":"Resorts World One","Filter By Ship":"Filter By Ship","Filter By Year":"Filter By Year","FILTER BY":"FILTER BY","All Categories":"All Categories","Your travels made better.":"Your travels made better.","This passenger is already booked":"This passenger is already booked","GENTING DREAM":"GENTING DREAM","RESORTS WORLD ONE":"RESORTS WORLD ONE","BEVERAGE PACKAGES":"BEVERAGE PACKAGES","Note:":"Note:","Buy":"Buy","Get":"Get","MESSAGE":"Thank you for your recent reservation request. We are unable to proceed with your booking as the following passengers are already booked for this cruise:","ASSISTANCE":"If you need any further assistance, please feel free to reach out to us via this page","APOLOGY":"We apologize for any inconvenience this may have caused and look forward to assisting you further.","LINK_TEXT":"here","1 Night":"1 Night","2 Nights":"2 Nights","3 Nights":"3 Nights","4 Nights":"4 Nights","5 Nights":"5 Nights","6 Nights":"6 Nights","BACK TO ALL EVENTS":"BACK TO ALL EVENTS","Other Events":"Other Events","Packages":"Packages","Venue":"Venue","Port Name":"Port Name","Address":"Address","Age":"Age","Price (Genting Dream)":"Price (Genting Dream)","Price (Resorts World One)":"Price (Resorts World One)","*Price per person on a twin-sharing basis excluding port charges.":"* Price per person on a twin-sharing basis excluding port charges.","*Price per person, based on 2 guests per cabin. Excludes port charges and gratuities.":"* Price per person, based on 2 guests per cabin. Excludes port charges and gratuities.","Only alphabets are allowed.":"Only alphabets are allowed.","BACK TO MAIN BLOG PAGE":"BACK TO MAIN BLOG PAGE","Related Posts":"Related Posts","The fun never ends with us":"The fun never ends with us","Our Blog":"Our Blog","SORT BY YEAR":"SORT BY YEAR","All Years":"All Years","Top Stories":"Top Stories","Book Now":"Book Now","Message sent successfully.":"Message sent successfully.","We will get back to you shortly!":"We will get back to you shortly!","Featured Deals":"Featured Deals","View All Deals":"View All Deals","Privacy Policy.":"Privacy Policy.","How many rooms do you need?":"How many rooms do you need?","1. Rooms":"1. Rooms","Rooms":"Rooms","5. Value Add":"5. Value Add","View pricing by guest":"View pricing by guest","Guest Total":"Guest Total","Pricing Details":"Pricing Details","Room":"Room","WIFI Package":"WIFI Package","Note: The Wi-Fi login is linked to your cabin number and date of birth. Wi-Fi plans are priced based on your cruise's total duration. For example, a 2-night cruise will be charged for 2 nights of Wi-Fi.":"Note: The Wi-Fi login is linked to your cabin number and date of birth. Wi-Fi plans are priced based on your cruise's total duration. For example, a 2-night cruise will be charged for 2 nights of Wi-Fi.","Standard":"Basic internet speeds","No. Of Device":"No. Of Devices","Premium":"Prime internet speeds","Total Cost":"Total Cost","Prepaid Gratuity":"Prepaid Gratuity","Prepaying lets you focus on enjoying our service.":"Prepaying lets you focus on enjoying our service.","Skip":"Skip","You can purchase these add-ons at a later stage or directly onboard our ships.":"You can purchase these add-ons at a later stage or directly onboard our ships.","Value Add (Room 1)":"Value Add (Room 1)","Value Add (Room 2)":"Value Add (Room 2)","* Note: Ages as of the sailing date.":"* Note: Ages as of the sailing date.","Star Scorpio":"Star Scorpio","Cruise on Star Scorpio":"Cruise on Star Scorpio","Guest Information - Room 2":"Guest Information - Room 2","Room 2":"Room 2","How many guests in your room (Room 1)?":"How many guests in your room (Room 1)?","How many guests in your room (Room 2)?":"How many guests in your room (Room 2)?","3. Room Type":"3. Room Type","Ancillary Charges":"Ancillary Charges","exclude gratuities":"exclude gratuities","Please select atleast one room":"Please select atleast one room","Ok":"Ok","For Room 1, at least one passenger must be a senior citizen aged 50 or above.":"For Room 1, at least one passenger must be a senior citizen aged 50 or above.","For Room 2, at least one passenger must be a senior citizen aged 50 or above.":"For Room 2, at least one passenger must be a senior citizen aged 50 or above.","We have senior citizens traveling with us.":"We have senior citizens traveling with us","Guest Information - Room2":"Guest Information - Room2","Make your cruise unforgettable with exclusive add-ons! Choose from special event passes, WIFI packages, prepaid gratuities, and more – all designed to make your journey seamless and truly memorable.":"Make your cruise unforgettable with exclusive add-ons! Choose from special event passes, WIFI packages, prepaid gratuities, and more – all designed to make your journey seamless and truly memorable.","Relation Type":"Relation Type","Emergency Contact Email":"Emergency Contact Email","Sorry, the card you entered is invalid for this promo code. This promo code is only valid for DBS/ POSB card payment.":"Sorry, the card you entered is invalid for this promo code. This promo code is only valid for DBS/ POSB card payment.","Enter another Card":"Enter another Card","*Images are for illustration purposes only.":"*Images are for illustration purposes only.","Passport expiry date is required.":"Passport expiry date is required.","Passport validity must be more than 6 months from the embarkation date":"Passport validity must be more than 6 months from the embarkation date","INSIDE":"INSIDE","PALACE":"PALACE","Price (Star Voyager)":"Price (Star Voyager)","Star Voyager":"Star Voyager","Cruise on Star Voyager":"Cruise on Star Voyager","Cruise":"Cruise","Promo":"promo","INTERIOR":"Interior","SUITES":"Suites","Wi-Fi access is assigned to an individual guest, please select the specific guest when making your purchase.":"Wi-Fi access is assigned to an individual guest, please select the specific guest when making your purchase.","Note: The Wi-Fi login is linked to your cabin number and date of birth.":"Note: The Wi-Fi login is linked to your cabin number and date of birth.","TOAST_WIFI_GUEST_MISMATCH":"The selected WiFi ancillary requires {{required}} guests, but only {{selected}} were selected.","Parent":"Parent","Son/Daughter":"Son/Daughter","Legal Guardian":"Legal Guardian","Spouse":"Spouse","Sibling":"Sibling","Friend":"Friend","Relative":"Relative","Choose Plan":"Choose Plan","Relation type required":"Relation type required","The number of selected guests does not match the chosen guest count.":"The number of selected guests does not match the chosen guest count.","Relation":"Relation","Person":"Person","DESTINATIONS":"DESTINATIONS","Show Dates":"Show Dates","Only alphabets and English letters are allowed.":"Only alphabets and English letters are allowed.","City is required.":"City is required.","Country is required.":"Country is required.","Phone":"Phone","Remove":"Remove","LOOKING FOR THE BEST DEAL? VIEW OUR BEST PRICE GUARANTEE FOR ADDED PEACE OF MIND":"LOOKING FOR THE BEST DEAL? VIEW OUR BEST PRICE GUARANTEE FOR ADDED PEACE OF MIND","Looking for the best deal?":"LOOKING FOR THE BEST DEAL?","VIEW OUR BEST PRICE GUARANTEE FOR ADDED PEACE OF MIND":"VIEW OUR BEST PRICE GUARANTEE FOR ADDED PEACE OF MIND","Senior Citizen":"Senior Citizen","* Age: above 50 years":"* Age: above 50 years","Wi-Fi access and device plans are assigned to an individual guest. Please select the specific guest when making your purchase.":"Wi-Fi access and device plans are assigned to an individual guest. Please select the specific guest when making your purchase.","Device":"Device","Devices":"Devices","Ship":"Ship","This promo code can only be used for the first cabin per booking. To use it for additional cabins, you are required to proceed with separate bookings. Thank you.":"This promo code can only be used for the first cabin per booking. To use it for additional cabins, you are required to proceed with separate bookings. Thank you.\u003Cbr>\u003Cbr>*First cabin applies on interior, oceanview, balcony and palace suite stateroom only.","Star Navigator":"Star Navigator","Cruise on Star Navigator":"Cruise on Star Navigator","Price (Star Navigator)":"Price (Star Navigator)","StarDream Rewards":"StarDream Rewards","STARDREAM REWARDS":"STARDREAM REWARDS","Member Rewards":"Member Rewards","MEMBER REWARDS":"MEMBER REWARDS","Adventures across various countries.":"Adventures across various countries.","MORE DEALS":"MORE DEALS","Sail with confidence with our best price guarantee":"Sail with confidence with our best price guarantee","Best Price Guarantee":"Best Price Guarantee","View Price Guarantee Process Policy":"View Price Guarantee Process Policy","Find a better rate? We’ll match it":"Find a better rate? We’ll match it","We’re committed to giving you the best value for your cruise. If you find a lower price elsewhere after booking with us - we’ll match it. Enjoy peace of mind knowing you’re always getting the best deal when you sail with us!":"We’re committed to giving you the best value for your cruise. If you find a lower price elsewhere after booking with us - we’ll match it. Enjoy peace of mind knowing you’re always getting the best deal when you sail with us!","Eligibility Criteria":"Eligibility Criteria","Applicable Bookings":"Applicable Bookings","The Price Guarantee applies to bookings made directly through our website or our Customers Services Centre (call centre).":"The Price Guarantee applies to bookings made directly through our website or our Customers Services Centre (call centre).","Comparison Rates":"Comparison Rates","If you find a lower publicly available rate for the same vessel, same cruise itinerary, same cabin type, and same reservation dates on any other website (“Comparison Price”) you may submit a claim.":"If you find a lower publicly available rate for the same vessel, same cruise itinerary, same cabin type, and same reservation dates on any other website (“Comparison Price”) you may submit a claim.","Currency Requirement":"Currency Requirement","Only prices found in the same currency as the original booking are eligible for a claim.":"Only prices found in the same currency as the original booking are eligible for a claim.","Time Frame":"Time Frame","You must submit your application within 24 hours after booking and no less than 48 hours prior to sailing.":"You must submit your application within 24 hours after booking and no less than 48 hours prior to sailing.","Exclusions":"Exclusions","Group rates, membership rates, and non-publicly available rates are not eligible as comparison pricing for claims.":"Group rates, membership rates, and non-publicly available rates are not eligible as comparison pricing for claims.","Claiming Process":"Claiming Process","Customers must submit their claims via the claim form, providing their booking reference number, details of the lower price (e.g., screenshot, website link), and any supporting documentation as listed in the form.":"Customers must submit their claims via the claim form, providing their booking reference number, details of the lower price (e.g., screenshot, website link), and any supporting documentation as listed in the form.","Submit Claim":"Submit Claim","Best Price Guarantee Claim Form":"Best Price Guarantee Claim Form","All fields are required unless otherwise stated.":"All fields are required unless otherwise stated.","Guest Information":"Guest Information","Email Address":"Email Address","Reservation Number":"Reservation Number","Reservation ID":"Reservation ID","Booking Number":"Booking Number","Comparison Rate Information":"Comparison Rate Information","Lower Rate Found or Reserved":"Lower Rate Found or Reserved","Currency":"Currency","Any website link":"Any website link","With Identical itinerary, dates, cabin category, passengers count.":"With Identical itinerary, dates, cabin category, passengers count.","OR":"OR","Select a file or drag and drop files here":"Select a file or drag and drop files here","JPG, PNG or PDF, file size no more than 10MB":"JPG, PNG or PDF, file size no more than 10MB","No file chosen":"No file chosen","I agree to StarDream Cruises":"I agree to StarDream Cruises","Best Price Guarantee Terms & Conditions":"Best Price Guarantee Terms & Conditions","Submit":"Submit","Clear":"Clear","2.⁠ ⁠If you find a lower publicly available rate for the same vessel, same itinerary, same cabin type, and same reservation dates on any other website (“Comparison Price”), you may submit a claim.":"2.⁠ ⁠If you find a lower publicly available rate for the same vessel, same itinerary, same cabin type, and same reservation dates on any other website (“Comparison Price”), you may submit a claim.","3.⁠ ⁠You must submit your application within 24 hours after booking and no less than 48 hours prior to sailing.":"3.⁠ ⁠You must submit your application within 24 hours after booking and no less than 48 hours prior to sailing.","4.⁠ ⁠Exclusion: Group rates, membership rates, and non-publicly available rates are not eligible as comparison pricing for claims.":"4.⁠ ⁠Exclusion: Group rates, membership rates, and non-publicly available rates are not eligible as comparison pricing for claims.","Sorry! No data found":"Sorry! No data found","Customers must submit their claims via the claim form, providing their Reservation ID (Booking number), details of the lower price (e.g., screenshot with time and date stamp, website link), and any supporting documentation as listed in the form.":"Customers must submit their claims via the claim form, providing their Reservation ID (Booking number), details of the lower price (e.g., screenshot with time and date stamp, website link), and any supporting documentation as listed in the form.","Ages are based on the sailing date.":"Ages are based on the sailing date.","Sailing Date (YYYY-MM-DD)":"Sailing Date (YYYY-MM-DD)","Reservation ID XXXX XXXX":"Reservation ID XXXX XXXX","abc@gmail.com":"abc@gmail.com","Last Name As Per Reservation Voucher":"Last Name As Per Reservation Voucher","First Name As Per Reservation Voucher":"First Name As Per Reservation Voucher","Treat Package":"Treat Package","SGD10/ Night":"SGD10/ Night","Deluxe Package":"Deluxe Package","SGD50/ Night":"SGD50/ Night","Elite Package":"Elite Package","SGD100/ Night":"SGD100/ Night","NTD250/ Night":"NTD250/ Night","NTD1,200/ Night":"NTD1,200/ Night","NTD2,400/ Night":"NTD2,400/ Night","Sign Up":"Sign Up","Join now to discover member only exclusives":"Join now to discover member only exclusives","Given Name (First & Middle Name)":"Given Name (First & Middle Name)","First name error msg":"First name is required.","lbl_surname":"Surname (Last Name)","lbl_residence":"Country of Residence","lbl_state":"State","lbl_city":"City","lbl_doc_type":"Document Type","lbl_doc_number":"Document Number","err_msg_max":"Maximun 25 charecters are allowed.","err_msg_min_05":"Minimum 5 charecters is required.","err_msg_alph_num":"Only alphabets and numbers are allowed.","lbl_doc_iss_country":"Document Issuance Country","lbl_pref_lang":"Preferred Language","lbl_mobile_number":"Mobile Number","err_msg_not_valid_mobile_number":"Mobile Number is not valid.","lbl_pin":"PIN (Digits only)","lbl_cnfirm_pin":"Confirm PIN (Digits Only)","err_not_matched_cnfirm_pin":"The PIN does not match. Please try again.","t&c_1":"StarDream Cruises and its co-branding partners and business partners would like to keep in touch with you regarding special offers, promotional materials, and other news in relation to cruise and cruise-related operations, retail products and services, leisure, entertainment, hospitality, and related services, food and beverage, health and beauty, telecommunication, transportation, travel-related products and services (\"Services\"). Your consent is required for the use of your name, nickname, age, gender, date of birth, address, email address, social account, and/or telephone number (\"Contact Information\") for such direct marketing purposes. You further provide your express consent for your Contact Information to be transferred to, stored in, processed, and used in the various jurisdictions of the associated companies of StarDream Cruises for direct marketing of their Services. Please tick the box below if you consent to such use and transfer.","t&c_1_1":"\u003Cbr>\u003Cbr>\u003Cspan>I acknowledge and agree to the use and transfer of my personal data for direct marketing purposes as stated above.\u003C/span>","t&c_2":"Have you or your spouse, partner, child or parent, or any of your close associates and/or business associates, ever served as a head of state; head of government; senior politician; senior government, judicial or military official; senior executive of a state-owned corporation; or important political party officials; or senior officers (eg. directors, deputy directors and members of the board) holding a prominent public function in and/or outside your home country.","t&c_2_1":"\u003Cbr>\u003Cbr>\u003Cspan>Please tick if Yes.\u003C/span>","t&c_3":"All StarDream Cruises members have the option to concurrently be signed up as Genting Rewards Alliance members. The Genting Rewards Alliance (\"GRA\") is a global loyalty program that allows its members to redeem products and services offered by their participating partners. For additional information, please visit \u003Ca href=\"https://www.gentingrewards.com/\" target=\"_blank\">www.gentingrewards.com\u003C/a>. When you redeem the products and services, your personal data (including among others, your name, address, and/or telephone number) (the 'Contact Information') may be transferred to countries or regions outside of the place of collection, as the GRA participating partners have places of business in various countries and regions, including but not limited to the United States of America, Philippines, Malaysia, and Singapore. Please refer to the privacy policy at \u003Ca href=\"https://www.gentingrewards.com/\" target=\"_blank\">www.gentingrewards.com\u003C/a> for more detailed information on how GRA collects, holds, uses, discloses, stores, processes, handles, and manages your personal data. Where the Contact Information is transferred outside of the jurisdiction where such data is collected, GRA will take steps to ensure that such Contact Information continues to receive a standard of protection that is at least comparable to that provided under the law of the place of collection.","t&c_3_1":"\u003Cbr>\u003Cbr> \u003Cspan>I acknowledge and agree to be signed up as a GRA member and abide and be bound by the terms and conditions of GRA at \u003Ca href=\"https://www.gentingrewards.com/\" target=\"_blank\">www.gentingrewards.com.\u003C/a> I further agree to the proposed use and transfer of data for redemption purposes as set out above by GRA.\u003C/span>","t&c_4_1":"By participating in the StarDream Rewards membership program, I agree to abide and be bound by StarDream Rewards Membership","t&c_4_2":" Terms and Conditions","t&c_4_3":", which is available at the membership services counter. I have read and agreed to the ","t&c_4_4":"Privacy Policy","t&c_4_5":" and Personal Data Consent Statement at www.stardreamcruises.com.","phlder_select":"Select","phlder_enter":"Enter {{name}}","enter_verification_code":"Enter Verification Code","enter_verification_code_title":"A verification code has been sent to","enter_verification_code_msg":"Please check your inbox, spam, or junk folder and enter the \u003Cbr>  verification code here. The code will be expired in ","enter_verification_code_msg_1":".","lbl_verification_code":"Verification Code","security_msg":"For security reasons, only the latest verification code will be accepted.","didn't_get_otp":"Didn't get a verification code? ","resend":"Click to resend.","verify":"Verify","lbl_login":"Login","lbl_login_desc":"For StarDream Rewards Member","lbl_mem_id":"Membership ID","err_msg_patrn_mem_id":"Membership ID is not valid.","plc_hldr_mem_id":"Enter Membership ID","lbl_pin_login":"PIN","err_msg_pin_login":"This field is required.","err_msg_patrn_pin_login":"Invalid PIN format. Please try again.","err_msg_patrn_pin_forgot":"Invalid PIN format. Please try again.","plc_hldr_pin":"Enter Membership PIN","plc_hldr_email":"Enter Registered Email","lbl_rg_email":"Registered Email","lbl_forgot_pin":"Forgot PIN?","lbl_rmbr_me":"Remember me","acc_blocked_msg":"For security purposes, your account has been temporarily blocked due to multiple incorrect login attempts. Please try again later.","lbl_not_member":"Not a member?","lbl_signup":"Sign Up Now","lbl_reset_pin":"Reset PIN","age_18_years":"Date of birth cannot be less than 18 years old or more than 100 years old .","lbl_my_account":"My Account","lbl_change_pin":"Change PIN","lbl_new_pin":"New PIN","lbl_current_pin":"Current PIN","plc_hldr_current_pin":"Enter Current PIN","lbl_re_new_pin":"Re-enter New PIN","plc_hldr_new_pin":"Enter New PIN","lbl_book_with_cabin_credits":"Book With Cabin Credits","lbl_search_cruise_deals":"Search for Cruise Deals","lbl_name":"Name","lbl_email_address":"Email","lbl_update_rqst":"Please approach our Membership Services Counter onboard to update your email or mobile number.","lbl_cc":"Cabin Credits","lbl_rp":"Rewards Points","lbl_tp":"Tier Points","lbl_balance":"Balance","lbl_my_booking":" My Bookings","lbl_you_have":"You Have","lbl_c_c":"Cabin Credit(s)","lbl_credit_card_booking":"Credit Card Booking","lbl_upcoming":"Upcoming","lbl_completed":"Completed","lbl_no_trips":"You have no upcoming trips","lbl_no_trips_1":"You have no completed trips","lbl_next_trip":"Book your next cruise below!","lbl_start_booking":"Start Booking","lbl_member":"Member","lbl_logout":"Logout","lbi_view_expiry":"View Expiry Date","lbl_days":"Days","lbl_no_of_guests":"No. Of Guest","lbl_guests":"Guest","lbl_load_more":"Load More","lbl_ex_date":"Expiry Date","lbl_no_data":"Data not available","lbl_vessel_name":"Vessel Name","lbl_rooms":"Rooms","lbl_room":"Room","lbl_booking_date":"Booking Date","lbl_Payment_reference_number":"Payment Reference Number","lbl_sub_total":"Subtotal","lbl_discount":"Discount","lbl_total_charges":"Total Charges","lbl_ancillary_charges":"Ancillary Charges","lbl_oceanview_statement":"Oceanview Statement","lbl_interior_statement":"Interior Statement","lbl_cabin_charge":"Cabin Charges","lbl_port_charge":"Port Charges","lbl_child_charge":"Child Charges","lbl_infant_charge":"Infant Charges","lbl_supplementary_charge":"Supplementary Charges","lbl_pgratuity":"PGRATUITY","lbl_wifi":"WIFI","lbl_return":"Return","lbl_error":"Error!","lbl_success":"Success!","lbl_error_pin_matched":"New PIN must be different from the current PIN.","lbl_my_qr_code":"View My QR Code","phlder_select_gender":"Select Gender","phlder_select_country_residence":"Select Country of Residence","phlder_select_state":"Select State","phlder_select_city":"Select City","phlder_select_doc_type":"Select Document Type","phlder_select_iss_doc_num":"Select Document Issuance Country","phlder_select_pref_lang":"Select Preferred Language","lbl_err_req_field":"This field is required.","lbl_err_combination_field":"Combination of Given name and Last name must not exceed 37 characters.","lbl_err_alpha_field":"Capital alphabets only, no special characters. ","lbl_err_email_invalid":"Invalid email format.","lbl_err_pin_length":"PIN must consist of 6 number digits. ","lbl_err_pin_not_matched":"PIN does not match.","lbl_err_pin_combination":"This PIN cannot be used. Please try another PIN combination.","lbl_show_more":"Show Less","lbl_show_less":"Show More","didn't_get_otp_1":"Please request a new verification code after ","didn't_get_otp_2":". ","lbl_data_not_found":"Data not found","phlder_doc_iss_country":"Search Document Issuance Country","phlder_search_nationality":"Search Country of Residence","phlder_search_staate":"Search State","phlder_search_city":"Search City","lbl_login_signup":"Login/Sign up","lbl_regis_title":"Registration Failed","lbl_passport":"Passport","lbl_id":"Identification Card","lbl_try_again_after_1":"Please try again after ","lbl_try_again_after_2":".","lbl_try_again_after_1_forgot":"Please try again after ","lbl_try_again_after_2_forgot":".","lbl_too_many_invalid_code":"Too many invalid verification codes have been entered. ","lbl_too_many_invalid_code_forgot":"Too many invalid verification codes have been entered. ","lbl_new_rqst_code_1":"Please request a new verification code after ","lbl_new_rqst_code_2":".","lbl_new_rqst_code_1_forgot":"Please request a new verification code after ","lbl_new_rqst_code_2_forgot":".","lbl_pin_changed":"PIN changed successfully","lbl_err_email_not_valid":"Invalid email format.","phlder_given_name":"Enter Given Name","phlder_surname":"Enter Surname","phlder_doc_number":"Enter Document Number","phlder_email_address":"Enter Email Address","phlder_mobile_number":"Enter Mobile Number","phlder_enter_pin":"Enter PIN","phlder_enter_cnfrm_pin":"Enter Confirm PIN","lbl_btn_submit":"Submit","lbl_signup_message_1":"Thank you for joining StarDream Rewards!","lbl_signup_message_2":"Your Membership number is ","lbl_btn_back_to":"Back to login","ibl_already_login_1":"Please ","ibl_already_login_2":" login ","ibl_already_login_3":" using your existing account.","ibl_already_registered":"You are already registered with StarDream Rewards Membership. ","ibl_already_registered_1":"You are already registered with StarDream Rewards Membership. Please login using your existing account.","USD":"USD","HKD":"HKD","SGD":"SGD","lbl_already_registered_header":"Already Registered","lbl_tele_too_long":"Invalid mobile number format.","Something went wrong, Please try again.":"Something went wrong, Please try again.","Sorry, the card you entered is invalid for this promo code. This promo code is only valid for Maybank card payment.":"Sorry, the card you entered is invalid for this promo code. This promo code is only valid for Maybank card payment.","Premium Wi-Fi":"Premium Wi-Fi","(In partnership with Malaysia Airlines)":"(In partnership with Malaysia Airlines)","Enjoy 10% Off flights to your cruise departure port":"Enjoy 10% Off flights to your cruise departure port","10kg extra baggage allowance!":"10kg extra baggage allowance!","2ND SEATING":"2ND SEATING","1ST SEATING":"1ST SEATING","Exclusive Online Offer:":"Exclusive Online Offer: Upgrade to our premium Wi-Fi package for free when you purchase your Wi-Fi add-ons online.","Please Note: Wi-Fi":"Please Note: Wi-Fi plan pricing is based on the total nights of your cruise. For example, a 2-night cruise will be charged at the rate of a 2-night Wi-Fi plan.","HKD70/ Night":"HKD70/ Night","HKD350/ Night":"HKD350/ Night","HKD710/ Night":"HKD710/ Night","Choose Package":"Choose Package","lbl_err_pin_start_zero":"PIN can’t start with 0, be sequential (e.g. 1234), or use repeated digits (e.g. 5555)."},"h":{},"s":200,"st":"OK","u":"https://stardreamcruises.com:443/assets/i18n/en.json","rt":"json"},"__nghData__":[{},{"n":{"1":"0f"}}]}</script></body></html>

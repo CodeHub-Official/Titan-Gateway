@@ -1,0 +1,2319 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html id="html" lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8" />
+    <link rel="preload" as="font" type="font/woff2" crossorigin href="/resourcepackages/da/assets/fonts/bukra/29ltbukraregular.woff2">
+    <link rel="preload" as="font" type="font/woff2" crossorigin href="/resourcepackages/da/assets/fonts/bukra/29LTBukra-Medium.woff2">
+
+    <link rel="icon" type="image/x-icon" href="/resourcepackages/da/assets/img/favicon.ico">
+
+    <link rel="stylesheet" href="/resourcepackages/da/assets/css/tailwind.css" />
+    <link rel="stylesheet" href="/resourcepackages/da/assets/css/offset-styles.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+
+    <script src="/resourcepackages/da/assets/js/main-nav.js" defer fetchpriority="high"></script>
+    <script src="/resourcepackages/da/assets/js/windowheight.js" defer></script>
+    <script src="/resourcepackages/da/assets/js/dialog.js" defer></script>
+    <script src="/resourcepackages/da/assets/js/floating-contact.js" defer></script>
+    <script src="/resourcepackages/da/assets/js/leaving-website-popup.js" defer></script>
+    <script src="/resourcepackages/da/assets/js/search-show-results.js" defer></script>
+    <script src="/resourcepackages/da/assets/js/notification-banner.js" defer></script>
+    <script src="/resourcepackages/da/assets/js/no-image-cards.js" defer></script>
+    <script src="/resourcepackages/da/assets/js/live-chat.js" defer></script>
+    <link rel="stylesheet" href="/resourcepackages/da/assets/vendor/swiperjs/swiper-bundle.min.css" />
+
+    <script src="/resourcepackages/da/assets/vendor/swiperjs/swiper-bundle.min.js" defer></script>
+    <script src="/resourcepackages/da/assets/js/swiper.js" defer></script>
+    <script src="/resourcepackages/da/assets/js/hero-swiper.js" defer></script>
+    <script src="/resourcepackages/da/assets/js/select-dropdown.js" defer></script>
+    <script src="/resourcepackages/da/assets/js/accessibility-icon-mobile.js"></script>
+
+
+    <title>404</title><meta property='og:title' content='404'><style>
+        * {
+            
+            box-sizing: border-box;
+            text-decoration: none !important;
+        }
+
+
+        .z-100 {display: none !important;}
+
+
+        .the-design {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #fffff;
+            padding: 20px;
+        }
+
+        .logo {
+            width: 150px;
+            margin-bottom: 40px;
+        }
+
+        .content {
+            text-align: center;
+            color: #2c2d65;
+        }
+
+        h1 {
+            font-size: 2.5rem !important;
+            margin-bottom: 0px !important;
+            font-weight: 600;
+            color: #2c2d65 !important;
+        }
+
+        .subtitle {
+            font-size: 1.2rem !important;
+            margin-bottom: 40px;
+            opacity: 0.9;
+        }
+
+        .buttons {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .button {
+            padding: 15px 30px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            cursor: pointer;
+            border: none;
+        }
+
+        .button-primary {
+            background-color: #2c2d65;
+            color: #ffffff;
+        }
+
+        .button-secondary {
+            background-color: transparent !important;
+            color: #2c2d65 !important;
+            border: 2px solid #2c2d65 !important;
+        }
+
+        .button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .popup-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .popup {
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            width: 90%;
+            max-width: 500px;
+            position: relative;
+        }
+
+        .close-button {
+            position: absolute !important;
+            top: 15px !important;
+            right: 15px !important;
+            background: none !important;
+            border: none !important;
+            font-size: 24px !important;
+            cursor: pointer !important;
+            color: #2c2d65 !important;
+        }
+
+        .popup-header {
+            color: #2B2B54;
+            font-size: 1.5rem !important;
+            font-weight: 600;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #F5F5FF;
+        }
+
+        .categories {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .category {
+            background: #F5F5FF;
+            border-radius: 15px;
+            padding: 20px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+        }
+
+        .category:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .category-icon {
+            font-size: 24px;
+            margin-bottom: 10px;
+            color: #2c2d65;
+            width: 32px;
+            text-align: center;
+            margin: 0 auto;
+        }
+
+        .category-name {
+            color: #2B2B54;
+            font-weight: 600;
+        }
+
+        .menu-items {
+            display: flex;
+            flex-direction: column;
+            gap: 0px;
+        }
+
+        .menu-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px;
+            border-bottom: 1px solid #F5F5FF;
+            color: #2c2d65;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+
+        .menu-item:hover {
+            background: #F5F5FF;
+            border-radius: 10px;
+        }
+
+        .arrow-icon {
+            color: #2B2B54;
+        }
+
+        @media (max-width: 600px) {
+            .buttons {
+                flex-direction: column;
+                width: 100%;
+            }
+
+            .button {
+                width: 100%;
+                justify-content: center;
+            }
+
+            
+
+            h1 {
+                font-size: 2rem;
+            }
+        }
+    </style>
+
+
+<script>
+        const categories = [
+            { name: 'Shop', icon: '<img src="/images/passengerslibraries/errors/shop.svg">', url: '/experiences/shops' },
+            { name: 'Dine', icon: '<img src="/images/passengerslibraries/errors/dine.svg">', url: '/experiences/restaurants' },
+            { name: 'Relax', icon: '<img src="/images/passengerslibraries/errors/relax-icon-blue-01.svg">', url: '/experiences/relax---refresh' },
+            { name: 'Services', icon: '<img src="/images/passengerslibraries/errors/services.svg">', url: '/experiences/services' }
+        ];
+
+        const menuItems = [
+            { name: 'Flight status', url: '/flight-status' },
+            { name: 'Passport control & visas', url: '/information/immigration-visas' },
+            { name: 'Metro', url: '/transport/metro' },
+            { name: 'Lost & found', url: '/lost-and-found' },
+            { name: 'Contact us', url: '/contact-information' }
+        ];
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const destinationBtn = document.getElementById('destinationBtn');
+            const popupOverlay = document.getElementById('popupOverlay');
+            const closePopup = document.getElementById('closePopup');
+            const categoriesContainer = document.getElementById('categoriesContainer');
+            const menuItemsContainer = document.getElementById('menuItemsContainer');
+
+            // Populate categories
+            categoriesContainer.innerHTML = categories.map(category => `
+                <a href="${category.url}" class="category">
+                    <div class="category-icon">${category.icon}</div>
+                    <div class="category-name">${category.name}</div>
+                </a>
+            `).join('');
+
+            // Populate menu items
+            menuItemsContainer.innerHTML = menuItems.map(item => `
+                <a href="${item.url}" class="menu-item">
+                    ${item.name}
+                    <span class="arrow-icon">→</span>
+                </a>
+            `).join('');
+
+            destinationBtn.addEventListener('click', () => {
+                popupOverlay.style.display = 'flex';
+            });
+
+            closePopup.addEventListener('click', () => {
+                popupOverlay.style.display = 'none';
+            });
+
+            popupOverlay.addEventListener('click', (e) => {
+                if (e.target === popupOverlay) {
+                    popupOverlay.style.display = 'none';
+                }
+            });
+        });
+    </script><link rel='canonical' href='https://dubaiairports.ae/error-pages/404' />
+
+                <script src="/resourcepackages/da/assets/js/cookie-notification.js" defer></script>
+                        <script src="/resourcepackages/da/assets/js/cookie-gtm.js"></script>
+                <!-- Google Tag Manager -->
+        <script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                function gtag() { w[l].push(arguments); }
+                gtag('consent', 'default', {
+                  'ad_user_data': 'denied',
+                  'ad_personalization': 'denied',
+                  'ad_storage': 'denied',
+                  'functionality_storage': 'denied',
+                  'analytics_storage': 'denied',
+                  'wait_for_update': 500,
+                });
+                w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+                var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-PPF5B8Q8');
+        </script>
+        <!-- End Google Tag Manager -->
+
+<script type="text/javascript">!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{
+src: "https://js.monitor.azure.com/scripts/b/ai.2.min.js", // The SDK URL Source
+crossOrigin: "anonymous", 
+cfg: { // Application Insights Configuration
+    connectionString: 'InstrumentationKey=4f32a706-26ff-46c6-8203-e4448b4d0002'
+}});</script></head>
+
+<body>
+   
+    <div class="wrapper min-h-screen flex flex-col">
+        <span id="header-backdrop" class="header__backdrop"></span>
+        <header class="bg-neutrals-neutral1 z-30">
+
+
+
+    <div class="offset-mt-none offset-mr-none offset-mb-none offset-ml-none offset-pt-none offset-pr-none offset-pb-none offset-pl-none rte">
+    </div>
+
+    <div class="bg-neutrals-neutral1 max-w-6xl mx-auto text-primary-portgore p-16 lg:py-0 flex items-center justify-between lg:relative z-10 text-primary-portgore" id="main-nav-menu">
+    <div class="flex flex-row-reverse lg:flex-row justify-between order-3 lg:order-2 text-primary-portgore">
+    <nav class=" text-primary-portgore">
+        <div>
+
+
+
+<input aria-expanded="false" aria-controls="mobile-menu" class="peer opacity-0 absolute top-0 left-0" id="menutrigger" type="checkbox" aria-labelledby="menutrigger-label"><label class="lg:hidden flex items-center" for="menutrigger"><span class="icon"></span><span data-default="" class="text-base font-medium ms-16 relative top-3" id="menutrigger-label">Menu</span>
+ <span data-open="" class="text-base font-medium ms-16 relative top-3">Close</span>
+</label>
+    <div class="block lg:hidden bg-neutrals-neutral1 transition-all duration-500 pt-16 fixed top-56 h-[calc(100%_-_56px)] w-full overflow-y-auto left-full peer-checked:left-0 text-primary-portgore" aria-hidden="true" id="mobile-menu">
+    <div class="h-full flex flex-col gap-16 text-primary-portgore" id="data-mob-menu" data-mob-menu="" aria-hidden="false">
+
+
+
+    <button class="px-16 pb-16 flex items-start" data-toggle-search aria-controls="mob-search" aria-expanded="false" id="userwayAccessibilityIconMobile">
+        <img src="/resourcepackages/da/assets/img/icons/search.svg" alt="Search icon" />
+        <span class="font-medium text-base inline-block ms-8">Search</span>
+    </button>
+    <ul class="font-medium overflow-y-auto calc-height">
+            <li class="p-16 ">
+                <div class="text-text-primary" data-menulist="">
+                    <h3 class="text-base font-medium flex justify-between items-center group relative" aria-expanded="false" aria-controls="mobile-Flights" tabindex="2" aria-label="Flights">
+                        Flights
+                        <img src="/resourcepackages/da/assets/img/icons/chevron-down.svg" alt="" width="24" height="24"
+                        class="lg:hidden transition-transform group-[.is-open]:rotate-180 duration-300">
+                    </h3>
+
+                        <div class="grid lg:block" id="footer-mobile-Flights"  tabindex="-1">
+
+                            <ul class="flex flex-col gap-24">
+                                    <li class="mt-16">
+                                        <a href="/flights/arrivals" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="2" aria-label="Arrivals" role="listitem">
+                                            <span>Arrivals</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/flights/departures" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="2" aria-label="Departures" role="listitem">
+                                            <span>Departures</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/airlines" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="2" aria-label="Airlines" role="listitem">
+                                            <span>Airlines</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                            </ul>
+                        </div>
+                </div>
+            </li>
+            <li class="p-16 border-t border-neutrals-neutral2">
+                <div class="text-text-primary" data-menulist="">
+                    <h3 class="text-base font-medium flex justify-between items-center group relative" aria-expanded="false" aria-controls="mobile-Information" tabindex="3" aria-label="Information">
+                        Information
+                        <img src="/resourcepackages/da/assets/img/icons/chevron-down.svg" alt="" width="24" height="24"
+                        class="lg:hidden transition-transform group-[.is-open]:rotate-180 duration-300">
+                    </h3>
+
+                        <div class="grid lg:block" id="footer-mobile-Information"  tabindex="-1">
+
+                            <ul class="flex flex-col gap-24">
+                                    <li class="mt-16">
+                                        <a href="/information/immigration-visas" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="3" aria-label="Passport control &amp; visas" role="listitem">
+                                            <span>Passport control &amp; visas</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/information/security-customs" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="3" aria-label="Security &amp; customs" role="listitem">
+                                            <span>Security &amp; customs</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/information/baggage" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="3" aria-label="Baggage" role="listitem">
+                                            <span>Baggage</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/information/transfers" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="3" aria-label="Transfers" role="listitem">
+                                            <span>Transfers</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/information/special-assistance" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="3" aria-label="Special assistance" role="listitem">
+                                            <span>Special assistance</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/information/safety-tips" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="3" aria-label="Safety tips" role="listitem">
+                                            <span>Safety tips</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/information/airport-map" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="3" aria-label="Airport map" role="listitem">
+                                            <span>Airport map</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                            </ul>
+                        </div>
+                </div>
+            </li>
+            <li class="p-16 border-t border-neutrals-neutral2">
+                <div class="text-text-primary" data-menulist="">
+                    <h3 class="text-base font-medium flex justify-between items-center group relative" aria-expanded="false" aria-controls="mobile-Transport" tabindex="4" aria-label="Transport">
+                        Transport
+                        <img src="/resourcepackages/da/assets/img/icons/chevron-down.svg" alt="" width="24" height="24"
+                        class="lg:hidden transition-transform group-[.is-open]:rotate-180 duration-300">
+                    </h3>
+
+                        <div class="grid lg:block" id="footer-mobile-Transport"  tabindex="-1">
+
+                            <ul class="flex flex-col gap-24">
+                                    <li class="mt-16">
+                                        <a href="/transport/taxi" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="4" aria-label="Taxi" role="listitem">
+                                            <span>Taxi</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/transport/metro" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="4" aria-label="Metro" role="listitem">
+                                            <span>Metro</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/transport/bus" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="4" aria-label="Bus" role="listitem">
+                                            <span>Bus</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/transport/car-parking" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="4" aria-label="Car parking" role="listitem">
+                                            <span>Car parking</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/transport/rent-a-car" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="4" aria-label="Rent a car" role="listitem">
+                                            <span>Rent a car</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                            </ul>
+                        </div>
+                </div>
+            </li>
+            <li class="p-16 border-t border-neutrals-neutral2">
+                <div class="text-text-primary" data-menulist="">
+                    <h3 class="text-base font-medium flex justify-between items-center group relative" aria-expanded="false" aria-controls="mobile-Experiences" tabindex="5" aria-label="Experiences">
+                        Experiences
+                        <img src="/resourcepackages/da/assets/img/icons/chevron-down.svg" alt="" width="24" height="24"
+                        class="lg:hidden transition-transform group-[.is-open]:rotate-180 duration-300">
+                    </h3>
+
+                        <div class="grid lg:block" id="footer-mobile-Experiences"  tabindex="-1">
+
+                            <ul class="flex flex-col gap-24">
+                                    <li class="mt-16">
+                                        <a href="/experiences/shops" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="5" aria-label="Shops" role="listitem">
+                                            <span>Shops</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/experiences/restaurants" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="5" aria-label="Restaurants" role="listitem">
+                                            <span>Restaurants</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/experiences/hotels" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="5" aria-label="Hotels" role="listitem">
+                                            <span>Hotels</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/experiences/relax---refresh" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="5" aria-label="Relax &amp; refresh" role="listitem">
+                                            <span>Relax &amp; refresh</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/experiences/services" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="5" aria-label="Services" role="listitem">
+                                            <span>Services</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                            </ul>
+                        </div>
+                </div>
+            </li>
+            <li class="p-16 border-t border-neutrals-neutral2">
+                <div class="text-text-primary" data-menulist="">
+                    <h3 class="text-base font-medium flex justify-between items-center group relative" aria-expanded="false" aria-controls="mobile-Contact-us" tabindex="6" aria-label="Contact-us">
+                        Contact us
+                        <img src="/resourcepackages/da/assets/img/icons/chevron-down.svg" alt="" width="24" height="24"
+                        class="lg:hidden transition-transform group-[.is-open]:rotate-180 duration-300">
+                    </h3>
+
+                        <div class="grid lg:block" id="footer-mobile-Contact-us"  tabindex="-1">
+
+                            <ul class="flex flex-col gap-24">
+                                    <li class="mt-16">
+                                        <a href="/contact-information" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="6" aria-label="Contact information" role="listitem">
+                                            <span>Contact information</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/feedback" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="6" aria-label="Feedback" role="listitem">
+                                            <span>Feedback</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/lost-and-found" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="6" aria-label="Lost &amp; found" role="listitem">
+                                            <span>Lost &amp; found</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="/faqs" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="6" aria-label="FAQs" role="listitem">
+                                            <span>FAQs</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                                    <li class="">
+                                        <a href="javascript: getAdvancedConfig()" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" tabindex="6" aria-label="Live chat support" role="listitem">
+                                            <span>Live chat support</span>
+                                            <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" alt="" width="24" height="24" class="ltr:scale-x-100 rtl:-scale-x-100">
+                                        </a>
+                                    </li>
+                            </ul>
+                        </div>
+                </div>
+            </li>
+    </ul>
+    <div class="px-16 flex gap-16">
+        <a href="#" class="flex flex-col justify-center align-middle bg-white rounded p-12" data-dialog-open="government-popup"> 
+            <img src="/resourcepackages/da/assets/img/logos/logo-o4.png" width="40" height="40" alt="O4" class="w-40 h-40">
+        </a>
+        <a href="#" class="flex flex-col justify-center align-middle bg-primary-portgore rounded p-12" data-dialog-open="happiness-popup-app">
+            <img src="/resourcepackages/da/assets/img/logos/logo-dubai-digital-feedback.png" width="40" height="40" alt="Happiness meter" class="w-40 h-40">
+        </a>
+    </div>
+
+    <div class="flex-col bottom-0 w-full justify-evenly gap-12 fixed text-primary-portgore" id="sideMenuBottomLinks">
+
+
+
+        <a href="https://dubaiairports.ae/corporate" target="_blank" aria-describedby="new-window-desc" class="py-16 bg-neutrals-neutral2 text-base font-medium flex-nowrap items-center gap-8 w-full flex p-16">
+            <span>Corporate</span>
+            <span id="new-window-desc" class="sr-only">Opens in a new window</span>
+            <img src="/resourcepackages/da/assets/img/icons/arrow-right.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="arrow-right">
+        </a>
+
+
+
+
+        <a href="https://dwc.dubaiairports.ae/" target="_blank" aria-describedby="new-window-desc" class="py-16 bg-neutrals-neutral2 text-base font-medium flex-nowrap items-center gap-8 w-full flex p-16">
+            <span>DWC</span>
+            <span id="new-window-desc" class="sr-only">Opens in a new window</span>
+            <img src="/resourcepackages/da/assets/img/icons/arrow-right.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="">
+        </a>
+</div>
+</div>
+
+    <div class="flex-col gap-32 px-16 hidden text-primary-portgore" id="mob-search" data-mob-search="" aria-hidden="true">
+
+
+
+    <div class="offset-mt-none offset-mr-none offset-mb-none offset-ml-none offset-pt-none offset-pr-none offset-pb-none offset-pl-none rte">
+<button class="flex gap-8 font-medium" data-mob-backtomenu="" aria-expanded="true" aria-controls="data-mob-menu">
+    <img src="/resourcepackages/da/assets/img/icons/arrow-left.svg" alt="back" data-sf-ec-immutable="">
+    <span>Back to menu</span>
+</button>    </div>
+
+    <div class="flex flex-col mt-16 relative text-primary-portgore">
+
+    <div class=" offset-mt-none offset-mr-none offset-mb-none offset-ml-none"
+         data-sf-search-autocomplete-item-class="dropdown-item text-truncate"
+         data-sf-visibility-hidden="d-none"
+         data-sf-active-class="active" role="search">
+            <div class="relative">
+                <input value=""
+                       class="py-12 ps-48 pe-16 rounded-xl bg-white h-48 w-full" data-sf-role="search-box" data-sf-results-url="/search-results"
+                       data-sf-search-catalogue="passengers-main-search" data-sf-scoring-setting=""
+                       data-sf-suggestions-length="3" data-sf-site-id="ce06c336-a4d6-4024-89cb-83a378064c31"
+                       data-sf-culture="en" data-sf-sort=""
+                       data-sf-suggestions-fields="Title,Content"
+                       data-sf-results-all="0"
+                       data-sf-service-path="/api/default" type="text"
+                       placeholder="Search website"
+                       id="mob-search-input"
+                       aria-labelledby="search-label"
+                 />
+                <button data-sf-role="search-button"
+                        class="bg-transparent w-24 h-24 border-none absolute top-12  left-16">
+                    
+                    <img src="/resourcepackages/da/assets/img/icons/search.svg" alt="" width="24" height="24">
+                    <span class="sr-only" id="search-label">Search</span>
+                </button>
+                <button id="mob-search-reset" class="aria-hidden:hidden bg-transparent w-24 h-24 border-none absolute top-12 end-16"
+                        type="reset" aria-hidden="true">
+                    <img src="/resourcepackages/da/assets/img/icons/close.svg" width="24" height="24" alt="">
+                </button>
+            </div>
+                <div data-search-results aria-live="polite" aria-hidden="true" class="aria-hidden:hidden">
+                    <h2 id="mob-search-title" class="text-lg font-medium mt-32">
+                        <span class="search-title-count"></span>
+                        results for "<span class="search-title-val"></span>"
+                    </h2>
+                    <ul data-sf-role="search-box-autocomplete" class="space-y-16 text-base font-medium text-text-link mt-24" role="listbox"></ul>
+                </div>
+    </div>
+
+
+
+
+<div class="offset-mt-none offset-mr-none offset-mb-none offset-ml-none">
+    <nav  data-search-suggestions="" aria-live="polite" aria-hidden="false" class="aria-hidden:hidden">
+
+        <ul>
+        <li>
+                <h3 class="text-lg font-medium mt-32">Popular searches</h3>
+                <ul class="flex flex-col gap-8 mt-24">
+        <li>
+                <a class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" href="/popular-searches/restaurants" target="_self" tabindex="-1">
+                    <span>Restaurants</span>
+                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                </a>
+        </li>
+        <li>
+                <a class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" href="/popular-searches/al-majlis" target="_self" tabindex="-1">
+                    <span>Al Majlis</span>
+                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                </a>
+        </li>
+        <li>
+                <a class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" href="/popular-searches/special-assistance" target="_self" tabindex="-1">
+                    <span>Special assistance</span>
+                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                </a>
+        </li>
+        <li>
+                <a class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" href="/popular-searches/car-parking" target="_self" tabindex="-1">
+                    <span>Car parking</span>
+                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                </a>
+        </li>
+        <li>
+                <a class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" href="/popular-searches/relax---refresh" target="_self" tabindex="-1">
+                    <span>Relax &amp; refresh</span>
+                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                </a>
+        </li>
+                </ul>
+        </li>
+        </ul>
+    </nav>
+</div>
+
+
+</div>
+</div>
+</div>
+
+    <div class=" text-primary-portgore">
+
+
+    <div id="desktop-menu" data-menu="desktop" class="hidden lg:flex">
+        <ul class="flex gap-48 font-medium">
+                    <li>
+                        <a href="" aria-controls="Flights" aria-expanded="false" data-main-nav-item="Flights" class="text-text-primary hover:text-text-link transition-colors block leading-[72px]" tabindex="2" aria-label="Flights">Flights</a>
+                    </li>
+                    <li>
+                        <a href="" aria-controls="Information" aria-expanded="false" data-main-nav-item="Information" class="text-text-primary hover:text-text-link transition-colors block leading-[72px]" tabindex="3" aria-label="Information">Information</a>
+                    </li>
+                    <li>
+                        <a href="" aria-controls="Transport" aria-expanded="false" data-main-nav-item="Transport" class="text-text-primary hover:text-text-link transition-colors block leading-[72px]" tabindex="4" aria-label="Transport">Transport</a>
+                    </li>
+                    <li>
+                        <a href="" aria-controls="Experiences" aria-expanded="false" data-main-nav-item="Experiences" class="text-text-primary hover:text-text-link transition-colors block leading-[72px]" tabindex="5" aria-label="Experiences">Experiences</a>
+                    </li>
+        </ul>
+    </div>
+</div>
+</div>
+    </nav>
+</div>
+
+    <div class="flex items-center border-e-2 me-16 pe-16 lg:me-0 lg:pe-0 border-neutrals-neutral2 lg:border-none order-2 lg:order-3 ms-auto lg:ms-0 text-primary-portgore">
+
+
+
+<div class="language-switch relative">
+        <a class="flex items-center lg:leading-[72px]" href="#" id="languageSwitch" aria-expanded="false" aria-controls="languageSwitchDropdown">
+            <img src="/resourcepackages/da/assets/img/icons/globe.svg" alt="Globe">
+            <span class="uppercase font-medium text-base inline-block ms-8 relative top-2">en</span>
+        </a>
+    <div id="languageSwitchDropdown" aria-hidden="true" class="language-switch__dropdown absolute top-40 lg:top-72 left-[50%] translate-x-[-50%] whitespace-nowrap w-max font-medium">
+            <a class="block p-16 border-t border-neutrals-neutral2 bg-neutrals-neutral1 hover:bg-neutrals-neutral2" href="/error-pages/404" hreflang="en" style="text-decoration:none;">
+                <img src="/resourcepackages/da/assets/img/icons/check.svg" alt="" class="opacity-100 inline-block">
+                <span class="ms-8 inline-block">EN - English</span>
+            </a>
+    </div>
+</div>
+    <div class="header-search text-primary-portgore">
+    <a class=" text-primary-portgore" href="#" aria-expanded="false" aria-controls="Search" data-main-nav-item="Search">
+        <div>
+
+
+
+    <div class="inline-flex text-text-primary hover:text-text-link transition-colors leading-[72px] h-72 offset-mt-none offset-mr-none offset-mb-none offset-ml-none offset-pt-none offset-pr-none offset-pb-none offset-pl-none rte">
+<img height="24" width="24" class="h-24 w-24 self-center" data-sf-ec-immutable="" alt="Search" src="/resourcepackages/da/assets/img/icons/search.svg"><span class="font-medium text-base inline-block ms-8">Search</span>    </div>
+</div>
+    </a>
+</div>
+</div>
+
+
+
+
+        <a href=/home class="lg:my-16" tabindex="1">
+                <img src="/images/passengerslibraries/home-page/dxb-logo-mobile.svg?sfvrsn=566bdfa9_3" loading="eager" fetchpriority="high" alt="Logo" class="h-full lg:hidden" width="51" height="24">
+                <img src="/images/passengerslibraries/home-page/dxb-logo.svg?sfvrsn=f2fb604_3" loading="eager" fetchpriority="high" alt="Logo" class="h-full hidden lg:block" width="86" height="40">
+        </a>
+</div>
+
+    <div class="hidden lg:block page-editor-compact text-primary-portgore">
+
+
+
+            <div class="subnav bg-neutrals-neutral1 w-full py-80 left-0 hidden lg:block absolute megamenu" aria-expanded="false" aria-hidden="true" aria-labelledby="Flights-title" id="Flights" >
+                <div class="grid grid-cols-[320px_1fr_1fr] gap-120 max-w-6xl mx-auto px-16">
+                        <div>
+                            <article class="bg-neutrals-neutral2 flex flex-col justify-end overflow-hidden rounded-lg pt-40 px-24 pb-24 group">
+                                <div class="flex items-center gap-16 lg:block mb-16 mb-auto lg:mb-0">
+                                        <img src="/images/passengerslibraries/icons/plane.svg?sfvrsn=128f83ef_5" alt="Flight status" class="size-40" loading="lazy">
+                                    <h2 class="text-lg lg:text-xl font-medium text-primary-portgore lg:mb-16 lg:mt-24">Flight status</h2>
+                                </div>
+                                <p>All flight information in one place</p>
+                                <div class="flex items-center justify-between pt-24">
+                                    <a href="/flight-status" class="group-hover:bg-neutrals-neutral5 link-btn link-btn--primary tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Search" target=_self aria-describedby="new-window-desc">
+                                        Search
+                                        <span id="new-window-desc" class="sr-only">Opens in a new window</span>
+                                        <img src="/resourcepackages/da/assets/img/icons/arrow-right-02.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="arrow-right">
+                                    </a>
+                                </div>
+                            </article>
+                        </div>
+                        <div>
+                            <h2 class="text-lg text-primary-portgore font-medium mb-24" id="Flights-Flights">Flights</h2>
+                            <div>
+                                <ul class="flex flex-col gap-8">
+                                        <li>
+                                            <a href="/flights/arrivals" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Arrivals">
+                                                <span>Arrivals</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/flights/departures" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Departures">
+                                                <span>Departures</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/airlines" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Airlines">
+                                                <span>Airlines</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </div>
+                </div>
+            </div>
+            <div class="subnav bg-neutrals-neutral1 w-full py-80 left-0 hidden lg:block absolute megamenu" aria-expanded="false" aria-hidden="true" aria-labelledby="Contact-us-title" id="Contact-us" >
+                <div class="grid grid-cols-[320px_1fr_1fr] gap-120 max-w-6xl mx-auto px-16">
+                        <div>
+                            <h2 class="text-lg text-primary-portgore font-medium mb-24" id="Contact-us-Contact-Us">Contact Us</h2>
+                            <div>
+                                <ul class="flex flex-col gap-8">
+                                        <li>
+                                            <a href="/contact-information" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Contact information">
+                                                <span>Contact information</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/feedback" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Feedback">
+                                                <span>Feedback</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/lost-and-found" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Lost &amp; found">
+                                                <span>Lost &amp; found</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/faqs" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="FAQs">
+                                                <span>FAQs</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/live-chat-support" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Live chat support">
+                                                <span>Live chat support</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </div>
+                </div>
+            </div>
+            <div class="subnav bg-neutrals-neutral1 w-full py-80 left-0 hidden lg:block absolute megamenu" aria-expanded="false" aria-hidden="true" aria-labelledby="Transport-title" id="Transport" >
+                <div class="grid grid-cols-[320px_1fr_1fr] gap-120 max-w-6xl mx-auto px-16">
+                        <div>
+                            <article class="bg-neutrals-neutral2 flex flex-col justify-end overflow-hidden rounded-lg pt-40 px-24 pb-24 group">
+                                <div class="flex items-center gap-16 lg:block mb-16 mb-auto lg:mb-0">
+                                        <img src="/images/passengerslibraries/icons/parking.svg?sfvrsn=a37251d7_7" alt="Car parking" class="size-40" loading="lazy">
+                                    <h2 class="text-lg lg:text-xl font-medium text-primary-portgore lg:mb-16 lg:mt-24">Car parking</h2>
+                                </div>
+                                <p>Reserve a spot</p>
+                                <div class="flex items-center justify-between pt-24">
+                                    <a href="https://www.mawgif.com/dxbbooking" class="group-hover:bg-neutrals-neutral5 link-btn link-btn--primary tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Book now" target=_self aria-describedby="new-window-desc">
+                                        Book now
+                                        <span id="new-window-desc" class="sr-only">Opens in a new window</span>
+                                        <img src="/resourcepackages/da/assets/img/icons/arrow-right-02.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="arrow-right">
+                                    </a>
+                                </div>
+                            </article>
+                        </div>
+                        <div>
+                            <h2 class="text-lg text-primary-portgore font-medium mb-24" id="Transport-Transport">Transport</h2>
+                            <div>
+                                <ul class="flex flex-col gap-8">
+                                        <li>
+                                            <a href="/transport/taxi" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Taxi">
+                                                <span>Taxi</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/transport/metro" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Metro">
+                                                <span>Metro</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/transport/bus" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Bus">
+                                                <span>Bus</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/transport/car-parking" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Car parking">
+                                                <span>Car parking</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/transport/rent-a-car" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Rent a car">
+                                                <span>Rent a car</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </div>
+                </div>
+            </div>
+            <div class="subnav bg-neutrals-neutral1 w-full py-80 left-0 hidden lg:block absolute megamenu" aria-expanded="false" aria-hidden="true" aria-labelledby="Experiences-title" id="Experiences" >
+                <div class="grid grid-cols-[320px_1fr_1fr] gap-120 max-w-6xl mx-auto px-16">
+                        <div>
+                            <article class="bg-neutrals-neutral2 flex flex-col justify-end overflow-hidden rounded-lg pt-40 px-24 pb-24 group">
+                                <div class="flex items-center gap-16 lg:block mb-16 mb-auto lg:mb-0">
+                                        <img src="/images/passengerslibraries/icons/map.svg?sfvrsn=e9baa06b_5" alt="DXB Express Maps" class="size-40" loading="lazy">
+                                    <h2 class="text-lg lg:text-xl font-medium text-primary-portgore lg:mb-16 lg:mt-24">DXB Express Maps</h2>
+                                </div>
+                                <p>Find your way with ease at DXB</p>
+                                <div class="flex items-center justify-between pt-24">
+                                    <a href="/maps-home" class="group-hover:bg-neutrals-neutral5 link-btn link-btn--primary tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Discover now" target=_self aria-describedby="new-window-desc">
+                                        Discover now
+                                        <span id="new-window-desc" class="sr-only">Opens in a new window</span>
+                                        <img src="/resourcepackages/da/assets/img/icons/arrow-right-02.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="arrow-right">
+                                    </a>
+                                </div>
+                            </article>
+                        </div>
+                        <div>
+                            <h2 class="text-lg text-primary-portgore font-medium mb-24" id="Experiences-Experiences">Experiences</h2>
+                            <div>
+                                <ul class="flex flex-col gap-8">
+                                        <li>
+                                            <a href="/experiences/shops" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Shops">
+                                                <span>Shops</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/experiences/restaurants" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Restaurants">
+                                                <span>Restaurants</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/experiences/hotels" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Hotels">
+                                                <span>Hotels</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/experiences/relax---refresh" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Relax &amp; refresh">
+                                                <span>Relax &amp; refresh</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/experiences/services" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Services">
+                                                <span>Services</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </div>
+                </div>
+            </div>
+            <div class="subnav bg-neutrals-neutral1 w-full py-80 left-0 hidden lg:block absolute megamenu" aria-expanded="false" aria-hidden="true" aria-labelledby="Information-title" id="Information" >
+                <div class="grid grid-cols-[320px_1fr_1fr] gap-120 max-w-6xl mx-auto px-16">
+                        <div>
+                            <article class="bg-neutrals-neutral2 flex flex-col justify-end overflow-hidden rounded-lg pt-40 px-24 pb-24 group">
+                                <div class="flex items-center gap-16 lg:block mb-16 mb-auto lg:mb-0">
+                                        <img src="/images/passengerslibraries/icons/wheelchair.svg?sfvrsn=9c39c9bb_7" alt="Special assistance" class="size-40" loading="lazy">
+                                    <h2 class="text-lg lg:text-xl font-medium text-primary-portgore lg:mb-16 lg:mt-24">Special assistance</h2>
+                                </div>
+                                <p>Find all the help you need</p>
+                                <div class="flex items-center justify-between pt-24">
+                                    <a href="/information/special-assistance" class="group-hover:bg-neutrals-neutral5 link-btn link-btn--primary tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Explore all services" target=_self aria-describedby="new-window-desc">
+                                        Explore all services
+                                        <span id="new-window-desc" class="sr-only">Opens in a new window</span>
+                                        <img src="/resourcepackages/da/assets/img/icons/arrow-right-02.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="arrow-right">
+                                    </a>
+                                </div>
+                            </article>
+                        </div>
+                        <div>
+                            <h2 class="text-lg text-primary-portgore font-medium mb-24" id="Information-Information">Information</h2>
+                            <div>
+                                <ul class="flex flex-col gap-8">
+                                        <li>
+                                            <a href="/information/immigration-visas" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Passport control &amp; visas">
+                                                <span>Passport control &amp; visas</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/information/security-customs" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Security &amp; customs">
+                                                <span>Security &amp; customs</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/information/baggage" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Baggage">
+                                                <span>Baggage</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/information/transfers" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Transfers">
+                                                <span>Transfers</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/information/special-assistance" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Special assistance">
+                                                <span>Special assistance</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/information/safety-tips" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Safety tips">
+                                                <span>Safety tips</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/information/airport-map" class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" id="tabIndexSet" tabindex="-1" aria-label="Airport map">
+                                                <span>Airport map</span>
+                                                <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24" >
+                                            </a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </div>
+                </div>
+            </div>
+
+    <div class="subnav bg-neutrals-neutral1 w-full py-80 absolute left-0 hidden lg:block text-primary-portgore" aria-hidden="true" role="search" aria-describedby="search-title" id="Search">
+    <div class="block max-w-6xl mx-auto px-16 text-primary-portgore">
+
+    <div class=" offset-mt-none offset-mr-none offset-mb-none offset-ml-none"
+         data-sf-search-autocomplete-item-class="dropdown-item text-truncate"
+         data-sf-visibility-hidden="d-none"
+         data-sf-active-class="active" role="search" tabindex="-1">
+            <div class="relative" >
+                <input value=""
+                       class="py-12 px-48 rounded-xl bg-white h-48 w-full tabIndexSet" data-sf-role="search-box" data-sf-results-url="/search-results"
+                       data-sf-search-catalogue="passengers-main-search" data-sf-scoring-setting=""
+                       data-sf-suggestions-length="3" data-sf-site-id="ce06c336-a4d6-4024-89cb-83a378064c31"
+                       data-sf-culture="en" data-sf-sort=""
+                       data-sf-suggestions-fields="Title,Content"
+                       data-sf-results-all="0"
+                       data-sf-service-path="/api/default" type="text"
+                       placeholder="Search website"
+                       id="header-search"
+                       aria-labelledby="search-title"
+                 tabindex="-1" />
+                <button data-sf-role="search-button"
+                        class="bg-transparent w-24 h-24 border-none absolute top-12 tabIndexSet left-16" tabindex="-1">
+                    
+                    <img src="/resourcepackages/da/assets/img/icons/search.svg" alt="Search icon">
+                    <span class="sr-only" id="search-title">Search</span>
+                </button>
+                <button id="header-search-reset" class="hidden-reset bg-transparent w-24 h-24 border-none absolute top-12 end-16 tabIndexSet"
+                        type="reset" aria-hidden="true" tabindex="-1">
+                    <img src="/resourcepackages/da/assets/img/icons/close.svg" width="24" height="24" alt="clear search">
+                </button>
+            </div>
+                <div data-search-results aria-live="polite" aria-hidden="true" class="aria-hidden:hidden">
+                    <h2 id="header-search-title" class="text-lg font-medium mt-32">
+                        <span class="search-title-count"></span>
+                        results for "<span class="search-title-val"></span>"
+                    </h2>
+                    <ul data-sf-role="search-box-autocomplete" class="max-h-[300px] overflow-y-auto 
+    space-y-16
+    text-base
+    font-medium
+    text-text-link
+    mt-24" role="listbox"></ul>
+                </div>
+    </div>
+
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const searchInput = document.getElementById("header-search");
+        const resetButton = document.getElementById("header-search-reset");
+
+        function toggleResetButton() {
+            const hasText = searchInput.value.trim().length > 0;
+            if (hasText) {
+                resetButton.classList.remove("hidden-reset");
+                resetButton.setAttribute("aria-hidden", "false");
+                resetButton.removeAttribute("tabindex");
+            } else {
+                resetButton.classList.add("hidden-reset");
+                resetButton.setAttribute("aria-hidden", "true");
+                resetButton.setAttribute("tabindex", "-1");
+            }
+        }
+
+        // Initial check in case input is pre-filled
+        toggleResetButton();
+
+        // Listen for input changes
+        searchInput.addEventListener("input", toggleResetButton);
+
+        // Clear input and hide button on reset
+        resetButton.addEventListener("click", function () {
+            searchInput.value = "";
+            toggleResetButton();
+        });
+    });
+</script>
+
+
+<div class="search-navigation offset-mt-none offset-mr-none offset-mb-none offset-ml-none">
+    <nav >
+
+        <ul>
+        <li>
+                <h3 class="text-lg font-medium mt-32">Popular searches</h3>
+                <ul class="flex flex-col gap-8 mt-24">
+        <li>
+                <a class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" href="/popular-searches/restaurants" target="_self" tabindex="-1">
+                    <span>Restaurants</span>
+                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                </a>
+        </li>
+        <li>
+                <a class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" href="/popular-searches/al-majlis" target="_self" tabindex="-1">
+                    <span>Al Majlis</span>
+                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                </a>
+        </li>
+        <li>
+                <a class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" href="/popular-searches/special-assistance" target="_self" tabindex="-1">
+                    <span>Special assistance</span>
+                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                </a>
+        </li>
+        <li>
+                <a class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" href="/popular-searches/car-parking" target="_self" tabindex="-1">
+                    <span>Car parking</span>
+                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                </a>
+        </li>
+        <li>
+                <a class="flex justify-start gap-8 items-center text-base font-medium text-text-link tabIndexSet" href="/popular-searches/relax---refresh" target="_self" tabindex="-1">
+                    <span>Relax &amp; refresh</span>
+                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                </a>
+        </li>
+                </ul>
+        </li>
+        </ul>
+    </nav>
+</div>
+
+
+</div>
+</div>
+</div>
+</header>
+        <div class="skip-to-main-content">Skip to <a href="#main-content" accesskey="1">content</a> or <a href="#footer" accesskey="2">footer</a></div>
+        <!-- Begin: src/components/NotificationBanner -->
+        <div>
+    <div class="relative text-primary-portgore">
+    <div class="absolute w-full z-20 text-primary-portgore">
+
+
+
+</div>
+</div>
+</div>
+        <!-- End: src/components/NotificationBanner -->
+        <main id="main-content">
+
+
+
+<section class="text-primary-portgore "  container-context="Progress.Sitefinity.AspNetCore.TagHelpers.ContainerContext">
+        <div class="max-w-6xl mx-auto px-16 pt-40 lg:pt-80 pb-40 lg:pb-80">
+
+            <div>
+
+
+
+    <div class="offset-mt-none offset-mr-none offset-mb-none offset-ml-none offset-pt-none offset-pr-none offset-pb-none offset-pl-none rte">
+<div class="content"><h1>Can’t seem to find this page</h1><p class="subtitle">It might’ve moved, or the link may be out of date. Try checking the URL or head back to the homepage.</p><div class="buttons"><a class="button button-primary" href="/" data-sf-ec-immutable=""><img width="16" src="77db69c2-196f-4eba-a26e-bea7bcae6aee">Return to Homepage
+        </a>
+
+ <button id="destinationBtn" class="button button-secondary">
+ <img width="22" src="b26e11a8-afb6-4c42-aacd-2da2cea745f0">Find Your Destination
+        </button></div></div><div id="popupOverlay" class="popup-overlay"><div class="popup"><button id="closePopup" class="close-button">×</button><h2 class="popup-header">Find Your Destination</h2><div id="categoriesContainer" class="categories"></div><div id="menuItemsContainer" class="menu-items"></div></div></div>    </div>
+</div>
+        </div>
+</section></main>
+        <footer id="footer" class="footer bg-neutrals-white text-text-primary border-t border-neutrals-neutral2 mt-auto pt-80 pb-40 ps-16 pe-16 lg:pt-120 lg:pb-80">
+    <div class="footer__wrapper max-w-6xl mx-auto flex flex-col gap-40 lg:gap-80 px-16 text-primary-portgore">
+    <div class="lg:flex lg:justify-between text-primary-portgore">
+
+
+        <div class="text-text-primary" data-menulist>
+                <h3 class="text-base font-medium flex justify-between items-center group relative" aria-expanded="false" aria-controls="mobile-Other-links">
+                    Other links
+                    <img src="/resourcepackages/da/assets/img/icons/chevron-down.svg" alt="" width="24" height="24"
+                         class="lg:hidden transition-transform group-[.is-open]:rotate-180 duration-300">
+                </h3>
+
+                <div class="grid lg:block" id="footers-mobile-Other-links"  tabindex="-1">
+                    <ul class="mt-16 lg:my-24">
+                            <li class="">
+                                <a href="/alert" class="flex justify-start gap-8 items-center text-base font-medium text-text-link">
+                                    <span>Alert</span>
+                                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                                </a>
+                            </li>
+                            <li class="mt-8">
+                                <a href="/privacy-policy" class="flex justify-start gap-8 items-center text-base font-medium text-text-link">
+                                    <span>Privacy policy</span>
+                                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                                </a>
+                            </li>
+                            <li class="mt-8">
+                                <a href="/accessibility-statement" class="flex justify-start gap-8 items-center text-base font-medium text-text-link">
+                                    <span>Accessibility statement</span>
+                                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                                </a>
+                            </li>
+                            <li class="mt-8">
+                                <a href="/terms-of-use" class="flex justify-start gap-8 items-center text-base font-medium text-text-link">
+                                    <span>Terms of use</span>
+                                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+        </div>
+            <hr class="lg:hidden mb-24">
+        <div class="text-text-primary" data-menulist>
+                <h3 class="text-base font-medium flex justify-between items-center group relative" aria-expanded="false" aria-controls="mobile-Contact-us">
+                    Contact us
+                    <img src="/resourcepackages/da/assets/img/icons/chevron-down.svg" alt="" width="24" height="24"
+                         class="lg:hidden transition-transform group-[.is-open]:rotate-180 duration-300">
+                </h3>
+
+                <div class="grid lg:block" id="footers-mobile-Contact-us"  tabindex="-1">
+                    <ul class="mt-16 lg:my-24">
+                            <li class="">
+                                <a href="/contact-information" class="flex justify-start gap-8 items-center text-base font-medium text-text-link">
+                                    <span>Contact information</span>
+                                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                                </a>
+                            </li>
+                            <li class="mt-8">
+                                <a href="/feedback" class="flex justify-start gap-8 items-center text-base font-medium text-text-link">
+                                    <span>Feedback</span>
+                                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                                </a>
+                            </li>
+                            <li class="mt-8">
+                                <a href="/lost-and-found" class="flex justify-start gap-8 items-center text-base font-medium text-text-link">
+                                    <span>Lost &amp; found</span>
+                                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                                </a>
+                            </li>
+                            <li class="mt-8">
+                                <a href="/faqs" class="flex justify-start gap-8 items-center text-base font-medium text-text-link">
+                                    <span>FAQs</span>
+                                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-03.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+        </div>
+
+    <div class="flex flex-col justify-evenly hidden lg:flex text-primary-portgore">
+
+
+
+        <a href="https://dubaiairports.ae/corporate" target="_blank" aria-describedby="new-window-desc" class="py-16 bg-neutrals-neutral2 text-base font-medium flex-nowrap items-center gap-8 hidden lg:flex ps-16 pe-16 rounded self-center">
+            <span>Corporate</span>
+            <span id="new-window-desc" class="sr-only">Opens in a new window</span>
+            <img src="/resourcepackages/da/assets/img/icons/arrow-right.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="arrow-right">
+        </a>
+
+
+
+
+        <a href="https://dwc.dubaiairports.ae/" target="_blank" aria-describedby="new-window-desc" class="py-16 bg-neutrals-neutral2 text-base font-medium flex-nowrap items-center gap-8 hidden lg:flex ps-16 pe-16 rounded self-center flex p-16 w-full md:justify-between rounded">
+            <span>DWC</span>
+            <span id="new-window-desc" class="sr-only">Opens in a new window</span>
+            <img src="/resourcepackages/da/assets/img/icons/arrow-right.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="">
+        </a>
+</div>
+</div>
+
+    <div class="flex flex-col lg:flex-row gap-40 lg:justify-between text-primary-portgore">
+
+            <a href="/home" class="d-inline-block offset-mt-none offset-mr-none offset-mb-none offset-ml-none" >
+            <picture class="d-inline-block ">
+                <img  loading="lazy" class=img-fluid src="/images/passengerslibraries/logos/logo-dba-medium.svg?sfvrsn=9a8eb108_7" title="logo-dba-medium" alt="DXB">
+            </picture>
+            </a>
+
+
+
+        <ul class="social-icons flex gap-24">
+                <li>
+                    <a href="https://www.instagram.com/dxb/" class="bg-primary-portgore rounded size-40 flex items-center justify-center" aria-label="Instagram">
+                        <img src="/resourcepackages/da/assets/img/icons/instagram.svg" loading="lazy" class="size-24" alt="">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.facebook.com/DXB/" class="bg-primary-portgore rounded size-40 flex items-center justify-center" aria-label="Facebook">
+                        <img src="/resourcepackages/da/assets/img/icons/facebook.svg" loading="lazy" class="size-24" alt="">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/DXB" class="bg-primary-portgore rounded size-40 flex items-center justify-center" aria-label="X">
+                        <img src="/resourcepackages/da/assets/img/icons/x.svg" loading="lazy" class="size-24" alt="">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/company/dubaiairports/?originalSubdomain=ae" class="bg-primary-portgore rounded size-40 flex items-center justify-center" aria-label="LinkedIn">
+                        <img src="/resourcepackages/da/assets/img/icons/linkedin.svg" loading="lazy" class="size-24" alt="">
+                    </a>
+                </li>
+        </ul>
+</div>
+
+    <div class="flex flex-col gap-40 lg:flex-row lg:justify-between text-primary-portgore">
+    <div class="flex flex-col gap-16 text-sm text-primary-portgore">
+
+
+<p>&copy; Dubai Airports, All Rights Reserved<br /></p><div>Website last updated on: <span id="lastUpdatedElement"></span></div>
+<script>
+    function updateLastUpdated(){
+              let lang = "en";
+        let formattedDateTime;
+     const now = new Date();
+    const options = {
+        year: "numeric",
+        month: "short",
+        day: "numeric",
+        hour: "numeric",
+        minute: "numeric",
+        second: "numeric",
+        timezone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+        hour12: false
+    }
+    if(lang == "en"){
+      formattedDateTime = now.toLocaleDateString(undefined, options);
+    }else{
+          formattedDateTime = now.toLocaleDateString('ar-EG', options);
+    }
+   
+    document.getElementById("lastUpdatedElement").textContent = formattedDateTime;
+    }
+    updateLastUpdated();
+    setInterval(updateLastUpdated, 300000)
+</script> </div>
+
+
+
+
+    <div class="flex justify-center flex-wrap gap-40 items-center">
+            <div class="flex gap-40">
+                    <a href=https://www.digitaldubai.ae>
+                            <img src="/images/passengerslibraries/_dev/digital-dubai.jpg?sfvrsn=362fca9b_3" width="117" height="65" class="block lg:hidden" alt="MBRSM logo">
+                            <img src="/images/passengerslibraries/_dev/digital-dubai.jpg?sfvrsn=362fca9b_3" width="117" height="65" class="hidden lg:inline" alt="MBRSM logo">
+                    </a>
+            </div>
+    </div>
+</div>
+</div>
+</footer>
+        <!-- Begin: src/components/FloatingFeedback -->
+        <div class="hidden lg:flex flex-col gap-16 fixed ltr:left-16 rtl:right-16 top-[calc(100vh_-_160px)] z-100">
+            <button data-dialog-open="happiness-popup-app" class="flex flex-col justify-center align-middle rounded p-12
+bg-primary-portgore hover:bg-neutrals-neutral4
+outline-transparent outline-2 focus-visible:outline-neutrals-neutral3
+shadow-floating hover:shadow-floatinghover
+transition-all duration-200">
+                <img src="/resourcepackages/da/assets/img/logos/logo-dubai-digital-feedback.png" alt="Happiness meter" class="w-40 h-40">
+            </button>
+            <button data-dialog-open="government-popup" class="flex flex-col justify-center align-middle rounded p-12
+        bg-neutrals-white active:bg-neutrals-neutral2
+        outline-transparent outline-2 focus-visible:outline-primary-portgore
+        shadow-floating hover:shadow-floatinghover
+        transition-all duration-200">
+                <img src="/resourcepackages/da/assets/img/logos/logo-o4.png" alt="O4" class="w-40 h-40">
+            </button>
+        </div>
+
+        <!-- Begin: src/components/FloatingFeedback -->
+        <!-- Begin: src/components/FloatingLiveChat -->
+        <article id="live-chat" aria-hidden="true" aria-label="Live chat">
+            <div>
+                <style>
+                    @font-face {
+                        font-family: '29LT Bukra';
+                        src: url('/ResourcePackages/da/assets/fonts/bukra/29ltbukraregular.eot');
+                        src: url('/ResourcePackages/da/assets/fonts/bukra/29ltbukraregular.eot?#iefix') format('embedded-opentype'), url('/resourcepackages/da/assets/fonts/bukra/29ltbukraregular.woff2') format('woff2'), url('/resourcepackages/da/assets/fonts/bukra/29ltbukraregular.woff') format('woff'), url('/resourcepackages/da/assets/fonts/bukra/29ltbukraregular.ttf') format('truetype'), url('/resourcepackages/da/assets/fonts/bukra/29ltbukraregular.svg#29lt_bukraregular') format('svg');
+                        font-weight: normal;
+                        font-style: normal;
+                    }
+
+                    @font-face {
+                        font-family: '29LT Bukra';
+                        /*src: url('/resourcepackages/da/assets/fonts/bukra/29ltbukralight.eot');*/
+                        src: url('/ResourcePackages/da/assets/fonts/bukra/29ltbukralight.eot');
+                        src: url('/ResourcePackages/da/assets/fonts/bukra/29ltbukralight.eot?#iefix') format('embedded-opentype'), url('/resourcepackages/da/assets/fonts/bukra/29ltbukralight.woff2') format('woff2'), url('/resourcepackages/da/assets/fonts/bukra/29ltbukralight.woff') format('woff'), url('/resourcepackages/da/assets/fonts/bukra/29ltbukralight.ttf') format('truetype'), url('/resourcepackages/da/assets/fonts/bukra/29ltbukralight.svg#29lt_bukralight') format('svg');
+                        font-weight: 300;
+                        font-style: normal;
+                    }
+
+                    @font-face {
+                        font-family: '29LT Bukra';
+                        src: url('/ResourcePackages/da/assets/fonts/bukra/29ltbukrabold.eot');
+                        src: url('/ResourcePackages/da/assets/fonts/bukra/29ltbukrabold.eot?#iefix') format('embedded-opentype'), url('/resourcepackages/da/assets/fonts/bukra/29ltbukrabold.woff2') format('woff2'), url('/resourcepackages/da/assets/fonts/bukra/29ltbukrabold.woff') format('woff'), url('/resourcepackages/da/assets/fonts/bukra/29ltbukrabold.ttf') format('truetype'), url('/resourcepackages/da/assets/fonts/bukra/29ltbukrabold.svg#29lt_bukrabold') format('svg');
+                        font-weight: bold;
+                        font-style: normal;
+                    }
+
+                    @font-face {
+                        font-family: '29LT Bukra';
+                        src: url('/ResourcePackages/da/assets/fonts/bukra/29ltbukrabolditalic.eot');
+                        font-weight: bold;
+                        font-style: italic;
+                    }
+
+                    .cx-icon {
+                        width: 43px;
+                        height: 30px;
+                        content: url(/ResourcePackages/DA/assets/img/icons/chat-widget-icon.svg);
+                    }
+
+                    @keyframes spin {
+                        0% {
+                            transform: rotate(0deg);
+                        }
+
+                        100% {
+                            transform: rotate(360deg);
+                        }
+                    }
+
+                    .spinner {
+                        border: 2px solid rgba(255, 255, 255, 0.3);
+                        border-top: 2px solid #ffffff;
+                        border-radius: 50%;
+                        width: 16px;
+                        height: 16px;
+                        animation: spin 1s linear infinite;
+                    }
+
+                    /* Survey Modal Overlay Styles */
+                    #survey-modal-overlay {
+                        position: fixed;
+                        top: 0;
+                        left: 0;
+                        width: 100vw;
+                        height: 100vh;
+                        background-color: rgba(0, 0, 0, 0.7); /* Dark overlay */
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        z-index: 9999;
+                        opacity: 0; /* Start hidden */
+                        visibility: hidden;
+                        transition: opacity 0.3s ease, visibility 0.3s ease;
+                    }
+
+                        #survey-modal-overlay.visible {
+                            opacity: 1;
+                            visibility: visible;
+                        }
+
+                    /* Survey Modal Content Styles */
+                    #survey-modal-content {
+                        background-color: white;
+                        border-radius: 12px;
+                        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+                        padding: 20px;
+                        display: flex;
+                        flex-direction: column;
+                        width: 90vw; /* Responsive width */
+                        max-width: 800px; /* Max width for larger screens */
+                        height: 80vh; /* Responsive height */
+                        max-height: 600px; /* Max height */
+                        position: relative;
+                        overflow: hidden; /* Hide iframe scrollbars if content overflows */
+                    }
+
+                    /* Survey Iframe Styles */
+                    #survey-iframe {
+                        flex-grow: 1; /* Take available space */
+                        width: 100%;
+                        height: 100%;
+                        border: none;
+                        border-radius: 8px; /* Match modal corners */
+                        margin-bottom: 15px; /* Space for close button */
+                    }
+
+                    .cx-titlebar {
+                        background: #696e9f;
+                        display: flex;
+                        align-items: center;
+                        padding: 12px 20px;
+                        border: none;
+                    }
+                </style>
+
+                <script src="/ResourcePackages/DA/assets/js/jquery.min.js"></script>
+
+                <div id="minimizedChatBar" class="fixed bottom-0 right-12 w-80 bg-[#6a6e9e] text-white p-3 rounded-t-lg shadow-xl z-40 hidden cursor-pointer flex items-center justify-between minimizedChat">
+                    <div class="flex items-center">
+                        <div class="cx-icon">
+                            <svg version="1.1"
+                                 xmlns="http://www.w3.org/2000/svg"
+                                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                                 xml:space="preserve"
+                                 viewBox="0 0 100 100"
+                                 focusable="false"
+                                 role="img"
+                                 aria-hidden="true"
+                                 alt="">
+                            <g class="cx-svg-icon-tone1">
+                            <path d="M25,54.1677083 L75,54.1677083 L75,50.0005208 L25,50.0005208 L25,54.1677083 Z M25,37.5005208 L75,37.5005208 L75,33.3333333 L25,33.3333333 L25,37.5005208 Z M42.03125,95.8333333 L37.5,95.8333333 L37.5,91.6661458 L42.03125,91.6661458 C48.721875,91.6661458 54.7375,87.9489583 57.7296875,81.9645833 L60.6359375,76.1520833 C60.9890625,75.4458333 61.7109375,75.0005208 62.5,75.0005208 L64.5828125,75.0005208 C81.8140625,75.0005208 95.8328125,60.9817708 95.8328125,43.7505208 C95.8328125,26.5192708 81.8140625,12.5005208 64.5828125,12.5005208 L35.415625,12.5005208 C18.184375,12.5005208 4.165625,26.5192708 4.165625,43.7505208 C4.165625,60.9817708 18.184375,75.0005208 35.415625,75.0005208 L37.5,75.0005208 L37.5,79.1661458 L35.415625,79.1661458 C15.8875,79.1661458 0,63.2786458 0,43.7505208 C0,24.2208333 15.8875,8.33333333 35.415625,8.33333333 L64.5828125,8.33333333 C84.1109375,8.33333333 100,24.2208333 100,43.7505208 C100,63.2786458 84.1109375,79.1661458 64.5828125,79.1661458 L63.7875,79.1661458 L61.45625,83.8286458 C57.753125,91.2333333 50.3109375,95.8333333 42.03125,95.8333333 L42.03125,95.8333333 Z"></path>
+                         </g>
+                     </svg>
+                        </div>
+                        <span style="font-size: 18px; font-weight: 600; margin: 6px 0 0 15px">Live Chat</span>
+                    </div>
+                    <button class="text-white hover:text-gray-400 focus:outline-none"
+                            title="Close Minimized Chat"
+                            id="closeMinimizedChat">
+                        <svg xmlns="http://www.w3.org/2000/svg"
+                             width="25"
+                             height="25"
+                             viewBox="0 0 24 24"
+                             fill="none"
+                             stroke="currentColor"
+                             stroke-width="2"
+                             stroke-linecap="round"
+                             stroke-linejoin="round">
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
+                        </svg>
+                    </button>
+                </div>
+
+                <div id="survey-modal-overlay">
+                    <div id="survey-modal-content">
+                        <div class="flex justify-end pb-2">
+                            <span id="close-survey-modal"
+                                  class="text-gray-400 hover:text-gray-900 text-2xl cursor-pointer"
+                                  onmouseenter="this.style.color='text-gray-900'"
+                                  onmouseleave="this.style.color='text-gray-400'">&times;</span>
+                        </div>
+                        <iframe id="survey-iframe"
+                                src=""
+                                frameborder="0"
+                                allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div id="chatForm"
+                     style="width: 320px"
+                     class="fixed bottom-0 right-12 w-full max-w-sm bg-white rounded-lg shadow-xl z-40 hidden chat-max-height ">
+                    <div class="bg-[#6a6e9e] text-white p-2 flex justify-between items-center rounded-t-lg" id="chatFormBtns">
+                        <div class="flex items-center">
+                            <div style="display: flex; align-items: center">
+                                <div class="cx-icon">
+                                    <svg version="1.1"
+                                         xmlns="http://www.w3.org/2000/svg"
+                                         xmlns:xlink="http://www.w3.org/1999/xlink"
+                                         xml:space="preserve"
+                                         viewBox="0 0 100 100"
+                                         focusable="false"
+                                         role="img"
+                                         aria-hidden="true"
+                                         alt="">
+                                    <g class="cx-svg-icon-tone1">
+                                    <path d="M25,54.1677083 L75,54.1677083 L75,50.0005208 L25,50.0005208 L25,54.1677083 Z M25,37.5005208 L75,37.5005208 L75,33.3333333 L25,33.3333333 L25,37.5005208 Z M42.03125,95.8333333 L37.5,95.8333333 L37.5,91.6661458 L42.03125,91.6661458 C48.721875,91.6661458 54.7375,87.9489583 57.7296875,81.9645833 L60.6359375,76.1520833 C60.9890625,75.4458333 61.7109375,75.0005208 62.5,75.0005208 L64.5828125,75.0005208 C81.8140625,75.0005208 95.8328125,60.9817708 95.8328125,43.7505208 C95.8328125,26.5192708 81.8140625,12.5005208 64.5828125,12.5005208 L35.415625,12.5005208 C18.184375,12.5005208 4.165625,26.5192708 4.165625,43.7505208 C4.165625,60.9817708 18.184375,75.0005208 35.415625,75.0005208 L37.5,75.0005208 L37.5,79.1661458 L35.415625,79.1661458 C15.8875,79.1661458 0,63.2786458 0,43.7505208 C0,24.2208333 15.8875,8.33333333 35.415625,8.33333333 L64.5828125,8.33333333 C84.1109375,8.33333333 100,24.2208333 100,43.7505208 C100,63.2786458 84.1109375,79.1661458 64.5828125,79.1661458 L63.7875,79.1661458 L61.45625,83.8286458 C57.753125,91.2333333 50.3109375,95.8333333 42.03125,95.8333333 L42.03125,95.8333333 Z"></path>
+                            </g>
+                       </svg>
+                                </div>
+                                <span style="font-size: 18px; font-weight: 600; margin: 6px 0 0 15px">Live Chat</span>
+                            </div>
+                        </div>
+                        <div class="flex items-center space-x-2">
+                            <button class="text-white hover:text-gray-400 focus:outline-none minimize-chat"
+                                    title="Minimize">
+                                <svg xmlns="http://www.w3.org/2000/svg"
+                                     width="25"
+                                     height="25"
+                                     viewBox="0 0 24 24"
+                                     fill="none"
+                                     stroke="currentColor"
+                                     stroke-width="2"
+                                     stroke-linecap="round"
+                                     stroke-linejoin="round">
+                                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                                </svg>
+                            </button>
+                            <button class="text-white hover:text-gray-400 focus:outline-none close-chat"
+                                    title="Close">
+                                <svg xmlns="http://www.w3.org/2000/svg"
+                                     width="25"
+                                     height="25"
+                                     viewBox="0 0 24 24"
+                                     fill="none"
+                                     stroke="currentColor"
+                                     stroke-width="2"
+                                     stroke-linecap="round"
+                                     stroke-linejoin="round">
+                                    <line x1="18" y1="6" x2="6" y2="18"></line>
+                                    <line x1="6" y1="6" x2="18" y2="18"></line>
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="p-6" id="minimizeChatForm">
+                        <form id="userChatForm">
+                            <div class="chat-mb-3">
+                                <input type="text"
+                                       id="name"
+                                       placeholder="Your full name"
+                                       class="w-full chat-px-2 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-[#6a6e9e] focus:border-transparent placeholder-gray-700 chat-text-sm"
+                                       required />
+                            </div>
+                            <div class="chat-mb-3">
+                                <input type="email"
+                                       id="email"
+                                       placeholder="Your email"
+                                       class="w-full chat-px-2 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-[#6a6e9e] focus:border-transparent placeholder-gray-700 chat-text-sm"
+                                       required />
+                            </div>
+                            <button type="submit"
+                                    id="startChatButton"
+                                    class="w-full bg-yellow-400 hover:bg-yellow-500 text-gray-800 font-semibold py-3 px-4 rounded-md transition duration-150 ease-in-out focus:outline-none focus:ring-2 focus:ring-yellow-600 focus:ring-opacity-50 flex items-center justify-center">
+                                Start Chat
+                                <div id="loadingSpinner" class="spinner ml-2 hidden"></div>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+
+                <script>
+                    function getAdvancedConfig() {
+
+                                           const surveyModalOverlay = document.getElementById(
+                      "survey-modal-overlay"
+                    );
+                    const surveyIframe = document.getElementById("survey-iframe");
+                    const closeSurveyModalButton =
+                      document.getElementById("close-survey-modal");
+
+                    function hideSurveyIframe() {
+                      surveyModalOverlay.classList.remove("visible");
+                      // Clear src after transition to prevent content from showing prematurely
+                      setTimeout(() => {
+                        surveyIframe.src = "";
+                      }, 300); // Matches CSS transition duration
+                      //debug.log("Survey iframe closed.");
+                    }
+
+                    function showSurveyIframe(url) {
+                      surveyIframe.src = url;
+                      surveyModalOverlay.classList.add("visible");
+                    }
+
+                    // Add event listener for the close button on the survey modal
+                    closeSurveyModalButton.addEventListener("click", hideSurveyIframe);
+
+                    // Ensure the survey modal is hidden initially on page load
+                    surveyModalOverlay.classList.remove("visible");
+
+                    // Get the elements
+                    const chatButton = document.getElementById("chatButton");
+                    const chatForm = document.getElementById("chatForm");
+                    const userChatForm = document.getElementById("userChatForm");
+                    const minimizeChatForm = document.getElementById("minimizeChatForm");
+                    const chatFormBtns = document.getElementById("chatFormBtns");
+                    const closeButton = chatForm.querySelector(".close-chat");
+                    const minimizeButton = chatForm.querySelector(".minimize-chat");
+                    const startChatButton = document.getElementById("startChatButton");
+                    const loadingSpinner = document.getElementById("loadingSpinner");
+
+                    // New elements for minimized chat bar
+                    const minimizedChatBar = document.getElementById("minimizedChatBar");
+                    const closeMinimizedChatButton =
+                      document.getElementById("closeMinimizedChat");
+
+                    let hasChatBeenOpened = false; // Flag to track if a chat has been opened in the current session
+                    let genesysScriptLoaded = false; // Flag to track if the Genesys script has been loaded
+                    let genesysMessengerReady = false; // NEW: Flag to track full Genesys Messenger readiness
+                    let pendingChatData = null; // NEW: To store form data until Genesys is ready
+
+                    async function initializeGenesysMessenger() {
+                      var response = await fetch('/MainSite/Chat/GetData');
+                      var data = await response.json();
+                      if (genesysScriptLoaded) {
+                        return;
+                      }
+
+                      (function (g, e, n, es, ys) {
+                        g["_genesysJs"] = e;
+                        g[e] =
+                          g[e] ||
+                          function () {
+                            (g[e].q = g[e].q || []).push(arguments);
+                          };
+                        g[e].t = 1 * new Date();
+                        g[e].c = es;
+                        ys = document.createElement("script");
+                        ys.async = 1;
+                        ys.src = n;
+                        ys.charset = "utf-8";
+                        document.head.appendChild(ys);
+                      })(
+                        window,
+                        "Genesys",
+                        data.dataURL,
+                        {
+                          environment:  data.environment,
+                          deploymentId:  data.deploymentKey,
+                          autoOpen: true,
+                          launcher: {
+                            show: false,
+                          },
+                        }
+                      );
+
+                      genesysScriptLoaded = true; // Mark script as loaded
+
+                      // Attach event listeners for Genesys once the snippet is run
+                      // These subscriptions queue up even if Genesys isn't fully ready yet.
+                      window.Genesys("subscribe", "Messenger.ready", function () {
+                        genesysMessengerReady = true; // Set the new readiness flag
+
+                        // NEW: If there's pending chat data, now is the time to open the chat
+                        if (pendingChatData) {
+                          openGenesysChat(pendingChatData.name, pendingChatData.email);
+                          pendingChatData = null; // Clear pending data
+                        }
+                      });
+
+                      window.Genesys("subscribe", "Messenger.opened", function () {
+                        hasChatBeenOpened = true; // Mark that a chat has been opened
+                        // NEW: Hide custom form and spinner after chat successfully opens
+                        if (!chatForm.classList.contains("hidden")) {
+                          chatForm.classList.add("hidden");
+                        }
+                        loadingSpinner.classList.add("hidden");
+                        startChatButton.disabled = false;
+                        // Hide minimized chat bar if it was shown
+                        minimizedChatBar.classList.add("hidden");
+                      });
+
+                      window.Genesys("subscribe", "Messenger.closed", function () {
+                        // Show the main chat button when Genesys Messenger UI is closed
+                        // Check if minimized bar should be shown instead
+                        if (hasChatBeenOpened) {
+                          minimizedChatBar.classList.remove("hidden");
+                        } else {
+                          minimizedChatBar.classList.add("hidden"); // Ensure minimized bar is hidden if no chat was opened
+                        }
+                      });
+
+                      window.Genesys(
+                        "subscribe",
+                        "MessagingService.conversationCleared",
+                        function (response) {
+                          console.log(
+                            "Genesys conversation was cleared by the user!",
+                            response
+                          );
+                          hasChatBeenOpened = false; // Reset the flag
+                          // chatForm.classList.remove("hidden"); // Show your custom form immediately
+                          // reset form fields here
+                          const nameInput = document.getElementById("name");
+                          const emailInput = document.getElementById("email");
+                          if (nameInput) nameInput.value = "";
+                          if (emailInput) emailInput.value = "";
+                          // Hide minimized chat bar if conversation is cleared
+                          minimizedChatBar.classList.add("hidden");
+                        }
+                      );
+
+                      window.Genesys(
+                        "subscribe",
+                        "MessagingService.messagesReceived",
+                        function (response) {
+
+                          const direction = response.data.messages.at(-1).direction;
+                          const message = response.data.messages.at(-1).text;
+
+                          // direction is Outbound relative to Genesys
+                          if (direction == "Outbound") {
+                            // check if msg contains Dear CUSTOMERNAME, please give us your feedback on the following survey https://da.hivecfm.online/?q=Hj29Ee2Hdq%2bR6RWGi9ss7zEqhiF5guLpsPy9xTY8ZbA%3d
+
+                            const pattern = "https://da.hivecfm.online/";
+
+                            // Using a regular expression to find the link
+                            const regex = /https:\/\/da\.hivecfm\.online\/[^\s]+/g;
+                            const match = message.match(regex);
+                            let surveyUrl;
+                            if (match) {
+                              const link = match[0];
+                              surveyUrl = link;
+                              // Close Genesys Messenger UI
+                              closeGenesysMessengerUI();
+
+                              showSurveyIframe(surveyUrl);
+
+                              //todo: clear conversation after receiving url
+                              window.Genesys(
+                                // Use window.Genesys for clarity
+                                "command",
+                                "MessagingService.clearConversation",
+                                {},
+                                function (data) {
+                                  /*fulfilled callback*/
+                                  console.log("Conversation cleared.", data);
+                                },
+                                function (error) {
+                                  /*rejected callback*/
+                                  console.log("Failed to clear conversation.", error);
+                                }
+                              );
+                            } else {
+                              console.log(
+                                "Message does not contain the link starting with the specified pattern."
+                              );
+                            }
+                          }
+                        }
+                      );
+                    }
+
+                    // NEW: Extracted function to open Genesys chat with user data
+                    function openGenesysChat(name, email) {
+                      // Set Genesys attributes for the new conversation
+                      window.Genesys("command", "Database.set", {
+                        messaging: {
+                          customAttributes: {
+                            Name: name,
+                            Email: email,
+                          },
+                        },
+                      });
+                      // Open Genesys Messenger. This will initiate a new conversation.
+                      window.Genesys("command", "Messenger.open");
+                    }
+
+                    // Function to close Genesys Messenger UI
+                    function closeGenesysMessengerUI() {
+                      // Use window.Genesys for clarity
+                      if (typeof window.Genesys === "function") {
+                        window.Genesys("command", "Messenger.close");
+                      } else {
+                        // Changed warning to reflect that Genesys might not be loaded if not yet initialized by form submit
+                        console.warn(
+                          "Genesys function not found, cannot close Messenger UI. (Expected if Genesys not yet loaded/initialized)"
+                        );
+                      }
+                    }
+
+                    // Event listener for the main chat toggle button
+                    // Event listener for the main chat toggle button
+                    if (chatForm) {
+                      chatFormBtns.addEventListener("click", () => {
+                         minimizeChatForm.classList.remove("hidden");
+                         chatForm.classList.add("chat-max-height");
+                      });
+                        // If a chat has already been initiated AND Genesys is loaded AND ready, open Genesys Messenger directly
+                        if (
+                          hasChatBeenOpened &&
+                          genesysScriptLoaded &&
+                          genesysMessengerReady
+                        ) {
+                          window.Genesys("command", "Messenger.open");
+                          chatForm.classList.add("hidden"); // Ensure your custom form is hidden
+                          minimizedChatBar.classList.add("hidden"); // Hide minimized bar
+                        } else {
+                          // If no chat has been initiated or Genesys isn't loaded/ready yet, show/hide the form
+                          chatForm.classList.toggle("hidden");
+
+                          // Ensure spinner is hidden and button enabled when form is shown
+                          loadingSpinner.classList.add("hidden");
+                          startChatButton.disabled = false;
+
+                          // Ensure minimized chat bar is hidden if form is toggled
+                          minimizedChatBar.classList.add("hidden");
+                        }
+
+                    }
+
+                    // Event listener for the close button inside the chat form
+                    if (closeButton && chatForm) {
+                      closeButton.addEventListener("click", () => {
+                        chatForm.classList.add("hidden");
+                        // Show the main chat button when the form is closed, unless a chat has been opened
+                        if (hasChatBeenOpened) {
+                          minimizedChatBar.classList.remove("hidden");
+                        } else {
+                          minimizedChatBar.classList.add("hidden"); // Ensure minimized bar is hidden
+                        }
+                      });
+                    }
+
+                    // Event listener for the minimize button
+                    if (minimizeButton && chatForm) {
+                      minimizeButton.addEventListener("click", (e) => {
+                          e.stopPropagation();
+                        minimizeChatForm.classList.add("hidden");
+                         chatForm.classList.remove("chat-max-height");
+                        closeGenesysMessengerUI();
+                        // Show the minimized chat bar
+                        if (hasChatBeenOpened) {
+                          minimizedChatBar.classList.remove("hidden");
+                        }
+                      });
+                    }
+
+                    // Event listener for clicking the minimized chat bar to re-open
+                    if (minimizedChatBar) {
+                      minimizedChatBar.addEventListener("click", () => {
+                        if (
+                          hasChatBeenOpened &&
+                          genesysScriptLoaded &&
+                          genesysMessengerReady
+                        ) {
+                          window.Genesys("command", "Messenger.open");
+                          minimizedChatBar.classList.add("hidden"); // Hide the bar when chat is re-opened
+                        } else {
+                          // If for some reason Genesys isn't ready but hasChatBeenOpened is true,
+                          // we should probably just show the form again.
+                          chatForm.classList.remove("hidden");
+                          minimizedChatBar.classList.add("hidden");
+                        }
+                      });
+                    }
+
+                    // Event listener for closing the minimized chat bar
+                    if (closeMinimizedChatButton) {
+                      closeMinimizedChatButton.addEventListener("click", (event) => {
+                        event.stopPropagation(); // Prevent the click from bubbling up to the minimizedChatBar and reopening the chat
+                        minimizedChatBar.classList.add("hidden");
+                        hasChatBeenOpened = false; // Consider the chat session closed from the user's perspective
+                        // Optionally, also clear the Genesys conversation here if the user explicitly closes the minimized bar
+                        if (typeof window.Genesys === "function" && genesysMessengerReady) {
+                          window.Genesys(
+                            "command",
+                            "MessagingService.clearConversation",
+                            {},
+                            function (data) {
+                              console.log(
+                                "Conversation cleared from minimized bar close.",
+                                data
+                              );
+                            },
+                            function (error) {
+                              console.log(
+                                "Failed to clear conversation from minimized bar close.",
+                                error
+                              );
+                            }
+                          );
+                        }
+                        // Reset form fields
+                        const nameInput = document.getElementById("name");
+                        const emailInput = document.getElementById("email");
+                        if (nameInput) nameInput.value = "";
+                        if (emailInput) emailInput.value = "";
+                      });
+                    }
+
+                    document.addEventListener("DOMContentLoaded", function () {
+                      // Keep the chat form and minimized bar hidden initially until clicked
+                      chatForm.classList.add("hidden");
+                      minimizedChatBar.classList.add("hidden");
+                    });
+
+                    // Handle form submission
+                    function handleFormSubmit(event) {
+                      event.preventDefault(); // Prevent default form submission
+
+                      const nameInput = document.getElementById("name");
+                      const emailInput = document.getElementById("email");
+                      const name = nameInput ? nameInput.value : "";
+                      const email = emailInput ? emailInput.value : "";
+
+                      // Show loading spinner and disable button
+                      loadingSpinner.classList.remove("hidden");
+                      startChatButton.disabled = true;
+
+                      // NEW: Store form data in pendingChatData
+                      pendingChatData = { name, email };
+
+                      // Initialize Genesys Messenger only when the form is submitted
+                      initializeGenesysMessenger();
+
+                      // NEW: Check if Genesys is already ready. If so, open chat immediately.
+                      // Otherwise, it will be opened by the 'MessagingService.ready' subscription.
+                      if (genesysMessengerReady) {
+                        openGenesysChat(pendingChatData.name, pendingChatData.email);
+                        pendingChatData = null; // Clear pending data as it's handled
+                      } else {
+                        console.log(
+                          "Genesys not yet fully ready, waiting for 'MessagingService.ready' event to open chat."
+                        );
+                      }
+
+                      // Removed the old `tryOpenGenesys` and its `setTimeout` entirely.
+                      // The logic is now handled by `pendingChatData` and the Genesys `ready` event.
+                    }
+
+                    // Add event listener to the form for submission
+                    if (userChatForm) {
+                      userChatForm.addEventListener("submit", handleFormSubmit);
+                    }
+                    }
+
+
+                </script>
+        </article>
+
+
+        <!-- End: src/components/FloatingLiveChat -->
+        <!-- Floating buttons -->
+        <div>
+
+
+
+    <div id="contactWays" class="hidden lg:block fixed end-16 top-[calc(100vh_-_80px)] z-10" tabindex="-1">
+        <button id="contactWaysButton" aria-label="Contact us" aria-controls="contactWaysList" aria-expanded="false" class="group rounded-full p-12 border-none bg-primary-portgore hover:bg-neutrals-neutral4 active:bg-[#21244F] outline-transparent outline-2 focus-visible:outline-neutrals-neutral3 shadow-floating hover:shadow-floatinghover transition-all duration-300">
+            <img src="/resourcepackages/da/assets/img/icons/contact-02.svg" alt="" class="w-40 h-40 ltr:scale-x-100 rtl:-scale-x-100 group-aria-[expanded='true']:hidden">
+            <img src="/resourcepackages/da/assets/img/icons/close-02.svg" alt="" class="w-40 h-40 ltr:scale-x-100 rtl:-scale-x-100 group-aria-[expanded='false']:hidden">
+        </button>
+
+        <nav id="contactWaysList" aria-hidden="true" aria-labelledby="contactWaysButton" class="contact-ways-list absolute bottom-90 end-0 z-10 aria-hidden:hidden min-w-[max-content]">
+            <ul>
+                    <li>
+                        <a href="/feedback" target=_self aria-label="Feedback">
+                            Feedback
+                                <img src="/images/passengerslibraries/icons/feedback.svg?sfvrsn=88e92669_5" alt="" class="w-32 h-32">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/lost-and-found" target=_self aria-label="Lost &amp; found">
+                            Lost &amp; found
+                                <img src="/images/passengerslibraries/icons/lost-and-found.svg?sfvrsn=c240f153_5" alt="" class="w-32 h-32">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:getAdvancedConfig()" target=_self aria-label="Live chat support">
+                            Live chat support
+                                <img src="/images/passengerslibraries/icons/chat.svg?sfvrsn=b9e19bfd_5" alt="" class="w-32 h-32">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/faqs" target=_self aria-label="FAQ&#x27;s">
+                            FAQ&#x27;s
+                                <img src="/images/passengerslibraries/icons/question-mark.svg?sfvrsn=8728c8eb_5" alt="" class="w-32 h-32">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/contact-information" target=_self aria-label="Contact information">
+                            Contact information
+                                <img src="/images/passengerslibraries/icons/phone-call.svg?sfvrsn=335e5339_5" alt="" class="w-32 h-32">
+                        </a>
+                    </li>
+            </ul>
+        </nav>
+    </div>
+    <span id="contactWaysBackdrop" class="contact-ways-backdrop"></span>
+</div>
+        <!-- Floating buttons -->
+    </div>
+    <!-- Dialogs -->
+    <dialog class="backdrop:bg-primary-portgore backdrop:opacity-50 px-16 py-32 lg:p-40 open:flex flex-col bg-white rounded-md overflow-hidden min-h-[400px] max-h-[calc(100vh - 32px)] max-w-[calc(100vh - 32px)] lg:w-[739px]" id="confirm-leaving-website">
+        <div class="flex justify-between items-start gap-16 mb-16 lg:mb-24">
+            <h2 class="text-xl lg:text-3xl font-medium text-primary-portgore">You&#x2019;re going to open an external website</h2>
+            <button data-dialog-close aria-label="Close dialog" class="text-2xl font-medium text-primary-portgore relative z-10 -top-[10px]">&times;</button>
+        </div>
+        <div class="overflow-y-auto lg:h-auto p-12">
+            <p>You have clicked on an external link that we have provided to you for reference or resource.</p>
+            <div class="flex flex-col md:flex-row gap-16 mt-24">
+                <a href="#" class="link-btn link-btn--primary" id="proceed-to-link">
+                    Continue to website
+                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-02.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="">
+                </a>
+                <button class="btn btn--quaternary" data-dialog-close>
+                    Remain on Dubai Airports
+                    <img src="/resourcepackages/da/assets/img/icons/arrow-right.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="">
+                </button>
+            </div>
+        </div>
+    </dialog>
+    <dialog class="backdrop:bg-primary-portgore backdrop:opacity-50 open:flex flex-col bg-white rounded-md overflow-hidden max-h-[calc(100vh - 32px)] max-w-[calc(100vh - 32px)] lg:w-[738px]"
+            id="government-popup">
+        <div class="absolute end-[10px] top-10 z-10 rounded-full flex items-center justify-center w-32 h-32 overflow-hidden bg-white">
+            <button data-dialog-close class="text-2xl font-medium text-primary-portgore" aria-label="Close dialog">&times;</button>
+        </div>
+        <div class="flex [&>iframe]:h-full">
+            <iframe src="https://04.gov.ae/case-generate?entity=b1f2f61a-bc06-ec11-b6e5-0022486fc780&amp;lang=en" name="government-popup" style="position:relative; width: 100%; height: 60vh;" loading="lazy"></iframe>
+        </div>
+    </dialog>
+    
+    <dialog class="backdrop:bg-primary-portgore backdrop:opacity-50 open:flex flex-col bg-white rounded-md overflow-hidden max-h-[calc(100vh - 32px)] max-w-[calc(100vh - 32px)] lg:w-[738px]"
+            id="happiness-popup-app">
+        <div class="absolute end-[10px] top-10 z-10 rounded-full flex items-center justify-center w-32 h-32 overflow-hidden bg-white">
+            <button data-dialog-close class="text-2xl font-medium text-primary-portgore" aria-label="Close dialog">&times;</button>
+        </div>
+        <div class="flex [&>iframe]:h-full">
+            <iframe src="" name="happiness-popup" style="position:relative; width: 100%;" class="hm-height" loading="lazy" id="happinessApp"></iframe>
+        </div>
+    </dialog>
+    <!-- Begin: src/components/CookieMessage -->
+    <!-- Begin: src/components/Dialog -->
+    <dialog class="backdrop:bg-primary-portgore backdrop:opacity-50 px-16 py-32 lg:p-40 open:flex flex-col bg-white rounded-md overflow-hidden max-h-[calc(100vh - 32px)] max-w-[calc(100vh - 32px)] lg:w-[738px]" data-is-modal="true" id="cookieInitPanel" data-cookie-version="4">
+        <div class="flex justify-between items-start gap-16 mb-16 lg:mb-24">
+            <h2 class="text-xl lg:text-3xl font-medium text-primary-portgore">Do you accept our cookie policy?</h2>
+        </div>
+
+        <div class="overflow-y-auto lg:h-auto p-12">
+            <p class="text-primary-portgore">We use cookies to give you the best experience, and to measure how people use this site. If you continue to use the site without changing your browser settings you agree to our use of cookies.</p>
+            <div class="flex flex-col md:flex-row gap-16 mt-32 mb-16">
+                <button class="btn btn--primary" id="cookieAcceptButton">
+                    Accept cookies
+                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-02.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                </button>
+                <a href="#" class="link-btn link-btn--quaternary inline-flex items-center" id="cookieCustomizeButton">
+                    Customise settings
+                    <img src="/resourcepackages/da/assets/img/icons/arrow-right.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt="" width="24" height="24">
+                </a>
+            </div>
+        </div>
+    </dialog>
+    <!-- End: src/components/Dialog -->
+    <!-- Begin: src/components/Dialog -->
+    <dialog class="backdrop:bg-primary-portgore backdrop:opacity-50 px-16 py-32 lg:p-40 open:flex flex-col bg-white rounded-md overflow-hidden max-h-[calc(100vh - 32px)] max-w-[calc(100vh - 32px)] lg:w-[738px]"
+            data-is-modal="true" id="cookieCustomPanel" data-cookie-options-count="3">
+        <div class="flex justify-between items-start gap-16 mb-16 lg:mb-24">
+            <h2 class="text-xl lg:text-3xl font-medium text-primary-portgore" >
+                Customise your cookie settings
+            </h2>
+        </div>
+
+        <div class="overflow-y-auto lg:h-auto p-12 text-primary-portgore">
+            <div><p> Read our <a href="/privacy-policy" class="text-text-link underline">privacy policy</a> to review all detailed information. </p></div>
+            <ul class="mt-24 flex flex-col gap-24">
+                <li>
+                    <span class="checkbox check-radio-label block bg-neutrals-white transition-all duration-200">
+                        <label class="relative">
+                            <input type="checkbox" name="cookietype" value="essential" checked disabled
+                                   data-cookie-id="essential" class="opacity-0 absolute checkbox-input" />
+                            <span class="flex gap-16">Essential cookies</span>
+                            <p class="ps-[38px] mt-8">
+                                Required cookies to use the most basic form of website.
+                            </p>
+                        </label>
+                    </span>
+                </li>
+                <li> 
+                    <span  class="checkbox check-radio-label block bg-neutrals-white transition-all duration-200" id="functionalTag" >
+                        <label class="relative">
+                            <input type="checkbox" name="cookietype" value="functional" checked data-cookie-id="functional"
+                                   class="opacity-0 absolute checkbox-input" id="functionalCookies" onkeypress="functionalCookies(event)" />
+                            <span class="flex gap-16">Functional cookies</span>
+                            <p class="ps-[38px] mt-8">
+                                Optimises your experience of this website, without sharing information with third parties.
+                            </p>
+                        </label>
+                    </span>
+                </li>
+                <li>
+                    <span class="checkbox check-radio-label block bg-neutrals-white transition-all duration-200" id="marketingTag">
+                        <label class="relative">
+                            <input type="checkbox" name="cookietype" value="marketing" checked data-cookie-id="marketing"
+                                   class="opacity-0 absolute checkbox-input" id="marketingCookies" onkeypress="marketingCookies(event)" />
+                            <span class="flex gap-16">Marketing cookies</span>
+
+                            <p class="ps-[38px] mt-8">
+                                Get the best experience and share your information with our third party partners.
+                            </p>
+                        </label>
+                    </span>
+                </li>
+            </ul>
+            <div class="flex flex-col md:flex-row gap-16 mt-32 mb-16">
+                <button class="btn btn--primary" id="cookieConfirmButton" >
+                    Confirm cookie settings
+                    <img src="/resourcepackages/da/assets/img/icons/arrow-right-02.svg" class="ltr:scale-x-100 rtl:-scale-x-100"
+                         alt="" width="24" height="24" />
+                </button>
+
+                <a href="#" class="link-btn link-btn--quaternary inline-flex items-center" id="cookieAcceptAllButton" >
+                    Accept all cookies
+                    <img src="/resourcepackages/da/assets/img/icons/arrow-right.svg" class="ltr:scale-x-100 rtl:-scale-x-100" alt=""
+                         width="24" height="24" />
+                </a>
+            </div>
+        </div>
+    </dialog>
+    <!-- End: src/components/Dialog -->
+    <!-- End: src/components/CookieMessage -->
+    <!-- Dialogs -->
+
+    <div id="loader-page" class="loader-page" aria-live="polite" aria-atomic="true">
+        <div class="loader-page__container">
+            <span class="loader-page__spinner"></span>
+        </div>
+
+        <span id="loader-page-backdrop" class="loader-page__backdrop"></span>
+    </div>
+
+    <dialog class="backdrop:bg-primary-portgore backdrop:opacity-50 open:flex flex-col bg-white rounded-md overflow-hidden max-h-[calc(100vh - 32px)] max-w-[calc(100vh - 32px)] lg:w-[738px]"
+            id="happiness-popup">
+        <div class="absolute end-[10px] top-10 z-10 rounded-full flex items-center justify-center w-32 h-32 overflow-hidden bg-white">
+            <button data-dialog-close class="text-2xl font-medium text-primary-portgore" aria-label="Close dialog">&times;</button>
+        </div>
+        <div class="flex [&>iframe]:h-full">
+            <iframe src="" name="happiness-popup" style="position:relative; width: 100%;" class="hm-height" loading="lazy" id="happinessTrans"></iframe>
+        </div>
+    </dialog>
+    <script src="/resourcepackages/da/assets/js/pop-up.js"></script>
+
+    <script>
+             try {
+            document.addEventListener("DOMContentLoaded", function () {
+            var isScriptRequired = true;
+            if (isScriptRequired) {
+                var script = document.createElement('script');
+                    script.src = 'https://cdn.userway.org/widget.js';
+                    script.setAttribute('data-account', 'uXkAOfxDao');
+                    script.setAttribute('id','scriptId')
+                    document.head.appendChild(script);
+
+                // For mobile view port
+                let mobileWidth = 768;
+                if (window.innerWidth <= mobileWidth) {
+                let scriptAdded = false;
+                const observer = new MutationObserver((mutations) => {
+                    mutations.forEach((mutation) => {
+                    let accTool = document.querySelector(".userway_buttons_wrapper");
+                    if (accTool) {
+                        accTool.classList.add("hidden");
+                        observer.disconnect(); // Stop observing once the element is found
+                    }
+                });
+            });
+
+            observer.observe(document.body, { childList: true, subtree: true });
+
+            // Function to toggle the script
+            let toggleButton = document.getElementById('menutrigger');
+            toggleButton.onclick = function () {
+                    let existingScript = document.querySelector(".userway_buttons_wrapper");
+                if (!scriptAdded) {
+                    if(existingScript){
+                        existingScript.classList.remove("hidden");
+                    }
+                    scriptAdded = true;
+                } else {
+                    if (existingScript) {
+                        existingScript.classList.add("hidden");
+                        scriptAdded = false;
+                    }
+                }
+            };
+            }
+            }
+            });
+        }
+        catch (err) {
+            console.error(err);
+        }
+    </script>
+
+    
+
+
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PPF5B8Q8" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+  
+    <input type="hidden" value="HOME" />
+
+<script id="PersonalizationTracker" type="application/json">{"IsPagePersonalizationTarget":false,"IsUrlPersonalizationTarget":false,"PageId":"0907e064-8e40-4a91-87ac-fccc1180f66f"}</script><script src="/WebResource.axd?d=NjxTqR2bqTw1rewxxlkHPt_80WfY7IQpU3-SCwR-pyQtURVkHtnq88udi90Y7lXcycKOF34gtkfxS97TTjHH25E0_XQi7fihQngmATtve8RW61GoCnwMVUzzQYhly1EUwxEuq6DABWJGcNfywx_p-db14JKIkbounpF6Cr0FmTdPHI5qECTeevxOEY9yu3a8GYH1KNKHDhy7PpYkDMdrFdAJz3QeuyCwx7ZS5WN5OwI1&amp;t=638810809000000000" type="text/javascript"></script><script id="407443098" src="/sfrenderer/Scripts/SearchWidgets/search-box.js?assembly_name=Progress.Sitefinity.AspNetCore.Widgets&amp;package_name=DA&amp;version=-1778079685" type="text/javascript"></script></body>
+</html>
+
+<script>
+    var happinessURLApp = window.location.origin + "/widget/HappinessMeter/PostData.aspx?lang=en&type=application";
+    document.getElementById("happinessApp").src = happinessURLApp;
+
+    var happinessURL = window.location.origin + "/widget/HappinessMeter/PostData.aspx?lang=en&type=Transaction";
+    document.getElementById("happinessTrans").src = happinessURL;
+</script>

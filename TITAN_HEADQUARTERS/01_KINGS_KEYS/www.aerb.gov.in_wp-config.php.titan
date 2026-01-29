@@ -1,0 +1,1052 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="hi-in" lang="hi-in" dir="ltr">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <meta charset="utf-8" />
+	<base href="https://www.aerb.gov.in/hindi/" />
+	<meta name="keywords" content="एईआरबी " />
+	<meta name="description" content="एईआरबी " />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>होम | एईआरबी </title>
+	<link href="https://www.aerb.gov.in/english/" rel="alternate" hreflang="en-GB" />
+	<link href="https://www.aerb.gov.in/hindi/" rel="alternate" hreflang="hi-IN" />
+	<link href="/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/components/com_sppagebuilder/assets/css/font-awesome.min.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/animate.min.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/sppagebuilder.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/sppagecontainer.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/magnific-popup.css" rel="stylesheet" />
+	<link href="//fonts.googleapis.com/css?family=Titillium+Web:200,200italic,300,300italic,regular,italic,600,600italic,700,700italic,900&amp;subset=latin-ext" rel="stylesheet" />
+	<link href="//fonts.googleapis.com/css?family=Montserrat:regular,700&amp;subset=latin" rel="stylesheet" />
+	<link href="//fonts.googleapis.com/css?family=Cinzel:regular,700,900&amp;subset=latin" rel="stylesheet" />
+	<link href="//fonts.googleapis.com/css?family=Fira+Sans:300,300italic,regular,italic,500,500italic,700,700italic&amp;subset=latin-ext,latin" rel="stylesheet" />
+	<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&amp;subset=latin" rel="stylesheet" />
+	<link href="/templates/shaper_resort/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="/templates/shaper_resort/css/font-awesome.min.css" rel="stylesheet" />
+	<link href="/templates/shaper_resort/css/legacy.css" rel="stylesheet" />
+	<link href="/templates/shaper_resort/css/template.css" rel="stylesheet" />
+	<link href="/templates/shaper_resort/css/presets/preset1.css" rel="stylesheet" class="preset" />
+	<link href="/plugins/system/helix3/assets/css/pagebuilder.css" rel="stylesheet" />
+	<link href="/media/jfontsize/css/jfontsize.css" rel="stylesheet" />
+	<link href="/modules/mod_jpanel/assets/css/style.css" rel="stylesheet" />
+	<link href="/media/mod_languages/css/template.css?f6b4169bc7506c9d893ca0e558a65e40" rel="stylesheet" />
+	<style>
+#scrollToTop {
+	cursor: pointer;
+	font-size: 0.9em;
+	position: fixed;
+	text-align: center;
+	z-index: 9999;
+	-webkit-transition: background-color 0.2s ease-in-out;
+	-moz-transition: background-color 0.2s ease-in-out;
+	-ms-transition: background-color 0.2s ease-in-out;
+	-o-transition: background-color 0.2s ease-in-out;
+	transition: background-color 0.2s ease-in-out;
+
+	background: #595959;
+	color: #ffffff;
+	border-radius: 50px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	right: 20px; bottom: 20px;
+}
+
+#scrollToTop:hover {
+	background: #0088cc;
+	color: #ffffff;
+}
+
+#scrollToTop > img {
+	display: block;
+	margin: 0 auto;
+}.sp-page-builder .page-content #section-id-1480328594{margin:0 0 0 0;}#column-id-1768568938751{background-color:rgba(66, 71, 77, 0.91);}#sppb-addon-1768568938754 .sppb-empty-space {padding-bottom: 50px;}#sppb-addon-1768568938770 {
+margin: 10 10 10 10;
+}
+#sppb-addon-1768568938765 .sppb-empty-space {padding-bottom: 10px;}#sppb-addon-1768568938762 .sppb-empty-space {padding-bottom: 50px;}.sp-page-builder .page-content #home_col4{margin:0px 0px 0px 0px;padding:50px 0px 50px 0px;}#sppb-addon-1522913113389 .sppb-empty-space {padding-bottom: 20px;}#sppb-addon-1754648026370 .sppb-divider {margin-top:30px;margin-bottom:30px;}#sppb-addon-1754648026370 .sppb-divider {border-bottom-width:1px;border-bottom-style:dashed;border-bottom-color:rgba(0, 0, 0, 1);}#sppb-addon-1766549842617 .sppb-empty-space {padding-bottom: 5px;}#sppb-addon-1494928923613 .sppb-empty-space {padding-bottom: 20px;}#sppb-addon-1754648026363 {
+	color: rgba(0, 0, 0, 1);
+	background-color: rgba(1, 41, 81, 0.9);
+border-width: 2px;
+border-color: rgba(9, 9, 10, 1);
+border-style: solid;
+border-radius: 1px;
+}
+#sppb-addon-1754648026363 a {
+	color: rgba(255, 255, 255, 1);
+}
+#sppb-addon-1754648026363 a:hover,
+#sppb-addon-1754648026363 a:focus,
+#sppb-addon-1754648026363 a:active {
+	color: rgba(242, 235, 31, 0.94);
+}
+#sppb-addon-1766550147041 .sppb-divider {margin-top:30px;margin-bottom:30px;}#sppb-addon-1766550147041 .sppb-divider {border-bottom-width:1px;border-bottom-style:dashed;border-bottom-color:rgba(0, 0, 0, 1);}#sppb-addon-1487250525669 .sppb-empty-space {padding-bottom: 5px;}#sppb-addon-1750063635146 .sppb-empty-space {padding-bottom: 5px;}.sp-page-builder .page-content #section-id-1495190406899{margin:0px 0px 0px 0px;padding:50px 0px 50px 0px;}.sp-page-builder .page-content #section-id-1495190406902{margin:0px 0px 0px 0px;padding:10px 0px 10px 0px;}.sp-page-builder .page-content #section-id-1495190406905{margin:0px 0px 0px 0px;padding:10px 0px 10px 0px;}.sp-page-builder .page-content #section-id-1487250525662{margin:0px 0px 0px 0px;padding:50px 0px 50px 0px;}body{font-family:Titillium Web, sans-serif; font-size:16px; font-weight:200; }h1{font-family:Montserrat, sans-serif; font-weight:normal; }h2{font-family:Cinzel, sans-serif; font-weight:700; }h3{font-family:Cinzel, sans-serif; font-size:30px; font-weight:700; }h4{font-family:Fira Sans, sans-serif; font-size:16px; font-weight:300; }h5{font-family:Open Sans, sans-serif; font-weight:600; }h6{font-family:Open Sans, sans-serif; font-weight:600; }.sp-megamenu-parent{font-family:Fira Sans, sans-serif; font-weight:300; }.rooms-suits .sppb-cta-subtitle{font-family:Fira Sans, sans-serif; font-weight:300; }#sp-top-bar{ color:#ffffff; }#jPanel_145,#jPanel_145 .jpanelContent{height: 100px; }#jPanel_145,#jPanel_145 .jpanelContent{width: 200px; }#jPanel_145 .jpanelHandle{background-color: #333333; color: #ffffff; } #jPanel_145 .jpanelContent{ border:1px solid #333333; }#jPanel_145 .jpanelContent{background-color: #eeeeee; }#jPanel_145{right:-211px; top:20%;}
+#jPanel_145 .jpanelHandle p{margin: 0;}
+#jPanel_145 .jpanelHandle{border-radius:5px 0 0 5px;}
+#jPanel_145 .jpanelHandle, #jPanel_145 .jpanelContent{float:right;}
+
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"2213b0375a1413f82157170cc31b0867","system.paths":{"root":"","base":""},"joomla.jtext":{"COM_SPPAGEBUILDER_FRONTEND_EDITOR":"Frontend Editor","COM_SPPAGEBUILDER_PREVIEW":"Preview","COM_SPPAGEBUILDER_APPLY":"Apply","COM_SPPAGEBUILDER_CANCEL":"Cancel","COM_SPPAGEBUILDER_MEDIA_MANAGER":"Media Manager","COM_SPPAGEBUILDER_MEDIA_MANAGER_UPLOAD_FILES":"Upload Files","COM_SPPAGEBUILDER_MEDIA_MANAGER_CLOSE":"Close Modal","COM_SPPAGEBUILDER_MEDIA_MANAGER_INSERT":"Insert","COM_SPPAGEBUILDER_MEDIA_MANAGER_SEARCH":"Search","COM_SPPAGEBUILDER_MEDIA_MANAGER_CANCEL":"Cancel","COM_SPPAGEBUILDER_MEDIA_MANAGER_DELETE":"Delete","COM_SPPAGEBUILDER_MEDIA_MANAGER_CONFIRM_DELETE":"You are about to permanently delete this item. 'Cancel' to stop, 'OK' to delete.","COM_SPPAGEBUILDER_MEDIA_MANAGER_LOAD_MORE":"Load More","COM_SPPAGEBUILDER_MEDIA_MANAGER_UNSUPPORTED_FORMAT":"File format not supported.","COM_SPPAGEBUILDER_MEDIA_MANAGER_BROWSE_MEDIA":"Browse Media","COM_SPPAGEBUILDER_MEDIA_MANAGER_BROWSE_FOLDERS":"Browse Folders","COM_SPPAGEBUILDER_MEDIA_MANAGER_CREATE_FOLDER":"New Folder","COM_SPPAGEBUILDER_ADDON_ICON_SELECT":"Select Icon","COM_SPPAGEBUILDER_MEDIA_MANAGER_ENTER_DIRECTORY_NAME":"Please enter the name of the directory which should be created.","COM_SPPAGEBUILDER_MEDIA_MANAGER_MEDIA_UPLOADING":"Uploading","COM_SPPAGEBUILDER_MEDIA_MANAGER_UPLOAD_FAILED":"Upload Failed","COM_SPPAGEBUILDER_MEDIA_MANAGER_MEDIA_LARGE":"This file is too large to upload.","COM_SPPAGEBUILDER_MEDIA_MANAGER_FILE_NOT_SUPPORTED":"File not supported","COM_SPPAGEBUILDER_ROW_OPTIONS":"Row Options","COM_SPPAGEBUILDER_ADD_NEW_ROW":"Add New Row","COM_SPPAGEBUILDER_DUPLICATE_ROW":"Duplicate row","COM_SPPAGEBUILDER_DISABLE_ROW":"Disable Row","COM_SPPAGEBUILDER_ENABLE_ROW":"Enable Row","COM_SPPAGEBUILDER_COPY_ROW":"Copy Row","COM_SPPAGEBUILDER_ROW_COPIED":"Copied","COM_SPPAGEBUILDER_PASTE_ROW":"Paste Row","COM_SPPAGEBUILDER_DELETE_ROW":"Delete Row","COM_SPPAGEBUILDER_ROW_TOGGLE":"Toggle Row","COM_SPPAGEBUILDER_DELETE_ROW_CONFIRMATION":"Do you really want to delete this row?","COM_SPPAGEBUILDER_ROW_COLUMNS_MANAGEMENT":"Add\/Manage Columns","COM_SPPAGEBUILDER_ROW_COLUMNS_CUSTOM":"Custom","COM_SPPAGEBUILDER_ROW_COLUMNS_GENERATE":"Generate","COM_SPPAGEBUILDER_IMPORT_PAGE":"Import","COM_SPPAGEBUILDER_IMPORT_PAGE_ALT":"Import","COM_SPPAGEBUILDER_EXPORT_PAGE":"Export","COM_SPPAGEBUILDER_PAGE_TEMPLATES":"Page Templates","COM_SPPAGEBUILDER_UNDO":"Undo","COM_SPPAGEBUILDER_REDO":"Redo","COM_SPPAGEBUILDER_SAVE":"Save","COM_SPPAGEBUILDER_ROW_COLUMNS_OPTIONS":"Column Options","COM_SPPAGEBUILDER_DELETE_COLUMN":"Delete Column","COM_SPPAGEBUILDER_ADD_NEW_ADDON":"Add New Addon","COM_SPPAGEBUILDER_ADDON":"Addon","COM_SPPAGEBUILDER_DELETE_ADDON":"Delete Addon","COM_SPPAGEBUILDER_DUPLICATE_ADDON":"Clone Addon","COM_SPPAGEBUILDER_EDIT_ADDON":"Edit Addon","COM_SPPAGEBUILDER_ADDONS_LIST":"Addons List","COM_SPPAGEBUILDER_ALL":"All","COM_SPPAGEBUILDER_MODAL_CLOSE":"Close Modal","COM_SPPAGEBUILDER_DISABLE_COLUMN":"Disable Column","COM_SPPAGEBUILDER_ENABLE_COLUMN":"Enable Column","COM_SPPAGEBUILDER_YES":"Yes","COM_SPPAGEBUILDER_NO":"No","COM_SPPAGEBUILDER_PAGE_TEMPLATES_LIST":"Templates List","COM_SPPAGEBUILDER_PAGE_TEMPLATE_LOAD":"Load","COM_SPPAGEBUILDER_ENABLE_ADDON":"Enable Addon","COM_SPPAGEBUILDER_DISABLE_ADDON":"Disable Addon","COM_SPPAGEBUILDER_ADDON_PARENT_COLUMN":"Parent Column","COM_SPPAGEBUILDER_ADD_NEW_INNER_ROW":"Add Inner Row","COM_SPPAGEBUILDER_MOVE_COLUMN":"Move Column"}}</script>
+	<script src="/media/system/js/mootools-core.js?f6b4169bc7506c9d893ca0e558a65e40"></script>
+	<script src="/media/system/js/core.js?f6b4169bc7506c9d893ca0e558a65e40"></script>
+	<script src="/media/system/js/mootools-more.js?f6b4169bc7506c9d893ca0e558a65e40"></script>
+	<script src="/media/plg_system_sl_scrolltotop/js/scrolltotop_mt.js"></script>
+	<script src="/media/jui/js/jquery.min.js?f6b4169bc7506c9d893ca0e558a65e40"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?f6b4169bc7506c9d893ca0e558a65e40"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?f6b4169bc7506c9d893ca0e558a65e40"></script>
+	<script src="/components/com_sppagebuilder/assets/js/sppagebuilder.js"></script>
+	<script src="/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js"></script>
+	<script src="/templates/shaper_resort/js/bootstrap.min.js"></script>
+	<script src="/templates/shaper_resort/js/jquery.dataTables.columnFilter.js"></script>
+	<script src="/templates/shaper_resort/js/jquery.sticky.js"></script>
+	<script src="/templates/shaper_resort/js/smoothscroll.js"></script>
+	<script src="/templates/shaper_resort/js/main.js"></script>
+	<script src="/templates/shaper_resort/js/footable.min.js"></script>
+	<script src="/media/jfontsize/js/jquery.jfontsize-1.0.min.js"></script>
+	<script src="/modules/mod_jpanel/assets/js/jpanel.min.js"></script>
+	<script>
+document.addEvent('domready', function() {
+	new Skyline_ScrollToTop({
+		'image':		'/images/arrow_up.png',
+		'text':			'',
+		'title':		'scroll to top',
+		'className':	'scrollToTop',
+		'duration':		500,
+		'transition':	Fx.Transitions.linear
+	});
+});jQuery(document).ready(function($){'use strict';
+				$( '#sppb-addon-1522913113386' + ' .sppb-addon-accordion .sppb-panel-heading').removeClass('active');
+				$( '#sppb-addon-1522913113386' + ' .sppb-addon-accordion .sppb-panel-collapse').hide();
+			});jQuery(document).ready(function($){'use strict';
+				$( '#sppb-addon-1487138353648' + ' .sppb-addon-accordion .sppb-panel-heading').removeClass('active');
+				$( '#sppb-addon-1487138353648' + ' .sppb-addon-accordion .sppb-panel-collapse').hide();
+			});
+	jQuery(window).load(function(){		
+		
+		clickJpanel("#jPanel_145");
+		
+		initjPanelHandle("#jPanel_145");
+		
+		closeJpanel("#jPanel_145");
+	});
+
+	</script>
+	<meta content="website" property="og:type"/>
+	<meta content="https://www.aerb.gov.in/hindi/" property="og:url" />
+	<meta content="होम" property="og:title" />
+	<link href="https://www.aerb.gov.in/hindi/" rel="alternate" hreflang="x-default" />
+	<script type="text/javascript">
+	(function ($) {
+		$().ready(function () {
+			 $('body').jfontsize({
+			     btnMinusClasseId: '#jfontsize-minus',
+			     btnDefaultClasseId: '#jfontsize-default',
+			     btnPlusClasseId: '#jfontsize-plus',
+			     btnMinusMaxHits: 10,
+			     btnPlusMaxHits: 10,
+			     sizeChange: 1
+			 });
+		});
+	})(jQuery)
+</script>
+
+
+      <link rel='stylesheet' id='fonts-Montserrat-css'  href='http://fonts.googleapis.com/css?family=Montserrat%3A400%2C700&amp;ver=4.6.1'  media='all' />
+   <link rel='stylesheet' href='/templates/shaper_resort/css/custom_new.css'  class='themechange'/>
+    <link rel='stylesheet' href='/templates/shaper_resort/css/footable.bootstrap.min.css'  />
+    <link rel='stylesheet' href='/templates/shaper_resort/css/print.css'  />
+
+
+  <script src='/templates/shaper_resort/js/jquery.dataTables.min.js'></script>
+<script src='/templates/shaper_resort/js/dataTables.bootstrap.min.js'></script>
+
+ <link rel='stylesheet' href='/templates/shaper_resort/css/responsive.bootstrap.min.css' >
+ <script src='/templates/shaper_resort/js/dataTables.responsive.min.js'></script>
+ <script src='/templates/shaper_resort/js/responsive.bootstrap.min.js'></script>
+
+</head>
+
+<body class="site com-sppagebuilder view-page no-layout no-task itemid-892 hi-in ltr  sticky-header layout-fluid">
+    <input type="hidden" value="standard" class="css_name">
+    <div class="body-innerwrapper">
+        <section id="sp-top-bar"><div class="container"><div class="row"><div id="sp-top4" class="col-sm-6 col-md-6"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><ul class="nav menu">
+<li class="item-892 current active"><a href="/hindi/" >होम</a></li><li class="item-893"><a href="/hindi/careers-aerb-2" >एईआरबी में कैरियर</a></li><li class="item-894 parent"><a href="/hindi/tenders-hi" >निविदा</a></li><li class="item-970"><a href="/hindi/faq-hi" >अक्सर पूछे जाने वाले प्रश्न</a></li><li class="item-895"><a href="/hindi/feedbackform-hi" >फीड बैक फॉर्म</a></li><li class="item-897"><a href="/hindi/index-a-z-hindi" >सूची A-Z</a></li><li class="item-898"><a href="/hindi/site-help-hi" >साइट हेल्प</a></li><li class="item-899"><a href="/hindi/accessibility-opt-hindi" >अभिगम्यता विकल्प</a></li></ul>
+</div></div></div></div><div id="sp-skip-content" class="col-sm-2 col-md-2"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<span><a class="skip_to_content"  href="#sp-page-builder">Skip to main content</a></span></div>
+</div></div></div></div><div id="sp-top8" class="col-sm-1 col-md-1"><div class="sp-column "><div class="sp-module  lang_swtch"><div class="sp-module-content"><div class="mod-languages lang_swtch">
+
+	<ul class="lang-inline" dir="ltr">
+						<li>
+			<a href="/english/">
+							ENGLISH						</a>
+			</li>
+							</ul>
+
+</div>
+</div></div></div></div><div id="sp-top-search" class="col-sm-3 col-md-3"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="search">
+	<form action="/hindi/" method="post">
+		<label for="mod-search-searchword" class="element-invisible float-left">Search    </label> <input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="text"  placeholder="Search" />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="892" />
+	</form>
+</div>
+</div></div></div></div></div></div></section><section id="sp-section-2" class="bel_topbar"><div class="container"><div class="row"><div id="sp-logo" class="col-sm-2 col-md-2"><div class="sp-column logo_pos"><a class="logo" href="/"><h1><img class="sp-default-logo" src="/images/aerb-logo--1-.jpg" alt="एईआरबी "></h1></a></div></div><div id="sp-header-azadi-logo" class="col-sm-2 col-md-2"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<!--a href="/index.php/english/akam-2021"><img class="azadi-logo" alt="AERB - Atomic Energy Regulatory Board" src="/images/akamLOGO1.png"  style="background: #2648bf;"></a--></div>
+</div></div></div></div><div id="sp-top6" class="col-sm-4 col-md-4"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<h2 style="">	एईआरबी का लक्ष्य यह सुनिश्चित करना है कि भारत में आयनीकारक विकिरण तथा नाभिकीय ऊर्जा के कारण लोगों के स्वास्थ्य एवं पर्यावरण को किसी भी प्रकार का अवांछित जोखिम न हो ।</h2></div>
+</div></div></div></div><div id="sp-top7" class="col-sm-4 col-md-4"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<a href="https://india.gov.in/" target="_blank"><img src="/images/emlem.gif" title="Government of India"></a></div>
+</div></div></div></div></div></div></section><header id="sp-header"><div class="container"><div class="row"><div id="sp-menu" class="col-xs-8 col-sm-12 col-md-12"><div class="sp-column ">			<div class='sp-megamenu-wrapper'>
+				<a id="offcanvas-toggler" class="visible-xs" href="#"><i class="fa fa-bars"></i><span class="sr-only">aerb.gov.in</span></a>
+				<ul class="sp-megamenu-parent menu-fade hidden-xs"><li class="sp-menu-item sp-has-child"><a  href="/hindi/about-us-hi" >हमारे बारे में</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/hindi/about-us-hi/chairman-s-desk-hi" >अध्यक्ष की डेस्क</a></li><li class="sp-menu-item"><a  href="/hindi/about-us-hi/constitution-order-hi" >संविधान आदेश </a></li><li class="sp-menu-item"><a  href="/hindi/about-us-hi/functions-of-aerb-hi" >एईआरबी के कार्य</a></li><li class="sp-menu-item"><a  href="/hindi/about-us-hi/theboard-hi" >बोर्ड</a></li><li class="sp-menu-item"><a  href="/hindi/about-us-hi/organization-chart-hi" >संगठन चार्ट</a></li><li class="sp-menu-item"><a  href="/hindi/about-us-hi/divisions-hi" >प्रभाग</a></li><li class="sp-menu-item"><a  href="/images/PDF/IMS_Hindi.pdf" target="_blank" >एकीकृत प्रबंधि प्रणाली</a></li><li class="sp-menu-item sp-has-child"><a  href="/hindi/about-us-hi/sri-hi" >संरक्षा अनुसंधान संस्थान</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/hindi/about-us-hi/sri-hi/about-sri" >About SRI</a></li><li class="sp-menu-item"><a  href="/hindi/about-us-hi/sri-hi/directors-sri-hi" >संरक्षा अनुसंधान संस्थान के निदेशक</a></li><li class="sp-menu-item sp-has-child"><a  href="/hindi/about-us-hi/sri-hi/area-of-research-hi" >अनुसंधान के क्षेत्र</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/hindi/about-us-hi/sri-hi/area-of-research-hi/nss-hi" >नाभिकीय संरक्षा अध्ययन </a></li><li class="sp-menu-item"><a  href="/hindi/about-us-hi/sri-hi/area-of-research-hi/psas-hi" >संभाव्यता संरक्षा आकलन अध्ययन</a></li><li class="sp-menu-item"><a  href="/hindi/about-us-hi/sri-hi/area-of-research-hi/remote-sensing-and-gis-studies" >सुदूर संवेदन एवं जीआईएस अध्ययन</a></li><li class="sp-menu-item"><a  href="/hindi/about-us-hi/sri-hi/area-of-research-hi/engineering-safety-studies" >इंजीनियरिंग संरक्षा अध्ययन</a></li><li class="sp-menu-item"><a  href="/hindi/about-us-hi/sri-hi/area-of-research-hi/environment-safety-fuel-chemistry-studies" >पर्यावरण संरक्षा एवं ईंधन रसायन अध्ययन</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/hindi/about-us-hi/sri-hi/research-laboratories-engineering-hall" >अनुसंधान प्रयोगशालाएँ एवं इंजीनियरिंग हॉल</a></li><li class="sp-menu-item"><a  href="/hindi/about-us-hi/sri-hi/seminars-conf-work-hi" >Seminars / Conferences / Workshops </a></li><li class="sp-menu-item"><a  href="/hindi/about-us-hi/sri-hi/vod-hi" >गणमान्य व्यक्तियों का दौरा </a></li><li class="sp-menu-item"><a  href="/hindi/about-us-hi/sri-hi/about-publications-hi" >Publications</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/hindi/about-us-hi/rrc" >क्षेत्रीय नियामक केंद्र</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/hindi/reg-proc" >नियामक प्रक्रिया</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/hindi/reg-proc/document-dev-hi" > दस्तावेज़ विकास</a></li><li class="sp-menu-item"><a  href="/hindi/reg-proc/safety-review-hi" >संरक्षा समीक्षा एवं आकलन </a></li><li class="sp-menu-item"><a  href="/hindi/reg-proc/licensing" >लाइसेंसिंग</a></li><li class="sp-menu-item"><a  href="/hindi/reg-proc/reg-ins-hi" >नियामक निरीक्षण</a></li><li class="sp-menu-item"><a  href="/hindi/reg-proc/enforcement-hi" >प्रवर्तन</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/hindi/facilities-activities-hi" >नियामक सुविधाएँ</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/npp-hi" >नाभिकीय ऊर्जा परियोजनाएँ </a></li><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/nuclear-pp-hi" >नाभिकीय ऊर्जा संयंत्र </a></li><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/nfcf-hi" >नाभिकीय ईंधन चक्र सुविधाएँ </a></li><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/industrial-rd-facilities-hi" >औद्योगिक एवं अनुसंधान एवं विकास गतिविधियाँ</a></li><li class="sp-menu-item sp-has-child"><a  href="/hindi/facilities-activities-hi/radi-facility" >विकिरण सुविधाएँ </a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item sp-has-child"><a  href="#" >उद्योग में आवेदन</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/radi-facility/application-industry/radiation-processing-hi" >विकिरण संसाधन सुविधायें </a></li><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/radi-facility/application-industry/industrial-radiography-hi" >औद्योगिक रेडियोग्राफी</a></li><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/radi-facility/application-industry/nucleonic-gauge-hi" >न्‍यूक्लियानिक गेज</a></li><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/radi-facility/application-industry/well-loggin-hi" >कूप लागिंग सुविधायें</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="#" >चिकित्सा में आवेदन</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/radi-facility/application-medicine/radiotheraphy-hi" >रेडियोथेरेपी</a></li><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/radi-facility/application-medicine/nuclear-medicine-hi" >नाभिकीय औषध</a></li><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/radi-facility/application-medicine/diagnostic-radiology-hi" >नैदानिक रेडियोलाजी </a></li><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/radi-facility/application-medicine/blood-irriadators-hi" >रक्‍त किरणक</a></li><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/radi-facility/application-medicine/medical-cyclotron" >Medical Cyclotron</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="#" >अनुसंधान में आवेदन</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/radi-facility/application-research/research-acceletors-hi" >अनुसंधान त्‍वरक</a></li><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/radi-facility/application-research/sealed-unsealed-hi" >सीलबंद व खुले रेडियोसक्रिय पदार्थों का प्रयोग करने वाली सुविधायें </a></li><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/radi-facility/application-research/gamma-irridation-hi" >गामा किरणन कक्ष</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="#" >मान्यता प्राप्त प्रयोगशालाएं</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/radi-facility/recognised-laboratories-hi/recognition-of-calibration-hi" >अंशांकन प्रयोगशालाओं को मान्‍यता </a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/radi-facility/consumer-products-hi" >उपभोक्‍ता उत्‍पाद एवं स्‍कैनिंग सुविधायें </a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/2017-05-29-13-15-40" >रेडियोएक्टिव पदार्थों का परिवहन</a></li><li class="sp-menu-item"><a  href="/hindi/facilities-activities-hi/2017-05-29-13-16-18" >रेडियोएक्टिव अपशिष्ट प्रबंधन</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="#" >प्रकाशन</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/images/PDF/Niyamika-Issue-no-9.pdf" target="_blank" >नियामिका</a></li><li class="sp-menu-item"><a  href="/hindi/publication-hi/c-g-hi" >कोड व गाइड </a></li><li class="sp-menu-item"><a  href="/hindi/publication-hi/ar-hi" >वार्षिक रिपोर्ट </a></li><li class="sp-menu-item"><a  href="/hindi/publication-hi/newsletter-hi" >एईआरबी वृत्त पत्र</a></li><li class="sp-menu-item"><a  href="/hindi/publication-hi/aerb-bulletin" >एईआरबी बुलेटिन</a></li><li class="sp-menu-item"><a  href="/hindi/publication-hi/silver-jubilee-book" >रजत जयंती पुस्तक </a></li><li class="sp-menu-item"><a  href="/hindi/publication-hi/rp-hi" >अनुसंधान प्रकाशन</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/hindi/acts-reg-hi" >अधिनियम एवं विनियम</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/hindi/acts-reg-hi/acts-hi" >अधिनियम</a></li><li class="sp-menu-item"><a  href="/hindi/acts-reg-hi/rules-hi" >विनियम</a></li><li class="sp-menu-item"><a  href="/hindi/acts-reg-hi/notification-hi" >अधिसूचनाएँ</a></li><li class="sp-menu-item"><a  href="/hindi/acts-reg-hi/safety-directives-hi" >संरक्षा निदेश</a></li><li class="sp-menu-item"><a  href="/hindi/acts-reg-hi/advisory-hi" >परामर्श</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/hindi/contact-hi" target="_blank" >संपर्क</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/hindi/contact-hi/cko-hi" target="_blank" >प्रमुख अधिकारियों से संपर्क करें</a></li><li class="sp-menu-item"><a  href="/images/PDF/Contact_details_website_update.pdf" >रेडिएशन फेसेलिटियों के लिए संपर्क सूची</a></li><li class="sp-menu-item"><a  href="/english/citizen-charter" >नागरिक चार्टर</a></li></ul></div></div></li></ul>			</div>
+		</div></div></div></div></header><section id="sp-page-title"><div class="row"><div id="sp-title" class="col-sm-12 col-md-12"><div class="sp-column "></div></div></div></section><section id="sp-main-body"><div class="row"><div id="sp-component" class="col-sm-12 col-md-12"><div class="sp-column "><div id="system-message-container">
+	</div>
+
+<div id="sp-page-builder" class="sp-page-builder  page-198">
+
+	
+	<div class="page-content">
+		<div id="section-id-1480328594" class="sppb-section  resort-slider"  ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-2"><div id="column-id-1768568938751" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-1768568938754" class="clearfix" ><div class="sppb-empty-space  clearfix"></div></div><div id="sppb-addon-1768568938770" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/2026/01/06/akb.jpg" alt=""></div></div></div></div><div id="sppb-addon-1768568938765" class="clearfix" ><div class="sppb-empty-space  clearfix"></div></div><div id="sppb-addon-1768568938773" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><div style="text-align: center; color: white;"><strong>श्री ए.के. बालासुब्रमणियन</strong></div>
+<div style="text-align: center; color: white;">अध्यक्ष, एईआरबी</div></div></div></div><div id="sppb-addon-1768568938762" class="clearfix" ><div class="sppb-empty-space  clearfix"></div></div></div></div></div><div class="sppb-col-md-10"><div id="column-id-1480328595" class="sppb-column  resort-slider-wrapper" ><div class="sppb-column-addons"><div id="sppb-addon-1487220121719" class="clearfix" ><div id="sppb-carousel-1487220121719" class="sppb-carousel sppb-carousel-pro sppb-slide home_carosuel" data-sppb-ride="sppb-carousel"><ol class="sppb-carousel-indicators"><li data-sppb-target="#sppb-carousel-1487220121719"  class="active"  data-sppb-slide-to="0"></li>
+<li data-sppb-target="#sppb-carousel-1487220121719"   data-sppb-slide-to="1"></li>
+<li data-sppb-target="#sppb-carousel-1487220121719"   data-sppb-slide-to="2"></li>
+<li data-sppb-target="#sppb-carousel-1487220121719"   data-sppb-slide-to="3"></li>
+<li data-sppb-target="#sppb-carousel-1487220121719"   data-sppb-slide-to="4"></li>
+<li data-sppb-target="#sppb-carousel-1487220121719"   data-sppb-slide-to="5"></li>
+<li data-sppb-target="#sppb-carousel-1487220121719"   data-sppb-slide-to="6"></li>
+<li data-sppb-target="#sppb-carousel-1487220121719"   data-sppb-slide-to="7"></li>
+<li data-sppb-target="#sppb-carousel-1487220121719"   data-sppb-slide-to="8"></li>
+<li data-sppb-target="#sppb-carousel-1487220121719"   data-sppb-slide-to="9"></li>
+<li data-sppb-target="#sppb-carousel-1487220121719"   data-sppb-slide-to="10"></li>
+<li data-sppb-target="#sppb-carousel-1487220121719"   data-sppb-slide-to="11"></li>
+</ol><div class="sppb-carousel-inner 0"><div class="sppb-item active"><div class="sppb-carousel-item-inner"><div><div><div class="sppb-row"><div class="sppb-col-sm-6"><div class="sppb-carousel-pro-text"><p>	एईआरबी के अध्यक्ष श्री ए.के. बालासुब्रमणियन (बाएं) ने 1 जनवरी 2026 को डॉ. डी.के. शुक्ला (दाएं) से पदभार ग्रहण किया।।<br />
+<p style="text-align: right;"><a class="btn btn-outline-primary" href="/storage/uploads/News/news2535m.pdf" target="_blank" rel="noopener noreferrer">और पढें</a></p></p></div></div><div class="sppb-col-sm-6"><div class="sppb-text-right"><img class="sppb-img-reponsive" src="/images/2026/01/01/websitechairpersonhandover.png" alt=""></div></div></div></div></div></div></div><div class="sppb-item"><div class="sppb-carousel-item-inner"><div><div><div class="sppb-row"><div class="sppb-col-sm-6"><div class="sppb-carousel-pro-text"><p>	<span style="font-size: 12pt;">वैकल्पिक ईंधन प्रबंधन योजना से संबंधित गतिविधियों को करने की अनुमति। </span>
+<p style="text-align: right;"><a class="btn btn-outline-primary" href="/storage/uploads/News/newsxj5xY.pdf" target="_blank" rel="noopener noreferrer">और पढें</a></p></p></div></div><div class="sppb-col-sm-6"><div class="sppb-text-right"></div></div></div></div></div></div></div><div class="sppb-item"><div class="sppb-carousel-item-inner"><div><div><div class="sppb-row"><div class="sppb-col-sm-6"><div class="sppb-carousel-pro-text"><p>	<span style="font-size: 12pt;">चिकित्सा निदान एक्स-रे सुविधाओं [एक्स-रे रेडियोग्राफी/सीटी-स्कैन/दंत चिकित्सा/मैमोग्राफी] के संबंध में विकिरण संरक्षा चिंताओं पर सलाह। </span>
+<p style="text-align: right;"><a class="btn btn-outline-primary" href="/storage/uploads/News/news1pS4c.pdf" target="_blank" rel="noopener noreferrer">और पढें</a></p></p></div></div><div class="sppb-col-sm-6"><div class="sppb-text-right"></div></div></div></div></div></div></div><div class="sppb-item"><div class="sppb-carousel-item-inner"><div><div><div class="sppb-row"><div class="sppb-col-sm-6"><div class="sppb-carousel-pro-text"><p>	<span style="font-size: 12pt;"><strong><u>एईआरबी के अध्यक्ष ने एसीटीआरईसी,टीएमसी, नवी मुंबई का दौरा किया</u></strong></span><br /><br /> <span style="font-size: 11pt;">टाटा मेमोरियल सेंटर की एक इकाई, एडवांस्ड सेंटर फॉर ट्रीटमेंट, रिसर्च एंड एजुकेशन इन कैंसर (एसीटीआरईसी) ने 8 जुलाई, 2025 को आयोजित अपनी 'प्रतिष्ठित वक्ताओं की अकादमिक बैठकमें एईआरबी के अध्यक्ष श्री डी.के. शुक्ला को आमंत्रित किया। एईआरबी के अध्यक्ष ने इस अवसर पर 'रेडिएशन अनुप्रयोगों का सुरक्षा विनियमन' विषय पर श्रोताओं को संबोधित किया: उन्होंने अपनाए गए दृष्टिकोणसामने आई चुनौतियों, आंतरिक विचार-मंथन 'मंथन' सत्रों के प्रमुख विचारों और परिणामों पर प्रकाश डाला ताकि भविष्य की तैयारी के लिए आत्मनिरीक्षण और पुनरावलोकन किया जा सके और आगे की राह पर कुछ विचार व्यक्त किए जा सकें। इस संबोधन के बाद एसीटीआरईसी के चिकित्सा भौतिकविदों की टीम के साथ एक संवादात्मक चर्चाहुई और प्रोटॉन थेरेपी केंद्र सहित साइट का दौरा किया गया।</span></p></div></div><div class="sppb-col-sm-6"><div class="sppb-text-right"><img class="sppb-img-reponsive" src="/images/2025/07/11/dsc_6285.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-item"><div class="sppb-carousel-item-inner"><div><div><div class="sppb-row"><div class="sppb-col-sm-6"><div class="sppb-carousel-pro-text"><p>	<div style="text-align: justify;"><span style="font-size: 12pt;"><strong>माही बांसवाड़ा राजस्थान परमाणु विद्युत परियोजना के स्थल चयन हेतु सहमति (एमबीआरएपीपी &ndash; 1 से 4) <br /> </strong></span>
+<p style="text-align: right;"><a class="btn btn-outline-primary" href="/storage/uploads/News/newswUoZB.pdf" target="_blank" rel="noopener noreferrer">और पढें</a></p>
+</div></p></div></div><div class="sppb-col-sm-6"><div class="sppb-text-right"></div></div></div></div></div></div></div><div class="sppb-item"><div class="sppb-carousel-item-inner"><div><div><div class="sppb-row"><div class="sppb-col-sm-6"><div class="sppb-carousel-pro-text"><p>	<div style="text-align: justify;"><span style="font-size: 12pt;"><strong>AERB ने अपना शासन दस्तावेज "एईआरबी की Integrated Management System" जारी किया है।<br /> </strong></span> <!--p style="text-align: right;"><a class="btn btn-outline-primary" href="/images/2025/Republic_Day_2025.pdf" target="_blank" rel="noopener noreferrer">और पढें</a></p--></div></p></div></div><div class="sppb-col-sm-6"><div class="sppb-text-right"><img class="sppb-img-reponsive" src="/images/2025/03/27/ims-l1.png" alt=""></div></div></div></div></div></div></div><div class="sppb-item"><div class="sppb-carousel-item-inner"><div><div><div class="sppb-row"><div class="sppb-col-sm-6"><div class="sppb-carousel-pro-text"><p>	<div style="text-align: justify;"><span style="font-size: 12pt;"><strong>AERB ने "सुरक्षा विनियमन के चार दशक - अतीत का जश्न और भविष्य के लिए तैयारी" शीर्षक से अपनी रूबी जुबली पुस्तक प्रकाशित की<br /> </strong></span> <!--p style="text-align: right;"><a class="btn btn-outline-primary" href="/images/2025/Republic_Day_2025.pdf" target="_blank" rel="noopener noreferrer">और पढें</a></p--></div></p></div></div><div class="sppb-col-sm-6"><div class="sppb-text-right"><img class="sppb-img-reponsive" src="/images/2025/03/17/book-cover.png" alt=""></div></div></div></div></div></div></div><div class="sppb-item"><div class="sppb-carousel-item-inner"><div><div><div class="sppb-row"><div class="sppb-col-sm-6"><div class="sppb-carousel-pro-text"><p>	<div style="text-align: justify;"><span style="font-size: 12pt;"><strong>नियामक भवन-सी के उद्घाटन के अवसर पर AERB के अध्यक्ष, एईआरबी के बोर्ड सदस्यों और प्रभागों के प्रमुखों के साथ AERB कर्मचारी<br /> </strong></span> <!--p style="text-align: right;"><a class="btn btn-outline-primary" href="/images/2025/Republic_Day_2025.pdf" target="_blank" rel="noopener noreferrer">और पढें</a></p--></div></p></div></div><div class="sppb-col-sm-6"><div class="sppb-text-right"><img class="sppb-img-reponsive" src="/images/2024/12/28/part-2.2.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-item"><div class="sppb-carousel-item-inner"><div><div><div class="sppb-row"><div class="sppb-col-sm-6"><div class="sppb-carousel-pro-text"><p>	<p style="text-align: justify;">एईआरबी ने डायग्नोस्टिक रेडियोलॉजी प्रैक्टिस में काम करने वाले कर्मियों के बीच विकिरण संरक्षा पर जागरूकता बढ़ाने के लिए हिंदी में &lsquo;डायग्नोस्टिक रेडियोलॉजी में विकिरण संरक्षा&rsquo; बुकलेट जारी की है।</p>
+&nbsp;
+<p style="text-align: right;"><a class="btn btn-outline-primary" href="/english/regulatory-facilities/radiation-facilities/application-in-medicine/diagnostic-radiology" target="_blank" rel="noopener noreferrer">और पढें</a></p></p></div></div><div class="sppb-col-sm-6"><div class="sppb-text-right"><img class="sppb-img-reponsive" src="/images/2020/06/30/scrollpic.png" alt=""></div></div></div></div></div></div></div><div class="sppb-item"><div class="sppb-carousel-item-inner"><div><div><div class="sppb-row"><div class="sppb-col-sm-6"><div class="sppb-carousel-pro-text"><p>	<p style="text-align: justify;">डायग्नोस्टिक रेडियोलॉजी में काम करने वाले कर्मियों के बीच विकिरण सुरक्षा जागरूकता बढ़ाने के लिए, एईआरबी ने 'फ्लोरोस्कोपी में विकिरण सुरक्षा' पर एक वीडियो बनाया है।</p>
+<p style="text-align: right;">&nbsp;</p>
+<p style="text-align: right;"><a class="btn btn-outline-primary" href="/english/safety-in-medical-diagnostic-x-rays" target="_blank" rel="noopener noreferrer">और पढें</a></p></p></div></div><div class="sppb-col-sm-6"><div class="sppb-text-right"><img class="sppb-img-reponsive" src="/images/2020/01/17/video-thumbnail_fluoroscopy.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-item"><div class="sppb-carousel-item-inner"><div><div><div class="sppb-row"><div class="sppb-col-sm-6"><div class="sppb-carousel-pro-text"><p>	<p style="text-align: justify;">परमाणु ऊर्जा नियामक बोर्ड ने विकिरण सुविधाओं के उपयोगकर्ताओं को नियामक सहायता प्रदान करने के लिए एक सहायता डेस्क (022-25990675) की स्थापना की है, जो सभी कार्य दिवसों (सोमवार से शुक्रवार) को 10:00 घंटे से 17:00 घंटों के दौरान कार्यात्मक है।</p>
+<p style="text-align: right;"><a class="btn btn-outline-primary" href="/images/PDF/Help-Desk-elora-portal1.pdf">और पढें</a></p></p></div></div><div class="sppb-col-sm-6"><div class="sppb-text-right"><img class="sppb-img-reponsive" src="/images/2018/09/11/helpdesk.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-item"><div class="sppb-carousel-item-inner"><div><div><div class="sppb-row"><div class="sppb-col-sm-6"><div class="sppb-carousel-pro-text"><p>	<p style="text-align: justify;">ई-लोरा &ndash; विकिरण अनुप्रयोगों की ई-लाइसेंसिंग &ndash; ई-लोरा एक वेब आधारित आई एण्ड सी टी (सूचना एवं संचार प्रौद्योगिकी) एप्लीकेशन है जो एईआरबी की नियामक सेवाओं को प्रदान करने तथा व्यावसायिक व्यवहार में उच्च क्षमता, विश्वसनीयता एवं पारदर्शिता प्राप्त करने हेतु सूचना एवं संचार के विनिमय के लिए एईआरबी तथा इसके स्टेकहोल्डरों के बीच एक सीधा संचार चैनल स्थापित करती है।</p></p></div></div><div class="sppb-col-sm-6"><div class="sppb-text-right"><img class="sppb-img-reponsive" src="/images/2017/04/26/elora-home-page.jpg" alt=""></div></div></div></div></div></div></div></div><a href="#sppb-carousel-1487220121719" class="sppb-carousel-arrow left sppb-carousel-control" data-slide="prev" title="prev"><i class="fa fa-chevron-left"></i></a><a href="#sppb-carousel-1487220121719" class="sppb-carousel-arrow right sppb-carousel-control" data-slide="next" title="next"><i class="fa fa-chevron-right"></i></a></div></div></div></div></div></div></div></div><section id="home_col4" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-4"><div id="column-id-1487138353640" class="sppb-column one_col" ><div class="sppb-column-addons"><div id="sppb-addon-1522913113386" class="clearfix" ><div class="sppb-addon sppb-addon-accordion home_acc first_one home_acc1"><div class="sppb-addon-content"><div class="sppb-panel-group"><div class="sppb-panel sppb-panel-default"><div class="sppb-panel-heading active"><span class="sppb-panel-title">ई-लोरा (विकिरण अनुप्रयोगों के ई-लाइसेंसिंग)</span><span class="sppb-toggle-direction"><i class="fa fa-chevron-right"></i></span></div><div class="sppb-panel-collapse"><div class="sppb-panel-body">	<ul style="color: #000;">
+<li><a title="elora" href="/index.php/elora" target="_blank"> एलोरा सिस्टम के बारे में </a></li>
+<li><a href="/index.php/english/elora-guidelines"> सीधे एलोरा सिस्टम पर जाएं</a></li>
+</ul>
+<!--<a href="/index.php/english/elora"><button class="pull-right btn btn-primary" type="button">Read more</button></a>--></div></div></div></div></div></div></div><div id="sppb-addon-1522913113389" class="clearfix" ><div class="sppb-empty-space  clearfix"></div></div><div id="sppb-addon-1487138353648" class="clearfix" ><div class="sppb-addon sppb-addon-accordion home_acc first_one"><div class="sppb-addon-content"><div class="sppb-panel-group"><div class="sppb-panel sppb-panel-default"><div class="sppb-panel-heading active"><span class="sppb-panel-title"><i class="fa fa-play"></i> मैं एक आवेदक हूँ </span><span class="sppb-toggle-direction"><i class="fa fa-chevron-right"></i></span></div><div class="sppb-panel-collapse"><div class="sppb-panel-body"><div style="text-align: justify;">यदि आपने एईआरबी से सहमति के लिए आवेदन किया है तो आपको निम्नलिखित जानकारी होनी चाहिए.</div>
+<ul>
+<li><a class="external_url" href="/images/PDF/DiagnosticRadiology/e-LORA-Diagnostic-Radiology-Guidelines.pdf" target="">eLORA डायग्नोस्टिक रेडियोलॉजी (डीआर) दिशानिर्देश </a></li>
+<li><a class="external_url" href="/images/PDF/DiagnosticRadiology/Qualification-Requirements-for-personnel-in-Medical-X-ray-Installation.pdf" target="">डीआर फेसेलिटियों के कार्मिकों के लिए योग्यता</a></li>
+<li><a class="external_url" href="/images/PDF/layout_guidelines.pdf" target="">डीआर फेसेलिटियों के लिए ले-आउट संबंधी दिशानिर्देश</a></li>
+</ul>
+<a href="/index.php/hindi/iamanapplicant-hi"><button class="btn btn-primary pull-right" type="button">और पढें</button></a></div></div></div><div class="sppb-panel sppb-panel-default"><div class="sppb-panel-heading"><span class="sppb-panel-title"><i class="fa fa-play"></i> मैं रेडियोलाजिकल चिकित्‍सा व्‍यवसायिक हूँ </span><span class="sppb-toggle-direction"><i class="fa fa-chevron-right"></i></span></div><div class="sppb-panel-collapse" style="display: none;"><div class="sppb-panel-body">												<div style="text-align: justify;">नैदानिक रेडियोलाजी, रेडियोथेरेपी तथा नाभिकीय औषध के व्&zwj;यवसायिकों के लिये विकिरण संरक्षा पहलुओं पर जानकारी के लिये निम्&zwj;न योजनकों (links) पर क्लिक करें।</div>
+<ul>
+<li><a class="external_url" href="/images/PDF/DiagnosticRadiology/e-LORA-Diagnostic-Radiology-Guidelines.pdf" target="">eLORA डायग्नोस्टिक रेडियोलॉजी (डीआर) दिशा निर्देश</a></li>
+<li><a class="external_url" href="https://elora.aerb.gov.in/ELORA/prePopulateGraphData.htm" target="">टाइप अनुमोदित एक्स-रे उपकरण </a></li>
+</ul>
+<a href="/index.php/hindi/i-am-doctor-hi"><button class="btn btn-primary pull-right" type="button">और पढें</button></a></div></div></div><div class="sppb-panel sppb-panel-default"><div class="sppb-panel-heading"><span class="sppb-panel-title"><i class="fa fa-play"></i> मैं एक मरीज हूँ </span><span class="sppb-toggle-direction"><i class="fa fa-chevron-right"></i></span></div><div class="sppb-panel-collapse" style="display: none;"><div class="sppb-panel-body">										<div style="text-align: justify;">मेडिकल डायग्नोस्टिक एक्स-रे, रेडियोथेरेपी तथा न्यूक्लियर मेडिसिन की संरक्षा से संबंधित पहलुओं के बारे में आपको क्या जानने की आवश्यकता है.
+<ul>
+<li><a class="external_url" href="https://elora.aerb.gov.in/ELORA/prePopulateGraphData.htm" target="_blank">लाइसेंसयुक्त एक्स-रे फेसेलिटियाँ </a></li>
+</ul>
+</div>
+<a href="/index.php/hindi/iampatient-hi"><button class="btn btn-primary pull-right" type="button">और पढें</button></a></div></div></div><div class="sppb-panel sppb-panel-default"><div class="sppb-panel-heading"><span class="sppb-panel-title"><i class="fa fa-play"></i> मैं एक आदाता / उत्पादक हूँ </span><span class="sppb-toggle-direction"><i class="fa fa-chevron-right"></i></span></div><div class="sppb-panel-collapse" style="display: none;"><div class="sppb-panel-body">									<p>विकिरण उत्पन्न करने वाले उपकरणों तथा रेडियोएक्टिव मैटेरियल धारक डिवायसों के उत्पादन एवं आपूर्ति के लिए विकिरण संरक्षा तथा नियामक आवश्यकताओं के बारे में आपको क्या जानने की आवश्यकता है?</p>
+<a href="/index.php/hindi/iamsupplier-hi"><button class="btn btn-primary pull-right" type="button">और पढें</button></a></div></div></div><div class="sppb-panel sppb-panel-default"><div class="sppb-panel-heading"><span class="sppb-panel-title"><i class="fa fa-play"></i> मैं एक रेडियोग्राफर हूँ </span><span class="sppb-toggle-direction"><i class="fa fa-chevron-right"></i></span></div><div class="sppb-panel-collapse" style="display: none;"><div class="sppb-panel-body">								<p style="text-align: justify;">यदि आप किसी औद्योगिक रेडियोग्राफी फेसेलिटी या मेडिकल डायग्नोस्टिक एक्स-रे फेसेलिटी में रेडियोग्राफर हैं तो आपको क्या जानने की आवश्यकता है..</p>
+<ul>
+<li><a class="external_url" href="/images/PDF/DiagnosticRadiology/e-LORA-Diagnostic-Radiology-Guidelines.pdf" target="">eLORA डायग्नोस्टिक रेडियोलॉजी (डीआर) दिशानिर्देश</a></li>
+<li><a class="external_url" href="/images/PDF/DiagnosticRadiology/Qualification-Requirements-for-personnel-in-Medical-X-ray-Installation.pdf" target="">डीआर फेसेलिटियों के कार्मिकों के लिए योग्यता</a></li>
+<li><a class="external_url" href="/images/PDF/TrainingModule/1-Training-for-Xray-Technologist.pdf" target="">एक्स-रे टैक्नोलॉजिस्ट के लिए प्रशिक्षण </a></li>
+<li><a class="external_url" href="/images/PDF/DiagnosticRadiology/rsd9.pdf" target="">मान्यता प्राप्त एक्स-रे टैक्नोलॉजिस्ट कोर्स</a></li>
+</ul>
+<a href="/index.php/hindi/iamradiographer-hi"><button class="btn btn-primary pull-right" type="button">और पढें</button></a></div></div></div><div class="sppb-panel sppb-panel-default"><div class="sppb-panel-heading"><span class="sppb-panel-title"><i class="fa fa-play"></i> संरक्षा से संबंधित किसी भी चिंताजनक बात की रिपोर्ट करें </span><span class="sppb-toggle-direction"><i class="fa fa-chevron-right"></i></span></div><div class="sppb-panel-collapse" style="display: none;"><div class="sppb-panel-body">						<p>निम्नलिखित जानकारी प्राप्त करने के लिए फॉर्म हेतु लिंक</p>
+<ul style="color: #000;">
+<li>रिपोर्ट का विवरण</li>
+<li>अवस्थिति (लोकेशन)</li>
+<li>फोटो / वीडियो अपलोड</li>
+<li>मैसेज टैक्स्ट बॉक्स आदि</li>
+</ul>
+<a href="/index.php/hindi/rpt-safety-concern-hi"><button class="btn btn-primary pull-right" type="button">और पढें</button></a></div></div></div><div class="sppb-panel sppb-panel-default"><div class="sppb-panel-heading"><span class="sppb-panel-title"><i class="fa fa-play"></i> आपातकालीन स्थिति में क्या करें </span><span class="sppb-toggle-direction"><i class="fa fa-chevron-right"></i></span></div><div class="sppb-panel-collapse" style="display: none;"><div class="sppb-panel-body">					<p>आप एक आम नागरिक, रेडिएशन सेफ्टी ऑफ़िसर या संरक्षा से जुड़े हुए कोई भी अन्य कार्मिक हो सकते हैं तथा संबंधित अथॉरिटी को संरक्षा से संबंधित अपनी चिंता व्यक्त कर सकते हैं।</p>
+<a href="/index.php/hindi/wht-do-in-emrg"><button class="btn btn-primary pull-right" type="button">और पढें</button></a></div></div></div><div class="sppb-panel sppb-panel-default"><div class="sppb-panel-heading"><span class="sppb-panel-title"><i class="fa fa-play"></i> सार्वजनिक क्षेत्र में नाभिकीय अथवा विकिरणीय आपातकालीन घटना के लिए संपर्क करें</span><span class="sppb-toggle-direction"><i class="fa fa-chevron-right"></i></span></div><div class="sppb-panel-collapse" style="display: none;"><div class="sppb-panel-body">				<ul style="color: #000;">
+<li>परमाणु ऊर्जा विभाग</li>
+<li>अतिरिक्त आपातकालीन नियंत्रण कक्ष</li>
+</ul>
+<a href="/index.php/hindi/contc-rdiological-nuclear-emr-hi"><button class="btn btn-primary pull-right" type="button">और पढें</button></a></div></div></div><div class="sppb-panel sppb-panel-default"><div class="sppb-panel-heading"><span class="sppb-panel-title"><i class="fa fa-play"></i> संरक्षा अनुसंधान कार्यक्रम</span><span class="sppb-toggle-direction"><i class="fa fa-chevron-right"></i></span></div><div class="sppb-panel-collapse" style="display: none;"><div class="sppb-panel-body">	<p>देश में नाभिकीय एवं विकिरण संरक्षा के क्षेत्र में नियमन एवं संरक्षा से संबंधित कुछ निश्चित कार्यों को करने के लिए 1983 में परमाणु ऊर्जा नियामक परिषद (एईआरबी) की स्थापना की गई थी</p>
+<a href="/index.php/hindi/srp-hi" target="_blank"><button class="btn btn-primary pull-right" type="button">और पढें</button></a></div></div></div></div></div></div></div></div></div></div><div class="sppb-col-md-4"><div id="column-id-1487138353644" class="sppb-column two_col" ><div class="sppb-column-addons"><div id="sppb-addon-1766549842609" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><h2 class="after">घोषणाएँ</h2></div></div></div><div id="sppb-addon-1766549842612" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><div style="text-align: left;"><img class="" src="/images/new.gif" alt="" width="30" height="11" /><strong><a href="/images/PDF/enewsletter-jul-sep2025-html/HINDI-NEWSJULYSEPT25.html" target="_blank" rel="noopener noreferrer">एईआरबी ने अपनी त्रैमासिक समाचार-पत्रिका के वेब प्रकाशन (खंड 36, अंक 3) को जारी किया है।</a></strong></div></div></div></div><div id="sppb-addon-1754648026370" class="clearfix" ><div class="sppb-divider sppb-divider-border "></div></div><div id="sppb-addon-1766549842617" class="clearfix" ><div class="sppb-empty-space  clearfix"></div></div><div id="sppb-addon-1487138353643" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><h2 class="after">नवीनतम समाचार</h2></div></div></div><div id="sppb-addon-1558332662863" class="clearfix" ><div class="sppb-addon sppb-addon-module "><div class="sppb-addon-content"><div class="sppb-addon sppb-addon-tab ">
+  <div class="sppb-addon-content sppb-tab">
+    <ul class="sppb-nav sppb-nav-tabs">
+            <li   class="active" ><a data-toggle="sppb-tab" href="#sppb-tab0">सभी</a></li>
+            <li  ><a data-toggle="sppb-tab" href="#sppb-tab1">समाचार</a></li>
+            <li  ><a data-toggle="sppb-tab" href="#sppb-tab2">प्रेस विज्ञप्ति</a></li>
+            <li  ><a data-toggle="sppb-tab" href="#sppb-tab3">समाचार में एईआरबी</a></li>
+          </ul>
+ 	<div class="sppb-tab-content sppb-nav-tabs-content">
+      	  <div id="sppb-tab1-4" class="sppb-tab-pane sppb-fade active in">
+                       <table cellspacing="0" width="100%"  style="width: 100%;">
+             
+              <tbody>
+
+		
+		<tr><td>
+                <section id="section-id-1489146063457" class="sppb-section  latest_news_col">
+                  <div class="sppb-addon-content">
+                    <div class="sppb-media">
+                      <div class="pull-left">
+                        <div class="sppb-icon"><span class="sppb-icon-container"><i class="fa fa-file-text-o"></i></span></div>
+    </div>
+                          <div class="sppb-media-body">
+						  <h5 class="sppb-addon-title sppb-feature-box-title sppb-media-heading" style="color:#333333;">09-Jan-2026</h5>
+                            <div class="sppb-addon-text"><div style="text-align: justify;">
+                              <a href="/storage/uploads/News/newsNxCM8.pdf" target="_blank">विख्यात वैज्ञानिक श्री ए. के. बालासुब्रमणियन ने एईआरबी के अध्यक्ष के रूप में कार्यभार संभाला। </a>                                </div>
+								                                 </div>
+								<div class="sppb-empty-space  clearfix" style="padding-bottom: 20px;"></div>
+                                </div>
+                                </div>
+                                
+                  </div>
+                </section>
+                </td></tr>
+                
+
+             
+		<tr><td>
+                <section id="section-id-1489146063457" class="sppb-section  latest_news_col">
+                  <div class="sppb-addon-content">
+                    <div class="sppb-media">
+                      <div class="pull-left">
+                        <div class="sppb-icon"><span class="sppb-icon-container"><i class="fa fa-file-text-o"></i></span></div>
+    </div>
+                          <div class="sppb-media-body">
+						  <h5 class="sppb-addon-title sppb-feature-box-title sppb-media-heading" style="color:#333333;">01-Jan-2026</h5>
+                            <div class="sppb-addon-text"><div style="text-align: justify;">
+                              <a href="/storage/uploads/News/news2535m.pdf" target="_blank">एईआरबी के अध्यक्ष श्री ए.के. बालासुब्रमणियन (बाएं) ने 1 जनवरी 2026 को डॉ. डी.के. शुक्ला (दाएं) से पदभार ग्रहण किया। </a>                                </div>
+								                                 </div>
+								<div class="sppb-empty-space  clearfix" style="padding-bottom: 20px;"></div>
+                                </div>
+                                </div>
+                                
+                  </div>
+                </section>
+                </td></tr>
+                
+
+             
+		<tr><td>
+                <section id="section-id-1489146063457" class="sppb-section  latest_news_col">
+                  <div class="sppb-addon-content">
+                    <div class="sppb-media">
+                      <div class="pull-left">
+                        <div class="sppb-icon"><span class="sppb-icon-container"><i class="fa fa-file-text-o"></i></span></div>
+    </div>
+                          <div class="sppb-media-body">
+						  <h5 class="sppb-addon-title sppb-feature-box-title sppb-media-heading" style="color:#333333;">31-Jul-2025</h5>
+                            <div class="sppb-addon-text"><div style="text-align: justify;">
+                              <a href="/storage/uploads/News/newsxj5xY.pdf" target="_blank">वैकल्पिक ईंधन प्रबंधन योजना से संबंधित गतिविधियों को करने की अनुमति। </a>                                </div>
+								                                 </div>
+								<div class="sppb-empty-space  clearfix" style="padding-bottom: 20px;"></div>
+                                </div>
+                                </div>
+                                
+                  </div>
+                </section>
+                </td></tr>
+                
+
+             
+		<tr><td>
+                <section id="section-id-1489146063457" class="sppb-section  latest_news_col">
+                  <div class="sppb-addon-content">
+                    <div class="sppb-media">
+                      <div class="pull-left">
+                        <div class="sppb-icon"><span class="sppb-icon-container"><i class="fa fa-file-text-o"></i></span></div>
+    </div>
+                          <div class="sppb-media-body">
+						  <h5 class="sppb-addon-title sppb-feature-box-title sppb-media-heading" style="color:#333333;">18-Jul-2025</h5>
+                            <div class="sppb-addon-text"><div style="text-align: justify;">
+                              <a href="/storage/uploads/News/news1pS4c.pdf" target="_blank">चिकित्सा निदान एक्स-रे सुविधाओं [एक्स-रे रेडियोग्राफी/सीटी-स्कैन/दंत चिकित्सा/मैमोग्राफी] के संबंध में विकिरण संरक्षा चिंताओं पर सलाह </a>                                </div>
+								                                 </div>
+								<div class="sppb-empty-space  clearfix" style="padding-bottom: 20px;"></div>
+                                </div>
+                                </div>
+                                
+                  </div>
+                </section>
+                </td></tr>
+                
+
+             
+		<tr><td>
+                <section id="section-id-1489146063457" class="sppb-section  latest_news_col">
+                  <div class="sppb-addon-content">
+                    <div class="sppb-media">
+                      <div class="pull-left">
+                        <div class="sppb-icon"><span class="sppb-icon-container"><i class="fa fa-file-text-o"></i></span></div>
+    </div>
+                          <div class="sppb-media-body">
+						  <h5 class="sppb-addon-title sppb-feature-box-title sppb-media-heading" style="color:#333333;">09-Jun-2025</h5>
+                            <div class="sppb-addon-text"><div style="text-align: justify;">
+                              <a href="/storage/uploads/News/newswxQy6.pdf" target="_blank">उत्तरी भारत में नाभिकीय चिकित्सा विकिरण सुविधाओं के लिए जागरूकता कार्यक्रम </a>                                </div>
+								                                 </div>
+								<div class="sppb-empty-space  clearfix" style="padding-bottom: 20px;"></div>
+                                </div>
+                                </div>
+                                
+                  </div>
+                </section>
+                </td></tr>
+                
+
+                           </tbody>
+            </table>
+
+</div>
+
+      	  <div id="sppb-tab1-2" class="sppb-tab-pane sppb-fade">
+                     <table cellspacing="0" width="100%"  style="width: 100%;">
+              
+              <tbody>
+
+		
+		<tr><td>
+                <section id="section-id-1489146063457" class="sppb-section  latest_news_col">
+                  <div class="sppb-addon-content">
+                    <div class="sppb-media">
+                      <div class="pull-left">
+                        <div class="sppb-icon"><span class="sppb-icon-container"><i class="fa fa-file-text-o"></i></span></div>
+						</div>
+						<div class="sppb-media-body">
+						<h5 class="sppb-addon-title sppb-feature-box-title sppb-media-heading" style="color:#333333;">01-Jan-2026</h5>
+                          <div class="sppb-addon-text"><div style="text-align: justify;">
+                              <a href="/storage/uploads/News/news2535m.pdf" target="_blank">एईआरबी के अध्यक्ष श्री ए.के. बालासुब्रमणियन (बाएं) ने 1 जनवरी 2026 को डॉ. डी.के. शुक्ला (दाएं) से पदभार ग्रहण किया। </a>                                </div>
+								                                </div>
+								<div class="sppb-empty-space  clearfix" style="padding-bottom: 20px;"></div>
+                                
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                </td></tr>
+                
+
+             
+		<tr><td>
+                <section id="section-id-1489146063457" class="sppb-section  latest_news_col">
+                  <div class="sppb-addon-content">
+                    <div class="sppb-media">
+                      <div class="pull-left">
+                        <div class="sppb-icon"><span class="sppb-icon-container"><i class="fa fa-file-text-o"></i></span></div>
+						</div>
+						<div class="sppb-media-body">
+						<h5 class="sppb-addon-title sppb-feature-box-title sppb-media-heading" style="color:#333333;">31-Jul-2025</h5>
+                          <div class="sppb-addon-text"><div style="text-align: justify;">
+                              <a href="/storage/uploads/News/newsxj5xY.pdf" target="_blank">वैकल्पिक ईंधन प्रबंधन योजना से संबंधित गतिविधियों को करने की अनुमति। </a>                                </div>
+								                                </div>
+								<div class="sppb-empty-space  clearfix" style="padding-bottom: 20px;"></div>
+                                
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                </td></tr>
+                
+
+             
+		<tr><td>
+                <section id="section-id-1489146063457" class="sppb-section  latest_news_col">
+                  <div class="sppb-addon-content">
+                    <div class="sppb-media">
+                      <div class="pull-left">
+                        <div class="sppb-icon"><span class="sppb-icon-container"><i class="fa fa-file-text-o"></i></span></div>
+						</div>
+						<div class="sppb-media-body">
+						<h5 class="sppb-addon-title sppb-feature-box-title sppb-media-heading" style="color:#333333;">18-Jul-2025</h5>
+                          <div class="sppb-addon-text"><div style="text-align: justify;">
+                              <a href="/storage/uploads/News/news1pS4c.pdf" target="_blank">चिकित्सा निदान एक्स-रे सुविधाओं [एक्स-रे रेडियोग्राफी/सीटी-स्कैन/दंत चिकित्सा/मैमोग्राफी] के संबंध में विकिरण संरक्षा चिंताओं पर सलाह </a>                                </div>
+								                                </div>
+								<div class="sppb-empty-space  clearfix" style="padding-bottom: 20px;"></div>
+                                
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                </td></tr>
+                
+
+             
+		<tr><td>
+                <section id="section-id-1489146063457" class="sppb-section  latest_news_col">
+                  <div class="sppb-addon-content">
+                    <div class="sppb-media">
+                      <div class="pull-left">
+                        <div class="sppb-icon"><span class="sppb-icon-container"><i class="fa fa-file-text-o"></i></span></div>
+						</div>
+						<div class="sppb-media-body">
+						<h5 class="sppb-addon-title sppb-feature-box-title sppb-media-heading" style="color:#333333;">09-Jun-2025</h5>
+                          <div class="sppb-addon-text"><div style="text-align: justify;">
+                              <a href="/storage/uploads/News/newswxQy6.pdf" target="_blank">उत्तरी भारत में नाभिकीय चिकित्सा विकिरण सुविधाओं के लिए जागरूकता कार्यक्रम </a>                                </div>
+								                                </div>
+								<div class="sppb-empty-space  clearfix" style="padding-bottom: 20px;"></div>
+                                
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                </td></tr>
+                
+
+             
+		<tr><td>
+                <section id="section-id-1489146063457" class="sppb-section  latest_news_col">
+                  <div class="sppb-addon-content">
+                    <div class="sppb-media">
+                      <div class="pull-left">
+                        <div class="sppb-icon"><span class="sppb-icon-container"><i class="fa fa-file-text-o"></i></span></div>
+						</div>
+						<div class="sppb-media-body">
+						<h5 class="sppb-addon-title sppb-feature-box-title sppb-media-heading" style="color:#333333;">20-May-2025</h5>
+                          <div class="sppb-addon-text"><div style="text-align: justify;">
+                              <a href="/storage/uploads/News/newsGvB8Q.pdf" target="_blank">एईआरबी ने पद्म विभूषण स्वर्गीय डॉ. एम.आर. श्रीनिवासन को श्रद्धांजलि अर्पित की </a>                                </div>
+								                                </div>
+								<div class="sppb-empty-space  clearfix" style="padding-bottom: 20px;"></div>
+                                
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                </td></tr>
+                
+
+                           </tbody>
+            </table>
+
+</div>
+
+<div id="sppb-tab1-3" class="sppb-tab-pane sppb-fade">
+                     <table cellspacing="0" width="100%"  style="width: 100%;">
+              
+              <tbody>
+
+		
+		<tr><td>
+                <section id="section-id-1489146063457" class="sppb-section  latest_news_col">
+                  <div class="sppb-addon-content">
+                    <div class="sppb-media">
+                      <div class="pull-left">
+                        <div class="sppb-icon"><span class="sppb-icon-container"><i class="fa fa-file-text-o"></i></span></div>
+						</div>
+                          <div class="sppb-media-body">
+						<h5 class="sppb-addon-title sppb-feature-box-title sppb-media-heading" style="color:#333333;">09-Jan-2026</h5>
+                                <div class="sppb-addon-text"><div style="text-align: justify;">
+                              <a href="/storage/uploads/News/newsNxCM8.pdf" target="_blank">विख्यात वैज्ञानिक श्री ए. के. बालासुब्रमणियन ने एईआरबी के अध्यक्ष के रूप में कार्यभार संभाला। </a>                                </div>
+									                                </div>
+								<div class="sppb-empty-space  clearfix" style="padding-bottom: 20px;"></div>
+                                
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                </td></tr>
+				  
+		<tr><td>
+                <section id="section-id-1489146063457" class="sppb-section  latest_news_col">
+                  <div class="sppb-addon-content">
+                    <div class="sppb-media">
+                      <div class="pull-left">
+                        <div class="sppb-icon"><span class="sppb-icon-container"><i class="fa fa-file-text-o"></i></span></div>
+						</div>
+                          <div class="sppb-media-body">
+						<h5 class="sppb-addon-title sppb-feature-box-title sppb-media-heading" style="color:#333333;">01-Jan-2023</h5>
+                                <div class="sppb-addon-text"><div style="text-align: justify;">
+                              <a href="/storage/uploads/News/newsx79L5.pdf" target="_blank">श्री दिनेश कुमार शुक्ला ने परमाणु ऊर्जा नियामक परिषद (एईआरबी) की बागडोर संभाली </a>                                </div>
+									                                </div>
+								<div class="sppb-empty-space  clearfix" style="padding-bottom: 20px;"></div>
+                                
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                </td></tr>
+				  
+		<tr><td>
+                <section id="section-id-1489146063457" class="sppb-section  latest_news_col">
+                  <div class="sppb-addon-content">
+                    <div class="sppb-media">
+                      <div class="pull-left">
+                        <div class="sppb-icon"><span class="sppb-icon-container"><i class="fa fa-file-text-o"></i></span></div>
+						</div>
+                          <div class="sppb-media-body">
+						<h5 class="sppb-addon-title sppb-feature-box-title sppb-media-heading" style="color:#333333;">21-Sep-2022</h5>
+                                <div class="sppb-addon-text"><div style="text-align: justify;">
+                              <a href="/storage/uploads/News/news8m9vl.pdf" target="_blank">परमाणु ऊर्जा नियामक परिषद ने पत्रकारों के लिए किया जागरूकता कार्यक्रम </a>                                </div>
+									                                </div>
+								<div class="sppb-empty-space  clearfix" style="padding-bottom: 20px;"></div>
+                                
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                </td></tr>
+				  
+		<tr><td>
+                <section id="section-id-1489146063457" class="sppb-section  latest_news_col">
+                  <div class="sppb-addon-content">
+                    <div class="sppb-media">
+                      <div class="pull-left">
+                        <div class="sppb-icon"><span class="sppb-icon-container"><i class="fa fa-file-text-o"></i></span></div>
+						</div>
+                          <div class="sppb-media-body">
+						<h5 class="sppb-addon-title sppb-feature-box-title sppb-media-heading" style="color:#333333;">22-Jul-2020</h5>
+                                <div class="sppb-addon-text"><div style="text-align: justify;">
+                              <a href="/storage/uploads/News/newsUZl48.pdf" target="_blank">गुजरात के काकरापर स्थित प्रथम 700 MWe दाबित भारी पानी रिएक्टर को प्राप्त हुई क्रिटकैलिटि ! </a>                                </div>
+									                                </div>
+								<div class="sppb-empty-space  clearfix" style="padding-bottom: 20px;"></div>
+                                
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                </td></tr>
+				                </tbody>
+            </table>
+
+</div>
+<div id="sppb-tab1-4" class="sppb-tab-pane sppb-fade">
+                     <table cellspacing="0" width="100%"  style="width: 100%;">
+              
+              <tbody>
+
+		
+		<tr><td>
+                <section id="section-id-1489146063457" class="sppb-section  latest_news_col">
+                  <div class="sppb-addon-content">
+                    <div class="sppb-media">
+                      <div class="pull-left">
+                        <div class="sppb-icon"><span class="sppb-icon-container"><i class="fa fa-file-text-o"></i></span></div>
+						</div>
+                          <div class="sppb-media-body">
+						<h5 class="sppb-addon-title sppb-feature-box-title sppb-media-heading" style="color:#333333;">08-May-2025</h5>
+                                <div class="sppb-addon-text"><div style="text-align: justify;">
+                              <a href="/storage/uploads/News/news3wC5Q.pdf" target="_blank">अलीगढ़ मुस्लिम विश्वविद्यालय में चेयरमैन के संबोधन पर मीडिया रिपोर्ट </a>                                </div>
+									                                </div>
+								<div class="sppb-empty-space  clearfix" style="padding-bottom: 20px;"></div>
+                                
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                </td></tr>
+				                </tbody>
+            </table>
+
+</div>
+</div>
+</div>
+
+</div>
+
+<noscript><strong>JavaScript is currently disabled.</strong>Please enable it for a better experience of <a href="http://2glux.com/projects/jumi">Jumi</a>.</noscript></div></div></div><div id="sppb-addon-1487162454848" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><div class="stick-to-top"><a class="btn btn-outline-primary pull-right" href="/index.php/news-hi">और पढ़ें</a></div></div></div></div><div id="sppb-addon-1494928923613" class="clearfix" ><div class="sppb-empty-space  clearfix"></div></div></div></div></div><div class="sppb-col-md-4"><div id="column-id-1487138353645" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1754648026363" class="sppb-wow zoomIn clearfix"  data-sppb-wow-duration="300ms" data-sppb-wow-delay="6ms" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><div style="text-align: center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img class="pull-left" src="/images/2026/01/06/akb.jpg" alt="" width="80" height="87" />&nbsp;&nbsp; <br /><span style="font-size: 18pt;"><strong><a href="/index.php/hindi/chairperson-talks-hindi" target="_blank" rel="noopener noreferrer">अध्यक्ष द्वारा वार्ताएँ</a></strong></span></div></div></div></div><div id="sppb-addon-1766550147041" class="clearfix" ><div class="sppb-divider sppb-divider-border "></div></div><div id="sppb-addon-1487250525669" class="clearfix" ><div class="sppb-empty-space  clearfix"></div></div><div id="sppb-addon-1750063635146" class="clearfix" ><div class="sppb-empty-space  clearfix"></div></div><div id="sppb-addon-1487250525666" class="clearfix" ><div class="sppb-addon sppb-addon-raw-html "><div class="sppb-addon-content"><div class="events small">
+  <!-- <article class="event">
+    <figure class="date">
+      <div class="month"><img alt="elora" src="/images/elora-1.png"> </div>
+    </figure>
+    <aside>
+      <header>
+        <a title="elora" href="/index.php/elora" target="_blank"> ई-लोरा  </a>
+        <p>Go directly to Elora System</p>
+      </header>
+    </aside>
+  </article> -->
+<article class="event">
+    <figure class="date" style="">
+      <div class="month"><img alt="Nuclear Facilities " src="/images/Nuclear_power_plant.png">/</div>
+    </figure>
+    <aside>
+      <header>
+        <a href="/index.php/hindi/facilities-activities-hi" title="Nuclear Facilities ">
+परमाणु सुविधाएं</a>
+      </header>     
+    </aside>
+  </article>
+
+<article class="event">
+    <figure class="date" style="">
+      <div class="month"><img alt="Radiation Facilities" src="/images/ct-scanner.png">/</div>
+    </figure>
+    <aside>
+      <header>
+        <a href="/index.php/hindi/facilities-activities-hi/radi-facility" title="Radiation Facilities">विकिरण सुविधाएं</a>
+      </header>     
+    </aside>
+  </article>
+
+
+<article class="event">
+    <figure class="date" style="">
+      <div class="month"><img alt="Nuclear Fuel Cycle Facilities" src="/images/uranium-mines.png">/</div>
+    </figure>
+    <aside>
+      <header>
+        <a href="/index.php/hindi/facilities-activities-hi/nfcf-hi" title="Nuclear Fuel Cycle Facilities">परमाणु ईंधन चक्र सुविधाएं</a>
+      </header>     
+    </aside>
+  </article>
+  
+
+
+  <article class="event">
+    <figure class="date">
+      <div class="month"><img alt="Public Awareness" src="/images/public_aware.png"> </div>
+    </figure>
+    <aside>
+      <header>
+        <a title="Public Awareness"  href="/index.php/public-awareness-hi">जन जागरुकता </a>
+      </header>
+    </aside>
+  </article>
+
+
+
+  <article class="event">
+    <figure class="date">
+      <div class="month"><img alt="International activities" src="/images/intl_activity.png"></div>
+    </figure>
+    <aside>
+      <header>
+        <a href="/index.php/intnl-actv-hi" title="International activities">अंतर्राष्ट्रीय गतिविधियाँ </a>
+      </header>
+    </aside>
+  </article>
+
+
+    <!--article class="event">
+    <figure class="date">
+      <div class="month"><img alt="Knowledege corner"  src="/images/knowledge_corner-2.png"></div>
+    </figure>
+    <aside>
+      <header>
+        <a href="#">ज्ञान क्षेत्र</a>        
+      </header>
+      <ul class="trans">
+      <li><a href="/index.php/knowledge-corner-hi/student-hi"> छात्र</a></li>
+      <li><a href="/index.php/knowledge-corner-hi/profesional-hi">प्रोफेशनल</a></li>
+      </ul>
+    </aside>
+  </article-->
+
+
+ <!-- <article class="event">
+    <figure class="date">"index.php/elora
+      <div class="month"><img alt="Safety research programme" src="/images/safety_research.png">/</div>
+    </figure>
+
+    <aside>
+      <header>
+        <a href="/index.php/safety-research-programme" title="Safety research programme">संरक्षा अनुसंधान कार्यक्रम </a>
+      </header>
+    </aside>
+  </article>-->
+
+
+
+  <article class="event">
+    <figure class="date">
+      <div class="month"><img alt="Transparency – open government" src="/images/transparency.png">/</div>
+   </figure>
+    <aside>
+      <header>
+        <a href="#" title="Transparency – open government">पारदर्शिता-स्पष्ट सरकार </a>
+      </header>
+      <ul class="trans">
+      <li><a href="#">सूचना का अधिकार </a></li>
+      <li><a href="#">सतर्कता </a></li>
+      <li><a href="#">लोक शिकायत </a></li>
+      </ul>
+    </aside>
+  </article>
+
+<!--<ul class="list-links">
+        <li><a href="#"> Public awareness</a></li>
+        <li><a href="#">International activities</a></li>
+        <li><a href="#">Knowledge corne</a></li>
+        <li><a href="#">Safety research programme</a></li>
+        <li><a href="#"> Safety promotional activities</a></li>
+        <li><a href="#"> Transparency – open government</a></li>
+        </ul>-->
+
+</div>
+
+</div></div></div></div></div></div></div></div></section><section id="section-id-1495190406899" class="sppb-section  First_blocks"  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1495184505184" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6"><div id="column-id-1495184505185" class="sppb-column home_block" ><div class="sppb-column-addons"><div id="sppb-addon-1495184505193" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="#"><img class="sppb-img-responsive" src="/images/2017/05/12/licence.jpg" alt="Safety in Medical Diagnostic X-Rays"></a></div></div></div></div><div id="sppb-addon-1495184505196" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><div class="slide-desc" style="bottom: 0%; left: 0%; width: 100%;">
+<div class="slide-desc-in">
+<div class="slide-desc-text slide-desc-text-default">
+<div class="slide-title">मेडिकल डायग्नोस्टिक एक्स-रे में सुरक्षा</div>
+<div class="pull-right home_bk_btn"><a class="btn btn-outline-primary" href="#">विवरण देखें</a></div>
+</div>
+</div>
+</div></div></div></div></div></div></div><div class="sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6"><div id="column-id-1495184505186" class="sppb-column home_block" ><div class="sppb-column-addons"><div id="sppb-addon-1495184505207" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/index.php/radiation-protection-principle-hi"><img class="sppb-img-responsive" src="/images/Radiation-Protection-Principles1.jpg" alt="Radiation Protection Principle"></a></div></div></div></div><div id="sppb-addon-1495184505214" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><div class="slide-desc" style="bottom: 0%; left: 0%; width: 100%;">
+<div class="slide-desc-in">
+<div class="slide-desc-text slide-desc-text-default">
+<div class="slide-title"><a href="/index.php/radiation-protection-principle-hi">विकिरणीय संरक्षा सिद्धांत</a></div>
+<div class="pull-right home_bk_btn"><a class="btn btn-outline-primary" href="/index.php/radiation-protection-principle-hi">विवरण देखें</a></div>
+</div>
+</div>
+</div></div></div></div></div></div></div><div class="sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6"><div id="column-id-1495184505187" class="sppb-column home_block" ><div class="sppb-column-addons"><div id="sppb-addon-1495184505217" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/index.php/hindi/myths-facts-about-radiation-hi"><img class="sppb-img-responsive" src="/images/MythsandFacts1.jpg" alt="Myths & Facts about radiation"></a></div></div></div></div><div id="sppb-addon-1495184505232" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><div class="slide-desc" style="bottom: 0%; left: 0%; width: 100%;">
+<div class="slide-desc-in">
+<div class="slide-desc-text slide-desc-text-default">
+<div class="slide-title"><a href="/index.php/hindi/myths-facts-about-radiation-hi">विकिरण के बारे में भ्रांतियां व तथ्&zwj;य</a></div>
+<div class="pull-right home_bk_btn"><a class="btn btn-outline-primary" href="/index.php/hindi/myths-facts-about-radiation-hi">विवरण देखें</a></div>
+</div>
+</div>
+</div></div></div></div></div></div></div><div class="sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6"><div id="column-id-1495184505188" class="sppb-column home_block" ><div class="sppb-column-addons"><div id="sppb-addon-1495184505237" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/index.php/hindi/background-natural-radiation-hi"><img class="sppb-img-responsive" src="/images/Background_Natural_Radiation1.jpg" alt="पृष्ठभूमि पर प्राकृतिक विकिरण"></a></div></div></div></div><div id="sppb-addon-1495184505244" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><div class="slide-desc" style="bottom: 0%; left: 0%; width: 100%;">
+<div class="slide-desc-in">
+<div class="slide-desc-text slide-desc-text-default">
+<div class="slide-title"><a href="/index.php/hindi/background-natural-radiation-hi">पृष्ठभूमि पर प्राकृतिक विकिरण</a></div>
+<div class="pull-right home_bk_btn"><a class="btn btn-outline-primary" href="/index.php/hindi/background-natural-radiation-hi">विवरण देखें</a></div>
+</div>
+</div>
+</div></div></div></div></div></div></div><div class="sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6"><div id="column-id-1495184505189" class="sppb-column home_block sppb-hidden-sm sppb-hidden-xs" ><div class="sppb-column-addons"><div id="sppb-addon-1495184505251" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/index.php/hindi/radiation-measurement-techniques-hi"><img class="sppb-img-responsive" src="/images/RADIATION-MEASUREMENT-TECHNIQUES1.jpg" alt="विकिरण संसूचन एवं मापन तकनीकें"></a></div></div></div></div><div id="sppb-addon-1495184505256" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><div class="slide-desc" style="bottom: 0%; left: 0%; width: 100%;">
+<div class="slide-desc-in">
+<div class="slide-desc-text slide-desc-text-default">
+<div class="slide-title"><a href="/index.php/hindi/radiation-measurement-techniques-hi">विकिरण संसूचन एवं मापन तकनीकें</a></div>
+<div class="pull-right home_bk_btn"><a class="btn btn-outline-primary" href="/index.php/hindi/radiation-measurement-techniques-hi">विवरण देखें</a></div>
+</div>
+</div>
+</div></div></div></div></div></div></div><div class="sppb-col-md-1"><div id="column-id-1495184505190" class="sppb-column" ><div class="sppb-column-addons"></div></div></div></div></div></section><section id="section-id-1495190406902" class="sppb-section  First_blocks"  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1495184505260" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6"><div id="column-id-1495184505261" class="sppb-column home_block" ><div class="sppb-column-addons"><div id="sppb-addon-1495184505262" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/index.php/hindi/radiation-symbol-hi"><img class="sppb-img-responsive" src="/images/2017/05/12/rs1_rsz.jpg" alt="Radiation symbol View Details"></a></div></div></div></div><div id="sppb-addon-1495184505263" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><div class="slide-desc" style="bottom: 0%; left: 0%; width: 100%;">
+<div class="slide-desc-in">
+<div class="slide-desc-text slide-desc-text-default">
+<div class="slide-title"><a href="/index.php/hindi/radiation-symbol-hi">विकिरण चिन्ह</a></div>
+<div class="pull-right home_bk_btn"><a class="btn btn-outline-primary" href="/index.php/hindi/radiation-symbol-hi"> विवरण देखें</a></div>
+</div>
+</div>
+</div></div></div></div></div></div></div><div class="sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6"><div id="column-id-1495184505264" class="sppb-column home_block" ><div class="sppb-column-addons"><div id="sppb-addon-1495184505265" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/hindi/gallery-hindi"><img class="sppb-img-responsive" src="/images/VIDEO-CLIPS1.jpg" alt="Media Center"></a></div></div></div></div><div id="sppb-addon-1495184505266" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><div class="slide-desc" style="bottom: 0%; left: 0%; width: 100%;">
+<div class="slide-desc-in">
+<div class="slide-desc-text slide-desc-text-default">
+<div class="slide-title"><a href="/hindi/gallery-hindi">फोटो गैलरी</a></div>
+<div class="pull-right home_bk_btn"><a class="btn btn-outline-primary" href="/hindi/gallery-hindi">विवरण देखें</a></div>
+</div>
+</div>
+</div></div></div></div></div></div></div><div class="sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6"><div id="column-id-1495184505267" class="sppb-column home_block" ><div class="sppb-column-addons"><div id="sppb-addon-1495184505268" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/index.php/hindi/awareness-programmes-hi"><img class="sppb-img-responsive" src="/images/2019/03/19/awareness-prog_thumbnail.jpg" alt="Awareness Programmes"></a></div></div></div></div><div id="sppb-addon-1495184505269" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><div class="slide-desc" style="bottom: 0%; left: 0%; width: 100%;">
+<div class="slide-desc-in">
+<div class="slide-desc-text slide-desc-text-default">
+<div class="slide-title"><a href="/index.php/hindi/awareness-programmes-hi">जागरूकता कार्यक्रम</a></div>
+<div class="pull-right home_bk_btn"><a class="btn btn-outline-primary" href="/index.php/hindi/awareness-programmes-hi">विवरण देखें</a></div>
+</div>
+</div>
+</div></div></div></div></div></div></div><div class="sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6"><div id="column-id-1495184505270" class="sppb-column home_block" ><div class="sppb-column-addons"><div id="sppb-addon-1495184505271" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/index.php/hindi/rso-training-hi"><img class="sppb-img-responsive" src="/images/RSO-TRAINING1.jpg" alt="rso TRAINIG"></a></div></div></div></div><div id="sppb-addon-1495184505272" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><div class="slide-desc" style="bottom: 0%; left: 0%; width: 100%;">
+<div class="slide-desc-in">
+<div class="slide-desc-text slide-desc-text-default">
+<div class="slide-title"><a href="/index.php/hindi/rso-training-hi">आरएसओ प्रशिक्षण</a></div>
+<div class="pull-right home_bk_btn"><a class="btn btn-outline-primary" href="/index.php/hindi/rso-training-hi">विवरण देखें</a></div>
+</div>
+</div>
+</div></div></div></div></div></div></div><div class="sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6"><div id="column-id-1495184505273" class="sppb-column home_block sppb-hidden-sm sppb-hidden-xs" ><div class="sppb-column-addons"><div id="sppb-addon-1495184505274" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/hindi/aerb-advertisement-hi"><img class="sppb-img-responsive" src="/images/AERB-ADVERTISEMENT1.jpg" alt="AERB Advertisement"></a></div></div></div></div><div id="sppb-addon-1495184505275" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><div class="slide-desc" style="bottom: 0%; left: 0%; width: 100%;">
+<div class="slide-desc-in">
+<div class="slide-desc-text slide-desc-text-default">
+<div class="slide-title"><a href="/hindi/aerb-advertisement-hi">एईआरबी के विज्ञापन</a></div>
+<div class="pull-right home_bk_btn"><a class="btn btn-outline-primary" href="/hindi/aerb-advertisement-hi">विवरण देखें</a></div>
+</div>
+</div>
+</div></div></div></div></div></div></div><div class="sppb-col-md-1"><div id="column-id-1495184505276" class="sppb-column" ><div class="sppb-column-addons"></div></div></div></div></div></section><section id="section-id-1495190406905" class="sppb-section  First_blocks"  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1495187364588" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6"><div id="column-id-1495187364595" class="sppb-column home_block sppb-hidden-md sppb-hidden-lg" ><div class="sppb-column-addons"><div id="sppb-addon-1495187364594" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="#"><img class="sppb-img-responsive" src="/images/RADIATION-MEASUREMENT-TECHNIQUES1.jpg" alt="Radiation Measurement Techniques"></a></div></div></div></div><div id="sppb-addon-1495187364591" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><div class="slide-desc" style="bottom: 0%; left: 0%; width: 100%;">
+<div class="slide-desc-in">
+<div class="slide-desc-text slide-desc-text-default">
+<div class="slide-title"><a href="#">Radiation Measurement Techniques</a></div>
+<div class="pull-right home_bk_btn"><a class="btn btn-outline-primary" href="#">View Details</a></div>
+</div>
+</div>
+</div></div></div></div></div></div></div><div class="sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6"><div id="column-id-1495187364596" class="sppb-column home_block sppb-hidden-md sppb-hidden-lg" ><div class="sppb-column-addons"><div id="sppb-addon-1495187364606" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="#"><img class="sppb-img-responsive" src="/images/AERB-ADVERTISEMENT1.jpg" alt="AERB Advertisement"></a></div></div></div></div><div id="sppb-addon-1495187364603" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><div class="slide-desc" style="bottom: 0%; left: 0%; width: 100%;">
+<div class="slide-desc-in">
+<div class="slide-desc-text slide-desc-text-default">
+<div class="slide-title"><a href="#">AERB Advertisement</a></div>
+<div class="pull-right home_bk_btn"><a class="btn btn-outline-primary" href="#">View Details</a></div>
+</div>
+</div>
+</div></div></div></div></div></div></div><div class="sppb-col-md-2"><div id="column-id-1495187364597" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-2"><div id="column-id-1495187364598" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-2"><div id="column-id-1495187364599" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-1"><div id="column-id-1495187364600" class="sppb-column" ><div class="sppb-column-addons"></div></div></div></div></div></section><section id="section-id-1487250525662" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12"><div id="column-id-1487250525663" class="sppb-column" ><div class="sppb-column-addons"></div></div></div></div></div></section>			</div>
+</div>
+</div></div></div></section><section id="sp-section-7"><div class="container"><div class="row"><div id="sp-visit-count" class="col-sm-4 col-md-4"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div>विजिटर काउण्ट :<strong> 2739610</strong></div>
+<noscript><strong>JavaScript is currently disabled.</strong>Please enable it for a better experience of <a href="http://2glux.com/projects/jumi">Jumi</a>.</noscript></div></div></div></div><div id="sp-last-update" class="col-sm-8 col-md-8"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<div><span>Last updated date:<span class="datefl"></span></span></div>
+<script type="text/javascript">
+  jQuery(document).ready(function () {
+
+    function parseISO8601(dateStringInRange) {
+   var isoExp = /(\d+)-(\d+)-(\d+) (\d+):(\d+):(\d+)/,///^\s*(\d{4})-(\d\d)-(\d\d)\s*$/,
+       date = new Date(NaN), month,
+       parts = isoExp.exec(dateStringInRange);
+       console.log(parts);
+
+   if(parts) {
+     month = +parts[2];
+     var date = new Date(parts[1], month, parts[3], parts[4], parts[5], parts[6]);
+    // date.setFullYear(parts[1], month - 1, parts[3], parts[4], parts[5], parts[6]);
+    /* if(month != date.getMonth() + 1) {
+       date.setTime(NaN);
+     }*/
+   }
+   return date;
+ }
+if (jQuery(".sp-page-builder").length > 0) {
+clas=jQuery('.sp-page-builder').attr('class');
+clas=clas.split(" ");
+clas=clas[2];
+clas=clas.split("-");
+class_name=clas[1];
+class_name="="+class_name;
+datastring="class_name="+class_name;
+jQuery.ajax({
+type:'POST',
+url:'/components/com_jumi/files/Last_update.php',
+data:datastring,
+success:function(res)
+{
+//console.log(res);
+//res=JSON.parse(res);
+/*modified_date=res[0]['modified'];
+//console.log(modified_date);
+Update_dt=parseISO8601(modified_date);
+//console.log(Update_dt);
+month=Update_dt.getMonth();
+date=Update_dt.getDate();
+year=Update_dt.getFullYear();
+hour=Update_dt.getHours();
+minute=Update_dt.getMinutes();
+seconds=Update_dt.getSeconds();
+str=""+date+"-"+month+"-"+year+" "+hour+":"+minute+":"+seconds;*/
+jQuery(".datefl").html(res);
+
+},
+error:function(res)
+{
+console.log(res);
+}
+});
+}
+});
+</script>
+</div>
+</div></div></div></div></div></div></section><section id="sp-section-8" class="sp-section-7"><div class="container"><div class="row"><div id="sp-bot1" class="col-sm-4 col-md-4"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class=" jPanelModule"  >
+	<div id="jPanel_145" data-jpanel-side="right" class="jPanel">
+	
+		<div class="jpanelContent">
+	<div><h2>Color switch</h2><ul class="helix3-presets clearfix">
+<li class="themeclass white" style="background-color: #000"  title="black"></li>
+<li class="themeclass black" style="background-color: #fff"  title="white"></li>
+</ul></div>			</div>
+		
+		<div style="margin: 0;" class="jpanelHandle"><p><p>&nbsp;</p></p></div>
+		</div>
+</div></div></div><div class="sp-module "><h3 class="sp-module-title">अक्सर देखे गए</h3><div class="sp-module-content"><ul class='nav menu'></ul><noscript><strong>JavaScript is currently disabled.</strong>Please enable it for a better experience of <a href="http://2glux.com/projects/jumi">Jumi</a>.</noscript></div></div></div></div><div id="sp-bot2" class="col-sm-4 col-md-4"><div class="sp-column "><div class="sp-module FontSize_cust_cls"><div class="sp-module-content"><div class="jfontsize">
+	<a class="jfontsize-button" id="jfontsize-minus">A-</a>
+	<a class="jfontsize-button" id="jfontsize-default">A</a>
+	<a class="jfontsize-button" id="jfontsize-plus">A+</a>
+</div></div></div><div class="sp-module "><h3 class="sp-module-title">स्पॉट लाइट </h3><div class="sp-module-content"><ul class="nav menu">
+<li class="item-1011"><a href="/hindi/conv-nuclear-safety-hi" > परमाणु सुरक्षा पर कन्वेंशन</a></li><li class="item-948 parent"><a href="/hindi/2017-05-05-14-21-49" >अद्यतन घटनाएँ </a></li><li class="item-950 parent"><a href="#" >एईआरबी की गतिविधियाँ </a></li><li class="item-945 parent"><a href="/hindi/insutry-fire-safety-hi" >औद्योगिक और अग्नि सुरक्षा</a></li><li class="item-1019 parent"><a href="/hindi/safety-prom-actv-hi" >सुरक्षा प्रोमोशनल गतिविधियों</a></li></ul>
+</div></div></div></div><div id="sp-bot3" class="col-sm-4 col-md-4"><div class="sp-column "><div class="sp-module "><h3 class="sp-module-title">कार्यालय का पता </h3><div class="sp-module-content">
+
+<div class="custom"  >
+	<p style="  width: 10%; float: left; margin-top: 0%;"><i class="fa fa-map-marker" ></i></p>
+<p style="float: left;width: 90%;padding: 0px;">परमाणु ऊर्जा नियामक परिषद,
+ नियामक भवन अणुशक्तिनगर,,
+मुंबई 400094, भारत,
+</p>
+<p style="  width: 10%; float: left; margin-top: 0%;"><i class="fa fa-clock-o" ></i></p>
+<p style="float: left;width: 90%;padding: 0px;">कार्य का समय 
+</br>
+9:15 से 17:45 – सोमवार से शुक्रवार</p>
+<p style="  width: 10%; float: left; margin-top: 0%;"><i class="fa fa-calendar" ></i></p>
+<p style="float: left;width: 90%;padding: 0px;"><a href="/images/PDF/holidays2026.pdf" target="_blank">वर्ष  के सार्वजनिक अवकाशों की सूची</a></p></div>
+</div></div></div></div></div></div></section><section id="sp-section-9" class="sp-section-8"><div class="container"><div class="row"><div id="sp-logos" class="col-sm-12 col-md-12"><div class="sp-column "><div class="sp-module logos"><div class="sp-module-content">
+
+<div class="customlogos"  >
+	<div class="row">
+<div class="logos">
+
+        	<div class="logo   sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6 external_url"><a target="_blank" href="https://india.gov.in">
+
+	            <img  src="/images/india-2.png" title="india.gov.in" alt="https://india.gov.in">
+
+	        </a></div>
+
+
+
+<div class="logo   sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6 external_url"><a target="_self" href="http://goidirectory.gov.in/index.php">
+<img src="/images/GOI.png" title="GOI Web Directory"></a></div>
+
+
+        	<div class="logo   sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6 external_url"><a target="_blank" href="http://www.nvsp.in">
+
+	            <img src="/images/nvsp3-1.png" title="www.nvsp.in" alt="www.nvsp.in">
+
+	        </a></div>
+
+
+
+
+        	<div class="logo   sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6  external_url"><a target="_blank" href="http://www.pgportal.gov.in/">
+
+	            <img src="/images/PDF/pgportal2.jpg" title="pgportal.gov.in" alt="pgportal.gov.in">
+
+	        </a></div>
+
+
+
+					
+
+
+
+					<div class="logo   sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6  external_url"><a target="_blank" href="http://www.pensionersportal.gov.in/" >
+
+	            <img src="/images/pensioner.png" title="pensionr's portal" alt="http://www.pensionersportal.gov.in/">
+
+	        </a></div>
+
+
+
+					<div class="logo   sppb-col-md-2 sppb-col-sm-3 sppb-col-xs-6 external_url"><a target="_blank" href="http://www.myGov.in">
+
+	            <img src="/images/myGOV.png" title="myGov.in" alt="http://www.myGov.in">
+
+	        </a></div>
+
+
+
+    </div>
+    </div></div>
+</div></div></div></div></div></div></section><section id="sp-section-10" class="sp-section-9"><div class="container"><div class="row"><div id="sp-menu-bot" class="col-sm-12 col-md-12"><div class="sp-column "><div class="sp-module bottom_menu"><div class="sp-module-content"><ul class="nav menu">
+<li class="item-960"><a href="/hindi/sitemap-hi" >साइटमैप</a></li><li class="item-961"><a href="/hindi/disclaimer-hi" >डिस्क्लेमर</a></li><li class="item-962"><a href="/hindi/privacy-policy-hi" >निजता नीति</a></li><li class="item-963"><a href="/hindi/terms-of-use-hi" >प्रयोग की शर्तें</a></li><li class="item-965"><a href="/hindi/web-glossery-hi" >वेबसाइट शब्दावली</a></li><li class="item-966"><a href="/hindi/useful-link-hi" >महत्वपूर्ण लिंक</a></li><li class="item-967"><a href="/hindi/library-hi" >पुस्तकालय</a></li><li class="item-968"><a href="/hindi/news-hi" >समाचार</a></li><li class="item-969"><a href="/hindi/cookies-policy-hi" > कुकीज़ नीति</a></li></ul>
+</div></div></div></div></div></div></section><footer id="sp-footer"><div class="container"><div class="row"><div id="sp-footer1" class="col-sm-12 col-md-12"><div class="sp-column "><div class="sp-module designed"><div class="sp-module-content">
+
+<div class="customdesigned"  >
+	डिजाइन और विकसित <a href="http://mindspacetech.com/aerb.html" target="_blank"> माइन्डस्पेस टेक्नोलॉजी</a>द्वारा </div>
+</div></div><span class="sp-copyright"> © कॉपीराइट 2017 - @ एईआरबी, सर्वाधिकार सुरक्षित </span></div></div></div></div></footer>
+        <div class="offcanvas-menu">
+            <a href="#" class="close-offcanvas" title="close-offcanvas"><i class="fa fa-remove"></i></a>
+            <div class="offcanvas-inner">
+                                    <div class="sp-module "><div class="sp-module-content"><ul class="nav menu">
+<li class="item-904 deeper parent"><a href="/hindi/about-us-hi" >हमारे बारे में</a><span class="offcanvas-menu-toggler collapsed"  role="menu" data-toggle="collapse" data-target="#collapse-menu-904" aria-expanded="false" aria-controls="collapse-menu-904"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span><ul class="collapse" id="collapse-menu-904"><li class="item-910"><a href="/hindi/about-us-hi/chairman-s-desk-hi" >अध्यक्ष की डेस्क</a></li><li class="item-913"><a href="/hindi/about-us-hi/constitution-order-hi" >संविधान आदेश </a></li><li class="item-914"><a href="/hindi/about-us-hi/functions-of-aerb-hi" >एईआरबी के कार्य</a></li><li class="item-990"><a href="/hindi/about-us-hi/theboard-hi" >बोर्ड</a></li><li class="item-915"><a href="/hindi/about-us-hi/organization-chart-hi" >संगठन चार्ट</a></li><li class="item-916"><a href="/hindi/about-us-hi/divisions-hi" >प्रभाग</a></li><li class="item-1144"><a href="/images/PDF/IMS_Hindi.pdf" target="_blank" >एकीकृत प्रबंधि प्रणाली</a></li><li class="item-918 deeper parent"><a href="/hindi/about-us-hi/sri-hi" >संरक्षा अनुसंधान संस्थान</a><span class="offcanvas-menu-toggler collapsed"  role="menu" data-toggle="collapse" data-target="#collapse-menu-918" aria-expanded="false" aria-controls="collapse-menu-918"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span><ul class="collapse" id="collapse-menu-918"><li class="item-919"><a href="/hindi/about-us-hi/sri-hi/about-sri" >About SRI</a></li><li class="item-920"><a href="/hindi/about-us-hi/sri-hi/directors-sri-hi" >संरक्षा अनुसंधान संस्थान के निदेशक</a></li><li class="item-921 deeper parent"><a href="/hindi/about-us-hi/sri-hi/area-of-research-hi" >अनुसंधान के क्षेत्र</a><span class="offcanvas-menu-toggler collapsed"  role="menu" data-toggle="collapse" data-target="#collapse-menu-921" aria-expanded="false" aria-controls="collapse-menu-921"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span><ul class="collapse" id="collapse-menu-921"><li class="item-922"><a href="/hindi/about-us-hi/sri-hi/area-of-research-hi/nss-hi" >नाभिकीय संरक्षा अध्ययन </a></li><li class="item-923"><a href="/hindi/about-us-hi/sri-hi/area-of-research-hi/psas-hi" >संभाव्यता संरक्षा आकलन अध्ययन</a></li><li class="item-924"><a href="/hindi/about-us-hi/sri-hi/area-of-research-hi/remote-sensing-and-gis-studies" >सुदूर संवेदन एवं जीआईएस अध्ययन</a></li><li class="item-925"><a href="/hindi/about-us-hi/sri-hi/area-of-research-hi/engineering-safety-studies" >इंजीनियरिंग संरक्षा अध्ययन</a></li><li class="item-926"><a href="/hindi/about-us-hi/sri-hi/area-of-research-hi/environment-safety-fuel-chemistry-studies" >पर्यावरण संरक्षा एवं ईंधन रसायन अध्ययन</a></li></ul></li><li class="item-927"><a href="/hindi/about-us-hi/sri-hi/research-laboratories-engineering-hall" >अनुसंधान प्रयोगशालाएँ एवं इंजीनियरिंग हॉल</a></li><li class="item-929"><a href="/hindi/about-us-hi/sri-hi/seminars-conf-work-hi" >Seminars / Conferences / Workshops </a></li><li class="item-930"><a href="/hindi/about-us-hi/sri-hi/vod-hi" >गणमान्य व्यक्तियों का दौरा </a></li><li class="item-931"><a href="/hindi/about-us-hi/sri-hi/about-publications-hi" >Publications</a></li></ul></li><li class="item-935"><a href="/hindi/about-us-hi/rrc" >क्षेत्रीय नियामक केंद्र</a></li></ul></li><li class="item-905 deeper parent"><a href="/hindi/reg-proc" >नियामक प्रक्रिया</a><span class="offcanvas-menu-toggler collapsed"  role="menu" data-toggle="collapse" data-target="#collapse-menu-905" aria-expanded="false" aria-controls="collapse-menu-905"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span><ul class="collapse" id="collapse-menu-905"><li class="item-972"><a href="/hindi/reg-proc/document-dev-hi" > दस्तावेज़ विकास</a></li><li class="item-1092"><a href="/hindi/reg-proc/safety-review-hi" >संरक्षा समीक्षा एवं आकलन </a></li><li class="item-940"><a href="/hindi/reg-proc/licensing" >लाइसेंसिंग</a></li><li class="item-941"><a href="/hindi/reg-proc/reg-ins-hi" >नियामक निरीक्षण</a></li><li class="item-942"><a href="/hindi/reg-proc/enforcement-hi" >प्रवर्तन</a></li></ul></li><li class="item-906 deeper parent"><a href="/hindi/facilities-activities-hi" >नियामक सुविधाएँ</a><span class="offcanvas-menu-toggler collapsed"  role="menu" data-toggle="collapse" data-target="#collapse-menu-906" aria-expanded="false" aria-controls="collapse-menu-906"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span><ul class="collapse" id="collapse-menu-906"><li class="item-944"><a href="/hindi/facilities-activities-hi/npp-hi" >नाभिकीय ऊर्जा परियोजनाएँ </a></li><li class="item-947"><a href="/hindi/facilities-activities-hi/nuclear-pp-hi" >नाभिकीय ऊर्जा संयंत्र </a></li><li class="item-949"><a href="/hindi/facilities-activities-hi/nfcf-hi" >नाभिकीय ईंधन चक्र सुविधाएँ </a></li><li class="item-951"><a href="/hindi/facilities-activities-hi/industrial-rd-facilities-hi" >औद्योगिक एवं अनुसंधान एवं विकास गतिविधियाँ</a></li><li class="item-952 deeper parent"><a href="/hindi/facilities-activities-hi/radi-facility" >विकिरण सुविधाएँ </a><span class="offcanvas-menu-toggler collapsed"  role="menu" data-toggle="collapse" data-target="#collapse-menu-952" aria-expanded="false" aria-controls="collapse-menu-952"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span><ul class="collapse" id="collapse-menu-952"><li class="item-1089 deeper parent"><a href="#" >उद्योग में आवेदन</a><span class="offcanvas-menu-toggler collapsed" role="menu"  data-toggle="collapse" data-target="#collapse-menu-1089" aria-expanded="false" aria-controls="collapse-menu-1089"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span><ul class="collapse" id="collapse-menu-1089"><li class="item-1093"><a href="/hindi/facilities-activities-hi/radi-facility/application-industry/radiation-processing-hi" >विकिरण संसाधन सुविधायें </a></li><li class="item-1094"><a href="/hindi/facilities-activities-hi/radi-facility/application-industry/industrial-radiography-hi" >औद्योगिक रेडियोग्राफी</a></li><li class="item-1095"><a href="/hindi/facilities-activities-hi/radi-facility/application-industry/nucleonic-gauge-hi" >न्‍यूक्लियानिक गेज</a></li><li class="item-1096"><a href="/hindi/facilities-activities-hi/radi-facility/application-industry/well-loggin-hi" >कूप लागिंग सुविधायें</a></li></ul></li><li class="item-1090 deeper parent"><a href="#" >चिकित्सा में आवेदन</a><span class="offcanvas-menu-toggler collapsed" role="menu"  data-toggle="collapse" data-target="#collapse-menu-1090" aria-expanded="false" aria-controls="collapse-menu-1090"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span><ul class="collapse" id="collapse-menu-1090"><li class="item-1097"><a href="/hindi/facilities-activities-hi/radi-facility/application-medicine/radiotheraphy-hi" >रेडियोथेरेपी</a></li><li class="item-1098"><a href="/hindi/facilities-activities-hi/radi-facility/application-medicine/nuclear-medicine-hi" >नाभिकीय औषध</a></li><li class="item-1099"><a href="/hindi/facilities-activities-hi/radi-facility/application-medicine/diagnostic-radiology-hi" >नैदानिक रेडियोलाजी </a></li><li class="item-1100"><a href="/hindi/facilities-activities-hi/radi-facility/application-medicine/blood-irriadators-hi" >रक्‍त किरणक</a></li><li class="item-1101"><a href="/hindi/facilities-activities-hi/radi-facility/application-medicine/medical-cyclotron" >Medical Cyclotron</a></li></ul></li><li class="item-1091 deeper parent"><a href="#" >अनुसंधान में आवेदन</a><span class="offcanvas-menu-toggler collapsed" role="menu"  data-toggle="collapse" data-target="#collapse-menu-1091" aria-expanded="false" aria-controls="collapse-menu-1091"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span><ul class="collapse" id="collapse-menu-1091"><li class="item-1102"><a href="/hindi/facilities-activities-hi/radi-facility/application-research/research-acceletors-hi" >अनुसंधान त्‍वरक</a></li><li class="item-1103"><a href="/hindi/facilities-activities-hi/radi-facility/application-research/sealed-unsealed-hi" >सीलबंद व खुले रेडियोसक्रिय पदार्थों का प्रयोग करने वाली सुविधायें </a></li><li class="item-1104"><a href="/hindi/facilities-activities-hi/radi-facility/application-research/gamma-irridation-hi" >गामा किरणन कक्ष</a></li></ul></li><li class="item-1105 deeper parent"><a href="#" >मान्यता प्राप्त प्रयोगशालाएं</a><span class="offcanvas-menu-toggler collapsed" role="menu"  data-toggle="collapse" data-target="#collapse-menu-1105" aria-expanded="false" aria-controls="collapse-menu-1105"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span><ul class="collapse" id="collapse-menu-1105"><li class="item-1106"><a href="/hindi/facilities-activities-hi/radi-facility/recognised-laboratories-hi/recognition-of-calibration-hi" >अंशांकन प्रयोगशालाओं को मान्‍यता </a></li></ul></li><li class="item-1107"><a href="/hindi/facilities-activities-hi/radi-facility/consumer-products-hi" >उपभोक्‍ता उत्‍पाद एवं स्‍कैनिंग सुविधायें </a></li></ul></li><li class="item-1069"><a href="/hindi/facilities-activities-hi/2017-05-29-13-15-40" >रेडियोएक्टिव पदार्थों का परिवहन</a></li><li class="item-1070"><a href="/hindi/facilities-activities-hi/2017-05-29-13-16-18" >रेडियोएक्टिव अपशिष्ट प्रबंधन</a></li></ul></li><li class="item-907 deeper parent"><a href="#" >प्रकाशन</a><span class="offcanvas-menu-toggler collapsed" role="menu"  data-toggle="collapse" data-target="#collapse-menu-907" aria-expanded="false" aria-controls="collapse-menu-907"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span><ul class="collapse" id="collapse-menu-907"><li class="item-1139"><a href="/images/PDF/Niyamika-Issue-no-9.pdf" target="_blank" >नियामिका</a></li><li class="item-953"><a href="/hindi/publication-hi/c-g-hi" >कोड व गाइड </a></li><li class="item-954"><a href="/hindi/publication-hi/ar-hi" >वार्षिक रिपोर्ट </a></li><li class="item-955"><a href="/hindi/publication-hi/newsletter-hi" >एईआरबी वृत्त पत्र</a></li><li class="item-956"><a href="/hindi/publication-hi/aerb-bulletin" >एईआरबी बुलेटिन</a></li><li class="item-957"><a href="/hindi/publication-hi/silver-jubilee-book" >रजत जयंती पुस्तक </a></li><li class="item-958"><a href="/hindi/publication-hi/rp-hi" >अनुसंधान प्रकाशन</a></li></ul></li><li class="item-908 deeper parent"><a href="/hindi/acts-reg-hi" >अधिनियम एवं विनियम</a><span class="offcanvas-menu-toggler collapsed"  role="menu" data-toggle="collapse" data-target="#collapse-menu-908" aria-expanded="false" aria-controls="collapse-menu-908"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span><ul class="collapse" id="collapse-menu-908"><li class="item-900"><a href="/hindi/acts-reg-hi/acts-hi" >अधिनियम</a></li><li class="item-901"><a href="/hindi/acts-reg-hi/rules-hi" >विनियम</a></li><li class="item-902"><a href="/hindi/acts-reg-hi/notification-hi" >अधिसूचनाएँ</a></li><li class="item-903"><a href="/hindi/acts-reg-hi/safety-directives-hi" >संरक्षा निदेश</a></li><li class="item-1137"><a href="/hindi/acts-reg-hi/advisory-hi" >परामर्श</a></li></ul></li><li class="item-909 deeper parent"><a href="/hindi/contact-hi" target="_blank" >संपर्क</a><span class="offcanvas-menu-toggler collapsed"  role="menu" data-toggle="collapse" data-target="#collapse-menu-909" aria-expanded="false" aria-controls="collapse-menu-909"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span><ul class="collapse" id="collapse-menu-909"><li class="item-959"><a href="/hindi/contact-hi/cko-hi" target="_blank" >प्रमुख अधिकारियों से संपर्क करें</a></li><li class="item-1112"><a href="/images/PDF/Contact_details_website_update.pdf" >रेडिएशन फेसेलिटियों के लिए संपर्क सूची</a></li><li class="item-1111"><a href="/english/citizen-charter" >नागरिक चार्टर</a></li></ul></li></ul>
+</div></div>
+                            </div>
+        </div>
+    </div>
+        
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-110921896-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+<noscript><strong>JavaScript is currently disabled.</strong>Please enable it for a better experience of <a href="http://2glux.com/projects/jumi">Jumi</a>.</noscript></body>
+</html>

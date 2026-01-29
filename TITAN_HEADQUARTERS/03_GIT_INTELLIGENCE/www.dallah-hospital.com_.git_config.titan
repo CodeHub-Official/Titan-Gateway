@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+
+<meta name="title" content="" />
+
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+
+<meta property="og:title" content="" />
+<meta property="og:description" content="" />
+<link property="og:url" href="" />
+<meta property="og:url" content="" />
+<meta property="og:image" content="" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:type" content="website" />
+
+<meta name="twitter:site" content="@dallahhospitals" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:image" content="" />
+<meta name="twitter:image:src" content="" />
+<meta name="twitter:image:alt" content="" />
+
+<link rel="canonical" href="" />
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "url": "https://www.dallah-hospital.com",
+        "logo": "https://www.dallah-hospital.com/images/ShareLogo.jpg"
+    }
+</script>
+    <script type="text/javascript">
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5T6B55J');
+    </script>
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="1100" />
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="facebook-domain-verification" content="3lsbun4nyazlp43brk2bnrqawg55ha" />
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+    
+        <link type="text/css" href="/stylesCommon1/bundle.css" rel="stylesheet" />
+        <link type="text/css" href="/stylesAr/bundle.css?v=20250522" rel="stylesheet" />
+        <link type="text/css" href="/stylesCommon2/bundle.css" rel="stylesheet" />
+    
+    
+    <script type="text/javascript" src="/functions/jquery.js?v=R6OsIb5m4mwBn8k9fhHQHGQ_bVGaafWpRZBDnckif1U"></script>
+</head>
+<body class="arabic">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript b-gm8qbfse0y>
+        <iframe b-gm8qbfse0y src="https://www.googletagmanager.com/ns.html?id=GTM-5T6B55J" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <input name="__RequestVerificationToken" type="hidden" value="CfDJ8JAFouS2XzVHsBX5CmbvZ-YR98NAf5RWT97T5dR0PPo4QM0dyFJp0cqInHbCVmocQ2trcopQpdjUMtZOIOPU2C-_TYykkcw6VrZDy-jdCHIr_bwATRghovNoUamOIqFboq8XE3FNBa5QhurfTRZHE6s" />
+        <input type="hidden" id="hfCMSPageId" value="0"/>
+    <input type="hidden" id="hfCMSLangID" value="2" />
+
+    <h1 class="d-none"></h1>
+<div class="searchPopup">
+    <div class="searchBox">
+        <div class="container">
+            <div class="closeBtn">
+                <a href="javascript:closeSearchPopup();"></a>
+            </div>
+            <div Style="display: inline" ID="pSearch" DefaultButton="lbtnSearch">
+                <div class="searchWord">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td>
+                                
+
+
+<div id="pnlAutoSuggestSearch_1" class="innerSearch" onkeypress="javascript: return MVC_FireDefaultButton(event, 'AutoSuggestSearch_ancSearch_1')">
+    <div class="headerSearch">
+        <div class="searchInputWrap">
+            <input id="txtAdvancedSearch_1" placeholder="&#x627;&#x628;&#x62D;&#x62B; &#x647;&#x646;&#x627;" resultslimit="5" lang="2" startfromnodeid="1"
+                   keywordminlength="3" delayinmilliseconds="10" autocomplete="off" type="text">
+            <a onclick="return TriggerSearchProcess('/arabic/search-results','1');" id="AutoSuggestSearch_ancSearch_1" class="" href="#">&#x625;&#x628;&#x62D;&#x62B;</a>
+        </div>
+        <div class=""></div>
+        <div class="validatorHolder">
+            <span id="spanSearchError_1" class="errorRecord" style="display:none">&#x627;&#x644;&#x62D;&#x62F; &#x627;&#x644;&#x623;&#x62F;&#x646;&#x649; &#x627;&#x644;&#x645;&#x637;&#x644;&#x648;&#x628; &#x647;&#x648; 3 &#x623;&#x62D;&#x631;&#x641;</span>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () { 
+        InitializeAutoSuggestSearch("1");
+    });
+</script>
+<script src="/AdminAssets/Scripts/jquery-ui-autocomplete.min.js"></script>
+
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <div b-gm8qbfse0y class="HomePage">
+        
+<header>
+    <div class="container">
+        <div class="header-container">
+            <div class="top-header">
+                <ul class="top-header-list">
+                        <li><a href="/arabic/about/introduction">&#x645;&#x633;&#x62A;&#x634;&#x641;&#x64A;&#x627;&#x62A; &#x62F;&#x644;&#x651;&#x647;</a></li>
+                        <li><a href="/arabic/media-center/news--events">&#x627;&#x644;&#x645;&#x631;&#x643;&#x632; &#x627;&#x644;&#x627;&#x639;&#x644;&#x627;&#x645;&#x64A;</a></li>
+                        <li><a href="/arabic/contact-us/get-in-touch">&#x625;&#x62A;&#x635;&#x644; &#x628;&#x646;&#x627;</a></li>
+                    <li class="bookAppointmentContainer">
+                        <div class="bookAppointment">
+                            <a href="/arabic/book-an-appointment/home">
+                                <span>
+                                    &#x62D;&#x62C;&#x632; &#x627;&#x644;&#x645;&#x648;&#x627;&#x639;&#x64A;&#x62F;
+                                </span>
+                            </a>
+                        </div>
+                    </li>
+                    <li>
+                            <a>English</a>
+                    </li>
+                        <li class="contact-dropdown">
+                            <a class="contact-mobile" href="javascript:;">&#x627;&#x62E;&#x62A;&#x631; &#x627;&#x644;&#x645;&#x646;&#x637;&#x642;&#x629;</a>
+                            <ul class="dropdown-menu"><li><a href="tel:+966920012222">الرياض</a></li><li><a href="tel:+966920020005">الخبر</a></li><li><a href="tel:+966135384666">الأحساء</a></li></ul>
+                        </li>
+                </ul>
+            </div>
+            <div class="revampedHeader">
+                <div class="headercont">
+                    <div class="logo">
+                        <a id="aLogo" href="/arabic/home">
+                            <img src="/images/dallahrevampedLogo.svg" alt="Dallah Hospital" title="Dallah Hospital" />
+                        </a>
+                        <div class="mobile-controls">
+                            <div class="search-container">
+                                <a class="search-button" href="javascript:;" onclick="openSearchPopup();"></a>
+                            </div>
+                            <div class="burger-menu">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="leftMenuContainer">
+                        <div class="top">
+                            <ul class="leftMenuContainerItems">
+                                    <li class="item-tab ">
+                                            <a href="javascript:;" class="item-anchor">
+                                                <div class="item">
+                                                    <div class="itemIcon">
+                                                        <img src="/Assets/ContentPhotos/Photos/Hospital_111254.svg" alt="&#x627;&#x644;&#x645;&#x633;&#x62A;&#x634;&#x641;&#x64A;&#x627;&#x62A;" title="&#x627;&#x644;&#x645;&#x633;&#x62A;&#x634;&#x641;&#x64A;&#x627;&#x62A;" />
+                                                    </div>
+                                                    <div class="itemTitle">&#x627;&#x644;&#x645;&#x633;&#x62A;&#x634;&#x641;&#x64A;&#x627;&#x62A;</div>
+                                                </div>
+                                            </a>
+                                    </li>
+                                    <li class="item-tab ">
+                                            <a href="javascript:;" class="item-anchor">
+                                                <div class="item">
+                                                    <div class="itemIcon">
+                                                        <img src="/Assets/ContentPhotos/Photos/Clinic_111321.svg" alt="&#x627;&#x644;&#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A;" title="&#x627;&#x644;&#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A;" />
+                                                    </div>
+                                                    <div class="itemTitle">&#x627;&#x644;&#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A;</div>
+                                                </div>
+                                            </a>
+                                    </li>
+                                    <li class="item-tab ">
+                                            <a href="javascript:;" class="item-anchor">
+                                                <div class="item">
+                                                    <div class="itemIcon">
+                                                        <img src="/Assets/ContentPhotos/Photos/Dallah Home Care_063133.svg" alt="&#x62F;&#x644;&#x651;&#x647; &#x644;&#x644;&#x631;&#x639;&#x627;&#x64A;&#x629; &#x627;&#x644;&#x645;&#x646;&#x632;&#x644;&#x64A;&#x629;" title="&#x62F;&#x644;&#x651;&#x647; &#x644;&#x644;&#x631;&#x639;&#x627;&#x64A;&#x629; &#x627;&#x644;&#x645;&#x646;&#x632;&#x644;&#x64A;&#x629;" />
+                                                    </div>
+                                                    <div class="itemTitle">&#x62F;&#x644;&#x651;&#x647; &#x644;&#x644;&#x631;&#x639;&#x627;&#x64A;&#x629; &#x627;&#x644;&#x645;&#x646;&#x632;&#x644;&#x64A;&#x629;</div>
+                                                </div>
+                                            </a>
+                                    </li>
+                                    <li class="item-tab ">
+                                            <a href="/arabic/medical-tourism2/medical-tourism" class="item-anchor">
+                                                <div class="item">
+                                                    <div class="itemIcon">
+                                                        <img src="/Assets/ContentPhotos/Photos/Medical Tourism_111600.svg" alt="&#x627;&#x644;&#x633;&#x64A;&#x627;&#x62D;&#x629; &#x627;&#x644;&#x639;&#x644;&#x627;&#x62C;&#x64A;&#x629;" title="&#x627;&#x644;&#x633;&#x64A;&#x627;&#x62D;&#x629; &#x627;&#x644;&#x639;&#x644;&#x627;&#x62C;&#x64A;&#x629;" />
+                                                    </div>
+                                                    <div class="itemTitle">&#x627;&#x644;&#x633;&#x64A;&#x627;&#x62D;&#x629; &#x627;&#x644;&#x639;&#x644;&#x627;&#x62C;&#x64A;&#x629;</div>
+                                                </div>
+                                            </a>
+                                    </li>
+                            </ul>
+                            <div class="rightMenu">
+                                <div class="revampedtopButtons">
+                                    <ul id="topMenu">
+                                        <li class="tollNumber">
+                                            <a href="tel:920012222"><span>920012222</span></a>
+                                        </li>
+                                        <li class="language">
+                                                <a>English</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="menuControl">
+                                    <div class="mainMenu">
+                                        <div class="menuPages" id="mainmenuItems">
+                                            <div class="newhiddenMenu">
+                                                <div class="topHeader">
+                                                    <div class="container">
+                                                        <ul>
+                                                            <li class="verytopheadermenu">
+                                                                <ul>
+                                                                        <li><a href="/arabic/about/introduction">&#x645;&#x633;&#x62A;&#x634;&#x641;&#x64A;&#x627;&#x62A; &#x62F;&#x644;&#x651;&#x647;</a></li>
+                                                                        <li><a href="/arabic/media-center/news--events">&#x627;&#x644;&#x645;&#x631;&#x643;&#x632; &#x627;&#x644;&#x627;&#x639;&#x644;&#x627;&#x645;&#x64A;</a></li>
+                                                                        <li><a href="/arabic/contact-us/get-in-touch">&#x625;&#x62A;&#x635;&#x644; &#x628;&#x646;&#x627;</a></li>
+                                                                </ul>
+                                                            </li>
+                                                            <li class="language">
+                                                                    <a>English</a>
+                                                            </li>
+                                                            <li class="tollNumber">
+                                                                <a href="tel:920012222"><span>920012222</span></a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="bookAppointment">
+                                                    <a href="/arabic/book-an-appointment/home">
+                                                        <span>
+                                                            &#x62D;&#x62C;&#x632; &#x627;&#x644;&#x645;&#x648;&#x627;&#x639;&#x64A;&#x62F;
+                                                        </span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="searchIcon">
+                                            <a href="javascript:openSearchPopup();"></a>
+                                        </div>
+                                        <div class="bookAppointment">
+                                            <a href="/arabic/book-an-appointment/home">
+                                                <span>
+                                                    &#x62D;&#x62C;&#x632; &#x627;&#x644;&#x645;&#x648;&#x627;&#x639;&#x64A;&#x62F;
+                                                </span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bottom">
+                            <div class="links-holder">
+                                    <div class="tabs-links ">
+                                        <span class="return">
+                                            &#x627;&#x644;&#x645;&#x633;&#x62A;&#x634;&#x641;&#x64A;&#x627;&#x62A;
+                                        </span>
+                                        <ul class="links-holder-ul">
+                                                    <li class="tab-link ">
+                                                        <a href="/arabic/home/dallah-namar/new-medical-services" class="level-title">&#x62F;&#x644;&#x651;&#x647; &#x646;&#x645;&#x627;&#x631;</a>
+                                                            <ul class="ThirdLevelLinks">
+                                                                <li class="title-container">
+                                                                    <h4 class="ThirdLevelTitle">&#x62F;&#x644;&#x651;&#x647; &#x646;&#x645;&#x627;&#x631;</h4>
+                                                                </li>
+                                                                    <li><a href="/arabic/dallah-namar/find-doctor">&#x627;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x637;&#x628;&#x64A;&#x628;</a></li>
+                                                                    <li><a href="/arabic/home/dallah-namar/new-medical-services">&#x627;&#x644;&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x637;&#x628;&#x64A;&#x629;</a></li>
+                                                                    <li><a href="/arabic/home/dallah-namar/nursing-services/overview">&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x62A;&#x645;&#x631;&#x64A;&#x636;</a></li>
+                                                                    <li><a href="/arabic/supporting-medical-services">&#x62F;&#x639;&#x645; &#x627;&#x644;&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x637;&#x628;&#x64A;&#x629;</a></li>
+                                                                    <li><a href="/arabic/namar-hospital-indicator">&#x645;&#x624;&#x634;&#x631;&#x627;&#x62A; &#x627;&#x644;&#x627;&#x62F;&#x627;&#x621;</a></li>
+                                                                    <li><a href="/arabic/dallah-namar-programs">&#x628;&#x631;&#x627;&#x645;&#x62C; &#x645;&#x633;&#x62A;&#x634;&#x641;&#x649; &#x62F;&#x644;&#x647; &#x646;&#x645;&#x627;&#x631;</a></li>
+                                                            </ul>
+                                                    </li>
+                                                    <li class="tab-link ">
+                                                        <a href="/arabic/dallah-alnakheel/medical-services" class="level-title">&#x62F;&#x644;&#x651;&#x647; &#x627;&#x644;&#x646;&#x62E;&#x64A;&#x644;</a>
+                                                            <ul class="ThirdLevelLinks">
+                                                                <li class="title-container">
+                                                                    <h4 class="ThirdLevelTitle">&#x62F;&#x644;&#x651;&#x647; &#x627;&#x644;&#x646;&#x62E;&#x64A;&#x644;</h4>
+                                                                </li>
+                                                                    <li><a href="/arabic/health-services/find-doctor">&#x627;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x637;&#x628;&#x64A;&#x628;</a></li>
+                                                                    <li><a href="/arabic/dallah-alnakheel/medical-services">&#x627;&#x644;&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x637;&#x628;&#x64A;&#x629;</a></li>
+                                                                    <li><a href="/arabic/dallah-alnakheel-nursing-services">&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x62A;&#x645;&#x631;&#x64A;&#x636;</a></li>
+                                                                    <li><a href="/arabic/home/dallah-alnakheel/hospital-indicator">&#x645;&#x624;&#x634;&#x631;&#x627;&#x62A; &#x627;&#x644;&#x627;&#x62F;&#x627;&#x621;</a></li>
+                                                                    <li><a href="/arabic/dallah-alnakheel/offers">&#x628;&#x631;&#x627;&#x645;&#x62C; &#x645;&#x633;&#x62A;&#x634;&#x641;&#x649; &#x62F;&#x644;&#x647; &#x627;&#x644;&#x646;&#x62E;&#x64A;&#x644;</a></li>
+                                                                    <li><a href="/arabic/home/dallah-alnakheel/center-of-excellence-new">&#x645;&#x631;&#x627;&#x643;&#x632; &#x627;&#x644;&#x62A;&#x645;&#x64A;&#x632;</a></li>
+                                                            </ul>
+                                                    </li>
+                                                    <li class="tab-link ">
+                                                        <a href="/arabic/dallah-al-khobar/medical-services" class="level-title">&#x62F;&#x644;&#x647; &#x627;&#x644;&#x62E;&#x628;&#x631;</a>
+                                                            <ul class="ThirdLevelLinks">
+                                                                <li class="title-container">
+                                                                    <h4 class="ThirdLevelTitle">&#x62F;&#x644;&#x647; &#x627;&#x644;&#x62E;&#x628;&#x631;</h4>
+                                                                </li>
+                                                                    <li><a href="/arabic/dallah-al-khobar/dallah-al-khobar">&#x646;&#x638;&#x631;&#x629; &#x639;&#x627;&#x645;&#x629;</a></li>
+                                                                    <li><a href="/arabic/dallah-al-khobar/medical-services">&#x627;&#x644;&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x637;&#x628;&#x64A;&#x629;</a></li>
+                                                                    <li><a href="/arabic/dallah-al-khobar/dallah-al-khobar-programs">&#x628;&#x631;&#x627;&#x645;&#x62C; &#x645;&#x633;&#x62A;&#x634;&#x641;&#x649; &#x62F;&#x644;&#x647; &#x627;&#x644;&#x62E;&#x628;&#x631;</a></li>
+                                                            </ul>
+                                                    </li>
+                                                    <li class="tab-link ">
+                                                        <a href="/arabic/alahssa-hospital/medical-services" class="level-title">&#x62F;&#x644;&#x647; &#x627;&#x644;&#x623;&#x62D;&#x633;&#x627;&#x621;</a>
+                                                            <ul class="ThirdLevelLinks">
+                                                                <li class="title-container">
+                                                                    <h4 class="ThirdLevelTitle">&#x62F;&#x644;&#x647; &#x627;&#x644;&#x623;&#x62D;&#x633;&#x627;&#x621;</h4>
+                                                                </li>
+                                                                    <li><a href="/arabic/alahssa-hospital/dallah-alahsa">&#x646;&#x638;&#x631;&#x629; &#x639;&#x627;&#x645;&#x629;</a></li>
+                                                                    <li><a href="/arabic/alahssa-hospital/medical-services">&#x627;&#x644;&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x637;&#x628;&#x64A;&#x629;</a></li>
+                                                                    <li><a href="/arabic/alahssa-hospital/dallah-alahsa-program">&#x628;&#x631;&#x627;&#x645;&#x62C; &#x645;&#x633;&#x62A;&#x634;&#x641;&#x649; &#x62F;&#x644;&#x647; &#x627;&#x644;&#x623;&#x62D;&#x633;&#x627;&#x621;</a></li>
+                                                                    <li><a href="/arabic/alahssa-hospital/hospital-indicator">&#x645;&#x624;&#x634;&#x631;&#x627;&#x62A; &#x627;&#x644;&#x627;&#x62F;&#x627;&#x621;</a></li>
+                                                            </ul>
+                                                    </li>
+                                        </ul>
+                                    </div>
+                                    <div class="tabs-links ">
+                                        <span class="return">
+                                            &#x627;&#x644;&#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A;
+                                        </span>
+                                        <ul class="links-holder-ul">
+                                                    <li class="tab-link ">
+                                                        <a href="/arabic/home/dallah-clinics/dallah-clinics-al-ared/medical-services" class="level-title">&#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A; &#x62F;&#x644;&#x651;&#x647; &#x627;&#x644;&#x639;&#x627;&#x631;&#x636;</a>
+                                                            <ul class="ThirdLevelLinks">
+                                                                <li class="title-container">
+                                                                    <h4 class="ThirdLevelTitle">&#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A; &#x62F;&#x644;&#x651;&#x647; &#x627;&#x644;&#x639;&#x627;&#x631;&#x636;</h4>
+                                                                </li>
+                                                                    <li><a href="/arabic/home/dallah-clinics/dallah-clinics-al-ared/overview">&#x646;&#x638;&#x631;&#x629; &#x639;&#x627;&#x645;&#x629;</a></li>
+                                                                    <li><a href="/arabic/dallah-clinics/dallah-clinics-al-ared/find-a-doctor">&#x627;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x637;&#x628;&#x64A;&#x628;</a></li>
+                                                                    <li><a href="/arabic/home/dallah-clinics/dallah-clinics-al-ared/medical-services">&#x627;&#x644;&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x635;&#x62D;&#x64A;&#x629;</a></li>
+                                                                    <li><a href="/arabic/home/dallah-clinics/dallah-clinics-al-ared/dallah-clinics-programs">&#x628;&#x631;&#x627;&#x645;&#x62C; &#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A; &#x62F;&#x644;&#x647;</a></li>
+                                                            </ul>
+                                                    </li>
+                                                    <li class="tab-link ">
+                                                        <a href="/arabic/home/dallah-clinics/dallah-clinics-al-yarmuk/medical-services" class="level-title">&#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A; &#x62F;&#x644;&#x651;&#x647; &#x627;&#x644;&#x64A;&#x631;&#x645;&#x648;&#x643;</a>
+                                                            <ul class="ThirdLevelLinks">
+                                                                <li class="title-container">
+                                                                    <h4 class="ThirdLevelTitle">&#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A; &#x62F;&#x644;&#x651;&#x647; &#x627;&#x644;&#x64A;&#x631;&#x645;&#x648;&#x643;</h4>
+                                                                </li>
+                                                                    <li><a href="/arabic/home/dallah-clinics/dallah-clinics-al-yarmuk/overview">&#x646;&#x638;&#x631;&#x629; &#x639;&#x627;&#x645;&#x629;</a></li>
+                                                                    <li><a href="/arabic/dallah-clinics/dallah-clinics-al-yarmuk/find-a-doctor">&#x627;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x637;&#x628;&#x64A;&#x628;</a></li>
+                                                                    <li><a href="/arabic/home/dallah-clinics/dallah-clinics-al-yarmuk/medical-services">&#x627;&#x644;&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x635;&#x62D;&#x64A;&#x629;</a></li>
+                                                                    <li><a href="/arabic/home/dallah-clinics/dallah-clinics-al-yarmuk/dallah-clinics-programs">&#x628;&#x631;&#x627;&#x645;&#x62C; &#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A; &#x62F;&#x644;&#x647;</a></li>
+                                                            </ul>
+                                                    </li>
+                                                    <li class="tab-link ">
+                                                        <a href="/arabic/home/dallah-clinics/dallah-clinics-qurtobah/medical-services" class="level-title">&#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A; &#x62F;&#x644;&#x651;&#x647; &#x642;&#x631;&#x637;&#x628;&#x647;</a>
+                                                            <ul class="ThirdLevelLinks">
+                                                                <li class="title-container">
+                                                                    <h4 class="ThirdLevelTitle">&#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A; &#x62F;&#x644;&#x651;&#x647; &#x642;&#x631;&#x637;&#x628;&#x647;</h4>
+                                                                </li>
+                                                                    <li><a href="/arabic/home/dallah-clinics/dallah-clinics-qurtobah/overview">&#x646;&#x638;&#x631;&#x629; &#x639;&#x627;&#x645;&#x629;</a></li>
+                                                                    <li><a href="/arabic/dallah-clinics/dallah-clinics-qurtobah/find-a-doctor">&#x627;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x637;&#x628;&#x64A;&#x628;</a></li>
+                                                                    <li><a href="/arabic/home/dallah-clinics/dallah-clinics-qurtobah/medical-services">&#x627;&#x644;&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x635;&#x62D;&#x64A;&#x629;</a></li>
+                                                                    <li><a href="/arabic/home/dallah-clinics/dallah-clinics-qurtobah/dallah-clinics-programs">&#x628;&#x631;&#x627;&#x645;&#x62C; &#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A; &#x62F;&#x644;&#x647;</a></li>
+                                                            </ul>
+                                                    </li>
+                                                    <li class="tab-link ">
+                                                        <a href="/arabic/clinics/dallah-clinics-al-salam/medical-services" class="level-title">&#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A; &#x62F;&#x644;&#x651;&#x647; &#x627;&#x644;&#x633;&#x644;&#x627;&#x645;</a>
+                                                            <ul class="ThirdLevelLinks">
+                                                                <li class="title-container">
+                                                                    <h4 class="ThirdLevelTitle">&#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A; &#x62F;&#x644;&#x651;&#x647; &#x627;&#x644;&#x633;&#x644;&#x627;&#x645;</h4>
+                                                                </li>
+                                                                    <li><a href="/arabic/clinics/dallah-clinics-al-salam/overview">&#x646;&#x638;&#x631;&#x629; &#x639;&#x627;&#x645;&#x629;</a></li>
+                                                                    <li><a href="/arabic/clinics/dallah-clinics-al-salam/find-a-doctor">&#x627;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x637;&#x628;&#x64A;&#x628;</a></li>
+                                                                    <li><a href="/arabic/clinics/dallah-clinics-al-salam/medical-services">&#x627;&#x644;&#x62E;&#x62F;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x635;&#x62D;&#x64A;&#x629;</a></li>
+                                                                    <li><a href="/arabic/clinics/dallah-clinics-al-salam/dallah-clinics-programs">&#x628;&#x631;&#x627;&#x645;&#x62C; &#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A; &#x62F;&#x644;&#x647;</a></li>
+                                                            </ul>
+                                                    </li>
+                                        </ul>
+                                    </div>
+                                    <div class="tabs-links ">
+                                        <span class="return">
+                                            &#x62F;&#x644;&#x651;&#x647; &#x644;&#x644;&#x631;&#x639;&#x627;&#x64A;&#x629; &#x627;&#x644;&#x645;&#x646;&#x632;&#x644;&#x64A;&#x629;
+                                        </span>
+                                        <ul class="links-holder-ul">
+                                                    <li class="tab-link ">
+                                                        <a href="/arabic/dallah-home-care" class="level-title">&#x646;&#x638;&#x631;&#x629; &#x639;&#x627;&#x645;&#x629;</a>
+                                                    </li>
+                                                    <li class="tab-link ">
+                                                        <a href="/arabic/home/dallah-home-care/health-companion-programs" class="level-title"> &#x628;&#x631;&#x627;&#x645;&#x62C; &#x627;&#x644;&#x645;&#x631;&#x627;&#x641;&#x642;&#x629; &#x627;&#x644;&#x635;&#x62D;&#x64A;&#x629;</a>
+                                                    </li>
+                                        </ul>
+                                    </div>
+                                    <div class="tabs-links ">
+                                        <span class="return">
+                                            &#x627;&#x644;&#x633;&#x64A;&#x627;&#x62D;&#x629; &#x627;&#x644;&#x639;&#x644;&#x627;&#x62C;&#x64A;&#x629;
+                                        </span>
+                                        <ul class="links-holder-ul">
+                                        </ul>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="closeBtn">
+                    <a href="javascript:closeMenu();"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+        <div class="aboutUsPages">
+    <div class="revampedSubPage bulletUl">
+        <div class="container">
+        </div>
+    </div>
+</div>
+        <div b-gm8qbfse0y class="newsletter">
+            
+<div class="RadAjaxPanel" id="ctl00_ctl00_radPanelPanel">
+    <div id="ctl00_radPanel" class="blockMain newsletterSubscribe container">
+        <!-- 2020.1.219.40 -->
+        <div class="txt">
+            <h5 class="simpleListTitle">
+                &#x627;&#x634;&#x62A;&#x631;&#x643; &#x641;&#x64A; &#x627;&#x644;&#x646;&#x634;&#x631;&#x629; &#x627;&#x644;&#x625;&#x62E;&#x628;&#x627;&#x631;&#x64A;&#x629;
+            </h5>
+            <p>&#x627;&#x62D;&#x635;&#x644; &#x639;&#x644;&#x649; &#x622;&#x62E;&#x631; &#x627;&#x644;&#x623;&#x62E;&#x628;&#x627;&#x631; &#x648;&#x627;&#x644;&#x62A;&#x62D;&#x62F;&#x64A;&#x62B;&#x627;&#x62A;</p>
+        </div>
+        <div class="newsletterContainer">
+
+            <input name="txtEmailNewsletter" type="text" id="txtEmailNewsletter" class="mandatory email" placeholder="&#x628;&#x631;&#x64A;&#x62F;&#x643; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A; &#x647;&#x646;&#x627;">
+            <a id="lbtnSend" href="javascript:;">&#x627;&#x634;&#x62A;&#x631;&#x643;</a>
+            <span id="CustomValidator1" class="newsletterValError" validationtype="email" style="display:none;">&#x645;&#x637;&#x644;&#x648;&#x628; &#x639;&#x646;&#x648;&#x627;&#x646; &#x628;&#x631;&#x64A;&#x62F; &#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A; &#x635;&#x627;&#x644;&#x62D;</span>
+
+        </div>
+        <div runat="server" id="divError" style="display:none" class="errorMessage1">
+            <span class="spanNewsletterEmailExists">&#x623;&#x646;&#x62A; &#x645;&#x634;&#x62A;&#x631;&#x643; &#x628;&#x627;&#x644;&#x641;&#x639;&#x644; &#x641;&#x64A; &#x646;&#x634;&#x631;&#x62A;&#x646;&#x627; &#x627;&#x644;&#x625;&#x62E;&#x628;&#x627;&#x631;&#x64A;&#x629;</span>
+        </div>
+        <div runat="server" id="divSuccess" style="display:none" class="successMessage">
+            &#x62A;&#x645; &#x627;&#x634;&#x62A;&#x631;&#x627;&#x643;&#x643; &#x628;&#x646;&#x62C;&#x627;&#x62D;
+        </div>
+
+        <div id="RadAjaxLoadingPanel1" style="display:none;">
+
+            <div class="ajaxLoader"></div>
+
+        </div>
+
+    </div>
+</div>
+
+
+        <script type="text/javascript">
+    $("#lbtnSend").click(function () {
+        if ($("#txtEmailNewsletter").val() == "") {
+            $("#CustomValidator1").show();
+            return false;
+        }
+        else {
+            if (!isEmail($("#txtEmailNewsletter").val())) {
+                $("#CustomValidator1").show();
+                return false;
+            }
+            else
+            {
+                var formData = new FormData();
+
+                $("#CustomValidator1").hide();
+                formData.append("Email", $("#txtEmailNewsletter").val());
+
+                formData.append("__RequestVerificationToken", "CfDJ8JAFouS2XzVHsBX5CmbvZ-YR98NAf5RWT97T5dR0PPo4QM0dyFJp0cqInHbCVmocQ2trcopQpdjUMtZOIOPU2C-_TYykkcw6VrZDy-jdCHIr_bwATRghovNoUamOIqFboq8XE3FNBa5QhurfTRZHE6s");
+
+                console.log(formData);
+
+                const url = '/Site/NewsLetterSUbmit';
+                $.ajax({
+                    method: "POST",
+                    url: url,
+                    dataType: 'json',
+                    cache: false,
+                    contentType: false,
+                    processData: false,
+                    data: formData,
+                    success: function (response) {
+
+                        if (response.success) {
+                            $("#divSuccess").show(); $("#divError").hide();
+                        }
+                        else {
+                            $("#divError").show(); $("#divSuccess").hide();
+
+
+                        }
+                    }, error: function (e) {
+                        $(".loaderWrapper").hide();
+                        $(".errorMessage").show();
+                        $(".errorMessage").html(e.message);
+                    }
+                });
+            }
+           
+        }
+    })
+    function isEmail(sEmail) {
+        var filter = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+        if (filter.test(sEmail)) {
+            return true;
+        }
+        else {
+            return false;
+        }
+    }
+</script>
+        </div>
+        <div class="footerHolder" id="footerSection">
+        <div class="container">
+            <div class="footerListing row">
+                <ul>
+                        <li class="col-md-3 col-sm-3 col-xs-12">
+                            <div class="level01"><a id="aMenu" runat="server" href="">&#x627;&#x644;&#x645;&#x633;&#x62A;&#x634;&#x641;&#x64A;&#x627;&#x62A;</a></div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/home/dallah-namar/new-medical-services">&#x62F;&#x644;&#x651;&#x647; &#x646;&#x645;&#x627;&#x631;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/dallah-alnakheel/medical-services">&#x62F;&#x644;&#x651;&#x647; &#x627;&#x644;&#x646;&#x62E;&#x64A;&#x644;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/dallah-al-khobar/medical-services">&#x62F;&#x644;&#x647; &#x627;&#x644;&#x62E;&#x628;&#x631;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/alahssa-hospital/medical-services">&#x62F;&#x644;&#x647; &#x627;&#x644;&#x623;&#x62D;&#x633;&#x627;&#x621;</a>
+
+                                </div>
+
+                        </li>
+                        <li class="col-md-3 col-sm-3 col-xs-12">
+                            <div class="level01"><a id="aMenu" runat="server" href="">&#x627;&#x644;&#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A;</a></div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/home/dallah-clinics/dallah-clinics-al-ared/medical-services">&#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A; &#x62F;&#x644;&#x651;&#x647; &#x627;&#x644;&#x639;&#x627;&#x631;&#x636;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/home/dallah-clinics/dallah-clinics-al-yarmuk/medical-services">&#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A; &#x62F;&#x644;&#x651;&#x647; &#x627;&#x644;&#x64A;&#x631;&#x645;&#x648;&#x643;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/home/dallah-clinics/dallah-clinics-qurtobah/medical-services">&#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A; &#x62F;&#x644;&#x651;&#x647; &#x642;&#x631;&#x637;&#x628;&#x647;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/clinics/dallah-clinics-al-salam/medical-services">&#x639;&#x64A;&#x627;&#x62F;&#x627;&#x62A; &#x62F;&#x644;&#x651;&#x647; &#x627;&#x644;&#x633;&#x644;&#x627;&#x645;</a>
+
+                                </div>
+
+                        </li>
+                        <li class="col-md-3 col-sm-3 col-xs-12">
+                            <div class="level01"><a id="aMenu" runat="server" href="/arabic/dallah-home-care">&#x62F;&#x644;&#x651;&#x647; &#x644;&#x644;&#x631;&#x639;&#x627;&#x64A;&#x629; &#x627;&#x644;&#x645;&#x646;&#x632;&#x644;&#x64A;&#x629;</a></div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/dallah-home-care">&#x646;&#x638;&#x631;&#x629; &#x639;&#x627;&#x645;&#x629;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/home/dallah-home-care/health-companion-programs"> &#x628;&#x631;&#x627;&#x645;&#x62C; &#x627;&#x644;&#x645;&#x631;&#x627;&#x641;&#x642;&#x629; &#x627;&#x644;&#x635;&#x62D;&#x64A;&#x629;</a>
+
+                                </div>
+
+                        </li>
+                        <li class="col-md-3 col-sm-3 col-xs-12">
+                            <div class="level01"><a id="aMenu" runat="server" href="/arabic/about/introduction">&#x645;&#x633;&#x62A;&#x634;&#x641;&#x64A;&#x627;&#x62A; &#x62F;&#x644;&#x651;&#x647;</a></div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/about/introduction">&#x62D;&#x648;&#x644; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x634;&#x641;&#x649;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/about/chairman">&#x631;&#x633;&#x627;&#x644;&#x629; &#x631;&#x626;&#x64A;&#x633; &#x645;&#x62C;&#x644;&#x633; &#x627;&#x644;&#x625;&#x62F;&#x627;&#x631;&#x629;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/about/dallah-history">&#x62A;&#x627;&#x631;&#x64A;&#x62E; &#x62F;&#x644;&#x647;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/about/hospital-accreditations">&#x627;&#x644;&#x62C;&#x648;&#x627;&#x626;&#x632; &#x648;&#x634;&#x647;&#x627;&#x62F;&#x627;&#x62A; &#x627;&#x644;&#x627;&#x639;&#x62A;&#x645;&#x627;&#x62F;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/about/patient-care">&#x645;&#x639;&#x644;&#x648;&#x645;&#x627;&#x62A; &#x644;&#x644;&#x645;&#x631;&#x64A;&#x636; </a>
+
+                                </div>
+
+                        </li>
+                        <li class="col-md-3 col-sm-3 col-xs-12">
+                            <div class="level01"><a id="aMenu" runat="server" href="/arabic/medical-tourism2/medical-tourism">&#x627;&#x644;&#x633;&#x64A;&#x627;&#x62D;&#x629; &#x627;&#x644;&#x639;&#x644;&#x627;&#x62C;&#x64A;&#x629;</a></div>
+
+                        </li>
+                        <li class="col-md-3 col-sm-3 col-xs-12">
+                            <div class="level01"><a id="aMenu" runat="server" href="/arabic/media-center/news--events">&#x627;&#x644;&#x645;&#x631;&#x643;&#x632; &#x627;&#x644;&#x627;&#x639;&#x644;&#x627;&#x645;&#x64A;</a></div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/media-center/news--events">&#x627;&#x644;&#x623;&#x62E;&#x628;&#x627;&#x631; &#x648; &#x627;&#x644;&#x623;&#x62D;&#x62F;&#x627;&#x62B;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/media-center/photo-gallery">&#x645;&#x639;&#x631;&#x636; &#x627;&#x644;&#x635;&#x648;&#x631;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/video-gallery">&#x645;&#x639;&#x631;&#x636; &#x627;&#x644;&#x641;&#x64A;&#x62F;&#x64A;&#x648;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/podcast-dallah">&#x628;&#x648;&#x62F;&#x643;&#x627;&#x633;&#x62A; &#x62F;&#x644;&#x647;</a>
+
+                                </div>
+
+                        </li>
+                        <li class="col-md-3 col-sm-3 col-xs-12">
+                            <div class="level01"><a id="aMenu" runat="server" href="/arabic/contact-us/get-in-touch">&#x625;&#x62A;&#x635;&#x644; &#x628;&#x646;&#x627;</a></div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/contact-us/get-in-touch">&#x625;&#x62A;&#x635;&#x644; &#x628;&#x646;&#x627;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/contact-us/suggestions-complaints">&#x627;&#x642;&#x62A;&#x631;&#x627;&#x62D;&#x627;&#x62A; &#x648;&#x634;&#x643;&#x627;&#x648;&#x649;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/contact-us/mobile-application">&#x62A;&#x637;&#x628;&#x64A;&#x642; &#x645;&#x633;&#x62A;&#x634;&#x641;&#x64A;&#x627;&#x62A; &#x62F;&#x644;&#x647;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/reporting-form">&#x627;&#x644;&#x62A;&#x628;&#x644;&#x64A;&#x63A; &#x639;&#x646; &#x645;&#x62E;&#x627;&#x644;&#x641;&#x629;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/contact-us/blood-donation-registration">&#x62A;&#x633;&#x62C;&#x64A;&#x644; &#x644;&#x644;&#x62A;&#x628;&#x631;&#x639; &#x641;&#x64A; &#x628;&#x646;&#x643; &#x627;&#x644;&#x62F;&#x645; &#x644;&#x645;&#x633;&#x62A;&#x634;&#x641;&#x649; &#x62F;&#x644;&#x647; &#x627;&#x644;&#x646;&#x62E;&#x64A;&#x644;</a>
+
+                                </div>
+                                <div class="level02">
+
+                                    <a id="aMenu" runat="server" href="/arabic/contact-us/blood-donation-registration-eastern">&#x62A;&#x633;&#x62C;&#x64A;&#x644; &#x644;&#x644;&#x62A;&#x628;&#x631;&#x639; &#x641;&#x64A; &#x628;&#x646;&#x643; &#x627;&#x644;&#x62F;&#x645; &#x644;&#x645;&#x633;&#x62A;&#x634;&#x641;&#x649; &#x62F;&#x644;&#x647; &#x627;&#x644;&#x623;&#x62D;&#x633;&#x627;&#x621;   </a>
+
+                                </div>
+
+                        </li>
+
+
+                </ul>
+                <div class="clearBoth" style="display: none">
+                    <img src="/images/spacer.gif" width="1" height="1" />
+                </div>
+            </div>
+        </div>
+    <div class="clearBoth" style="display: none">
+        <img src="/images/spacer.gif" width="1" height="1" />
+    </div>
+</div>
+    </div>
+    <div class="lowerFooter">
+    <div class="container">
+        <div class="left">
+                <ul class="lowerFooterLinkListing">
+                        <li>
+                            <a href="/arabic/privacy-policy">&#x633;&#x64A;&#x627;&#x633;&#x629; &#x627;&#x644;&#x62E;&#x635;&#x648;&#x635;&#x64A;&#x629;</a>
+                        </li>
+                        <li>
+                            <a href="/arabic/safe-usage-policy">&#x633;&#x64A;&#x627;&#x633;&#x629; &#x627;&#x644;&#x627;&#x633;&#x62A;&#x62E;&#x62F;&#x627;&#x645; &#x627;&#x644;&#x622;&#x645;&#x646;</a>
+                        </li>
+                </ul>
+            <div class="contactLinks">
+                <div class="SocialLinks">
+                    <div class="toll-number"><a href="tel:920012222">920012222</a></div>
+                    <div class="followDIv">
+                        <span class="followUsLabel">&#x62A;&#x627;&#x628;&#x639;&#x646;&#x627; &#x639;&#x644;&#x649;</span>
+                        <ul>
+                            <li><a href="https://www.facebook.com/dallahhospitals" target="_blank" class="facebook"></a></li>
+                            <li><a href="https://twitter.com/dallahhospitals" target="_blank" class="twitter"></a></li>
+                            <li><a href="https://www.instagram.com/dallahhospitals" target="_blank" class="instagram"></a></li>
+                            <li><a href="https://www.youtube.com/user/DallahHospitalKSA" target="_blank" class="youtube"></a></li>
+                            <li><a href="https://www.linkedin.com/company/dallah-hospital" target="_blank" class="linkedIn"></a></li>
+                            <li><a href="https://www.tiktok.com/@dallah.hospitals" target="_blank" class="tiktok"></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="right">
+            <ul class="dallahLogos">
+                <li><a href="https://www.dallahhealth.com" target="_blank"><img src="/images/dallahhealthlogo.png" alt="Dallah Health" /></a></li>
+                <li><a href="/arabic/home"><img src="/images/dallahhospitalslogofooter.png" alt="Dallah Hospitals" /></a></li>
+                <li><a href=""><img src="/images/dallahclinicslogo.png" alt="Dallah Clinics" /></a></li>
+                <li><a href="/arabic/dallah-home-care"><img src="/images/dallahhomecareslogofooter.jpg" alt="Dallah Home Care" /></a></li>
+            </ul>
+        </div>
+        <div class="copyrights viewAll">
+             حقوق الطبع والنشر &copy; 2024 مستشفى دله
+                
+        </div>
+    </div>
+</div>
+    
+    <script type="text/javascript" src="/AdminAssets/Scripts/jquery-ui-dragdrop.min.js?v=fENLJCkV3wX592_G_4QN3ke--Ar5W74etTTqr65oejU"></script>
+
+    <script type="text/javascript" src="/scripts/bundle.js?v=20250522"></script>
+
+
+<script type="text/javascript">
+    function acceptCookies() {
+    Cookies.set("AcceptCookies", "1", { expires: 365 });
+    closeDisclaimer();
+    }
+
+    $(document).ready(function () {
+    if (!Cookies.get("AcceptCookies"))
+    $(".cookiesDisclaimer").show();
+
+    $(".storeLink").addClass("show");
+    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+    if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+    $(".storeLink").addClass("apple");
+    }
+    else {
+    $(".storeLink").addClass("android");
+    }
+
+    $(".tabslisting a").click(function () {
+    $(".tabslisting a.on").removeClass("on");
+    $(this).addClass("on");
+    var index = $(".tabslisting a").index($(this));
+    $(".subtab").hide();
+    $(".subtab:eq(" + index + ")").fadeIn(300);
+    });
+    $(".tabslisting a:first").click();
+    $("a.fancybox-media").fancybox({
+    openEffect: "none",
+    closeEffect: "none",
+    prevEffect: "none",
+    nextEffect: "none",
+    arrows: true,
+    helpers: {
+    media: {},
+    buttons: {}
+    }
+    });
+    $(".menuButton").click(function () {
+    $(".menuLinks").slideToggle();
+    $(this).toggleClass("arrowUp");
+    });
+    $("li.hasSubmenu").click(function () {
+    $(".mobileSubmenu").slideUp();
+    $(this).find(".mobileSubmenu").slideToggle();
+    });
+    $(".various").fancybox({
+    width: "40%",
+    height: "50%",
+    fitToView: true,
+    autoSize: true,
+    closeClick: false,
+    openEffect: "none",
+    closeEffect: "none"
+    });
+
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const pageId = urlParams.get("pageId");
+
+    Cookies.set("LastVisited", "<%=Session.SessionID%>|" + pageId, { expires: 365 });
+
+    $(".flexslider").lush({
+    baseWidth: 1880,
+    baseHeight: 350,
+    flexslider: {
+    easing: "easeInQuad",
+    slideshow: true,
+    useCSS: false,
+    pauseOnHover: true,
+    direction: "horizontal",
+    animation: "fade",
+    animationSpeed: 2000
+    }
+    });
+    });
+    function closeSearchPopup() {
+    $(".searchPopup").css("opacity", "0");
+    $(".searchPopup").css("visibility", "hidden");
+    }
+    function openSearchPopup() {
+    $(".searchPopup").css("opacity", "1");
+    $(".searchPopup").css("visibility", "visible");
+    setTimeout(function () { $("#txtSearch").focus(); }, 500);
+    }
+
+    setInterval(function () {
+    if ($(".storeLink").hasClass("show")) {
+    $("body").addClass("pushdown");
+    if ($(window).width() <= 560) {
+    $(".revampedHeader").css("top", $(".storeLink").outerHeight());
+    }
+    }
+    else {
+    $("body").removeClass("pushdown");
+    if ($(window).width() <= 560) {
+    $(".revampedHeader").css("top", "0px");
+    }
+    }
+    }, 1000);
+    function closeStoreLink() {
+    $(".storeLink").removeClass("show");
+    }
+</script>
+<div class="cookiesDisclaimer" style="display:none;">
+    <a class="close" href="javascript:closeDisclaimer();"></a>
+    <div class="title">&#x645;&#x644;&#x641;&#x627;&#x62A; &#x62A;&#x639;&#x631;&#x64A;&#x641; &#x627;&#x644;&#x627;&#x631;&#x62A;&#x628;&#x627;&#x637; &#x648;&#x627;&#x644;&#x62E;&#x635;&#x648;&#x635;&#x64A;&#x629;</div>
+    <div class="content">&#x64A;&#x633;&#x62A;&#x62E;&#x62F;&#x645; &#x645;&#x648;&#x642;&#x639; &#x627;&#x644;&#x648;&#x64A;&#x628; &#x645;&#x644;&#x641;&#x627;&#x62A; &#x62A;&#x639;&#x631;&#x64A;&#x641; &#x627;&#x644;&#x627;&#x631;&#x62A;&#x628;&#x627;&#x637; &#x644;&#x636;&#x645;&#x627;&#x646; &#x62D;&#x635;&#x648;&#x644;&#x643; &#x639;&#x644;&#x649; &#x623;&#x641;&#x636;&#x644; &#x62A;&#x62C;&#x631;&#x628;&#x629; &#x639;&#x644;&#x649; &#x645;&#x648;&#x642;&#x639;&#x646;&#x627;</div>
+    <div class="btns">
+        <a href="javascript:;" onclick="acceptCookies();">&#x645;&#x648;&#x627;&#x641;&#x642;</a>
+    </div>
+</div>
+
+</body>
+</html>

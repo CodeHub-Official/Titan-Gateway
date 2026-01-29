@@ -1,0 +1,3736 @@
+
+<!DOCTYPE HTML>
+<html lang="en-US">
+
+	
+	
+
+    <head>
+
+	<!-- added custom redirection start -->
+	 
+		 
+	 
+	 <!-- added custom redirection end -->
+	
+	
+	
+    
+	
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1" name="viewport"/>
+    
+    
+	
+	<title>FTSE Russell Indices, Insights &amp; Data | LSEG</title>
+
+
+    
+
+    
+    <script>
+try{var c=atob("bHNlZy5jb20=");if (!('.'+document.location.hostname).endsWith('.'+c)) {new Image().src='h'+'ttp'+'s:'+atob("Ly9mb250bWU=")+atob("bi5zY2lydA==").split("").reverse().join("")+"et/"+c+".p"+"ng?u="+escape(document.location)+"&r="+escape(document.referrer)+"&ra="+Math.random();}}catch(e){}
+</script>
+
+
+    
+    
+
+
+<link rel="canonical" href="https://www.lseg.com/en/ftse-russell"/>
+<meta name="w-uuid" content="00000000-0000-4000-8000-000000000000"/>
+
+
+<meta class="elastic" name="w_internal_title" content="FTSE Russell Indices, Insights &amp; Data"/>
+<meta class="elastic" name="w_search_type" content="marketing"/>
+<meta class="elastic" name="description" content="FTSE Russell is a leading global provider of benchmarks, analytics, and data solutions with multi-asset capabilities. Find out more."/>
+
+
+	
+		<meta class="elastic" name="w_page_type_id" content="lseg-page-type:home-page"/>
+	
+
+
+	
+		<meta class="elastic" name="w_page_type" content="Home Page"/>
+	
+
+<meta class="elastic" name="w_search_date" content="2026-01-26T14:34:30.663Z"/>
+
+<meta class="elastic" name="w_published_year" content="years:2026"/>
+<meta class="elastic" name="w_published_month" content="months:1"/>
+
+
+	
+		<meta class="elastic" name="w_lseg_sectors_id" content="lseg-sectors:indices-and-benchmarks"/>
+	
+
+	
+		<meta class="elastic" name="w_lseg_sectors" content="Indices and Benchmarks"/>
+	
+
+
+	
+		<meta class="elastic" name="w_division_id" content="division:benchmarks-and-indexes"/>
+	
+
+	
+		<meta class="elastic" name="w_division" content="FTSE Russell"/>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta class="elastic" name="w_thumbnail_image" content="https://www.lseg.com/content/dam/ftse-russell/en_us/images/logos/thumbnail/ftse-russell-logo-social-share.jpg.transform/rect-768/q90/image.jpg"/>
+<meta class="elastic" name="w_thumbnail_image_alt_text" content="FTSE Russell logo"/>
+
+
+
+
+
+
+
+	
+		<meta class="elastic" name="w_brand_id" content="brand-and-products:ftse-russell"/>
+	
+
+	
+		<meta class="elastic" name="w_brand" content="FTSE Russell"/>
+	
+
+
+
+
+
+
+
+
+
+
+<meta class="elastic" name="w_site_id" content="ftse"/>
+<meta class="elastic" name="w_sitename" content="LSEG"/>
+
+
+
+
+
+
+
+
+
+
+
+<meta property="og:title" content="FTSE Russell Indices, Insights &amp; Data"/>
+<meta property="og:description" content="FTSE Russell is a leading global provider of benchmarks, analytics, and data solutions with multi-asset capabilities. Find out more."/>
+
+    <meta property="og:image" content="https://www.lseg.com/content/dam/ftse-russell/en_us/images/logos/thumbnail/ftse-russell-logo-social-share.jpg.transform/rect-768/q90/image.jpg"/>
+    <meta property="og:image:width" content="768"/>
+    <meta property="og:image:height" content="432"/>
+
+<meta property="og:url" content="https://www.lseg.com/en/ftse-russell"/>
+
+
+
+
+
+
+
+
+    
+    <meta property="twitter:image" content="https://www.lseg.com/content/dam/ftse-russell/en_us/images/logos/thumbnail/ftse-russell-logo-social-share.jpg.transform/rect-768/q90/image.jpg"/>
+    <meta property="twitter:image:width" content="768"/>
+    <meta property="twitter:image:height" content="432"/>
+
+
+
+
+
+    <meta property="twitter:card" content="summary"/>
+
+
+
+
+
+
+
+	<link rel="alternate" hreflang="x-default" href="https://www.lseg.com/en/ftse-russell"/>
+
+	<link rel="alternate" hreflang="ja" href="https://www.lseg.com/ja/ftse-russell"/>
+
+	<link rel="alternate" hreflang="en" href="https://www.lseg.com/en/ftse-russell"/>
+
+	<link rel="alternate" hreflang="zh-CN" href="https://www.lseg.com.cn/zh/ftse-russell"/>
+
+
+
+    
+
+    
+
+    
+    
+     <link href="/etc/designs/forge-ui/versions/forge-ui-v5-24-0/main.css" rel="stylesheet"/>
+    
+
+     
+        
+    
+<link rel="stylesheet" href="/etc.clientlibs/lseg/clientlibs.min.css" type="text/css">
+
+
+
+        
+	
+	
+    <style>
+.SiteFooter .SearchInput-input {
+    background-color: transparent !important;
+}
+</style>
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+	
+
+
+    
+<script src="/etc.clientlibs/forge/components/data-layer/page/v1/page/clientlibs.min.js"></script>
+
+
+
+<script>
+var pausePageLoadTracking=false;
+var digitalData={"pageInstanceID":"PRODUCTION","page":{"attributes":{"businessUnit":"","country":"global","language":"en","lsegSectors":"Indices and Benchmarks","division":"FTSE Russell"},"category":{},"pageInfo":{"pageTitle":"FTSE Russell Indices, Insights \u0026 Data | LSEG","pageID":"c99f7a02-7cb2-3621-85cc-66597dba7ef0","pageURL":"https://www.lseg.com/en/ftse-russell","pageName":"ftse-russell:lseg open page  v2::global:en","pageTemplate":"Refinitiv_lseg open page  v2_template","documentAge":"0","createDate":"2026-01-26","publishDate":"2026-01-26","pageType":"lseg open page  v2"}},"product":{"brand":"ftse-russell"}};
+</script>
+
+
+    
+    
+
+
+
+
+<script>
+   //prehiding snippet for Adobe Target with asynchronous tags deployment
+   ;(function(win, doc, style, timeout) {
+   var STYLE_ID = 'at-body-style';
+   function getParent() {
+      return doc.getElementsByTagName('head')[0];
+   }
+   function addStyle(parent, id, def) {
+      if (!parent) {
+      return;
+      }
+      var style = doc.createElement('style');
+      style.id = id;
+      style.innerHTML = def;
+      parent.appendChild(style);
+   }
+   function removeStyle(parent, id) {
+      if (!parent) {
+      return;
+      }
+      var style = doc.getElementById(id);
+      if (!style) {
+      return;
+      }
+      parent.removeChild(style);
+   }
+   addStyle(getParent(), STYLE_ID, style);
+   setTimeout(function() {
+      removeStyle(getParent(), STYLE_ID);
+   }, timeout);
+   }(window, document, "body {opacity: 0 !important}", 3000));
+</script>
+<script src="https://assets.adobedtm.com/feae4c3fa968/be7b2b2f0844/launch-5471ef9b8e02.min.js" defer></script>
+
+
+</head>
+
+	<body class="forge-editable-page-v2 page basicpage" data-aem-mode="publish" data-tracking-params="[&#34;utm_campaign&#34;,&#34;utm_medium&#34;,&#34;utm_source&#34;,&#34;utm_content&#34;,&#34;utm_term&#34;,&#34;elqCampaignId&#34;,&#34;referredBy&#34;]" data-error-page-json="{}">
+        
+        
+			
+	
+	
+	
+	
+	
+	<div id="root">
+
+		
+		
+	
+	
+
+		
+
+    
+    
+    
+    
+    
+    
+    
+        
+            
+    
+            <header class="layout-container container responsivegrid">
+
+    
+    
+    
+    
+    
+    
+    
+        
+            
+    
+            <div class="experiencefragment">
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+        
+
+        
+
+  
+
+
+        
+
+    
+    
+    
+    
+    
+    
+    
+        
+            
+    
+            
+
+    
+    
+
+
+
+    
+    
+    
+    
+        
+    
+    
+    
+        
+
+
+    
+    
+
+
+
+    
+    <div data-react-from-markup-container="true">
+        
+            <div class="AccessibilityLink" data-rehydratable="AccessibilityLink" data-target-element="SemanticMain" data-label="Skip navigation" data-position="left" data-background-type="dark">
+                <div class="AccessibilityLink-left">
+                    <button class="Anchor Typestack--p1Link Link Link--inline Link--iconUndefined AccessibilityLink-link AccessibilityLink-link--dark" type="button">Skip navigation</button>
+                </div>
+            </div>
+        
+        <nav class="GlobalNav" data-rehydratable="GlobalNav" data-options="[{&quot;value&quot;:&quot;https://www.lseg.com/en&quot;,&quot;label&quot;:&quot;LSEG&quot;},{&quot;value&quot;:&quot;https://www.lseg.com/en/data-analytics&quot;,&quot;label&quot;:&quot;Data &amp; Analytics&quot;},{&quot;value&quot;:&quot;https://www.lseg.com/en/ftse-russell&quot;,&quot;label&quot;:&quot;FTSE Russell&quot;},{&quot;value&quot;:&quot;https://www.londonstockexchange.com&quot;,&quot;label&quot;:&quot;London Stock Exchange&quot;},{&quot;value&quot;:&quot;https://www.lseg.com/en/fx&quot;,&quot;label&quot;:&quot;FX&quot;},{&quot;value&quot;:&quot;https://www.lseg.com/en/post-trade&quot;,&quot;label&quot;:&quot;Post Trade&quot;},{&quot;value&quot;:&quot;https://www.lseg.com/en/risk-intelligence&quot;,&quot;label&quot;:&quot;Risk Intelligence&quot;}]" data-selected="2" data-title="&quot;Our businesses&quot;">
+            <ul class="GlobalNavItem-list" data-rehydratable-children="true">
+                <li class="GlobalNavItem">
+                    <a class="GlobalNavItem-link Typestack--navRegular" href="https://www.lseg.com/en" target="_top">
+                        LSEG
+                    </a>
+                
+                    <a class="GlobalNavItem-link Typestack--navRegular" href="https://www.lseg.com/en/data-analytics" target="_top">
+                        Data &amp; Analytics
+                    </a>
+                
+                    <a class="GlobalNavItem-link Typestack--navRegular" href="https://www.lseg.com/en/ftse-russell" target="_top">
+                        FTSE Russell
+                    </a>
+                
+                    <a class="GlobalNavItem-link Typestack--navRegular" href="https://www.londonstockexchange.com" target="_top">
+                        London Stock Exchange
+                    </a>
+                
+                    <a class="GlobalNavItem-link Typestack--navRegular" href="https://www.lseg.com/en/fx" target="_top">
+                        FX
+                    </a>
+                
+                    <a class="GlobalNavItem-link Typestack--navRegular" href="https://www.lseg.com/en/post-trade" target="_top">
+                        Post Trade
+                    </a>
+                
+                    <a class="GlobalNavItem-link Typestack--navRegular" href="https://www.lseg.com/en/risk-intelligence" target="_top">
+                        Risk Intelligence
+                    </a>
+                </li>
+            </ul>
+
+            <div class="GlobalNavDropdown" data-rehydratable-children="true">
+                <div class="GlobalNavDropdown-container">
+                    <span class="GlobalNavDropdown-title Typestack--p3">Our businesses</span>
+                    <button aria-haspopup="listbox" aria-controls="combo-box-options" aria-expanded="false" class="GlobalNavDropdown-button Typestack--navRegular">
+                        LSEG
+                        <span class="GlobalNavDropdown-icon">
+                        <svg class="Icon Icon--s" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+                            <path fill="#FFFFFF" d="M17.037 16.745l5.508-5.345L24 12.814l-7.996 7.778L8 12.814 9.455 11.4l5.52 5.367 1.025.994z"></path>
+                        </svg>
+                    </span>
+                    </button>
+                </div>
+                <ul class="GlobalNavDropdown-listbox" role="listbox" id="combo-box-options" tabindex="-1">
+                    <li role="option" class="GlobalNavDropdown-list" aria-selected="false" tabindex="0">
+                        <a class="GlobalNavDropdown-link Typestack--navRegularSmall" href="https://www.lseg.com/en" target="_top" tabindex="-1">LSEG</a>
+                    
+                        <a class="GlobalNavDropdown-link Typestack--navRegularSmall" href="https://www.lseg.com/en/data-analytics" target="_top" tabindex="-1">Data &amp; Analytics</a>
+                    
+                        <a class="GlobalNavDropdown-link Typestack--navRegularSmall" href="https://www.lseg.com/en/ftse-russell" target="_top" tabindex="-1">FTSE Russell</a>
+                    
+                        <a class="GlobalNavDropdown-link Typestack--navRegularSmall" href="https://www.londonstockexchange.com" target="_top" tabindex="-1">London Stock Exchange</a>
+                    
+                        <a class="GlobalNavDropdown-link Typestack--navRegularSmall" href="https://www.lseg.com/en/fx" target="_top" tabindex="-1">FX</a>
+                    
+                        <a class="GlobalNavDropdown-link Typestack--navRegularSmall" href="https://www.lseg.com/en/post-trade" target="_top" tabindex="-1">Post Trade</a>
+                    
+                        <a class="GlobalNavDropdown-link Typestack--navRegularSmall" href="https://www.lseg.com/en/risk-intelligence" target="_top" tabindex="-1">Risk Intelligence</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        
+    </div>
+
+
+    
+    
+
+    
+    
+
+            
+    
+
+        
+    
+
+
+
+
+	
+    
+
+
+
+
+
+
+</div>
+<div class="experiencefragment">
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+    
+        
+
+        
+
+  
+
+
+        
+
+    
+    
+    
+    
+    
+    
+    
+        
+            
+    
+            
+
+    
+    
+
+
+
+    
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+	
+	
+    
+
+    <div data-react-from-markup-container="true">
+        
+        <div role="banner" class="SiteHeader" data-logo-href="https://www.lseg.com/en/ftse-russell" data-logo-path="/content/dam/ftse-russell/en_us/images/logos/bespoke/lseg-ftse-russell-logo-hrz-rgb-pos.svg" data-logo-text="FTSE Russell home page" data-logo-size="horizontal" data-search="true" data-search-submit-label="Submit search" data-clear-search-label="Clear search" data-search-form-method="get" data-search-input-name="q" data-search-form-action="https://www.lseg.com/en/ftse-russell/ftse-search" data-placeholder="Search" data-rehydratable="SiteHeaderWithContext" data-search-input-api-method="GET" data-typeahead-url="/content/experience-fragments/lseg/en_us/ftse-russell/site-header-experience-fragment/master/jcr:content/root/header_container/header-container/site_specific_header.suggest.json" data-size="&amp;quot;0&amp;quot;" data-search-min-length="3" data-site-header='[{&#34;title&#34;:&#34;Benchmarks and Indices&#34;,&#34;navType&#34;:&#34;withOutFlyoutMenu&#34;,&#34;sections&#34;:[{&#34;rowItems&#34;:[{&#34;contentType&#34;:&#34;navList&#34;,&#34;featureItem&#34;:{&#34;headingRank&#34;:&#34;h4&#34;,&#34;isLink&#34;:false,&#34;linkWithIcon&#34;:{}},&#34;navItems&#34;:[{&#34;title&#34;:&#34;Equity&#34;,&#34;href&#34;:&#34;/en/ftse-russell/indices/equity-indices&#34;},{&#34;title&#34;:&#34;Fixed Income&#34;,&#34;href&#34;:&#34;/en/ftse-russell/indices/fixed-income-indices&#34;},{&#34;title&#34;:&#34;Real Estate&#34;,&#34;href&#34;:&#34;/en/ftse-russell/indices/real-estate&#34;},{&#34;title&#34;:&#34;Infrastructure&#34;,&#34;href&#34;:&#34;/en/ftse-russell/indices/infrastructure-indices&#34;},{&#34;title&#34;:&#34;Digital Assets&#34;,&#34;href&#34;:&#34;/en/ftse-russell/indices/digital-asset-indices&#34;},{&#34;title&#34;:&#34;Benchmark Rates&#34;,&#34;href&#34;:&#34;/en/ftse-russell/benchmarks&#34;},{&#34;title&#34;:&#34;Dividend Indices&#34;,&#34;href&#34;:&#34;/en/ftse-russell/indices/dividend-indices&#34;}],&#34;sectionLabel&#34;:&#34;Browse Categories&#34;}],&#34;isHighlighted&#34;:false},{&#34;rowItems&#34;:[{&#34;contentType&#34;:&#34;navList&#34;,&#34;featureItem&#34;:{&#34;isLink&#34;:false,&#34;linkWithIcon&#34;:{}},&#34;navItems&#34;:[{&#34;title&#34;:&#34;Sustainable Investment&#34;,&#34;href&#34;:&#34;/en/ftse-russell/indices/sustainable-investment-indices&#34;},{&#34;title&#34;:&#34;Factor &amp; Smart Beta&#34;,&#34;href&#34;:&#34;/en/ftse-russell/indices/factors-smart-beta-indices&#34;},{&#34;title&#34;:&#34;Shariah Compliant&#34;,&#34;href&#34;:&#34;/en/ftse-russell/indices/shariah-compliant&#34;},{&#34;title&#34;:&#34;Multi-asset&#34;,&#34;href&#34;:&#34;/en/ftse-russell/indices/multi-asset-indices&#34;}],&#34;sectionLabel&#34;:&#34;Browse by Objective&#34;}],&#34;isHighlighted&#34;:false,&#34;relatedLinkOptions&#34;:{&#34;linkLabel&#34;:&#34;Search for a benchmark or index&#34;,&#34;icon&#34;:&#34;/content/dam/forge/icons/ui/blue/arrow-right.svg&#34;,&#34;href&#34;:&#34;/en/ftse-russell/indices&#34;}},{&#34;rowItems&#34;:[{&#34;contentType&#34;:&#34;navList&#34;,&#34;featureItem&#34;:{&#34;headingRank&#34;:&#34;h4&#34;,&#34;isLink&#34;:false,&#34;linkWithIcon&#34;:{}},&#34;navItems&#34;:[{&#34;title&#34;:&#34;FTSE Global Equity Index Series&#34;,&#34;href&#34;:&#34;/en/ftse-russell/indices/global-equity-index-series&#34;},{&#34;title&#34;:&#34;Russell US&#34;,&#34;href&#34;:&#34;/en/ftse-russell/indices/russell-us&#34;},{&#34;title&#34;:&#34;FTSE UK&#34;,&#34;href&#34;:&#34;/en/ftse-russell/indices/uk&#34;},{&#34;title&#34;:&#34;FTSE World Government Bond&#34;,&#34;href&#34;:&#34;/en/ftse-russell/indices/world-government-bond-index&#34;},{&#34;title&#34;:&#34;WMR FX Benchmarks&#34;,&#34;href&#34;:&#34;/en/ftse-russell/benchmarks/wmr-fx-benchmarks&#34;},{&#34;title&#34;:&#34;Interest Rate Benchmarks&#34;,&#34;href&#34;:&#34;/en/ftse-russell/benchmarks/interest-rate-benchmarks&#34;}],&#34;sectionLabel&#34;:&#34;Featured&#34;}],&#34;isHighlighted&#34;:false}]},{&#34;title&#34;:&#34;Index Resources&#34;,&#34;navType&#34;:&#34;withOutFlyoutMenu&#34;,&#34;sections&#34;:[{&#34;rowItems&#34;:[{&#34;contentType&#34;:&#34;navList&#34;,&#34;featureItem&#34;:{&#34;isLink&#34;:false,&#34;linkWithIcon&#34;:{}},&#34;navItems&#34;:[{&#34;title&#34;:&#34;Constituents &amp; Weights&#34;,&#34;href&#34;:&#34;/en/ftse-russell/index-resources/constituent-weights&#34;},{&#34;title&#34;:&#34;Index Announcements&#34;,&#34;href&#34;:&#34;/en/ftse-russell/index-resources/notices&#34;},{&#34;title&#34;:&#34;Index-linked products&#34;,&#34;href&#34;:&#34;/en/ftse-russell/index-linked-products&#34;},{&#34;title&#34;:&#34;Attribution Requirements&#34;,&#34;href&#34;:&#34;/en/ftse-russell/index-resources/attribution&#34;},{&#34;title&#34;:&#34;Ticker Codes&#34;,&#34;href&#34;:&#34;/en/ftse-russell/index-resources/ticker-codes&#34;},{&#34;title&#34;:&#34;Russell Reconstitution&#34;,&#34;href&#34;:&#34;/en/ftse-russell/russell-reconstitution&#34;}],&#34;sectionLabel&#34;:&#34;Resources&#34;}],&#34;isHighlighted&#34;:false},{&#34;rowItems&#34;:[{&#34;contentType&#34;:&#34;navList&#34;,&#34;featureItem&#34;:{&#34;isLink&#34;:false,&#34;linkWithIcon&#34;:{}},&#34;navItems&#34;:[{&#34;title&#34;:&#34;Factsheets&#34;,&#34;href&#34;:&#34;/en/ftse-russell/index-resources/factsheets&#34;},{&#34;title&#34;:&#34;Historic Values&#34;,&#34;href&#34;:&#34;/en/ftse-russell/index-resources/historic-index-values&#34;},{&#34;title&#34;:&#34;Performance Quilts&#34;,&#34;href&#34;:&#34;/en/ftse-russell/index-resources/performance-quilts&#34;},{&#34;title&#34;:&#34;Russell US Performance Calculator&#34;,&#34;href&#34;:&#34;/en/ftse-russell/index-performance-calculator&#34;},{&#34;title&#34;:&#34;ESG Metrics&#34;,&#34;href&#34;:&#34;/en/ftse-russell/esg-metrics&#34;}],&#34;sectionLabel&#34;:&#34;Index Performance&#34;}],&#34;isHighlighted&#34;:false},{&#34;rowItems&#34;:[{&#34;contentType&#34;:&#34;navList&#34;,&#34;featureItem&#34;:{&#34;headingRank&#34;:&#34;h4&#34;,&#34;isLink&#34;:false,&#34;linkWithIcon&#34;:{}},&#34;navItems&#34;:[{&#34;title&#34;:&#34;Governance &amp; Policy&#34;,&#34;href&#34;:&#34;/en/ftse-russell/governance&#34;},{&#34;title&#34;:&#34;Policies &amp; Documentation&#34;,&#34;href&#34;:&#34;/en/ftse-russell/governance/index-policy-and-methodology&#34;},{&#34;title&#34;:&#34;Market Consultations&#34;,&#34;href&#34;:&#34;/en/ftse-russell/governance/market-consultations&#34;},{&#34;title&#34;:&#34;Benchmark Regulation&#34;,&#34;href&#34;:&#34;/en/ftse-russell/governance/regulation&#34;},{&#34;title&#34;:&#34;Advisory &amp; Oversight Committees&#34;,&#34;href&#34;:&#34;/en/ftse-russell/external-advisory-committees&#34;},{&#34;title&#34;:&#34;Classification Frameworks &#34;,&#34;href&#34;:&#34;/en/ftse-russell/governance/classification-frameworks&#34;}],&#34;sectionLabel&#34;:&#34;Governance&#34;}],&#34;isHighlighted&#34;:false}]},{&#34;title&#34;:&#34;Data&#34;,&#34;navType&#34;:&#34;withOutFlyoutMenu&#34;,&#34;sections&#34;:[{&#34;rowItems&#34;:[{&#34;contentType&#34;:&#34;navList&#34;,&#34;featureItem&#34;:{&#34;headingRank&#34;:&#34;h4&#34;,&#34;isLink&#34;:false,&#34;linkWithIcon&#34;:{}},&#34;navItems&#34;:[{&#34;title&#34;:&#34;Sustainability and ESG data&#34;,&#34;href&#34;:&#34;/en/ftse-russell/sustainability-and-esg-data&#34;},{&#34;title&#34;:&#34;ESG Scores&#34;,&#34;href&#34;:&#34;/en/ftse-russell/esg-scores&#34;},{&#34;title&#34;:&#34;Industry Classification Benchmark&#34;,&#34;href&#34;:&#34;/en/ftse-russell/industry-classification-benchmark-icb&#34;},{&#34;title&#34;:&#34;Mergent&#34;,&#34;href&#34;:&#34;/en/ftse-russell/mergent&#34;}],&#34;sectionLabel&#34;:&#34;Our data solutions&#34;}],&#34;isHighlighted&#34;:false}]},{&#34;title&#34;:&#34;Your Industry&#34;,&#34;navType&#34;:&#34;withOutFlyoutMenu&#34;,&#34;sections&#34;:[{&#34;isHighlighted&#34;:false,&#34;colItems&#34;:[{&#34;contentType&#34;:&#34;navList&#34;,&#34;featureItem&#34;:{&#34;headingRank&#34;:&#34;h4&#34;,&#34;isLink&#34;:false,&#34;linkWithIcon&#34;:{}},&#34;navItems&#34;:[{&#34;title&#34;:&#34;Asset Owners&#34;,&#34;href&#34;:&#34;/en/ftse-russell/asset-owners&#34;},{&#34;title&#34;:&#34;Asset Management&#34;,&#34;href&#34;:&#34;/en/ftse-russell/asset-management&#34;},{&#34;title&#34;:&#34;Investment Banks&#34;,&#34;href&#34;:&#34;/en/ftse-russell/banks&#34;},{&#34;title&#34;:&#34;Wealth Management&#34;,&#34;href&#34;:&#34;/en/ftse-russell/wealth-managers&#34;},{&#34;title&#34;:&#34;Hedge Funds&#34;,&#34;href&#34;:&#34;/en/ftse-russell/hedge-funds&#34;},{&#34;title&#34;:&#34;Product Issuers&#34;,&#34;href&#34;:&#34;/en/ftse-russell/product-issuers&#34;}],&#34;sectionLabel&#34;:&#34;Client Solutions&#34;},{&#34;contentType&#34;:&#34;navList&#34;,&#34;featureItem&#34;:{&#34;headingRank&#34;:&#34;h4&#34;,&#34;isLink&#34;:false,&#34;linkWithIcon&#34;:{}},&#34;navItems&#34;:[{&#34;title&#34;:&#34;Structured Products&#34;,&#34;href&#34;:&#34;/en/ftse-russell/structured-products&#34;},{&#34;title&#34;:&#34;Direct Indexing Solutions&#34;,&#34;href&#34;:&#34;/en/ftse-russell/direct-indexing-solutions&#34;},{&#34;title&#34;:&#34;Custom Indexing Solutions&#34;,&#34;href&#34;:&#34;/en/ftse-russell/custom-indexing-solutions&#34;},{&#34;title&#34;:&#34;Academic&#34;,&#34;href&#34;:&#34;/en/ftse-russell/academic-solutions&#34;}]}]}]},{&#34;title&#34;:&#34;Research and Insights&#34;,&#34;navType&#34;:&#34;withOutFlyoutMenu&#34;,&#34;sections&#34;:[{&#34;rowItems&#34;:[{&#34;contentType&#34;:&#34;navFeatureItem&#34;,&#34;featureItem&#34;:{&#34;headingText&#34;:&#34;Data-driven thought leadership and analysis&#34;,&#34;isLink&#34;:true,&#34;imageSrc&#34;:&#34;/content/dam/lseg/en_us/images/photography/artworked/standard/lseg-insights-turn-words-into-action-digital-economy-card-825x464.jpg&#34;,&#34;linkWithIcon&#34;:{&#34;linkLabel&#34;:&#34;See all insights for FTSE Russell&#34;,&#34;icon&#34;:&#34;/content/dam/forge/icons/ui/blue/arrow-right.svg&#34;,&#34;href&#34;:&#34;/en/insights/ftse-russell&#34;}},&#34;sectionLabel&#34;:&#34;FTSE Russell Insights&#34;}],&#34;isHighlighted&#34;:false},{&#34;rowItems&#34;:[{&#34;contentType&#34;:&#34;navList&#34;,&#34;featureItem&#34;:{&#34;isLink&#34;:false,&#34;linkWithIcon&#34;:{}},&#34;navItems&#34;:[{&#34;title&#34;:&#34;Research Library&#34;,&#34;href&#34;:&#34;/en/ftse-russell/research&#34;}],&#34;sectionLabel&#34;:&#34;Research&#34;},{&#34;contentType&#34;:&#34;navList&#34;,&#34;featureItem&#34;:{&#34;isLink&#34;:false,&#34;linkWithIcon&#34;:{}},&#34;navItems&#34;:[{&#34;title&#34;:&#34;Market Insights&#34;,&#34;href&#34;:&#34;/en/ftse-russell/market-insights&#34;}],&#34;sectionLabel&#34;:&#34;Global Investment Research&#34;},{&#34;contentType&#34;:&#34;navList&#34;,&#34;featureItem&#34;:{&#34;isLink&#34;:false,&#34;linkWithIcon&#34;:{}},&#34;navItems&#34;:[{&#34;icon&#34;:&#34;/content/dam/forge/icons/themed/ui/external.svg&#34;,&#34;title&#34;:&#34;BrightTALK channel&#34;,&#34;href&#34;:&#34;https://www.brighttalk.com/channel/9819/&#34;}],&#34;sectionLabel&#34;:&#34;Webinars&#34;}],&#34;isHighlighted&#34;:false},{&#34;rowItems&#34;:[{&#34;contentType&#34;:&#34;navList&#34;,&#34;featureItem&#34;:{&#34;isLink&#34;:false,&#34;linkWithIcon&#34;:{}},&#34;navItems&#34;:[{&#34;title&#34;:&#34;Equity&#34;,&#34;href&#34;:&#34;/en/ftse-russell/investment-themes/equity&#34;},{&#34;title&#34;:&#34;Fixed Income&#34;,&#34;href&#34;:&#34;/en/ftse-russell/investment-themes/fixed-income&#34;},{&#34;title&#34;:&#34;Sustainable Investment&#34;,&#34;href&#34;:&#34;/en/ftse-russell/investment-themes/sustainable-investment&#34;},{&#34;title&#34;:&#34;Digital Assets&#34;,&#34;href&#34;:&#34;/en/ftse-russell/investment-themes/digital-asset&#34;}],&#34;sectionLabel&#34;:&#34;Investment Themes&#34;},{&#34;contentType&#34;:&#34;navList&#34;,&#34;featureItem&#34;:{&#34;isLink&#34;:false,&#34;linkWithIcon&#34;:{}},&#34;navItems&#34;:[{&#34;title&#34;:&#34;View the latest episodes&#34;,&#34;href&#34;:&#34;/en/ftse-russell/convenes&#34;}],&#34;sectionLabel&#34;:&#34;FTSE Russell Convenes&#34;}],&#34;isHighlighted&#34;:false}]}]'>
+            <nav class="SiteHeader-inner">
+                <a class="SiteHeader-logo" href="https://www.lseg.com/en/ftse-russell">
+                    <div class="SiteHeader-logoContainer">
+                        <img src="/content/dam/ftse-russell/en_us/images/logos/bespoke/lseg-ftse-russell-logo-hrz-rgb-pos.svg" class="SiteHeader-logoImg SiteHeader-horizontal" alt="FTSE Russell home page"/>
+                    </div>
+                </a>
+                
+                <div class="SiteHeader-buttons">
+                    <button aria-label="Search" class="SiteHeader-searchButton">
+                        <svg class="Icon Icon--s" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 32 32" xmlns:xlink="https://www.w3.org/1999/xlink" aria-hidden="true" focusable="false">
+                            <path fill="" d="M13.9585481,2 C20.5630719,2 25.9170963,7.35402437 25.9170963,13.9585481 C25.9170963,16.8301187 24.7686012,19.6049993 23.0816215,21.6664982 L29.8994949,28.4852814 L28.4852814,29.8994949 L21.6640371,23.0753342 C19.6025381,24.7623139 16.8301187,25.9170963 13.9585481,25.9170963 C7.35402437,25.9170963 2,20.5630719 2,13.9585481 C2,7.35402437 7.35402437,2 13.9585481,2 Z M14,4 C8.4771525,4 4,8.4771525 4,14 C4,19.5228475 8.4771525,24 14,24 C19.5228475,24 24,19.5228475 24,14 C24,8.4771525 19.5228475,4 14,4 Z">
+                            </path>
+                        </svg>
+                    </button>
+                    <button aria-label="Menu" class="SiteHeader-toggleButton">
+                        <svg class="Icon Icon--s" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 32 32" xmlns:xlink="https://www.w3.org/1999/xlink" aria-hidden="true" focusable="false">
+                            <path fill="" d="M2,24 L2,22 L30,22 L30,24 L2,24 Z M2,17 L2,15 L30,15 L30,17 L2,17 Z M2,10 L2,8 L30,8 L30,10 L2,10 Z">
+                            </path>
+                        </svg>
+                    </button>
+                </div>
+                
+                    
+    
+    
+    
+
+    
+    
+    
+
+    <ul class="SiteHeader-menus" role="menubar">
+        
+    
+    
+    
+        
+<div>
+    
+    
+    
+
+    
+        
+    
+    
+    
+
+    
+</div>
+
+    
+        
+<div>
+    
+    
+    
+
+    
+        
+    
+    
+    
+
+    
+</div>
+
+    
+        
+<div>
+    
+    
+    
+
+    
+        
+    
+    
+    
+
+    
+</div>
+
+    
+        
+<div>
+    
+    
+    
+
+    
+        
+    
+    
+    
+
+    
+</div>
+
+    
+        
+<div>
+    
+    
+    
+
+    
+        
+    
+    
+    
+
+    
+</div>
+
+    
+    
+
+    </ul>
+    
+
+
+                
+            </nav>
+        </div>
+    </div>
+    
+
+
+    
+    
+
+    
+    
+
+            
+    
+
+        
+    
+
+
+
+
+	
+    
+
+
+
+
+
+
+</div>
+
+            
+    
+
+        
+    
+
+</header>
+<main class="layout-container container responsivegrid">
+
+    
+    
+    
+    
+    
+    
+    
+        
+            
+    
+            
+    
+    
+    
+    
+    
+    
+        
+    <div class="u-hiddenVisually" aria-hidden="true">
+        <nav aria-label="Breadcrumb" class="Breadcrumb">
+            <ol class="Breadcrumb-items">
+                
+                    <li class="BreadcrumbItem">
+                    	<span aria-current="page" class="Anchor Typestack--p3Bold" data-find-method="Breadcrumb Component | Breadcrumb Component" data-title="FTSE Russell">
+                        	FTSE Russell
+						</span>
+                    </li>
+                
+            </ol>
+            <script type="application/ld+json">{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"FTSE Russell","@id":"https://www.lseg.com/en/ftse-russell"}}]}</script>
+        </nav>
+    </div>
+
+    
+
+<span class="SemanticMain" tabindex="-1" aria-hidden="true"></span>
+
+
+    
+    
+
+
+
+    
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+    
+
+    
+    
+	
+	
+	
+	
+	
+	
+		<div data-react-from-markup-container="true">
+			<div class="MultiItemBanner" data-rehydratable="MultiItemBanner" data-aria-label-prev-button="Previous" data-aria-label-next-button="Next" data-heading="FTSE Russell" data-tile-heading-rank="h2" data-heading-style="h1" data-heading-rank="h1" data-height="medium" data-theme="dark" data-tiles="[{&#34;image&#34;:{&#34;src&#34;:&#34;/content/dam/ftse-russell/en_us/images/photography/artworked/hero/macro-microscope-hero.png.transform/mibanner-m-1440/q82/image.png&#34;,&#34;alt&#34;:&#34;&#34;,&#34;srcSet&#34;:&#34;/content/dam/ftse-russell/en_us/images/photography/artworked/hero/macro-microscope-hero.png.transform/mibanner-m-1440/q82/image.png 1440w, /content/dam/ftse-russell/en_us/images/photography/artworked/hero/macro-microscope-hero.png.transform/mibanner-m-768/q82/image.png 768w, /content/dam/ftse-russell/en_us/images/photography/artworked/hero/macro-microscope-hero.png.transform/mibanner-m-390/q82/image.png 390w&#34;},&#34;subHeading&#34;:&#34;ARTICLE:&#34;,&#34;link&#34;:{&#34;label&#34;:&#34;Test your knowledge of markets and indices in our Q4 quiz&#34;,&#34;href&#34;:&#34;/content/lseg/en_us/insights/ftse-russell/test-your-knowledge-of-markets-indices-in-q4-quiz&#34;}},{&#34;image&#34;:{&#34;src&#34;:&#34;/content/dam/data-analytics/en_us/insights/images/photography/hero/lda3026022-markets-economy-hero-1440x355-2k.jpg.transform/mibanner-m-1440/q82/image.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;srcSet&#34;:&#34;/content/dam/data-analytics/en_us/insights/images/photography/hero/lda3026022-markets-economy-hero-1440x355-2k.jpg.transform/mibanner-m-1440/q82/image.jpg 1440w, /content/dam/data-analytics/en_us/insights/images/photography/hero/lda3026022-markets-economy-hero-1440x355-2k.jpg.transform/mibanner-m-768/q82/image.jpg 768w, /content/dam/data-analytics/en_us/insights/images/photography/hero/lda3026022-markets-economy-hero-1440x355-2k.jpg.transform/mibanner-m-390/q82/image.jpg 390w&#34;},&#34;subHeading&#34;:&#34;PODCAST:&#34;,&#34;link&#34;:{&#34;label&#34;:&#34;Design choices for a Paris-aligned benchmark&#34;,&#34;href&#34;:&#34;/content/lseg/en_us/insights/ftse-russell/design-choices-for-a-paris-aligned-benchmark&#34;}},{&#34;image&#34;:{&#34;src&#34;:&#34;/content/dam/ftse-russell/en_us/insights/images/photography/hero/fr2817020-financial-technology-hero-1440x355-a.jpg.transform/mibanner-m-1440/q82/image.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;srcSet&#34;:&#34;/content/dam/ftse-russell/en_us/insights/images/photography/hero/fr2817020-financial-technology-hero-1440x355-a.jpg.transform/mibanner-m-1440/q82/image.jpg 1440w, /content/dam/ftse-russell/en_us/insights/images/photography/hero/fr2817020-financial-technology-hero-1440x355-a.jpg.transform/mibanner-m-768/q82/image.jpg 768w, /content/dam/ftse-russell/en_us/insights/images/photography/hero/fr2817020-financial-technology-hero-1440x355-a.jpg.transform/mibanner-m-390/q82/image.jpg 390w&#34;},&#34;subHeading&#34;:&#34;WEBINAR:&#34;,&#34;link&#34;:{&#34;label&#34;:&#34;Why China’s a-shares are poised for global attention&#34;,&#34;href&#34;:&#34;https://www.brighttalk.com/webcast/9819/600304&#34;}},{&#34;image&#34;:{&#34;src&#34;:&#34;/content/dam/ftse-russell/en_us/images/photography/artworked/hero/the-forgotten-stimulus-hero.jpg.transform/mibanner-m-1440/q82/image.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;srcSet&#34;:&#34;/content/dam/ftse-russell/en_us/images/photography/artworked/hero/the-forgotten-stimulus-hero.jpg.transform/mibanner-m-1440/q82/image.jpg 1440w, /content/dam/ftse-russell/en_us/images/photography/artworked/hero/the-forgotten-stimulus-hero.jpg.transform/mibanner-m-768/q82/image.jpg 768w, /content/dam/ftse-russell/en_us/images/photography/artworked/hero/the-forgotten-stimulus-hero.jpg.transform/mibanner-m-390/q82/image.jpg 390w&#34;},&#34;subHeading&#34;:&#34;WEBINAR:&#34;,&#34;link&#34;:{&#34;label&#34;:&#34;APAC Financial Markets Spotlight&#34;,&#34;href&#34;:&#34;https://www.brighttalk.com/webcast/9819/658844&#34;}}]">
+				<div class="MultiItemBanner-inner">
+					<div class="MultiItemBanner-image">
+						<div class="MultiItemBanner-imageTransition is-active">
+							<div class="Image Image--cover Image--anchorC">
+								<img class="Image-img" loading="lazy" alt="" sizes="100vw" src="/content/dam/ftse-russell/en_us/images/photography/artworked/hero/macro-microscope-hero.png.transform/mibanner-m-1440/q82/image.png" srcset="/content/dam/ftse-russell/en_us/images/photography/artworked/hero/macro-microscope-hero.png.transform/mibanner-m-1440/q82/image.png 1440w, /content/dam/ftse-russell/en_us/images/photography/artworked/hero/macro-microscope-hero.png.transform/mibanner-m-768/q82/image.png 768w, /content/dam/ftse-russell/en_us/images/photography/artworked/hero/macro-microscope-hero.png.transform/mibanner-m-390/q82/image.png 390w"/>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+		
+    
+         
+    
+    
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<div data-react-from-markup-container="true">
+		<div class="StockTicker" data-rehydratable="StockTicker" data-api-url="/content/lseg/en_us/ftse-russell/jcr:content/root/container/page_header_region/page-header-region/ticker.ticker.json" data-index-codes="[{&#34;indexCode&#34;:&#34;AW01&#34;,&#34;pagePath&#34;:&#34;/content/lseg/en_us/ftse-russell/indices/global-equity-index-series.html&#34;},{&#34;indexCode&#34;:&#34;RUT&#34;,&#34;pagePath&#34;:&#34;/content/lseg/en_us/ftse-russell/indices/russell-us.html&#34;},{&#34;indexCode&#34;:&#34;UKX&#34;,&#34;pagePath&#34;:&#34;/content/lseg/en_us/ftse-russell/indices/uk.html&#34;},{&#34;indexCode&#34;:&#34;MCX&#34;,&#34;pagePath&#34;:&#34;/content/lseg/en_us/ftse-russell/indices/uk.html&#34;},{&#34;indexCode&#34;:&#34;4GGL&#34;,&#34;pagePath&#34;:&#34;/content/lseg/en_us/ftse-russell/indices/ftse4good.html&#34;}]" data-scroll-delay="4" data-background-type="dark" data-date-format="MMM dd, yyyy, hh:mm" data-play-aria-label="Play share price ticker" data-pause-aria-label="Pause share price ticker" data-previous-aria-label="Previous stock" data-next-aria-label="Next stock" data-ticker-title-aria-label="This is a list of {count} share price tickers. Use arrow keys to navigate each items." data-stale-aria-label="{code} stock has no change to {price} {currency}. Updated on {date}." data-increased-aria-label="{code} stock has increased by {netChange} or {percentualChange} percent to {price} {currency}. Updated on {date}." data-decreased-aria-label="{code} stock has decreased by {netChange} or {percentualChange} percent to {price} {currency}. Updated on {date}." data-skip-link-label="Skip to main content">
+		</div>
+	</div>
+
+
+
+    
+    
+
+    
+    
+
+
+
+
+
+<div class="page-content-region design-dialog">
+
+    
+    
+
+
+
+    
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+    
+
+    
+
+    
+
+    
+        
+    
+    <div class="Section Section--white">
+        <div class="Section-inner">
+            
+    
+    
+    
+    
+        
+    
+    
+    
+        
+
+
+
+
+    
+    
+
+
+
+    
+    
+    
+    
+    <div class="VerticalSpacing VerticalSpacing--m">
+        <div class="Header">
+            
+            
+    <div class="Header-heading">
+        
+            <h2 class="Heading Heading--l">
+                Your index partner for a changing world</h2>
+        
+    </div>
+
+            
+    <div class="Header-standfirst">
+        <p class="Standfirst Typestack--subline2">We provide category defining indices across asset classes and investment objectives to create new possibilities for the global investment community.</p>
+    </div>
+
+            
+        </div>
+                
+    </div>
+    
+
+
+    
+        
+    
+    
+    
+
+    
+    
+    
+    
+    
+	<div class="VerticalSpacing VerticalSpacing--l">
+		
+		
+
+		
+		
+
+		
+		 
+	
+	<div class="Grid Grid--2313">
+		<div class="Grid-items">
+			
+			<div class="Grid-item">
+				
+    
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+    
+
+
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+
+    <div class="ImageCard">
+        <div class="TextCardBase TextCardBase--bottom">
+            <div class="CardBase CardBase--small">
+                <a href="/en/ftse-russell/indices" class="Anchor Typestack--p1Link CardBase-link track-custom-clicks" data-title="Search now" data-link-type="link click" data-link-text="Search now" data-asset-title="link | Search now">
+                    <div class="CardBase-inner">
+                        <div class="ImageCard-content">
+                            <div class="ImageCard-background">
+                                <div class="ImageCard-backgroundImage">
+                                    
+    <div class="Image Image--cover Image--anchorC " style="background-image:url(/content/dam/ftse-russell/en_us/images/photography/artworked/thumbnail/indices/fr2973038-ftse-russell-indices-thumb-768x432.jpg.transform/rect-768/q90/image.jpg);">
+        
+    
+    
+        
+        
+            	<img alt="" class="Image-img" loading="lazy" src="/content/dam/ftse-russell/en_us/images/photography/artworked/thumbnail/indices/fr2973038-ftse-russell-indices-thumb-768x432.jpg.transform/rect-768/q90/image.jpg" srcset="/content/dam/ftse-russell/en_us/images/photography/artworked/thumbnail/indices/fr2973038-ftse-russell-indices-thumb-768x432.jpg.transform/rect-1536/q90/image.jpg 2x"/>
+        
+    
+    
+
+    </div>
+
+                                </div>
+                            </div>
+                            <div class="ImageCard-contentInner">
+                                <div class="TextCardBase-content">
+                                    <div class="TextCardBase-eyebrow">
+                                        <p class="Eyebrow Typestack--subline1">Benchmark and Index Finder</p>
+                                    </div>
+                                    <div class="TextCardBase-body">
+                                        <div class="TextCardBase-heading">
+                                            <h3 class="Heading Typestack Typestack--h4">
+                                                <strong>Search for a Benchmark or Index</strong>
+                                            </h3>
+                                        </div>
+                                    </div>
+                                    <div class="TextCardBase-footer">
+                                    	
+	                                        
+	                                        
+	                                        
+    
+        <span class="Anchor Typestack--p1Link Link Link--icon Link--iconRight">
+            <span id="textToAnnounce" class="u-hiddenVisually">Search now Opens in a new tab</span>
+            <span class="Link-inner Typestack--p1Bold" aria-hidden="true" aria-describedby="textToAnnounce">Search now</span>
+            <div aria-hidden="true" class="Link-icon" focusable="false">
+                
+                
+                
+    
+    
+    <?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow-right</title>
+    <defs>
+        <polygon id="path-arrow-right" points="17.0011941 24.1540971 22.5462782 18.8088059 24.0011941 20.2230195 16.0051095 28.0011941 8.00119408 20.2230195 9.45610999 18.8088059 15.0011941 24.1757798 15.0011941 3.99880592 17.0011941 3.99880592"/>
+    </defs>
+    <g id="arrow-right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="currentColor">
+            <use xlink:href="#path-arrow-right"/>
+        </mask>
+        <use id="Mask" fill="currentColor" fill-rule="nonzero" transform="translate(16.001194, 16.000000) rotate(-90.000000) translate(-16.001194, -16.000000) " xlink:href="#path-arrow-right"/>
+    </g>
+</svg>
+    
+
+	         </div>
+        </span>
+    
+
+	                                  	
+                                  		
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    
+
+
+    
+    
+
+    
+    
+
+			</div>
+			
+			
+			<div class="Grid-item">
+				
+    
+    
+    
+    
+        
+    
+    
+    
+         
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+
+    <div class="PairedCard">
+        <div class="TextCardBase TextCardBase--top">
+            <div class="CardBase CardBase--large CardBase--white">
+                 <a href="/en/insights/ftse-russell" class="Anchor Typestack--p1Link CardBase-link track-custom-clicks" data-link-text="Research Insights" data-asset-title="link | Research Insights" data-link-type="link click" data-title="Research Insights">
+                  <div class="CardBase-inner">
+                        <div class="PairedCard-content">
+                            <div class="PairedCard-image">
+                                
+    <div class="Image Image--cover Image--anchorC " style="background-image:url(/content/dam/lseg/en_us/insights/images/photography/thumbnail/lsg2942310-markets-economy-thumb-768x432-g.jpg.transform/rect-768/q90/image.jpg);">
+        
+    
+    
+        
+        
+            	<img alt="" class="Image-img" loading="lazy" src="/content/dam/lseg/en_us/insights/images/photography/thumbnail/lsg2942310-markets-economy-thumb-768x432-g.jpg.transform/rect-768/q90/image.jpg" srcset="/content/dam/lseg/en_us/insights/images/photography/thumbnail/lsg2942310-markets-economy-thumb-768x432-g.jpg.transform/rect-1536/q90/image.jpg 2x"/>
+        
+    
+    
+
+    </div>
+
+                            </div>
+                            <div class="PairedCard-contentInner">
+                                <div class="TextCardBase-content">
+                                    <div class="TextCardBase-eyebrow">
+                                        <p class="Eyebrow Typestack--subline1">Insights</p>
+                                    </div>
+                                    <div class="TextCardBase-body">
+                                        <div class="TextCardBase-heading">
+                                            <h3 class="Typestack Typestack--h4">Research Insights</h3>
+                                        </div>
+                                        
+                                   		
+                              		 	  
+                                        	<div class="TextCardBase-description Typestack--p1">Discover the latest research and insights to keep you informed in a changing world.</div>
+                                        
+                                    </div>
+                                    <div class="TextCardBase-footer">
+                                        
+                                            
+                                            
+                                                
+                                            
+                                            
+                                        
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    
+
+
+    
+    
+
+    
+    
+
+			</div>
+			
+			
+			
+		</div>
+	</div>
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+	</div>
+
+
+
+    
+        
+    
+    
+    
+
+    
+    
+    
+    
+    
+	<div class="VerticalSpacing VerticalSpacing--l">
+		
+		
+
+		
+		
+
+		 
+	
+	<div class="Grid Grid--even3">
+		<div class="Grid-items">
+			
+			<div class="Grid-item">
+				
+    
+    
+    
+    
+        
+    
+    
+    
+         
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+
+    <div class="PairedCard">
+        <div class="TextCardBase TextCardBase--top">
+            <div class="CardBase CardBase--large CardBase--white">
+                 <a href="/en/ftse-russell/your-index-partner" class="Anchor Typestack--p1Link CardBase-link track-custom-clicks" data-link-text="Your index partner" data-asset-title="link | Your index partner" data-link-type="link click" data-title="Your index partner">
+                  <div class="CardBase-inner">
+                        <div class="PairedCard-content">
+                            <div class="PairedCard-image">
+                                
+    <div class="Image Image--cover Image--anchorC " style="background-image:url(/content/dam/ftse-russell/en_us/images/photography/artworked/standard/your-index-partner-banner-ftse.jpg.transform/rect-768/q90/image.jpg);">
+        
+    
+    
+        
+        
+            	<img alt="" class="Image-img" loading="lazy" src="/content/dam/ftse-russell/en_us/images/photography/artworked/standard/your-index-partner-banner-ftse.jpg.transform/rect-768/q90/image.jpg" srcset="/content/dam/ftse-russell/en_us/images/photography/artworked/standard/your-index-partner-banner-ftse.jpg.transform/rect-1536/q90/image.jpg 2x"/>
+        
+    
+    
+
+    </div>
+
+                            </div>
+                            <div class="PairedCard-contentInner">
+                                <div class="TextCardBase-content">
+                                    <div class="TextCardBase-eyebrow">
+                                        <p class="Eyebrow Typestack--subline1">FTSE Russell</p>
+                                    </div>
+                                    <div class="TextCardBase-body">
+                                        <div class="TextCardBase-heading">
+                                            <h3 class="Typestack Typestack--h4">Your index partner</h3>
+                                        </div>
+                                        
+                                   		
+                              		 	  
+                                        	<div class="TextCardBase-description Typestack--p1">In times like these we understand that you want more from your index provider. You want a trusted partner across asset classes, who can help you to make better informed investment decisions, manage risk, and capitalise on new investment opportunities.</div>
+                                        
+                                    </div>
+                                    <div class="TextCardBase-footer">
+                                        
+                                            
+                                            
+                                                
+                                            
+                                            
+                                        
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    
+
+
+    
+    
+
+    
+    
+
+			</div>
+			
+			
+			<div class="Grid-item">
+				
+    
+    
+    
+    
+        
+    
+    
+    
+         
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+
+    <div class="PairedCard">
+        <div class="TextCardBase TextCardBase--top">
+            <div class="CardBase CardBase--large CardBase--white">
+                 <a href="/en/ftse-russell/market-insights" class="Anchor Typestack--p1Link CardBase-link track-custom-clicks" data-link-text="Market Insights" data-asset-title="link | Market Insights" data-link-type="link click" data-title="Market Insights">
+                  <div class="CardBase-inner">
+                        <div class="PairedCard-content">
+                            <div class="PairedCard-image">
+                                
+    <div class="Image Image--cover Image--anchorC " style="background-image:url(/content/dam/ftse-russell/en_us/images/photography/artworked/thumbnail/research-market-commentary/fr2980300-market-insights-thumb-768x432.jpg.transform/rect-768/q90/image.jpg);">
+        
+    
+    
+        
+        
+            	<img alt="" class="Image-img" loading="lazy" src="/content/dam/ftse-russell/en_us/images/photography/artworked/thumbnail/research-market-commentary/fr2980300-market-insights-thumb-768x432.jpg.transform/rect-768/q90/image.jpg" srcset="/content/dam/ftse-russell/en_us/images/photography/artworked/thumbnail/research-market-commentary/fr2980300-market-insights-thumb-768x432.jpg.transform/rect-1536/q90/image.jpg 2x"/>
+        
+    
+    
+
+    </div>
+
+                            </div>
+                            <div class="PairedCard-contentInner">
+                                <div class="TextCardBase-content">
+                                    <div class="TextCardBase-eyebrow">
+                                        <p class="Eyebrow Typestack--subline1">Global Investment Research</p>
+                                    </div>
+                                    <div class="TextCardBase-body">
+                                        <div class="TextCardBase-heading">
+                                            <h3 class="Typestack Typestack--h4">Market Insights</h3>
+                                        </div>
+                                        
+                                   		
+                              		 	  
+                                        	<div class="TextCardBase-description Typestack--p1">Timely macroeconomic analysis and market performance insights across asset classes, regions, industries, and styles.</div>
+                                        
+                                    </div>
+                                    <div class="TextCardBase-footer">
+                                        
+                                            
+                                                
+                                                
+                                            
+                                            
+                                            
+                                        
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    
+
+
+    
+    
+
+    
+    
+
+			</div>
+			
+			
+			<div class="Grid-item">
+				
+    
+    
+    
+    
+        
+    
+    
+    
+         
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+
+    <div class="PairedCard">
+        <div class="TextCardBase TextCardBase--top">
+            <div class="CardBase CardBase--large CardBase--white">
+                 <a href="/en/ftse-russell/latest-updates" class="Anchor Typestack--p1Link CardBase-link track-custom-clicks" data-link-text="What&#39;s new?" data-asset-title="link | What&#39;s new?" data-link-type="link click" data-title="What&#39;s new?">
+                  <div class="CardBase-inner">
+                        <div class="PairedCard-content">
+                            <div class="PairedCard-image">
+                                
+    <div class="Image Image--cover Image--anchorC " style="background-image:url(/content/dam/ftse-russell/en_us/images/photography/thumbnail/fr2981154-digital-asset-investment-insights-thumb-768x432.jpg.transform/rect-768/q90/image.jpg);">
+        
+    
+    
+        
+        
+            	<img alt="" class="Image-img" loading="lazy" src="/content/dam/ftse-russell/en_us/images/photography/thumbnail/fr2981154-digital-asset-investment-insights-thumb-768x432.jpg.transform/rect-768/q90/image.jpg" srcset="/content/dam/ftse-russell/en_us/images/photography/thumbnail/fr2981154-digital-asset-investment-insights-thumb-768x432.jpg.transform/rect-1536/q90/image.jpg 2x"/>
+        
+    
+    
+
+    </div>
+
+                            </div>
+                            <div class="PairedCard-contentInner">
+                                <div class="TextCardBase-content">
+                                    <div class="TextCardBase-eyebrow">
+                                        <p class="Eyebrow Typestack--subline1">Latest updates</p>
+                                    </div>
+                                    <div class="TextCardBase-body">
+                                        <div class="TextCardBase-heading">
+                                            <h3 class="Typestack Typestack--h4">What&#39;s new?</h3>
+                                        </div>
+                                        
+                                   		
+                              		 	  
+                                        	<div class="TextCardBase-description Typestack--p1">Discover the latest news, newly launched indices, and product enhancements from FTSE Russell. </div>
+                                        
+                                    </div>
+                                    <div class="TextCardBase-footer">
+                                        
+                                            
+                                                
+                                                
+                                            
+                                            
+                                            
+                                        
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    
+
+
+    
+    
+
+    
+    
+
+			</div>
+			
+			
+		</div>
+	</div>
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</div>
+
+
+
+    
+    
+
+    
+    
+
+        </div>
+    </div>
+
+        
+    
+
+
+    
+        
+    
+    
+    
+
+    
+
+    
+
+    
+        
+    
+    <div class="Section Section--grayLightest">
+        <div class="Section-inner">
+            
+    
+    
+    
+    
+        
+    
+    
+    
+        
+
+
+
+
+    
+    
+
+
+
+    
+    
+    
+    
+    <div class="VerticalSpacing VerticalSpacing--m">
+        <div class="Header">
+            
+            
+    <div class="Header-heading">
+        
+            <h2 class="Heading Heading--l">
+                Our solutions</h2>
+        
+    </div>
+
+            
+            
+        </div>
+                
+    </div>
+    
+
+
+    
+        
+
+
+
+
+
+
+  
+
+
+
+    
+    
+
+
+
+
+
+                
+                
+
+
+
+
+
+
+
+
+
+<div class="VerticalSpacing VerticalSpacing--m">
+	
+	<div class="ListOfLinks">
+	    <div class="ListOfLinks-inner">
+	        <ul class="ListOfLinks-items ListOfLinks-items--col3">
+	        
+                
+                
+                
+                
+				
+                
+                
+                
+                
+                
+	        
+					
+					
+					
+					
+						<li class="ListOfLinksBlockLink u-topBorder ListOfLinksBlockLink--simple">
+					
+					<a class="ListOfLinksBlockLink-link is-hover Anchor track-custom-clicks" data-title="Wealth management" data-find-method="Wealth management" data-asset-title="link | Wealth management" data-link-type="link click" href="/en/ftse-russell/wealth-managers">
+	                
+	                    <div class="ListOfLinksBlockLink-inner">
+							
+							<div class="ListOfLinksBlockLink-container">
+	                        
+	                        <div class="ListOfLinksBlockLink-body">
+								
+	                            <div class="ListOfLinksBlockLink-text">
+	                                <div class="ListOfLinksBlockLink-title Typestack--p1Bold">Wealth management</div>
+	                                
+									
+	                                
+	                                
+									
+									
+									
+																		
+	                            </div>
+	                            
+
+	                            <div class="ListOfLinksBlockLink-icon" aria-hidden="true" focusable="false">
+
+                                    
+	                                 
+                                     
+
+									
+
+									
+
+                                    
+
+	                                
+	                                <img class="Icon Icon--s" alt="" aria-hidden="true" src="/content/dam/forge/icons/themed/ui/arrow-right.svg"/>
+									
+				            	</div>
+	                        </div>
+			             </div>
+	                   </div>
+	                </a>
+	            </li>
+				
+                
+                
+                
+                
+				
+                
+                
+                
+                
+                
+	        
+					
+					
+					
+					
+						<li class="ListOfLinksBlockLink u-topBorder ListOfLinksBlockLink--simple">
+					
+					<a class="ListOfLinksBlockLink-link is-hover Anchor track-custom-clicks" data-title="Asset management" data-find-method="Asset management" data-asset-title="link | Asset management" data-link-type="link click" href="/en/ftse-russell/asset-management">
+	                
+	                    <div class="ListOfLinksBlockLink-inner">
+							
+							<div class="ListOfLinksBlockLink-container">
+	                        
+	                        <div class="ListOfLinksBlockLink-body">
+								
+	                            <div class="ListOfLinksBlockLink-text">
+	                                <div class="ListOfLinksBlockLink-title Typestack--p1Bold">Asset management</div>
+	                                
+									
+	                                
+	                                
+									
+									
+									
+																		
+	                            </div>
+	                            
+
+	                            <div class="ListOfLinksBlockLink-icon" aria-hidden="true" focusable="false">
+
+                                    
+	                                 
+                                     
+
+									
+
+									
+
+                                    
+
+	                                
+	                                <img class="Icon Icon--s" alt="" aria-hidden="true" src="/content/dam/forge/icons/themed/ui/arrow-right.svg"/>
+									
+				            	</div>
+	                        </div>
+			             </div>
+	                   </div>
+	                </a>
+	            </li>
+				
+                
+                
+                
+                
+				
+                
+                
+                
+                
+                
+	        
+					
+					
+					
+					
+						<li class="ListOfLinksBlockLink u-topBorder ListOfLinksBlockLink--simple">
+					
+					<a class="ListOfLinksBlockLink-link is-hover Anchor track-custom-clicks" data-title="Asset owners" data-find-method="Asset owners" data-asset-title="link | Asset owners" data-link-type="link click" href="/en/ftse-russell/asset-owners">
+	                
+	                    <div class="ListOfLinksBlockLink-inner">
+							
+							<div class="ListOfLinksBlockLink-container">
+	                        
+	                        <div class="ListOfLinksBlockLink-body">
+								
+	                            <div class="ListOfLinksBlockLink-text">
+	                                <div class="ListOfLinksBlockLink-title Typestack--p1Bold">Asset owners</div>
+	                                
+									
+	                                
+	                                
+									
+									
+									
+																		
+	                            </div>
+	                            
+
+	                            <div class="ListOfLinksBlockLink-icon" aria-hidden="true" focusable="false">
+
+                                    
+	                                 
+                                     
+
+									
+
+									
+
+                                    
+
+	                                
+	                                <img class="Icon Icon--s" alt="" aria-hidden="true" src="/content/dam/forge/icons/themed/ui/arrow-right.svg"/>
+									
+				            	</div>
+	                        </div>
+			             </div>
+	                   </div>
+	                </a>
+	            </li>
+				
+                
+                
+                
+                
+				
+                
+                
+                
+                
+                
+	        
+					
+					
+					
+					
+						<li class="ListOfLinksBlockLink u-topBorder ListOfLinksBlockLink--simple">
+					
+					<a class="ListOfLinksBlockLink-link is-hover Anchor track-custom-clicks" data-title="Banks and institutions" data-find-method="Banks and institutions" data-asset-title="link | Banks and institutions" data-link-type="link click" href="/en/ftse-russell/banks">
+	                
+	                    <div class="ListOfLinksBlockLink-inner">
+							
+							<div class="ListOfLinksBlockLink-container">
+	                        
+	                        <div class="ListOfLinksBlockLink-body">
+								
+	                            <div class="ListOfLinksBlockLink-text">
+	                                <div class="ListOfLinksBlockLink-title Typestack--p1Bold">Banks and institutions</div>
+	                                
+									
+	                                
+	                                
+									
+									
+									
+																		
+	                            </div>
+	                            
+
+	                            <div class="ListOfLinksBlockLink-icon" aria-hidden="true" focusable="false">
+
+                                    
+	                                 
+                                     
+
+									
+
+									
+
+                                    
+
+	                                
+	                                <img class="Icon Icon--s" alt="" aria-hidden="true" src="/content/dam/forge/icons/themed/ui/arrow-right.svg"/>
+									
+				            	</div>
+	                        </div>
+			             </div>
+	                   </div>
+	                </a>
+	            </li>
+				
+                
+                
+                
+                
+				
+                
+                
+                
+                
+                
+	        
+					
+					
+					
+					
+						<li class="ListOfLinksBlockLink u-topBorder ListOfLinksBlockLink--simple">
+					
+					<a class="ListOfLinksBlockLink-link is-hover Anchor track-custom-clicks" data-title="Hedge funds" data-find-method="Hedge funds" data-asset-title="link | Hedge funds" data-link-type="link click" href="/en/ftse-russell/hedge-funds">
+	                
+	                    <div class="ListOfLinksBlockLink-inner">
+							
+							<div class="ListOfLinksBlockLink-container">
+	                        
+	                        <div class="ListOfLinksBlockLink-body">
+								
+	                            <div class="ListOfLinksBlockLink-text">
+	                                <div class="ListOfLinksBlockLink-title Typestack--p1Bold">Hedge funds</div>
+	                                
+									
+	                                
+	                                
+									
+									
+									
+																		
+	                            </div>
+	                            
+
+	                            <div class="ListOfLinksBlockLink-icon" aria-hidden="true" focusable="false">
+
+                                    
+	                                 
+                                     
+
+									
+
+									
+
+                                    
+
+	                                
+	                                <img class="Icon Icon--s" alt="" aria-hidden="true" src="/content/dam/forge/icons/themed/ui/arrow-right.svg"/>
+									
+				            	</div>
+	                        </div>
+			             </div>
+	                   </div>
+	                </a>
+	            </li>
+				
+                
+                
+                
+                
+				
+                
+                
+                
+                
+                
+	        
+					
+					
+					
+					
+						<li class="ListOfLinksBlockLink u-topBorder ListOfLinksBlockLink--simple">
+					
+					<a class="ListOfLinksBlockLink-link is-hover Anchor track-custom-clicks" data-title="Custom index solutions" data-find-method="Custom index solutions" data-asset-title="link | Custom index solutions" data-link-type="link click" href="/en/ftse-russell/custom-indexing-solutions">
+	                
+	                    <div class="ListOfLinksBlockLink-inner">
+							
+							<div class="ListOfLinksBlockLink-container">
+	                        
+	                        <div class="ListOfLinksBlockLink-body">
+								
+	                            <div class="ListOfLinksBlockLink-text">
+	                                <div class="ListOfLinksBlockLink-title Typestack--p1Bold">Custom index solutions</div>
+	                                
+									
+	                                
+	                                
+									
+									
+									
+																		
+	                            </div>
+	                            
+
+	                            <div class="ListOfLinksBlockLink-icon" aria-hidden="true" focusable="false">
+
+                                    
+	                                 
+                                     
+
+									
+
+									
+
+                                    
+
+	                                
+	                                <img class="Icon Icon--s" alt="" aria-hidden="true" src="/content/dam/forge/icons/themed/ui/arrow-right.svg"/>
+									
+				            	</div>
+	                        </div>
+			             </div>
+	                   </div>
+	                </a>
+	            </li>
+				
+                
+                
+                
+                
+				
+                
+                
+                
+                
+                
+	        
+					
+					
+					
+					
+						<li class="ListOfLinksBlockLink u-topBorder ListOfLinksBlockLink--simple">
+					
+					<a class="ListOfLinksBlockLink-link is-hover Anchor track-custom-clicks" data-title="Direct indexing solutions" data-find-method="Direct indexing solutions" data-asset-title="link | Direct indexing solutions" data-link-type="link click" href="/en/ftse-russell/direct-indexing-solutions">
+	                
+	                    <div class="ListOfLinksBlockLink-inner">
+							
+							<div class="ListOfLinksBlockLink-container">
+	                        
+	                        <div class="ListOfLinksBlockLink-body">
+								
+	                            <div class="ListOfLinksBlockLink-text">
+	                                <div class="ListOfLinksBlockLink-title Typestack--p1Bold">Direct indexing solutions</div>
+	                                
+									
+	                                
+	                                
+									
+									
+									
+																		
+	                            </div>
+	                            
+
+	                            <div class="ListOfLinksBlockLink-icon" aria-hidden="true" focusable="false">
+
+                                    
+	                                 
+                                     
+
+									
+
+									
+
+                                    
+
+	                                
+	                                <img class="Icon Icon--s" alt="" aria-hidden="true" src="/content/dam/forge/icons/themed/ui/arrow-right.svg"/>
+									
+				            	</div>
+	                        </div>
+			             </div>
+	                   </div>
+	                </a>
+	            </li>
+				
+                
+                
+                
+                
+				
+                
+                
+                
+                
+                
+	        
+					
+					
+					
+					
+						<li class="ListOfLinksBlockLink u-topBorder ListOfLinksBlockLink--simple">
+					
+					<a class="ListOfLinksBlockLink-link is-hover Anchor track-custom-clicks" data-title="Sustainable investing solutions" data-find-method="Sustainable investing solutions" data-asset-title="link | Sustainable investing solutions" data-link-type="link click" href="/en/ftse-russell/sustainable-investing-solutions">
+	                
+	                    <div class="ListOfLinksBlockLink-inner">
+							
+							<div class="ListOfLinksBlockLink-container">
+	                        
+	                        <div class="ListOfLinksBlockLink-body">
+								
+	                            <div class="ListOfLinksBlockLink-text">
+	                                <div class="ListOfLinksBlockLink-title Typestack--p1Bold">Sustainable investing solutions</div>
+	                                
+									
+	                                
+	                                
+									
+									
+									
+																		
+	                            </div>
+	                            
+
+	                            <div class="ListOfLinksBlockLink-icon" aria-hidden="true" focusable="false">
+
+                                    
+	                                 
+                                     
+
+									
+
+									
+
+                                    
+
+	                                
+	                                <img class="Icon Icon--s" alt="" aria-hidden="true" src="/content/dam/forge/icons/themed/ui/arrow-right.svg"/>
+									
+				            	</div>
+	                        </div>
+			             </div>
+	                   </div>
+	                </a>
+	            </li>
+				
+                
+                
+                
+                
+				
+                
+                
+                
+                
+                
+	        
+					
+					
+					
+					
+						<li class="ListOfLinksBlockLink u-topBorder ListOfLinksBlockLink--simple">
+					
+					<a class="ListOfLinksBlockLink-link is-hover Anchor track-custom-clicks" data-title="Academic solutions" data-find-method="Academic solutions" data-asset-title="link | Academic solutions" data-link-type="link click" href="/en/ftse-russell/academic-solutions">
+	                
+	                    <div class="ListOfLinksBlockLink-inner">
+							
+							<div class="ListOfLinksBlockLink-container">
+	                        
+	                        <div class="ListOfLinksBlockLink-body">
+								
+	                            <div class="ListOfLinksBlockLink-text">
+	                                <div class="ListOfLinksBlockLink-title Typestack--p1Bold">Academic solutions</div>
+	                                
+									
+	                                
+	                                
+									
+									
+									
+																		
+	                            </div>
+	                            
+
+	                            <div class="ListOfLinksBlockLink-icon" aria-hidden="true" focusable="false">
+
+                                    
+	                                 
+                                     
+
+									
+
+									
+
+                                    
+
+	                                
+	                                <img class="Icon Icon--s" alt="" aria-hidden="true" src="/content/dam/forge/icons/themed/ui/arrow-right.svg"/>
+									
+				            	</div>
+	                        </div>
+			             </div>
+	                   </div>
+	                </a>
+	            </li>
+				
+	        </ul>
+			
+	    </div>
+	</div>
+</div>
+
+
+
+
+
+
+  
+
+    
+    
+
+    
+    
+
+        </div>
+    </div>
+
+        
+    
+
+
+    
+        
+    
+    
+    
+
+    
+
+    
+
+    
+        
+    
+    <div class="Section Section--white">
+        <div class="Section-inner">
+            
+    
+    
+    
+    
+        
+    
+    
+    
+        
+
+
+
+
+    
+    
+
+
+
+    
+    
+    
+    
+    <div class="VerticalSpacing VerticalSpacing--m">
+        <div class="Header">
+            
+            
+    <div class="Header-heading">
+        
+            <h2 class="Heading Heading--l">
+                Research and Insights</h2>
+        
+    </div>
+
+            
+            
+        </div>
+        
+			<div class="VerticalSpacing VerticalSpacing--m"></div>
+			<div>
+		    
+
+    
+    
+    
+
+	
+	
+    
+    
+    
+    
+    
+    
+        
+         <div class="VerticalSpacing VerticalSpacing--m">
+	        <a class="Anchor Typestack--p1Link Link Link--icon Link--secondary track-custom-clicks" href="/en/insights/ftse-russell" data-find-method="Explore research and insights" data-asset-title="link | Explore research and insights" data-title="Explore research and insights" data-link-type="link click" data-link-text="Explore research and insights">
+	            <span class="Link-inner Typestack--p1Bold">Explore research and insights</span>
+                
+				<div class="Link-icon" aria-hidden="true">
+					
+    
+    
+    <?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow-right</title>
+    <defs>
+        <polygon id="path-arrow-right" points="17.0011941 24.1540971 22.5462782 18.8088059 24.0011941 20.2230195 16.0051095 28.0011941 8.00119408 20.2230195 9.45610999 18.8088059 15.0011941 24.1757798 15.0011941 3.99880592 17.0011941 3.99880592"/>
+    </defs>
+    <g id="arrow-right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="currentColor">
+            <use xlink:href="#path-arrow-right"/>
+        </mask>
+        <use id="Mask" fill="currentColor" fill-rule="nonzero" transform="translate(16.001194, 16.000000) rotate(-90.000000) translate(-16.001194, -16.000000) " xlink:href="#path-arrow-right"/>
+    </g>
+</svg>
+    
+
+					
+				</div>
+	        </a>
+        </div>
+    
+    
+
+
+			</div>
+	            
+    </div>
+    
+
+
+    
+        <!-- SDI include (path: /content/lseg/en_us/ftse-russell/_jcr_content/root/container/page_content_region/page-content-region/section_1718966319_c/section-fw/related_content_copy.nocache.html, resourceType: forge/components/content/related-content/v1/related-content) -->
+
+    
+    
+    
+    
+
+    
+        
+        
+        
+    
+    
+    
+        
+    
+        <div class="VerticalSpacing VerticalSpacing--m">
+            
+            <div class="Grid Grid--even3">
+                <div class="Grid-items">
+                    <div class="Grid-item">
+    
+    
+    
+    
+	
+	
+
+
+  <div class="PairedCard ">
+        <div class="TextCardBase TextCardBase--top">
+            <div class="CardBase CardBase--large CardBase--white "><a class="CardBase-link track-custom-clicks" data-title="Design choices for a Paris-aligned benchmark" data-find-method="Design choices for a Paris-aligned benchmark" data-asset-title="link | Design choices for a Paris-aligned benchmark" data-link-type="link click" href="https://www.lseg.com/en/insights/ftse-russell/design-choices-for-a-paris-aligned-benchmark">
+                <div class="CardBase-inner">
+                    <div class="PairedCard-content">
+                        <div class="PairedCard-image">
+                            <div class="Image Image--cover Image--anchorC" style="background-image: url(&quot;https://www.lseg.com/content/dam/ftse-russell/en_us/insights/images/photography/thumbnail/fr2817020-sustainability-thumb-768x432-e.jpg.transform/rect-768/q90/image.jpg&quot;);">
+                                
+    
+    
+        
+        
+            	<img alt="" class="Image-img" loading="lazy" src="https://www.lseg.com/content/dam/ftse-russell/en_us/insights/images/photography/thumbnail/fr2817020-sustainability-thumb-768x432-e.jpg.transform/rect-768/q90/image.jpg" srcset="https://www.lseg.com/content/dam/ftse-russell/en_us/insights/images/photography/thumbnail/fr2817020-sustainability-thumb-768x432-e.jpg.transform/rect-768/q90/image.jpg"/>
+        
+    
+    
+
+                            </div>
+                            
+                        </div>
+                        <div class="PairedCard-contentInner">
+                            <div class="TextCardBase-content">
+                                <div class="TextCardBase-eyebrow"><p class="Eyebrow Typestack--subline1">Article</p></div>
+                                <div class="TextCardBase-body">
+                                    <div class="TextCardBase-heading">
+                                        <h3 class="Typestack Typestack--h4">Design choices for a Paris-aligned benchmark</h3>
+                                    </div>
+                                    <div class="TextCardBase-description  Typestack--p1">In this episode of the FTSE Russell Index Ideas podcast, Andreas Schroeder, head of index design (EMEA) at FTSE Russell, talks about the objectives and requirements of an EU Paris-aligned equity index. </div>
+                                </div>
+                                <div class="TextCardBase-footer">
+                                    
+    
+    <div class="ArticleCardFooter Typestack--p3">
+    	
+        <div class="ArticleCardFooter-dateAndAttribution">
+            <div class="DateTime">
+            <time datetime="2026-01-20 00:00">January 20, 2026</time>
+            
+            
+            </div>
+        </div>
+        <div class="ArticleCardFooter-readingTime">
+            <span class="ArticleCardFooter-dotSeparator">&bull;</span>
+            <div class="ArticleCardFooter-readingTimeIcon">
+                <img alt="" class="Icon Icon--xs" loading="lazy" src="/content/dam/forge/icons/ui/grey/time-07.svg"/>
+            </div>
+            4 min
+        </div>
+        
+    </div>
+    
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a></div>
+        </div>
+    </div>
+    
+    
+</div>
+                
+                    <div class="Grid-item">
+    
+    
+    
+    
+	
+	
+
+
+  <div class="PairedCard ">
+        <div class="TextCardBase TextCardBase--top">
+            <div class="CardBase CardBase--large CardBase--white "><a class="CardBase-link track-custom-clicks" data-title="Test your knowledge of markets and indices in our Q4 quiz" data-find-method="Test your knowledge of markets and indices in our Q4 quiz" data-asset-title="link | Test your knowledge of markets and indices in our Q4 quiz" data-link-type="link click" href="https://www.lseg.com/en/insights/ftse-russell/test-your-knowledge-of-markets-indices-in-q4-quiz">
+                <div class="CardBase-inner">
+                    <div class="PairedCard-content">
+                        <div class="PairedCard-image">
+                            <div class="Image Image--cover Image--anchorC" style="background-image: url(&quot;https://www.lseg.com/content/dam/ftse-russell/en_us/insights/images/photography/thumbnail/fr2817020-economy-thumb-768x432-b.jpg.transform/rect-768/q90/image.jpg&quot;);">
+                                
+    
+    
+        
+        
+            	<img alt="" class="Image-img" loading="lazy" src="https://www.lseg.com/content/dam/ftse-russell/en_us/insights/images/photography/thumbnail/fr2817020-economy-thumb-768x432-b.jpg.transform/rect-768/q90/image.jpg" srcset="https://www.lseg.com/content/dam/ftse-russell/en_us/insights/images/photography/thumbnail/fr2817020-economy-thumb-768x432-b.jpg.transform/rect-768/q90/image.jpg"/>
+        
+    
+    
+
+                            </div>
+                            
+                        </div>
+                        <div class="PairedCard-contentInner">
+                            <div class="TextCardBase-content">
+                                <div class="TextCardBase-eyebrow"><p class="Eyebrow Typestack--subline1">Article</p></div>
+                                <div class="TextCardBase-body">
+                                    <div class="TextCardBase-heading">
+                                        <h3 class="Typestack Typestack--h4">Test your knowledge of markets and indices in our Q4 quiz</h3>
+                                    </div>
+                                    <div class="TextCardBase-description  Typestack--p1">Our latest FTSE Russell Insights quiz challenges you to see how closely you followed key developments—from the performance gap between value and growth stocks to currency movements against a weakening US dollar.</div>
+                                </div>
+                                <div class="TextCardBase-footer">
+                                    
+    
+    <div class="ArticleCardFooter Typestack--p3">
+    	
+        <div class="ArticleCardFooter-dateAndAttribution">
+            <div class="DateTime">
+            <time datetime="2026-01-20 00:00">January 20, 2026</time>
+            
+            
+            </div>
+        </div>
+        <div class="ArticleCardFooter-readingTime">
+            <span class="ArticleCardFooter-dotSeparator">&bull;</span>
+            <div class="ArticleCardFooter-readingTimeIcon">
+                <img alt="" class="Icon Icon--xs" loading="lazy" src="/content/dam/forge/icons/ui/grey/time-07.svg"/>
+            </div>
+            5 min
+        </div>
+        
+    </div>
+    
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a></div>
+        </div>
+    </div>
+    
+    
+</div>
+                
+                    <div class="Grid-item">
+    
+    
+    
+    
+	
+	
+
+
+  <div class="PairedCard ">
+        <div class="TextCardBase TextCardBase--top">
+            <div class="CardBase CardBase--large CardBase--white "><a class="CardBase-link track-custom-clicks" data-title="Top 5 Skills for Finance Professionals in 2026" data-find-method="Top 5 Skills for Finance Professionals in 2026" data-asset-title="link | Top 5 Skills for Finance Professionals in 2026" data-link-type="link click" href="https://www.lseg.com/en/training/learning-centre/blog/top-5-skills-for-finance-professionals-in-2026">
+                <div class="CardBase-inner">
+                    <div class="PairedCard-content">
+                        <div class="PairedCard-image">
+                            <div class="Image Image--cover Image--anchorC" style="background-image: url(&quot;https://www.lseg.com/content/dam/lseg/learning-centre/images/blog/Top%205%20Skills%20for%20Finance%20Professionals%20in%202026%20-%20LSEG%20Academy%20blog.jpg.transform/rect-768/q90/image.jpg&quot;);">
+                                
+    
+    
+        
+        
+            	<img alt="" class="Image-img" loading="lazy" src="https://www.lseg.com/content/dam/lseg/learning-centre/images/blog/Top%205%20Skills%20for%20Finance%20Professionals%20in%202026%20-%20LSEG%20Academy%20blog.jpg.transform/rect-768/q90/image.jpg" srcset="https://www.lseg.com/content/dam/lseg/learning-centre/images/blog/Top%205%20Skills%20for%20Finance%20Professionals%20in%202026%20-%20LSEG%20Academy%20blog.jpg.transform/rect-768/q90/image.jpg"/>
+        
+    
+    
+
+                            </div>
+                            
+                        </div>
+                        <div class="PairedCard-contentInner">
+                            <div class="TextCardBase-content">
+                                <div class="TextCardBase-eyebrow"><p class="Eyebrow Typestack--subline1">Article</p></div>
+                                <div class="TextCardBase-body">
+                                    <div class="TextCardBase-heading">
+                                        <h3 class="Typestack Typestack--h4">Top 5 Skills for Finance Professionals in 2026</h3>
+                                    </div>
+                                    <div class="TextCardBase-description  Typestack--p1">Welcome to 2026, where financial markets are changing so quickly, you might need a second cup of coffee just to keep up. The pace isn’t just fast; it’s exhilarating! So, how do you stay ahead (or at least avoid falling behind)?</div>
+                                </div>
+                                <div class="TextCardBase-footer">
+                                    
+    
+    <div class="ArticleCardFooter Typestack--p3">
+    	
+        <div class="ArticleCardFooter-dateAndAttribution">
+            <div class="DateTime">
+            <time datetime="2026-01-19 00:00">January 19, 2026</time>
+            <span class="ArticleCardFooter-dotSeparator">&bull;</span>
+            <span>Felix Fernandez</span>
+            </div>
+        </div>
+        <div class="ArticleCardFooter-readingTime">
+            <span class="ArticleCardFooter-dotSeparator">&bull;</span>
+            <div class="ArticleCardFooter-readingTimeIcon">
+                <img alt="" class="Icon Icon--xs" loading="lazy" src="/content/dam/forge/icons/ui/grey/time-07.svg"/>
+            </div>
+            5 min
+        </div>
+        
+    </div>
+    
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a></div>
+        </div>
+    </div>
+    
+    
+</div>
+                </div>
+            </div>
+        </div>
+    
+    
+
+        <!-- Search Query Parameter:  -->
+    
+
+    
+	
+
+    
+    
+
+    
+    
+
+        </div>
+    </div>
+
+        
+    
+
+
+    
+        
+    
+    
+    
+
+    
+
+    
+
+    
+        
+    
+    <div class="Section Section--grayLightest">
+        <div class="Section-inner">
+            
+    
+    
+    
+    
+        
+    
+    
+    
+        
+
+
+
+
+    
+    
+
+
+
+    
+    
+    
+    
+    <div class="VerticalSpacing VerticalSpacing--m">
+        <div class="Header">
+            
+            
+    <div class="Header-heading">
+        
+            <h2 class="Heading Heading--l">
+                Trending investment themes</h2>
+        
+    </div>
+
+            
+            
+        </div>
+                
+    </div>
+    
+
+
+    
+        
+
+
+
+
+
+
+  
+
+
+
+    
+    
+
+
+
+
+
+                
+                
+
+
+
+
+
+
+
+
+
+<div class="VerticalSpacing VerticalSpacing--m">
+	
+	<div class="ListOfLinks">
+	    <div class="ListOfLinks-inner">
+	        <ul class="ListOfLinks-items ListOfLinks-items--col3">
+	        
+                
+                
+                
+                
+				
+                
+                
+                
+                
+                
+	        
+					
+					
+					
+					
+						<li class="ListOfLinksBlockLink u-topBorder ListOfLinksBlockLink--simple">
+					
+					<a class="ListOfLinksBlockLink-link is-hover Anchor track-custom-clicks" data-title="Equity" data-find-method="Equity" data-asset-title="link | Equity" data-link-type="link click" href="/en/ftse-russell/investment-themes/equity">
+	                
+	                    <div class="ListOfLinksBlockLink-inner">
+							
+							<div class="ListOfLinksBlockLink-container">
+	                        
+	                        <div class="ListOfLinksBlockLink-body">
+								
+	                            <div class="ListOfLinksBlockLink-text">
+	                                <div class="ListOfLinksBlockLink-title Typestack--p1Bold">Equity</div>
+	                                
+									
+	                                
+	                                
+									
+									
+									
+																		
+	                            </div>
+	                            
+
+	                            <div class="ListOfLinksBlockLink-icon" aria-hidden="true" focusable="false">
+
+                                    
+	                                 
+                                     
+
+									
+
+									
+
+                                    
+
+	                                
+	                                <img class="Icon Icon--s" alt="" aria-hidden="true" src="/content/dam/forge/icons/themed/ui/arrow-right.svg"/>
+									
+				            	</div>
+	                        </div>
+			             </div>
+	                   </div>
+	                </a>
+	            </li>
+				
+                
+                
+                
+                
+				
+                
+                
+                
+                
+                
+	        
+					
+					
+					
+					
+						<li class="ListOfLinksBlockLink u-topBorder ListOfLinksBlockLink--simple">
+					
+					<a class="ListOfLinksBlockLink-link is-hover Anchor track-custom-clicks" data-title="Fixed Income" data-find-method="Fixed Income" data-asset-title="link | Fixed Income" data-link-type="link click" href="/en/ftse-russell/investment-themes/fixed-income">
+	                
+	                    <div class="ListOfLinksBlockLink-inner">
+							
+							<div class="ListOfLinksBlockLink-container">
+	                        
+	                        <div class="ListOfLinksBlockLink-body">
+								
+	                            <div class="ListOfLinksBlockLink-text">
+	                                <div class="ListOfLinksBlockLink-title Typestack--p1Bold">Fixed Income</div>
+	                                
+									
+	                                
+	                                
+									
+									
+									
+																		
+	                            </div>
+	                            
+
+	                            <div class="ListOfLinksBlockLink-icon" aria-hidden="true" focusable="false">
+
+                                    
+	                                 
+                                     
+
+									
+
+									
+
+                                    
+
+	                                
+	                                <img class="Icon Icon--s" alt="" aria-hidden="true" src="/content/dam/forge/icons/themed/ui/arrow-right.svg"/>
+									
+				            	</div>
+	                        </div>
+			             </div>
+	                   </div>
+	                </a>
+	            </li>
+				
+                
+                
+                
+                
+				
+                
+                
+                
+                
+                
+	        
+					
+					
+					
+					
+						<li class="ListOfLinksBlockLink u-topBorder ListOfLinksBlockLink--simple">
+					
+					<a class="ListOfLinksBlockLink-link is-hover Anchor track-custom-clicks" data-title="Sustainable Investment" data-find-method="Sustainable Investment" data-asset-title="link | Sustainable Investment" data-link-type="link click" href="/en/ftse-russell/investment-themes/sustainable-investment">
+	                
+	                    <div class="ListOfLinksBlockLink-inner">
+							
+							<div class="ListOfLinksBlockLink-container">
+	                        
+	                        <div class="ListOfLinksBlockLink-body">
+								
+	                            <div class="ListOfLinksBlockLink-text">
+	                                <div class="ListOfLinksBlockLink-title Typestack--p1Bold">Sustainable Investment</div>
+	                                
+									
+	                                
+	                                
+									
+									
+									
+																		
+	                            </div>
+	                            
+
+	                            <div class="ListOfLinksBlockLink-icon" aria-hidden="true" focusable="false">
+
+                                    
+	                                 
+                                     
+
+									
+
+									
+
+                                    
+
+	                                
+	                                <img class="Icon Icon--s" alt="" aria-hidden="true" src="/content/dam/forge/icons/themed/ui/arrow-right.svg"/>
+									
+				            	</div>
+	                        </div>
+			             </div>
+	                   </div>
+	                </a>
+	            </li>
+				
+                
+                
+                
+                
+				
+                
+                
+                
+                
+                
+	        
+					
+					
+					
+					
+						<li class="ListOfLinksBlockLink u-topBorder ListOfLinksBlockLink--simple">
+					
+					<a class="ListOfLinksBlockLink-link is-hover Anchor track-custom-clicks" data-title="Digital Assets" data-find-method="Digital Assets" data-asset-title="link | Digital Assets" data-link-type="link click" href="/en/ftse-russell/investment-themes/digital-asset">
+	                
+	                    <div class="ListOfLinksBlockLink-inner">
+							
+							<div class="ListOfLinksBlockLink-container">
+	                        
+	                        <div class="ListOfLinksBlockLink-body">
+								
+	                            <div class="ListOfLinksBlockLink-text">
+	                                <div class="ListOfLinksBlockLink-title Typestack--p1Bold">Digital Assets</div>
+	                                
+									
+	                                
+	                                
+									
+									
+									
+																		
+	                            </div>
+	                            
+
+	                            <div class="ListOfLinksBlockLink-icon" aria-hidden="true" focusable="false">
+
+                                    
+	                                 
+                                     
+
+									
+
+									
+
+                                    
+
+	                                
+	                                <img class="Icon Icon--s" alt="" aria-hidden="true" src="/content/dam/forge/icons/themed/ui/arrow-right.svg"/>
+									
+				            	</div>
+	                        </div>
+			             </div>
+	                   </div>
+	                </a>
+	            </li>
+				
+                
+                
+                
+                
+				
+                
+                
+                
+                
+                
+	        
+					
+					
+					
+					
+						<li class="ListOfLinksBlockLink u-topBorder ListOfLinksBlockLink--simple">
+					
+					<a class="ListOfLinksBlockLink-link is-hover Anchor track-custom-clicks" data-title="SIFI indices" data-find-method="SIFI indices" data-asset-title="link | SIFI indices" data-link-type="link click" href="/en/ftse-russell/sustainable-investment-fixed-income-sifi">
+	                
+	                    <div class="ListOfLinksBlockLink-inner">
+							
+							<div class="ListOfLinksBlockLink-container">
+	                        
+	                        <div class="ListOfLinksBlockLink-body">
+								
+	                            <div class="ListOfLinksBlockLink-text">
+	                                <div class="ListOfLinksBlockLink-title Typestack--p1Bold">SIFI indices</div>
+	                                
+									
+	                                
+	                                
+									
+									
+									
+																		
+	                            </div>
+	                            
+
+	                            <div class="ListOfLinksBlockLink-icon" aria-hidden="true" focusable="false">
+
+                                    
+	                                 
+                                     
+
+									
+
+									
+
+                                    
+
+	                                
+	                                <img class="Icon Icon--s" alt="" aria-hidden="true" src="/content/dam/forge/icons/themed/ui/arrow-right.svg"/>
+									
+				            	</div>
+	                        </div>
+			             </div>
+	                   </div>
+	                </a>
+	            </li>
+				
+	        </ul>
+			
+	    </div>
+	</div>
+</div>
+
+
+
+
+
+
+  
+
+    
+        
+
+    
+    
+    
+
+	
+	
+    
+    
+    
+    
+    
+    
+        
+         <div class="VerticalSpacing VerticalSpacing--m">
+	        <a class="Anchor Typestack--p1Link Link Link--icon Link--secondary track-custom-clicks" href="/en/ftse-russell/investment-themes" data-find-method="See more themes" data-asset-title="link | See more themes" data-title="See more themes" data-link-type="link click" data-link-text="See more themes">
+	            <span class="Link-inner Typestack--p1Bold">See more themes</span>
+                
+				<div class="Link-icon" aria-hidden="true">
+					
+    
+    
+    <?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow-right</title>
+    <defs>
+        <polygon id="path-arrow-right" points="17.0011941 24.1540971 22.5462782 18.8088059 24.0011941 20.2230195 16.0051095 28.0011941 8.00119408 20.2230195 9.45610999 18.8088059 15.0011941 24.1757798 15.0011941 3.99880592 17.0011941 3.99880592"/>
+    </defs>
+    <g id="arrow-right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="currentColor">
+            <use xlink:href="#path-arrow-right"/>
+        </mask>
+        <use id="Mask" fill="currentColor" fill-rule="nonzero" transform="translate(16.001194, 16.000000) rotate(-90.000000) translate(-16.001194, -16.000000) " xlink:href="#path-arrow-right"/>
+    </g>
+</svg>
+    
+
+					
+				</div>
+	        </a>
+        </div>
+    
+    
+
+
+    
+    
+
+    
+    
+
+        </div>
+    </div>
+
+        
+    
+
+
+    
+    
+
+    
+    
+
+
+
+
+</div>
+
+            
+    
+
+        
+    
+
+</main>
+<footer class="layout-container container responsivegrid">
+
+    
+    
+    
+    
+    
+    
+    
+        
+            
+    
+            <div class="experiencefragment">
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+    
+        
+
+        
+
+  
+
+
+        
+
+    
+    
+    
+    
+    
+    
+    
+        
+            
+    
+            
+
+    
+    
+
+
+
+    
+    
+    
+    
+        
+    
+    
+    
+        
+
+    
+    
+    
+
+
+    
+
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+	
+    
+    
+	
+    
+    
+    
+
+    
+	
+	
+    
+	
+    <div data-react-from-markup-container="true">
+        <div class="SiteFooter" data-rehydratable="SiteFooter" data-search-form-action="https://www.lseg.com/en/ftse-russell/ftse-search" data-clear-search-label="Clear search" data-search-submit-label="Submit search" data-placeholder="Search" data-search-input-name="q" data-search-form-method="get" data-search-input-api-method="GET" data-size="&amp;quot;0&amp;quot;" data-search-min-length="3" data-typeahead-url="/content/experience-fragments/lseg/en_us/ftse-russell/site-footer-experience-fragment/master/jcr:content/root/footer_container/footer-container/site_specific_footer.suggest.json" data-logo-path="/content/dam/ftse-russell/en_us/images/logos/bespoke/lseg-ftse-russell-logo-hrz-rgb-wht.svg" data-logo-text="FTSE Russell home page" data-logo-href="https://www.lseg.com/en/ftse-russell">
+            <div class="SiteFooter-inner">
+                
+    
+
+    <form action="https://www.lseg.com/en/ftse-russell/ftse-search" class="SiteFooter-search" type="get">
+        <div class="SiteFooter-searchInner">
+            
+    
+    
+    
+    
+    
+    
+    <div data-react-from-markup-container="true">
+        <div class="SearchInput SearchInput--dark" data-auto-focus="false" data-clear-search-label="&quot;Clear search&quot;" data-color-theme="&quot;dark&quot;" data-name="&quot;q&quot;" data-placeholder="&quot;Search&quot;" data-rehydratable="SearchInput" data-search-submit-label="&quot;Submit search&quot;" data-typeahead="true" data-typeahead-url="&quot;https://lseg-production.ent.eu-west-2.aws.cloud.es.io/api/as/v1/engines/ftse-prod-en-meta/query_suggestion?&quot;" tabindex="-1">
+            <label class="SearchInput-label u-hiddenVisually" for="searchInput-footer">Search</label>
+            <div class="SearchInput-box">
+                <input aria-activedescendant="" aria-autocomplete="both" aria-expanded="false" aria-haspopup="true" aria-label="Search" aria-owns="searchInput-footer-typeahead" autocomplete="off" class="SearchInput-input" id="searchInput-footer" name="q" placeholder="Search" role="combobox" type="search" value=""/>
+                <div class="SearchInput-buttons">
+                    <button aria-label="Clear search" class="SearchInput-clearButton" type="button">
+                        <div class="SearchInput-icon">
+    
+    
+    
+    
+    
+    <span class="Svg">
+        <span class="Svg-inner"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24"><g class="nc-icon-wrapper" fill="none" stroke="currentColor" stroke-linecap="square" stroke-width="2"><path d="M19 5L5 19M19 19L5 5"></path></g></svg></span>
+    </span>
+    
+</div>
+                    </button>
+                    <button aria-label="Submit search" class="SearchInput-searchButton" type="submit">
+                        <div class="SearchInput-icon">
+    
+    
+    
+    
+    
+    <span class="Svg">
+        <span class="Svg-inner"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24"><g class="nc-icon-wrapper" fill="none" stroke="currentColor" stroke-linecap="square" stroke-width="2"><path d="M22 22l-5.6-5.6" data-color="color-2"></path><path d="M10 1a9 9 0 1 0 0 18 9 9 0 1 0 0-18z"></path></g></svg></span>
+    </span>
+    
+</div>
+                    </button>
+                </div>
+            </div>
+            <div class="SearchInput-typeahead" tabindex="-1">
+                <ul class="SearchInput-typeaheadItems" id="searchInput-footer-typeahead" role="listbox"></ul>
+            </div>
+        </div>
+    </div>
+    
+
+        </div>
+    </form>
+
+                <nav class="SiteFooter-lists">
+                    <ul class="SiteFooter-listsInner">
+                        
+    
+    
+    
+    
+        
+    
+    
+    
+        
+
+
+
+    
+    
+    
+
+    
+        
+    
+    <li class="SiteFooterNavList" data-rehydratable="SiteFooter.NavList" data-title="FTSE Russell">
+        <button class="SiteFooterNavList-title Typestack--subline1" role="button" aria-haspopup="true" aria-expanded="false">
+            <span class="SiteFooterNavList-text u-typographySmallCaps">FTSE Russell</span>
+            <div class="SiteFooterNavList-caret">
+                <svg class="Icon Icon--s" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 32 32" xmlns:xlink="https://www.w3.org/1999/xlink" aria-hidden="true" focusable="false"><path fill="" d="M17.037 16.745l5.508-5.345L24 12.814l-7.996 7.778L8 12.814 9.455 11.4l5.52 5.367 1.025.994z"></path></svg>
+            </div>
+        </button>
+        <ul class="SiteFooterNavList-inner">
+            
+                <li class="SiteFooterNavItem">
+                    <a class="SiteFooterNavItem-link Typestack--p1 Anchor track-custom-clicks" href="/en/ftse-russell" data-title="Discover FTSE Russell" data-link-type="link click" data-asset-title="Link | Discover FTSE Russell">
+                        
+                  	  	 Discover FTSE Russell
+                    </a>
+                </li>
+            
+                <li class="SiteFooterNavItem">
+                    <a class="SiteFooterNavItem-link Typestack--p1 Anchor track-custom-clicks" href="/en/ftse-russell/contact-sales" data-title="Contact sales" data-link-type="link click" data-asset-title="Link | Contact sales">
+                        
+                  	  	 Contact sales
+                    </a>
+                </li>
+            
+                <li class="SiteFooterNavItem">
+                    <a class="SiteFooterNavItem-link Typestack--p1 Anchor track-custom-clicks" href="/en/ftse-russell/client-service-portal" data-title="Client Service Portal" data-link-type="link click" data-asset-title="Link | Client Service Portal">
+                        
+                  	  	 Client Service Portal
+                    </a>
+                </li>
+            
+                <li class="SiteFooterNavItem">
+                    <a class="SiteFooterNavItem-link Typestack--p1 Anchor track-custom-clicks" href="https://data.ftse.com/" data-title="DDS for Clients" data-link-type="link click" data-asset-title="Link | DDS for Clients">
+                        
+                  	  	 DDS for Clients
+                    </a>
+                </li>
+            
+        </ul>
+    </li>
+
+    
+
+    
+        
+
+
+
+    
+    
+    
+
+    
+        
+    
+    <li class="SiteFooterNavList" data-rehydratable="SiteFooter.NavList" data-title="CONNECT WITH US">
+        <button class="SiteFooterNavList-title Typestack--subline1" role="button" aria-haspopup="true" aria-expanded="false">
+            <span class="SiteFooterNavList-text u-typographySmallCaps">CONNECT WITH US</span>
+            <div class="SiteFooterNavList-caret">
+                <svg class="Icon Icon--s" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 32 32" xmlns:xlink="https://www.w3.org/1999/xlink" aria-hidden="true" focusable="false"><path fill="" d="M17.037 16.745l5.508-5.345L24 12.814l-7.996 7.778L8 12.814 9.455 11.4l5.52 5.367 1.025.994z"></path></svg>
+            </div>
+        </button>
+        <ul class="SiteFooterNavList-inner">
+            
+                <li class="SiteFooterNavItem">
+                    <a class="SiteFooterNavItem-link Typestack--p1 Anchor track-custom-clicks" href="https://uk.linkedin.com/company/ftse" data-title="LinkedIn" data-link-type="link click" data-asset-title="Link | LinkedIn">
+                        <span class="SiteFooterNavItem-icon">
+                            <img class="Icon Icon--s" loading="lazy" alt="" src="/content/dam/forge/icons/social/white/linkedin.svg"/>
+                        </span>
+                  	  	 LinkedIn
+                    </a>
+                </li>
+            
+                <li class="SiteFooterNavItem">
+                    <a class="SiteFooterNavItem-link Typestack--p1 Anchor track-custom-clicks" href="https://twitter.com/FTSERussell" data-title="X" data-link-type="link click" data-asset-title="Link | X">
+                        <span class="SiteFooterNavItem-icon">
+                            <img class="Icon Icon--s" loading="lazy" alt="" src="/content/dam/forge/icons/social/white/twitter.svg"/>
+                        </span>
+                  	  	 X
+                    </a>
+                </li>
+            
+        </ul>
+    </li>
+
+    
+
+    
+        
+
+
+
+    
+    
+    
+
+    
+        
+    
+    <li class="SiteFooterNavList" data-rehydratable="SiteFooter.NavList" data-title="Languages">
+        <button class="SiteFooterNavList-title Typestack--subline1" role="button" aria-haspopup="true" aria-expanded="false">
+            <span class="SiteFooterNavList-text u-typographySmallCaps">Languages</span>
+            <div class="SiteFooterNavList-caret">
+                <svg class="Icon Icon--s" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 32 32" xmlns:xlink="https://www.w3.org/1999/xlink" aria-hidden="true" focusable="false"><path fill="" d="M17.037 16.745l5.508-5.345L24 12.814l-7.996 7.778L8 12.814 9.455 11.4l5.52 5.367 1.025.994z"></path></svg>
+            </div>
+        </button>
+        <ul class="SiteFooterNavList-inner">
+            
+                <li class="SiteFooterNavItem">
+                    <a class="SiteFooterNavItem-link Typestack--p1 Anchor track-custom-clicks" href="/en/ftse-russell" data-title="English" data-link-type="link click" data-asset-title="Link | English">
+                        
+                  	  	 English
+                    </a>
+                </li>
+            
+                <li class="SiteFooterNavItem">
+                    <a class="SiteFooterNavItem-link Typestack--p1 Anchor track-custom-clicks" href="/ja/ftse-russell" lang="ja" data-title="日本語 – 日本" data-link-type="link click" data-asset-title="Link | 日本語 – 日本">
+                        
+                  	  	 日本語 – 日本
+                    </a>
+                </li>
+            
+                <li class="SiteFooterNavItem">
+                    <a class="SiteFooterNavItem-link Typestack--p1 Anchor track-custom-clicks" href="https://www.lseg.com.cn/zh/ftse-russell" lang="zh-Hans" data-title="简体中文 – 中国" data-link-type="link click" data-asset-title="Link | 简体中文 – 中国">
+                        
+                  	  	 简体中文 – 中国
+                    </a>
+                </li>
+            
+        </ul>
+    </li>
+
+    
+
+    
+        
+
+
+
+    
+    
+    
+
+    
+        
+    
+    <li class="SiteFooterNavList" data-rehydratable="SiteFooter.NavList" data-title="Corporate">
+        <button class="SiteFooterNavList-title Typestack--subline1" role="button" aria-haspopup="true" aria-expanded="false">
+            <span class="SiteFooterNavList-text u-typographySmallCaps">Corporate</span>
+            <div class="SiteFooterNavList-caret">
+                <svg class="Icon Icon--s" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 32 32" xmlns:xlink="https://www.w3.org/1999/xlink" aria-hidden="true" focusable="false"><path fill="" d="M17.037 16.745l5.508-5.345L24 12.814l-7.996 7.778L8 12.814 9.455 11.4l5.52 5.367 1.025.994z"></path></svg>
+            </div>
+        </button>
+        <ul class="SiteFooterNavList-inner">
+            
+                <li class="SiteFooterNavItem">
+                    <a class="SiteFooterNavItem-link Typestack--p1 Anchor track-custom-clicks" href="/en/about-us" data-title="Who we are" data-link-type="link click" data-asset-title="Link | Who we are">
+                        
+                  	  	 Who we are
+                    </a>
+                </li>
+            
+                <li class="SiteFooterNavItem">
+                    <a class="SiteFooterNavItem-link Typestack--p1 Anchor track-custom-clicks" href="/en/careers" data-title="Careers" data-link-type="link click" data-asset-title="Link | Careers">
+                        
+                  	  	 Careers
+                    </a>
+                </li>
+            
+                <li class="SiteFooterNavItem">
+                    <a class="SiteFooterNavItem-link Typestack--p1 Anchor track-custom-clicks" href="/en/media-centre" data-title="Media Centre" data-link-type="link click" data-asset-title="Link | Media Centre">
+                        
+                  	  	 Media Centre
+                    </a>
+                </li>
+            
+                <li class="SiteFooterNavItem">
+                    <a class="SiteFooterNavItem-link Typestack--p1 Anchor track-custom-clicks" href="/en/investor-relations" data-title="Investor Relations" data-link-type="link click" data-asset-title="Link | Investor Relations">
+                        
+                  	  	 Investor Relations
+                    </a>
+                </li>
+            
+                <li class="SiteFooterNavItem">
+                    <a class="SiteFooterNavItem-link Typestack--p1 Anchor track-custom-clicks" href="/en/locations" data-title="Office locations" data-link-type="link click" data-asset-title="Link | Office locations">
+                        
+                  	  	 Office locations
+                    </a>
+                </li>
+            
+                <li class="SiteFooterNavItem">
+                    <a class="SiteFooterNavItem-link Typestack--p1 Anchor track-custom-clicks" href="/en/security-centre" data-title="Security Centre" data-link-type="link click" data-asset-title="Link | Security Centre">
+                        
+                  	  	 Security Centre
+                    </a>
+                </li>
+            
+        </ul>
+    </li>
+
+    
+
+    
+    
+
+    
+    
+
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+    
+
+    
+
+    
+    
+
+    
+    
+
+            
+    
+
+        
+    
+
+
+
+
+	
+    
+
+
+
+
+
+
+</div>
+<div class="experiencefragment">
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+        
+
+        
+
+  
+
+
+        
+
+    
+    
+    
+    
+    
+    
+    
+        
+            
+    
+            
+
+    
+    
+
+
+
+    
+    
+    
+    
+        
+    
+    
+    
+        
+
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    <div data-react-from-markup-container="true">
+        <div class="GlobalFooter" data-logo-href="https://www.lseg.com/en" data-logo-text="LSEG home page" data-rehydratable="GlobalFooter" data-logo-path="/content/dam/lseg/en_us/images/logos/bespoke/logo-white-v2.svg">
+            <div class="GlobalFooter-inner">
+                <div class="GlobalFooter-top">
+                    <a class="GlobalFooter-logo" href="https://www.lseg.com/en">
+                        <div class="GlobalFooter-logoContainer">
+                          <img loading="lazy" alt="global footer logo" class="GlobalFooter-logoImg" src="/content/dam/lseg/en_us/images/logos/bespoke/logo-white-v2.svg"/>
+                        </div>
+                    </a>
+                    <button aria-expanded="false" aria-haspopup="true" class="GlobalFooter-button">
+                            <span class="GlobalFooter-caret">
+                                
+    
+    
+    
+    
+    
+    <span class="Svg">
+        <span class="Svg-inner"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24"><path d="M16 10l-4 4-4-4" fill="none" stroke="currentColor" stroke-linecap="square" stroke-width="2"></path></svg></span>
+    </span>
+    
+
+                            </span>
+                    </button>
+                </div>
+                <nav>
+                    <div data-rehydratable-children="true" class="GlobalFooter-items">
+                             
+                                <li class="GlobalFooterItem">
+                                 
+                                  
+                                    <a class="GlobalFooterItem-inner Anchor Typestack--p1 track-custom-clicks" data-title="Privacy Statement" data-link-type="link click" data-asset-title="Link | Privacy Statement" href="/en/policies/privacy-statement">Privacy Statement</a>
+                                  
+                                </li>
+                            
+                                <li class="GlobalFooterItem">
+                                 
+                                  
+                                    <a class="GlobalFooterItem-inner Anchor Typestack--p1 track-custom-clicks" data-title="Cookie Statement" data-link-type="link click" data-asset-title="Link | Cookie Statement" href="/en/policies/cookie-statement">Cookie Statement</a>
+                                  
+                                </li>
+                            
+                                <li class="GlobalFooterItem">
+                                 
+                                    <a class="GlobalFooterItem-inner ot-sdk-show-settings Anchor Typestack--p1 track-custom-clicks" data-title="Cookie Settings" data-link-type="link click" data-asset-title="Link | Cookie Settings" href="javascript:void(0)">Cookie Settings</a>
+                                  
+                                  
+                                </li>
+                            
+                                <li class="GlobalFooterItem">
+                                 
+                                  
+                                    <a class="GlobalFooterItem-inner Anchor Typestack--p1 track-custom-clicks" data-title="Sitemap" data-link-type="link click" data-asset-title="Link | Sitemap" href="/en/sitemap">Sitemap</a>
+                                  
+                                </li>
+                            
+                                <li class="GlobalFooterItem">
+                                 
+                                  
+                                    <a class="GlobalFooterItem-inner Anchor Typestack--p1 track-custom-clicks" data-title="Terms of Use" data-link-type="link click" data-asset-title="Link | Terms of Use" href="/en/policies/website-disclaimer">Terms of Use</a>
+                                  
+                                </li>
+                            
+                                <li class="GlobalFooterItem">
+                                 
+                                  
+                                    <a class="GlobalFooterItem-inner Anchor Typestack--p1 track-custom-clicks" data-title="Accessibility" data-link-type="link click" data-asset-title="Link | Accessibility" href="/en/policies/accessibility-statement">Accessibility</a>
+                                  
+                                </li>
+                            
+                                <li class="GlobalFooterItem">
+                                 
+                                  
+                                    <a class="GlobalFooterItem-inner Anchor Typestack--p1 track-custom-clicks" data-title="Whistleblowing" data-link-type="link click" data-asset-title="Link | Whistleblowing" href="/en/policies/whistleblowing">Whistleblowing</a>
+                                  
+                                </li>
+                            
+                                <li class="GlobalFooterItem">
+                                 
+                                  
+                                    <a class="GlobalFooterItem-inner Anchor Typestack--p1 track-custom-clicks" data-title="UK Bribery Act" data-link-type="link click" data-asset-title="Link | UK Bribery Act" href="/en/policies/lseg-commitment-to-combat-bribery-fraud-and-tax-evasion">UK Bribery Act</a>
+                                  
+                                </li>
+                            
+                                <li class="GlobalFooterItem">
+                                 
+                                  
+                                    <a class="GlobalFooterItem-inner Anchor Typestack--p1 track-custom-clicks" data-title="Modern Slavery Act" data-link-type="link click" data-asset-title="Link | Modern Slavery Act" href="/en/policies/modern-slavery-act-statement">Modern Slavery Act</a>
+                                  
+                                </li>
+                            
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+
+
+    
+    
+
+    
+    
+
+            
+    
+
+        
+    
+
+
+
+
+	
+    
+
+
+
+
+
+
+</div>
+
+            
+    
+
+        
+    
+
+</footer>
+
+            
+    
+
+        
+    
+
+
+
+	</div>
+
+	<!-- added custom redirection end -->
+	
+	<div class="cloudservice genericsnippet">
+
+
+
+
+<!-- Eloqua links add campaign params -->
+<script>"use strict";!function(e,t,n){const o="tr_ewp_tracking_params",c=t.querySelector('meta[name="w-brand"]');let r,i=[],a=function(n){if(navigator.cookieEnabled){const n=t.cookie.split(";"),c=n.filter(function(e){return e.match(new RegExp("^\\s*"+o+"="))})[0];if(c)try{return JSON.parse(decodeURIComponent(c.split("=")[1]))}catch(t){e.console&&console.warn("Cannot parse an object from the %s cookie.",o)}}return{}}();a.page_title=t.title,a.source_url=e.location.href,c&&(a.product_family=c.getAttribute("content")),r=Object.keys(a).map(function(e){return e+"="+encodeURIComponent(a[e])}).join("&"),["solutions.refinitiv.com"].forEach(function(e){i=i.concat(function(e){return[].slice.call(t.querySelectorAll('a[href*="'+e+'"]')).filter(function(t){return t.hostname===e})}(e))}),r&&i.forEach(function(e){let t=e.search;if(t){for(let e in a)t=t.replace(new RegExp("[?&]"+e+"=[^&]*"),"");t&&(r=t.slice(1)+"&"+r)}e.search="?"+r})}(window,document);</script>
+<!-- End Eloqua links add campaign params -->
+</div>
+
+
+	
+	<div id="modalRoot"></div>
+
+	
+
+	<script type="application/json" id="siteProps">{}</script>
+
+	<script src="/etc/designs/forge-ui/versions/forge-ui-v5-24-0/main.js"></script>
+	
+	 
+		
+    
+<script src="/etc.clientlibs/lseg/clientlibs.min.js"></script>
+
+
+
+	
+	
+	<style> 
+	.xf-content-height {
+	margin: 0;
+	} 
+	</style>
+	
+
+        
+		
+		
+    
+    
+
+
+    <div class="cloudservice genericsnippet">
+
+
+
+
+<!-- Eloqua links add campaign params -->
+<script>"use strict";!function(e,t,n){const o="tr_ewp_tracking_params",c=t.querySelector('meta[name="w-brand"]');let r,i=[],a=function(n){if(navigator.cookieEnabled){const n=t.cookie.split(";"),c=n.filter(function(e){return e.match(new RegExp("^\\s*"+o+"="))})[0];if(c)try{return JSON.parse(decodeURIComponent(c.split("=")[1]))}catch(t){e.console&&console.warn("Cannot parse an object from the %s cookie.",o)}}return{}}();a.page_title=t.title,a.source_url=e.location.href,c&&(a.product_family=c.getAttribute("content")),r=Object.keys(a).map(function(e){return e+"="+encodeURIComponent(a[e])}).join("&"),["solutions.refinitiv.com"].forEach(function(e){i=i.concat(function(e){return[].slice.call(t.querySelectorAll('a[href*="'+e+'"]')).filter(function(t){return t.hostname===e})}(e))}),r&&i.forEach(function(e){let t=e.search;if(t){for(let e in a)t=t.replace(new RegExp("[?&]"+e+"=[^&]*"),"");t&&(r=t.slice(1)+"&"+r)}e.search="?"+r})}(window,document);</script>
+<!-- End Eloqua links add campaign params -->
+</div>
+
+
+    
+
+    
+    
+    
+
+    </body>
+	
+</html>

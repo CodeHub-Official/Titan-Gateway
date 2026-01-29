@@ -1,0 +1,1693 @@
+
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8">
+
+    
+<title>Petrofac</title>
+<meta name="description" content="A leading international service provider to the energy industry" />
+<meta name="keywords" content="petrofac, energy services, oil and gas, new energies, " />
+<link rel="canonical" href="https://www.petrofac.com/home/" />
+
+
+
+    
+<meta property="og:type" content="Website" />
+<meta property="og:url" content="petrofac.com" />
+<meta property="og:locale" content="en-US" />
+<meta property="og:site_name" content="Petrofac" />
+<meta property="og:title" content="Petrofac" />
+<meta property="og:description" content="A leading international service provider to the energy industry" />
+	<meta property="og:image" content="https://www.petrofac.com/media/dwgmzfmb/hy-2023-1200x627.jpg?format=webp" />
+	<meta property="og:image:type" content="image/jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="627" />
+	<meta property="og:image:alt" content="HY 2023 1200X627" />
+
+
+
+
+    
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NXX7FF5');</script>
+<!-- End Google Tag Manager --><meta name="google-site-verification" content="cWLt_Vbl1LUHg2HskvlPQVmuYvpp7FYxyitd01nd3oA" />
+
+    
+
+
+    <link rel="icon" href="/favicon.png" />
+    <link rel="stylesheet" href="/css/style.min.css?v=3v8k9upwb8bqrsLTO-dKbhx51Ov--By5VdWFc0rYJmc" />
+    <script integrity="sha512-ilxj730331yM7NbrJAICVJcRmPFErDqQhXJcn+PLbkXdE031JJbcK87Wt4VbAK+YY6/67L+N8p7KdzGoaRjsTg==" crossorigin="anonymous" referrerpolicy="no-referrer" src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.9.4/lottie.min.js"></script>
+    <script defer src="/js/global.min.js?v=M8qgHwOVXjIflZYFDD4NDEvJKg4eZLfLztI8yWMQ7dM"></script>
+    <script integrity="sha512-ngVIPTfUxNHrVs52hA0CaOVwC3/do2W4jUEJIufgZQicmY27iAJAind8BPtK2LoyIGiAFcOkjO18r5dTUNLFAw==" crossorigin="anonymous" src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.1/iframeResizer.min.js"></script>
+    <script src="/App_Plugins/UmbracoForms/Assets/promise-polyfill/dist/polyfill.min.js?v=13.5.0" type="application/javascript"></script><script src="/App_Plugins/UmbracoForms/Assets/aspnet-client-validation/dist/aspnet-validation.min.js?v=13.5.0" type="application/javascript"></script>
+<script type="text/javascript">!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{
+src: "https://js.monitor.azure.com/scripts/b/ai.2.min.js", // The SDK URL Source
+crossOrigin: "anonymous", 
+cfg: { // Application Insights Configuration
+    connectionString: 'InstrumentationKey=c47a7854-8bc1-426c-a717-269a2e761afc;IngestionEndpoint=https://westeurope-4.in.applicationinsights.azure.com/;LiveEndpoint=https://westeurope.livediagnostics.monitor.azure.com/;ApplicationId=ab642aaa-3024-4506-aad0-87528f2bdc8e'
+}});</script></head>
+<body>
+
+    
+<header class="header js-header ">
+    <a class="logo" aria-label="logo" href="/">
+            <img src="/media/tmijut0x/logo.svg" alt="Petrofac Logo" class="logo-img logo--dark">
+            <img src="/media/emafbfhq/logo-white.svg" alt="Petrofac logo" class="logo-img logo--white">
+    </a>
+    <div class="header-mobile">
+        <div class="share-price">
+        </div>
+        <div class="header-search header-nav-search">
+            <span class="icon font-ico-search"></span>
+            <form action="https://www.petrofac.com/search-results/">
+                <div class="header-search__form">
+                    <input type="text" name="q" placeholder="search">
+                    <button type="submit">Go</button>
+                </div>
+            </form>
+        </div>
+        <button aria-label="toggle" class="nav-toggle js-nav-toggle" type="button">
+            <span class="nav-toggle__line"></span>
+        </button>
+    </div>
+    <div class="header-nav">
+        <div class="header-nav__mobile-wrap">
+            <div class="header-nav__wrap">
+                <div class="header-nav__top">
+                    <div class="share-price">
+                    </div>
+                        <ul class="header-nav__list">
+                                <li class="header-nav__item has-children ">
+                                                                        
+                                    <a href="/media/" class="header-nav__link">Media</a>
+                                    
+                                    <div class="header-nav__secondary">
+                                        <button aria-label="close" type="button" class="js-close-nav"><span class="icon font-ico-close"></span></button>
+                                        <div class="wrap">
+                                            <div class="header-nav__secondary-wrap">
+                                              <ul class="header-nav__secondary-list" role="menubar">
+                                                  <li class="header-nav__secondary-item header-nav__secondary-item--main">
+                                                          <a href="/media/" class="header-nav__secondary-link">
+                                                              <span class="cta--small cta cta--line">
+                                                                  Go to Media
+                                                              </span>
+                                                          </a>
+
+                                                      <span class="icon font-ico-back"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  ">
+                                                        <a href="/media/news/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">News</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  has-children">
+                                                      <a href="/media/download-centre/" aria-label="Download centre" class="header-nav__secondary-link">
+                                                          <span class="cta--small cta cta--line">Download centre</span>
+                                                      </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                      <div class="header-nav__tertiary-wrap">
+                                                        <ul class="header-nav__tertiary-list ">
+                                                              <a href="/media/download-centre/" aria-label="Download centre" class="overview-link">Download centre</a>
+
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/media/download-centre/publications/" class="header-nav__tertiary-link">Publications</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/media/download-centre/images/" class="header-nav__tertiary-link">Images</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                        </ul>
+                                                      </div>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  has-children">
+                                                        <a href="/media/energy-talks/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Energy Talks podcast</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                      <div class="header-nav__tertiary-wrap">
+                                                        <ul class="header-nav__tertiary-list ">
+                                                              <a href="/media/energy-talks/" class="overview-link">Energy Talks podcast</a>
+
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/media/energy-talks/the-future-of-energy/" class="header-nav__tertiary-link">The future of energy</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/media/energy-talks/paving-the-way-to-net-zero/" class="header-nav__tertiary-link">Paving the way to Net Zero</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/media/energy-talks/saying-yes-to-opportunity/" class="header-nav__tertiary-link">Saying yes to opportunity </a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                        </ul>
+                                                      </div>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  ">
+                                                        <a href="/media/stories-and-opinion/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Stories and opinion</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  ">
+                                                        <a href="/media/social-media/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Social media</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  ">
+                                                        <a href="/media/events/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Events</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  has-children">
+                                                        <a href="/media/keep-up-to-date-with-petrofac/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Keep up to date with Petrofac</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                      <div class="header-nav__tertiary-wrap">
+                                                        <ul class="header-nav__tertiary-list ">
+                                                              <a href="/media/keep-up-to-date-with-petrofac/" class="overview-link">Keep up to date with Petrofac</a>
+
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/media/keep-up-to-date-with-petrofac/subscribe-to-our-newsletter/" class="header-nav__tertiary-link">Subscribe to our newsletter</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                        </ul>
+                                                      </div>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  ">
+                                                        <a href="/media/media-contacts/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Media contacts</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  ">
+                                                        <a href="/media/results-and-presentations/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Results and presentations</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  ">
+                                                        <a href="/media/regulatory-news/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Regulatory news</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                  </li>
+                                              </ul>
+                                            </div>
+                                            <div class="header-nav__description-wrap">
+                                                <div class="link-block">
+                                                        <img class="link-block__image" src="/media/5zjnxrbq/media-mega-menu-highlight-582x670.jpg?format=webp" alt="Media">
+                                                    <div class="link-block__content-block">
+                                                            <h3 class="header-nav__title h3">Media</h3>
+                                                            <p class="header-nav__text">Find the latest news, magazine articles, stories and opinion pieces, background information, and images for download in our media centre.</p>
+                                                            <a href="/media/" class="btn btn--primary ">Media</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="header-nav__item has-children ">
+                                                                        
+                                    <a href="/careers/" class="header-nav__link">Careers</a>
+                                    
+                                    <div class="header-nav__secondary">
+                                        <button aria-label="close" type="button" class="js-close-nav"><span class="icon font-ico-close"></span></button>
+                                        <div class="wrap">
+                                            <div class="header-nav__secondary-wrap">
+                                              <ul class="header-nav__secondary-list" role="menubar">
+                                                  <li class="header-nav__secondary-item header-nav__secondary-item--main">
+                                                          <a href="/careers/" class="header-nav__secondary-link">
+                                                              <span class="cta--small cta cta--line">
+                                                                  Go to Careers
+                                                              </span>
+                                                          </a>
+
+                                                      <span class="icon font-ico-back"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  has-children">
+                                                        <a href="/careers/find-a-job-at-petrofac/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Find a job</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                      <div class="header-nav__tertiary-wrap">
+                                                        <ul class="header-nav__tertiary-list ">
+                                                              <a href="/careers/find-a-job-at-petrofac/" class="overview-link">Find a job</a>
+
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/careers/find-a-job-at-petrofac/find-a-job-in-the-united-kingdom/" class="header-nav__tertiary-link">Find a job in the United Kingdom</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/careers/find-a-job-at-petrofac/find-a-job-in-india/" class="header-nav__tertiary-link">Find a job in India</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/careers/find-a-job-at-petrofac/find-a-job-in-the-united-arab-emirates/" class="header-nav__tertiary-link">Find a job in the UAE</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/careers/find-a-job-at-petrofac/find-a-job-in-australia/" class="header-nav__tertiary-link">Find a job in Australia</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/careers/find-a-job-at-petrofac/find-a-job-in-oman/" class="header-nav__tertiary-link">Find a job in Oman</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/careers/find-a-job-at-petrofac/find-a-job-in-malaysia/" class="header-nav__tertiary-link">Find a job in Malaysia</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/careers/find-a-job-at-petrofac/find-a-job-in-lithuania/" class="header-nav__tertiary-link">Find a job in Lithuania</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                        </ul>
+                                                      </div>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  ">
+                                                        <a href="/careers/why-join-petrofac/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Why join Petrofac</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  ">
+                                                        <a href="/careers/meet-our-people/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Meet our people</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  ">
+                                                        <a href="/careers/learning-and-development/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Learning and development</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  ">
+                                                        <a href="/careers/experienced-professionals/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Experienced professionals</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  ">
+                                                        <a href="/careers/early-careers/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Early careers</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  ">
+                                                        <a href="/careers/careers-faqs/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Careers FAQs</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  ">
+                                                        <a href="/careers/recruitment-fraud/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Recruitment fraud</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                  </li>
+                                              </ul>
+                                            </div>
+                                            <div class="header-nav__description-wrap">
+                                                <div class="link-block">
+                                                        <img class="link-block__image" src="/media/qxnfuu0k/career-mega-menu-highlight.jpg?format=webp" alt="Careers">
+                                                    <div class="link-block__content-block">
+                                                            <h3 class="header-nav__title h3">Careers</h3>
+                                                            <p class="header-nav__text">Search and apply to our latest roles and find out how we support our people to thrive in a delivery-focused culture.</p>
+                                                            <a href="/careers/" class="btn btn--primary ">Go to Careers</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="header-nav__item has-children ">
+                                                                        
+                                    <a href="/where-we-operate/" class="header-nav__link">Where we operate</a>
+                                    
+                                    <div class="header-nav__secondary">
+                                        <button aria-label="close" type="button" class="js-close-nav"><span class="icon font-ico-close"></span></button>
+                                        <div class="wrap">
+                                            <div class="header-nav__secondary-wrap">
+                                              <ul class="header-nav__secondary-list" role="menubar">
+                                                  <li class="header-nav__secondary-item header-nav__secondary-item--main">
+                                                          <a href="/where-we-operate/" class="header-nav__secondary-link">
+                                                              <span class="cta--small cta cta--line">
+                                                                  Go to Where we operate
+                                                              </span>
+                                                          </a>
+
+                                                      <span class="icon font-ico-back"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  ">
+                                                        <a href="/where-we-operate/find-an-office/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Find an office</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  ">
+                                                        <a href="/where-we-operate/find-a-contact/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Find a contact</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  has-children">
+                                                        <a href="/where-we-operate/petrofac-in-the-middle-east/united-arab-emirates/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Petrofac in the Middle East</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                      <div class="header-nav__tertiary-wrap">
+                                                        <ul class="header-nav__tertiary-list ">
+                                                              <a href="/where-we-operate/petrofac-in-the-middle-east/united-arab-emirates/" class="overview-link">Petrofac in the Middle East</a>
+
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-the-middle-east/united-arab-emirates/" class="header-nav__tertiary-link">United Arab Emirates</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-the-middle-east/oman/" class="header-nav__tertiary-link">Oman</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-the-middle-east/kuwait/" class="header-nav__tertiary-link">Kuwait</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-the-middle-east/saudi-arabia/" class="header-nav__tertiary-link">Saudi Arabia</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-the-middle-east/iraq/" class="header-nav__tertiary-link">Iraq</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-the-middle-east/qatar/" class="header-nav__tertiary-link">Qatar</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                        </ul>
+                                                      </div>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  has-children">
+                                                        <a href="/where-we-operate/petrofac-in-europe/united-kingdom/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Petrofac in Europe</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                      <div class="header-nav__tertiary-wrap">
+                                                        <ul class="header-nav__tertiary-list ">
+                                                              <a href="/where-we-operate/petrofac-in-europe/united-kingdom/" class="overview-link">Petrofac in Europe</a>
+
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-europe/united-kingdom/" class="header-nav__tertiary-link">United Kingdom</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-europe/italy/" class="header-nav__tertiary-link">Italy</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-europe/netherlands/" class="header-nav__tertiary-link">Netherlands</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-europe/turkey/" class="header-nav__tertiary-link">Turkey</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-europe/lithuania/" class="header-nav__tertiary-link">Lithuania</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                        </ul>
+                                                      </div>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  has-children">
+                                                        <a href="/where-we-operate/petrofac-in-africa/algeria/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Petrofac in Africa</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                      <div class="header-nav__tertiary-wrap">
+                                                        <ul class="header-nav__tertiary-list ">
+                                                              <a href="/where-we-operate/petrofac-in-africa/algeria/" class="overview-link">Petrofac in Africa</a>
+
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-africa/algeria/" class="header-nav__tertiary-link">Algeria</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                        </ul>
+                                                      </div>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  has-children">
+                                                        <a href="/where-we-operate/petrofac-in-the-americas/united-states/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Petrofac in the Americas</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                      <div class="header-nav__tertiary-wrap">
+                                                        <ul class="header-nav__tertiary-list ">
+                                                              <a href="/where-we-operate/petrofac-in-the-americas/united-states/" class="overview-link">Petrofac in the Americas</a>
+
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-the-americas/united-states/" class="header-nav__tertiary-link">United States</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                        </ul>
+                                                      </div>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  has-children">
+                                                        <a href="/where-we-operate/petrofac-in-apac/australia/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Petrofac in APAC</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                      <div class="header-nav__tertiary-wrap">
+                                                        <ul class="header-nav__tertiary-list ">
+                                                              <a href="/where-we-operate/petrofac-in-apac/australia/" class="overview-link">Petrofac in APAC</a>
+
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-apac/australia/" class="header-nav__tertiary-link">Australia</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-apac/brunei/" class="header-nav__tertiary-link">Brunei</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-apac/china/" class="header-nav__tertiary-link">China</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-apac/malaysia/" class="header-nav__tertiary-link">Malaysia</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-apac/singapore/" class="header-nav__tertiary-link">Singapore</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-apac/thailand/" class="header-nav__tertiary-link">Thailand</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                        </ul>
+                                                      </div>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  ">
+                                                        <a href="/where-we-operate/india/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Petrofac in India</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                  </li>
+                                                  <li class="header-nav__secondary-item  has-children">
+                                                        <a href="/where-we-operate/petrofac-in-the-cis/kazakhstan/" class="header-nav__secondary-link">
+                                                      <span class="cta--small cta cta--line">Petrofac in the CIS</span>
+                                                    </a>
+
+                                                    <span class="nav-icon font-ico-chevron-down"></span>
+                                                      <div class="header-nav__tertiary-wrap">
+                                                        <ul class="header-nav__tertiary-list ">
+                                                              <a href="/where-we-operate/petrofac-in-the-cis/kazakhstan/" class="overview-link">Petrofac in the CIS</a>
+
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-the-cis/kazakhstan/" class="header-nav__tertiary-link">Kazakhstan</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                            <li class="header-nav__tertiary-item ">
+                                                                  <a href="/where-we-operate/petrofac-in-the-cis/turkmenistan/" class="header-nav__tertiary-link">Turkmenistan</a>
+                                                              <span class="nav-icon font-ico-chevron-down"></span>
+                                                            </li>
+                                                        </ul>
+                                                      </div>
+                                                  </li>
+                                              </ul>
+                                            </div>
+                                            <div class="header-nav__description-wrap">
+                                                <div class="link-block">
+                                                    <div class="link-block__content-block">
+                                                            <h3 class="header-nav__title h3">Where we operate</h3>
+                                                            <p class="header-nav__text">We have 8,500 employees across more than 30 offices. </p>
+                                                            <a href="/where-we-operate/" class="btn btn--primary ">Go to Where we operate</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                        </ul>
+                    <form action="https://www.petrofac.com/search-results/" class="header-nav__search">
+                        <input type="text" class="header-nav__input" id="search-input" name="q" placeholder="Enter search term">
+                        <label for="search-input" class="sr-only">Search label</label>
+                        <button type="button" aria-label="search" class="search-btn"><span class="icon font-ico-search js-search"></span></button>
+                    </form>
+                </div>
+                <div class="header-nav__bottom">
+                    <a href="/home/" aria-label="home" class="header-nav__link home-link">Home</a>
+                        <ul class="header-nav__list">
+                                <li class="header-nav__item has-children ">
+                                        <a href="/who-we-are/" aria-label="Who we are" class="header-nav__link">Who we are</a>
+
+                                        <div class="header-nav__secondary" style="display: none;">
+                                            <button type="button" aria-label="close" class="js-close-nav"><span class="icon font-ico-close"></span></button>
+                                            <div class="wrap">
+                                                <div class="header-nav__secondary-wrap">
+                                                  <ul class="header-nav__secondary-list" role="menubar">
+                                                    <li class="header-nav__secondary-item header-nav__secondary-item--main">
+                                                          <a href="/who-we-are/" class="header-nav__secondary-link">
+                                                            <span class="cta--small cta cta--line">
+                                                              Go to Who we are
+                                                            </span>
+                                                          </a>
+
+                                                      <span class="icon font-ico-back"></span>
+                                                    </li>
+                                                      <li class="header-nav__secondary-item ">
+                                                            <a href="/who-we-are/what-we-do/" aria-label="Who we are" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">What we do</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-block">
+                                                            <div class="link-block">
+                                                              <div class="link-block__content-block">
+                                                                  <h3 class="header-nav__title h3">What we do</h3>
+                                                                  <p class="header-nav__text"> We are designing, building and operating onshore and offshore facilities, and training the people who support them.</p>
+                                                                    <a href="/who-we-are/what-we-do/" aria-label="Who we are" class="btn btn--primary ">What we do</a>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                      </li>
+                                                      <li class="header-nav__secondary-item ">
+                                                            <a href="/who-we-are/our-structure/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">Our structure</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-block">
+                                                            <div class="link-block">
+                                                              <div class="link-block__content-block">
+                                                                  <h3 class="header-nav__title h3">Our structure</h3>
+                                                                  <p class="header-nav__text">More about our structure and how we are set up to deliver for our clients.</p>
+                                                                  <a href="/who-we-are/our-structure/" class="btn btn--primary ">Go to page</a>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                      </li>
+                                                      <li class="header-nav__secondary-item ">
+                                                            <a href="/who-we-are/our-journey/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">Our journey</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-block">
+                                                            <div class="link-block">
+                                                              <div class="link-block__content-block">
+                                                                  <h3 class="header-nav__title h3">Our journey</h3>
+                                                                  <p class="header-nav__text">More than four decades of delivering the most significant energy projects across the globe. </p>
+                                                                  <a href="/who-we-are/our-journey/" class="btn btn--primary ">Go to page</a>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                      </li>
+                                                      <li class="header-nav__secondary-item ">
+                                                            <a href="/who-we-are/purpose-and-values/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">Our purpose and values</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-block">
+                                                            <div class="link-block">
+                                                              <div class="link-block__content-block">
+                                                                  <h3 class="header-nav__title h3">Our purpose and values</h3>
+                                                                  <p class="header-nav__text">Our purpose is to enable our clients to meet the world&#x2019;s evolving energy needs, and our four values are essential to who we are and what we do.</p>
+                                                                  <a href="/who-we-are/purpose-and-values/" class="btn btn--primary ">Go to page</a>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                      </li>
+                                                      <li class="header-nav__secondary-item ">
+                                                            <a href="/who-we-are/energy-transition/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">Energy transition</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-block">
+                                                            <div class="link-block">
+                                                              <div class="link-block__content-block">
+                                                                  <h3 class="header-nav__title h3">Energy transition</h3>
+                                                                  <p class="header-nav__text">Energy transition is at the core of our global strategy, creating long-term value for our clients, stakeholders, and teams.</p>
+                                                                  <a href="/who-we-are/energy-transition/" class="btn btn--primary ">Go to page</a>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                      </li>
+                                                      <li class="header-nav__secondary-item has-children">
+                                                            <a href="/who-we-are/sustainability-and-esg/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">Sustainability and ESG</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-wrap ">
+                                                            <ul class="header-nav__tertiary-list">
+                                                                  <a href="/who-we-are/sustainability-and-esg/" class="overview-link">Sustainability and ESG</a>
+
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/who-we-are/sustainability-and-esg/sustainability-and-esg-reporting/" aria-label="Sustainability and ESG reporting" class="header-nav__tertiary-link">Sustainability and ESG reporting</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/who-we-are/sustainability-and-esg/a-z-of-sustainability/" class="header-nav__tertiary-link">A-Z of sustainability</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/who-we-are/sustainability-and-esg/climate-change/" class="header-nav__tertiary-link">Climate change</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/who-we-are/sustainability-and-esg/safety-and-health/" class="header-nav__tertiary-link">Safety and health</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/who-we-are/sustainability-and-esg/human-rights/" class="header-nav__tertiary-link">Human rights</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                    <div class="header-nav__fourth-wrap">
+                                                                      <ul class="header-nav__fourth-list">
+                                                                            <a href="/who-we-are/sustainability-and-esg/human-rights/" class="overview-link">Human rights</a>
+
+                                                                          <li class="header-nav__fourth-item">
+                                                                                <a href="/media/5jlnx1s1/petrofac-2023-modern-slavery-act-statement.pdf" target="_blank" class="header-nav__fourth-link">Modern Slavery Act</a>
+
+                                                                          </li>
+                                                                      </ul>
+                                                                    </div>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/who-we-are/sustainability-and-esg/people/" class="header-nav__tertiary-link">People</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/who-we-are/governance/business-ethics/" class="header-nav__tertiary-link">Ethics</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/who-we-are/sustainability-and-esg/environment/" class="header-nav__tertiary-link">Environment</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                    <div class="header-nav__fourth-wrap">
+                                                                      <ul class="header-nav__fourth-list">
+                                                                            <a href="/who-we-are/sustainability-and-esg/environment/" class="overview-link">Environment</a>
+
+                                                                          <li class="header-nav__fourth-item">
+                                                                                <a href="/who-we-are/sustainability-and-esg/environment/biodiversity/" class="header-nav__fourth-link">Biodiversity</a>
+
+                                                                          </li>
+                                                                      </ul>
+                                                                    </div>
+                                                                </li>
+                                                            </ul>
+                                                          </div>
+                                                      </li>
+                                                      <li class="header-nav__secondary-item has-children">
+                                                            <a href="/who-we-are/diversity-and-inclusion/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">Diversity and inclusion</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-wrap ">
+                                                            <ul class="header-nav__tertiary-list">
+                                                                  <a href="/who-we-are/diversity-and-inclusion/" class="overview-link">Diversity and inclusion</a>
+
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/who-we-are/diversity-and-inclusion/employee-network-groups/" class="header-nav__tertiary-link">Employee network groups</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/who-we-are/diversity-and-inclusion/gender-balance/" class="header-nav__tertiary-link">Gender balance</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                            </ul>
+                                                          </div>
+                                                      </li>
+                                                      <li class="header-nav__secondary-item ">
+                                                            <a href="/who-we-are/in-country-value/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">In-country value </span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-block">
+                                                            <div class="link-block">
+                                                              <div class="link-block__content-block">
+                                                                  <h3 class="header-nav__title h3">In-country value </h3>
+                                                                  <p class="header-nav__text">Our model of local execution to global standards sets us apart from our competitors. </p>
+                                                                  <a href="/who-we-are/in-country-value/" class="btn btn--primary ">Go to page</a>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                      </li>
+                                                      <li class="header-nav__secondary-item has-children">
+                                                            <a href="/who-we-are/governance/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">Governance</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-wrap ">
+                                                            <ul class="header-nav__tertiary-list">
+                                                                  <a href="/who-we-are/governance/" class="overview-link">Governance</a>
+
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/who-we-are/governance/business-ethics/" class="header-nav__tertiary-link">Business ethics</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                    <div class="header-nav__fourth-wrap">
+                                                                      <ul class="header-nav__fourth-list">
+                                                                            <a href="/who-we-are/governance/business-ethics/" class="overview-link">Business ethics</a>
+
+                                                                          <li class="header-nav__fourth-item">
+                                                                                <a href="/who-we-are/governance/business-ethics/whistleblowing/" class="header-nav__fourth-link">Whistleblowing</a>
+
+                                                                          </li>
+                                                                      </ul>
+                                                                    </div>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/who-we-are/governance/risk-management/" class="header-nav__tertiary-link">Risk management</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/who-we-are/governance/remuneration/" class="header-nav__tertiary-link">Remuneration</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                            </ul>
+                                                          </div>
+                                                      </li>
+                                                  </ul>
+                                                </div>
+                                                <div class="header-nav__description-wrap">
+                                                    <div class="link-block">
+                                                            <img class="link-block__image" src="/media/to1lntuh/who-we-are-mega-menu-highlight-582x670.jpg?format=webp" alt="Who we are">
+                                                        <div class="link-block__content-block">
+                                                                <h3 class="header-nav__title h3">Who we are</h3>
+                                                                <p class="header-nav__text">We&#x2019;re a leading energy services company that helps our clients meet the world&#x2019;s evolving energy needs.</p>
+                                                                <a href="/who-we-are/" class="btn btn--primary ">Go to Who we are</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                </li>
+                                <li class="header-nav__item has-children ">
+                                        <a href="/services/" aria-label="Services" class="header-nav__link">Services</a>
+
+                                        <div class="header-nav__secondary" style="display: none;">
+                                            <button type="button" aria-label="close" class="js-close-nav"><span class="icon font-ico-close"></span></button>
+                                            <div class="wrap">
+                                                <div class="header-nav__secondary-wrap">
+                                                  <ul class="header-nav__secondary-list" role="menubar">
+                                                    <li class="header-nav__secondary-item header-nav__secondary-item--main">
+                                                          <a href="/services/" class="header-nav__secondary-link">
+                                                            <span class="cta--small cta cta--line">
+                                                              Go to Services
+                                                            </span>
+                                                          </a>
+
+                                                      <span class="icon font-ico-back"></span>
+                                                    </li>
+                                                      <li class="header-nav__secondary-item ">
+                                                            <a href="/services/asset-lifecycle-partner/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">Asset lifecycle partner</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-block">
+                                                            <div class="link-block">
+                                                              <div class="link-block__content-block">
+                                                                  <h3 class="header-nav__title h3">Asset lifecycle partner</h3>
+                                                                  <a href="/services/asset-lifecycle-partner/" class="btn btn--primary ">Asset lifecycle partner</a>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                      </li>
+                                                      <li class="header-nav__secondary-item has-children">
+                                                            <a href="/services/project-development/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">Project development</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-wrap ">
+                                                            <ul class="header-nav__tertiary-list">
+                                                                  <a href="/services/project-development/" class="overview-link">Project development</a>
+
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/project-development/concept-design/" class="header-nav__tertiary-link">Concept design</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/project-development/engineering-consultancy/" class="header-nav__tertiary-link">Engineering consultancy</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/project-development/front-end-engineering-design/" class="header-nav__tertiary-link">Front end engineering design</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                            </ul>
+                                                          </div>
+                                                      </li>
+                                                      <li class="header-nav__secondary-item has-children">
+                                                            <a href="/services/project-execution/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">Project execution</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-wrap ">
+                                                            <ul class="header-nav__tertiary-list">
+                                                                  <a href="/services/project-execution/" class="overview-link">Project execution</a>
+
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/project-execution/project-management/" class="header-nav__tertiary-link">Project management</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/project-execution/engineering/" class="header-nav__tertiary-link">Engineering</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/project-execution/procurement/" class="header-nav__tertiary-link">Procurement</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/project-execution/construction/" class="header-nav__tertiary-link">Construction</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/project-execution/completions/" class="header-nav__tertiary-link">Completions</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                            </ul>
+                                                          </div>
+                                                      </li>
+                                                      <li class="header-nav__secondary-item has-children">
+                                                            <a href="/services/well-engineering/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">Well engineering</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-wrap ">
+                                                            <ul class="header-nav__tertiary-list">
+                                                                  <a href="/services/well-engineering/" class="overview-link">Well engineering</a>
+
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/well-engineering/well-management/" class="header-nav__tertiary-link">Well management</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                    <div class="header-nav__fourth-wrap">
+                                                                      <ul class="header-nav__fourth-list">
+                                                                            <a href="/services/well-engineering/well-management/" class="overview-link">Well management</a>
+
+                                                                          <li class="header-nav__fourth-item">
+                                                                                <a href="/services/well-engineering/well-management/well-operator/" class="header-nav__fourth-link">Well operator</a>
+
+                                                                          </li>
+                                                                      </ul>
+                                                                    </div>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/well-engineering/well-decommissioning/" class="header-nav__tertiary-link">Well decommissioning</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/well-engineering/well-engineering-studies/" class="header-nav__tertiary-link">Well engineering studies</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/well-engineering/well-resourcing/" class="header-nav__tertiary-link">Well resourcing</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                            </ul>
+                                                          </div>
+                                                      </li>
+                                                      <li class="header-nav__secondary-item has-children">
+                                                            <a href="/services/asset-support/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">Asset support</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-wrap ">
+                                                            <ul class="header-nav__tertiary-list">
+                                                                  <a href="/services/asset-support/" class="overview-link">Asset support</a>
+
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/asset-support/operations-services/" class="header-nav__tertiary-link">Operations services</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                    <div class="header-nav__fourth-wrap">
+                                                                      <ul class="header-nav__fourth-list">
+                                                                            <a href="/services/asset-support/operations-services/" class="overview-link">Operations services</a>
+
+                                                                          <li class="header-nav__fourth-item">
+                                                                                <a href="/services/asset-support/operations-services/labour-supply/" class="header-nav__fourth-link">Labour supply</a>
+
+                                                                          </li>
+                                                                          <li class="header-nav__fourth-item">
+                                                                                <a href="/services/asset-support/operations-services/managed-solutions/" class="header-nav__fourth-link">Managed solutions</a>
+
+                                                                          </li>
+                                                                      </ul>
+                                                                    </div>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/asset-support/maintenance/" class="header-nav__tertiary-link">Maintenance</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                    <div class="header-nav__fourth-wrap">
+                                                                      <ul class="header-nav__fourth-list">
+                                                                            <a href="/services/asset-support/maintenance/" class="overview-link">Maintenance</a>
+
+                                                                          <li class="header-nav__fourth-item">
+                                                                                <a href="/services/asset-support/maintenance/industrial-services/" class="header-nav__fourth-link">Industrial services</a>
+
+                                                                          </li>
+                                                                          <li class="header-nav__fourth-item">
+                                                                                <a href="/services/asset-support/maintenance/shutdowntar/" class="header-nav__fourth-link">Shutdown/TAR</a>
+
+                                                                          </li>
+                                                                      </ul>
+                                                                    </div>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/asset-support/brownfield-modifications/" class="header-nav__tertiary-link">Brownfield modifications</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/asset-support/performance-improvement/" class="header-nav__tertiary-link">Performance improvement</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                    <div class="header-nav__fourth-wrap">
+                                                                      <ul class="header-nav__fourth-list">
+                                                                            <a href="/services/asset-support/performance-improvement/" class="overview-link">Performance improvement</a>
+
+                                                                          <li class="header-nav__fourth-item">
+                                                                                <a href="/services/asset-support/performance-improvement/data-management-buildme/" class="header-nav__fourth-link">Data management (BuildME)&#x200B;</a>
+
+                                                                          </li>
+                                                                      </ul>
+                                                                    </div>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/asset-support/emergency-response/" class="header-nav__tertiary-link">Emergency response</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                            </ul>
+                                                          </div>
+                                                      </li>
+                                                      <li class="header-nav__secondary-item has-children">
+                                                            <a href="/services/decommissioning/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">Decommissioning</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-wrap ">
+                                                            <ul class="header-nav__tertiary-list">
+                                                                  <a href="/services/decommissioning/" class="overview-link">Decommissioning</a>
+
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/decommissioning/strategic-planning-and-consultancy/" class="header-nav__tertiary-link">Strategic planning and consultancy&#x200B;</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/decommissioning/late-life-asset-management/" class="header-nav__tertiary-link">Late life asset management&#x200B;</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/decommissioning/programme-definition/" class="header-nav__tertiary-link">Programme definition&#x200B;</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/decommissioning/execution/" class="header-nav__tertiary-link">Execution</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                            </ul>
+                                                          </div>
+                                                      </li>
+                                                      <li class="header-nav__secondary-item has-children">
+                                                            <a href="/services/training-and-competence/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">Training and competence</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-wrap ">
+                                                            <ul class="header-nav__tertiary-list">
+                                                                  <a href="/services/training-and-competence/" class="overview-link">Training and competence</a>
+
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/training-and-competence/national-workforce-development/" class="header-nav__tertiary-link">National workforce development</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/training-and-competence/training-centre-design-and-management/" class="header-nav__tertiary-link">Training centre design and management</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/training-and-competence/vocational-training-courses/" class="header-nav__tertiary-link">Vocational training courses</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/training-and-competence/competence-assurance/" class="header-nav__tertiary-link">Competence assurance</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                    <div class="header-nav__fourth-wrap">
+                                                                      <ul class="header-nav__fourth-list">
+                                                                            <a href="/services/training-and-competence/competence-assurance/" class="overview-link">Competence assurance</a>
+
+                                                                          <li class="header-nav__fourth-item">
+                                                                                <a href="/services/training-and-competence/competence-assurance/competence-management-systems-and-software/" class="header-nav__fourth-link">Competence management systems and software</a>
+
+                                                                          </li>
+                                                                      </ul>
+                                                                    </div>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/services/training-and-competence/digital-training-content/" class="header-nav__tertiary-link">Digital training content</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                            </ul>
+                                                          </div>
+                                                      </li>
+                                                      <li class="header-nav__secondary-item ">
+                                                            <a href="/services/our-work/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">Our work</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-block">
+                                                            <div class="link-block">
+                                                              <div class="link-block__content-block">
+                                                                  <h3 class="header-nav__title h3">Our work</h3>
+                                                                  <a href="/services/our-work/" class="btn btn--primary ">Our work</a>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                      </li>
+                                                  </ul>
+                                                </div>
+                                                <div class="header-nav__description-wrap">
+                                                    <div class="link-block">
+                                                            <img class="link-block__image" src="/media/ecoi0255/services-mega-menu-highlight-582x670.jpg?format=webp" alt="Services">
+                                                        <div class="link-block__content-block">
+                                                                <h3 class="header-nav__title h3">Services</h3>
+                                                                <p class="header-nav__text">Wherever you are on your energy journey, Petrofac has the expertise and experience to support. Find out how we unlock value at every stage of the energy asset life cycle. </p>
+                                                                <a href="/services/" class="btn btn--primary ">Go to Services</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                </li>
+                                <li class="header-nav__item has-children ">
+                                        <a href="/markets/" aria-label="Markets" class="header-nav__link">Markets</a>
+
+                                        <div class="header-nav__secondary" style="display: none;">
+                                            <button type="button" aria-label="close" class="js-close-nav"><span class="icon font-ico-close"></span></button>
+                                            <div class="wrap">
+                                                <div class="header-nav__secondary-wrap">
+                                                  <ul class="header-nav__secondary-list" role="menubar">
+                                                    <li class="header-nav__secondary-item header-nav__secondary-item--main">
+                                                          <a href="/markets/" class="header-nav__secondary-link">
+                                                            <span class="cta--small cta cta--line">
+                                                              Go to Markets
+                                                            </span>
+                                                          </a>
+
+                                                      <span class="icon font-ico-back"></span>
+                                                    </li>
+                                                      <li class="header-nav__secondary-item has-children">
+                                                            <a href="/markets/new-and-renewable-energy/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">New and renewable energy</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-wrap ">
+                                                            <ul class="header-nav__tertiary-list">
+                                                                  <a href="/markets/new-and-renewable-energy/" class="overview-link">New and renewable energy</a>
+
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/markets/new-and-renewable-energy/hydrogen/" class="header-nav__tertiary-link">Hydrogen</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                                <li class="header-nav__tertiary-item has-children">
+                                                                       <a href="/markets/new-and-renewable-energy/carbon-capture-and-storage/" class="header-nav__tertiary-link">Carbon capture and storage</a>
+
+                                                                  <span class="nav-icon font-ico-chevron-down"></span>
+                                                                </li>
+                                                            </ul>
+                                                          </div>
+                                                      </li>
+                                                      <li class="header-nav__secondary-item ">
+                                                            <a href="/markets/upstream-oil-and-gas/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">Upstream oil and gas</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-block">
+                                                            <div class="link-block">
+                                                              <div class="link-block__content-block">
+                                                                  <h3 class="header-nav__title h3">Upstream oil and gas</h3>
+                                                                  <p class="header-nav__text">We have a&#x202F;strong position in some of the most&#x202F;resilient sectors of the upstream oil and gas market.</p>
+                                                                  <a href="/markets/upstream-oil-and-gas/" class="btn btn--primary ">Go to page</a>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                      </li>
+                                                      <li class="header-nav__secondary-item ">
+                                                            <a href="/markets/refining-and-petrochemicals/" class="header-nav__secondary-link">
+                                                                <span class="cta--small cta cta--line">Refining and petrochemicals</span>
+                                                            </a>
+                                                        <span class="nav-icon font-ico-chevron-down"></span>
+                                                          <div class="header-nav__tertiary-block">
+                                                            <div class="link-block">
+                                                              <div class="link-block__content-block">
+                                                                  <h3 class="header-nav__title h3">Refining and petrochemicals</h3>
+                                                                  <p class="header-nav__text">We have solid experience and a proven operational delivery, along with a strong safety record in delivering projects in refining and petrochemicals.  </p>
+                                                                  <a href="/markets/refining-and-petrochemicals/" class="btn btn--primary ">Go to page</a>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                      </li>
+                                                  </ul>
+                                                </div>
+                                                <div class="header-nav__description-wrap">
+                                                    <div class="link-block">
+                                                            <img class="link-block__image" src="/media/c3gjmn0z/markets-mega-menu-highlight-582x670.jpg?format=webp" alt="Markets">
+                                                        <div class="link-block__content-block">
+                                                                <h3 class="header-nav__title h3">Markets</h3>
+                                                                <p class="header-nav__text">We design, build, manage, and maintain oil, gas, refining, petrochemicals, and new energies infrastructure.</p>
+                                                                <a href="/markets/" class="btn btn--primary ">Go to Markets</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                </li>
+                        </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="header-progress"></div>
+</header>
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NXX7FF5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+    
+<main class="main main-homepage">
+        <div class="homepage-banner__wrap">
+            <section class="homepage-banner section section--visible">
+                <div class="homepage-banner__container js-banner-slider">
+                        <div class="homepage-banner__block">
+                                <a href="/media/stories-and-opinion/" aria-label="Read our stories, told by our people, on the topics that matter to Petrofac. Our stories and opinion collection features articles from across Petrofac and where we work." class="homepage-banner_link"><span class="sr-only">Explore</span></a>
+                            <div class="homepage-banner__image has-cover" style="background-image: url('/media/kqgpzhqm/northern-endeavour-home-page-tile.jpg?format=webp&width=1560&height=1874');"></div>
+                            <div class="homepage-banner__video-holder">
+                                <video class="homepage-banner__video homepage-banner__video--horizontal" data-src="" loop playsinline muted></video>
+                            </div>
+                            <div class="homepage-banner__content">
+                                    <h6 class="h6 upp homepage-banner__pretitle">Who we are</h6>
+                                    <h2 class="h1 homepage-banner__title upp">STORIES AND OPINION</h2>
+                                    <p class="standfirst">Our stories, told by our people, on the topics that matter to Petrofac.&#xA0;</p>
+                                    <a class="homepage-banner__hover-btn js-nav-link" aria-label="Read our stories, told by our people, on the topics that matter to Petrofac. Our stories and opinion collection features articles from across Petrofac and where we work." type="button" href="/media/stories-and-opinion/">
+                                        Explore
+                                    </a>
+                            </div>
+                        </div>
+                        <div class="homepage-banner__block">
+                                <a href="/services/our-work/transforming-duqm-an-engineering-marvel/"  class="homepage-banner_link"><span class="sr-only">Find out more</span></a>  
+                            <div class="homepage-banner__image has-cover" style="background-image: url('/media/pf4mec4w/duqm-feb-24-homepage-slider-black-and-white-1500x1800.jpg?format=webp&width=1560&height=1874');"></div>
+                            <div class="homepage-banner__video-holder">
+                                <video class="homepage-banner__video homepage-banner__video--horizontal" data-src="" loop playsinline muted></video>
+                            </div>
+                            <div class="homepage-banner__content">
+                                    <h6 class="h6 upp homepage-banner__pretitle">Our work</h6>
+                                    <h2 class="h1 homepage-banner__title upp">The rise of Duqm refinery in Oman</h2>
+                                    <p class="standfirst">From a fishing village to an engineering marvel</p>
+                                    <a class="homepage-banner__hover-btn js-nav-link" type="button" href="/services/our-work/transforming-duqm-an-engineering-marvel/">
+                                        Find out more
+                                    </a>
+                            </div>
+                        </div>
+                        <div class="homepage-banner__block">
+                                <a href="/who-we-are/energy-transition/"  class="homepage-banner_link"><span class="sr-only">Explore</span></a>  
+                            <div class="homepage-banner__image has-cover" style="background-image: url('/media/pcll0ssl/et-slider-still-co.jpg?format=webp&width=1560&height=1874');"></div>
+                            <div class="homepage-banner__video-holder">
+                                <video class="homepage-banner__video homepage-banner__video--horizontal" data-src="" loop playsinline muted></video>
+                            </div>
+                            <div class="homepage-banner__content">
+                                    <h6 class="h6 upp homepage-banner__pretitle">Who we are</h6>
+                                    <h2 class="h1 homepage-banner__title upp">We are taking responsibility for the future of energy</h2>
+                                    <p class="standfirst">Energy transition</p>
+                                    <a class="homepage-banner__hover-btn js-nav-link" type="button" href="/who-we-are/energy-transition/">
+                                        Explore
+                                    </a>
+                            </div>
+                        </div>
+                        <div class="homepage-banner__block">
+                                <a href="/media/news/"  class="homepage-banner_link"><span class="sr-only">News</span></a>  
+                            <div class="homepage-banner__image has-cover" style="background-image: url('/media/cello0zw/homeapge-slider-petrofac-kuwait-shaded-1500x1800.jpg?format=webp&width=1560&height=1874');"></div>
+                            <div class="homepage-banner__video-holder">
+                                <video class="homepage-banner__video homepage-banner__video--horizontal" data-src="" loop playsinline muted></video>
+                            </div>
+                            <div class="homepage-banner__content">
+                                    <h6 class="h6 upp homepage-banner__pretitle">Our news</h6>
+                                    <h2 class="h1 homepage-banner__title upp">Read the latest news from Petrofac</h2>
+                                    <a class="homepage-banner__hover-btn js-nav-link" type="button" href="/media/news/">
+                                        News
+                                    </a>
+                            </div>
+                        </div>
+                </div>
+            </section>
+            <span class="custom-cursor js-custom-cursor">
+                <span class="custom-cursor__circle">
+                    <span class="sr-only">Custom cursor</span>
+                </span>
+            </span>
+        </div>
+
+        <div class="numeric-promo">
+            <div class="wrap">
+                <div class="numeric-promo__inner">
+                    <div class="numeric-promo__content">
+                            <h6 class="numeric-promo__title section-title up">Who we are</h6>
+                            <h3 class="numeric-promo__main-title">
+                                A leading international service provider to the energy industry
+                            </h3>
+                            <div class="rte numeric-promo__description">
+                                <p>We use our engineering know-how and our consultancy expertise to design, build, and operate world-class energy facilities that are engineered for safety, optimal efficiency, and low emissions.</p>
+                            </div>
+                            <div class="numeric-promo__btns">
+                            <div class="buttons">
+                                        <a href="/who-we-are/what-we-do/" class="btn btn--primary ">
+                                            What we do
+                                        </a>
+                                        <a href="/who-we-are/our-journey/" class="btn btn--secondary-light ">
+                                            Our journey
+                                        </a>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="numeric-promo__slider">
+                        <div class="numeric-promo__slider-inner js-promo-slider">
+                                    <div class="numeric-promo__slide">
+                                        <div class="numeric-promo__slide-inner">
+                                            <div class="numeric-promo__num">7,600&#x2B;</div>
+                                                <span class="numeric-promo__caption">employees</span>
+                                        </div>
+                                    </div>
+                                    <div class="numeric-promo__slide">
+                                        <div class="numeric-promo__slide-inner">
+                                            <div class="numeric-promo__num">40&#x2B;</div>
+                                                <span class="numeric-promo__caption">Years of experience</span>
+                                        </div>
+                                    </div>
+                                    <div class="numeric-promo__slide">
+                                        <div class="numeric-promo__slide-inner">
+                                            <div class="numeric-promo__num">200&#x2B;</div>
+                                                <span class="numeric-promo__caption">major projects</span>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+                    <div class="numeric-promo__btns-mob">
+                    <div class="buttons">
+                                    <a href="/who-we-are/what-we-do/" class="btn btn--primary ">
+                                        What we do
+                                    </a>
+                                    <a href="/who-we-are/our-journey/" class="btn btn--secondary-light ">
+                                        Our journey
+                                    </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="feature-block-wrapper">
+            <div class="wrap">
+                <div class="feature-block-wrap has-cover" style="background-image: url('/media/0tvf5z3c/kuwait-lfho-1372x618.jpg?format=webp');">
+                    <div class="feature-block-icon">
+                            <img src="/media/wpgg3ydw/asset-6petrofac.svg" alt="Refinery SVG icon">
+                    </div>
+                </div>
+                <div class="content-wrap">
+                    <div class="rte">
+                            <h6>Our services</h6>
+                            <h2>Your global energy partner</h2>
+<p>Wherever you are on your energy journey, Petrofac has the expertise and experience to support.</p>                    </div>
+                    <div class="buttons">
+                                    <a href="/services/" aria-label="Find a service" class="btn btn--primary ">
+                                        Services
+                                    </a>
+                                    <a href="/services/our-work/" class="btn btn--secondary-light ">
+                                        Explore our work
+                                    </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-wrapper">
+            <div class="wrap">
+                <div class="carousel-pagination"></div>
+                <div class="carousel js-carousel">
+                        <div class="carousel-item">
+                            <div class="carousel__img-container">
+                                    <div class="carousel__image has-cover" style="background-image: url('/media/op2pnscx/gtt-waste-to-fuel_1144x608.jpeg?format=webp');"></div>
+                            </div>
+                            <div class="carousel__content">
+                                <div class="carousel__info">
+                                        <span class="carousel__section">Our work</span>
+                                </div>
+                                    <h4 class="carousel__title">First-of-a-kind waste to fuel plant</h4>
+                                <div class="carousel__btn-wrap">
+                                        <a class="cta cta--large cta--line" href="/services/our-work/front-end-engineering-waste-to-fuel-green-tyre-technology-uk/">
+                                            Find out more
+                                        </a>
+                                </div>
+                            </div>
+                                <a class="carusel__link" href="/services/our-work/front-end-engineering-waste-to-fuel-green-tyre-technology-uk/" aria-label="Carousel link">
+                                    <span class="sr-only">Find out more</span>
+                                </a>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="carousel__img-container">
+                                    <div class="carousel__image has-cover" style="background-image: url('/media/lzbm4mcq/arrowsmith_1144x608.jpg?format=webp');"></div>
+                            </div>
+                            <div class="carousel__content">
+                                <div class="carousel__info">
+                                        <span class="carousel__section">Our work</span>
+                                </div>
+                                    <h4 class="carousel__title">Arrowsmith Hydrogen Project, Australia</h4>
+                                <div class="carousel__btn-wrap">
+                                        <a class="cta cta--large cta--line" href="/services/our-work/front-end-engineering-arrowsmith-hydrogen-project-infinite-blue-energy-group-australia/">
+                                            Find out more
+                                        </a>
+                                </div>
+                            </div>
+                                <a class="carusel__link" href="/services/our-work/front-end-engineering-arrowsmith-hydrogen-project-infinite-blue-energy-group-australia/" aria-label="Carousel link">
+                                    <span class="sr-only">Find out more</span>
+                                </a>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="carousel__img-container">
+                                    <div class="carousel__image has-cover" style="background-image: url('/media/3ztjqsb0/rhip.jpg?format=webp');"></div>
+                            </div>
+                            <div class="carousel__content">
+                                <div class="carousel__info">
+                                        <span class="carousel__section">Our work</span>
+                                </div>
+                                    <h4 class="carousel__title">A mega project in Oman completed below budget</h4>
+                                <div class="carousel__btn-wrap">
+                                        <a class="cta cta--large cta--line" href="/services/our-work/epcm-rabab-harweel-integrated-project-oman-petroleum-development-oman/">
+                                            Find out more
+                                        </a>
+                                </div>
+                            </div>
+                                <a class="carusel__link" href="/services/our-work/epcm-rabab-harweel-integrated-project-oman-petroleum-development-oman/" aria-label="Carousel link">
+                                    <span class="sr-only">Find out more</span>
+                                </a>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="carousel__img-container">
+                                    <div class="carousel__image has-cover" style="background-image: url('/media/cs3lnwuo/tullow-oil_cta_simple.jpg?format=webp');"></div>
+                            </div>
+                            <div class="carousel__content">
+                                <div class="carousel__info">
+                                        <span class="carousel__section">OUR WORK</span>
+                                </div>
+                                    <h4 class="carousel__title">Well decom: shared risk, well rewarded</h4>
+                                <div class="carousel__btn-wrap">
+                                        <a class="cta cta--large cta--line" href="/services/our-work/well-decommissioning-uk-tullow-oil/">
+                                            FIND OUT MORE
+                                        </a>
+                                </div>
+                            </div>
+                                <a class="carusel__link" href="/services/our-work/well-decommissioning-uk-tullow-oil/" aria-label="Carousel link">
+                                    <span class="sr-only">FIND OUT MORE</span>
+                                </a>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="news-wrapper">
+            <div class="news">
+                <div class="wrap">
+                    <div class="news-inner">
+                            <div class="section-title">
+                                Latest news
+                            </div>
+                        <div class="articles-wrap">
+                            <div class="featured-article">
+                                <a class="article__link"  aria-label="Latest News" href="/media/news/sale-of-petrofac-asset-solutions-to-cbi-company-voluntary-arrangement/"></a>
+                                <div class="article">
+                                        <div class="article__img has-cover" style="background-image: url('/media/rp3ptpos/logo-1200x627.jpg?format=webp');">
+                                        </div>
+                                        <span class="article__type">
+                                            News
+                                        </span>
+                                        <span class="article__date">
+                                            14 Jan 2026
+                                        </span>
+                                        <div class="article__title-wrap">
+                                            <h3 class="article__title">
+                                                Sale of Petrofac Asset Solutions to CB&amp;I: Company Voluntary Arrangement
+                                            </h3>
+                                        </div>
+                                </div>
+                                <a class="cta cta--large cta--line article__cta" href="/media/news/sale-of-petrofac-asset-solutions-to-cbi-company-voluntary-arrangement/">
+                                    Read Story
+                                </a>
+                            </div>
+                            <div class="articles">
+                                        <div class="article">
+                                            <a class="article__link"  aria-label="Article Link" href="/media/news/petrofac-asset-solutions-acquired-by-cbi/"></a>
+                                                <span class="article__type">
+                                                    News
+                                                </span>
+                                                <span class="article__date">
+                                                    24 Dec 2025
+                                                </span>
+                                                <div class="article__title-wrap">
+                                                    <h3 class="article__title">
+                                                        Petrofac Asset Solutions Acquired by CB&amp;I
+                                                    </h3>
+                                                </div>
+                                        </div>
+                                        <div class="article">
+                                            <a class="article__link"  aria-label="Article Link" href="/media/news/restructuring-update-25-november/"></a>
+                                                <span class="article__type">
+                                                    News
+                                                </span>
+                                                <span class="article__date">
+                                                    25 Nov 2025
+                                                </span>
+                                                <div class="article__title-wrap">
+                                                    <h3 class="article__title">
+                                                        Restructuring update - 25 November
+                                                    </h3>
+                                                </div>
+                                        </div>
+                                        <div class="article">
+                                            <a class="article__link"  aria-label="Article Link" href="/media/news/restructuring-update-27-october/"></a>
+                                                <span class="article__type">
+                                                    News
+                                                </span>
+                                                <span class="article__date">
+                                                    27 Oct 2025
+                                                </span>
+                                                <div class="article__title-wrap">
+                                                    <h3 class="article__title">
+                                                        Restructuring update - 27 October
+                                                    </h3>
+                                                </div>
+                                        </div>
+                                                    <div class="buttons">
+
+                                    <a href="/media/news/" target="_blank" class="btn btn--primary ">
+                                        All news
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="case-study">
+                <div class="wrap">
+                    <div class="layout layout--1">
+                        <div class="layout__video-wrap">
+                            <div class="video-wrap js-iframe-holder">
+                                <div class="video__cover-img cover-img has-cover"
+                                     style="background-image: url('/media/lwnhvat3/hkz-rak-1200x674.jpg?format=webp');"></div>
+                                    <iframe title="Together our energy is limitless" class="layout__video js-iframe" data-src="https://www.youtube.com/embed/ramRjGUQgAE?autoplay=1&Modestbranding=1&playsinline=1&Rel=0"
+                                            allow="autoplay; fullscreen"></iframe>
+                                <button aria-label="Play video" class="btn video__play js-play-video-2">
+                                    <span class="sr-only">Play video</span>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="layout__content-wrap">
+                                <h6 class="layout__section-title">Careers</h6>
+                            <div class="layout__inner">
+                                    <h2 class="layout__title">Together our energy is limitless</h2>
+                                    <h1 class="layout__main-title">Join us</h1>
+                                                    <div class="buttons">
+
+                                    <a href="/careers/" class="btn btn--primary ">
+                                        Explore careers
+                                    </a>
+
+                                <button aria-label="Play video" class="btn  btn--secondary-light js-play-video">
+                                    <span class="icon font-ico-play-outline"></span>
+                                    Play video
+                                </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+</main>
+
+
+    
+<footer class="footer">
+	<div class="footer-top">
+		<div class="wrap">
+			<div class="footer-top__logo">
+					<a href="/">
+						<img src="/media/emafbfhq/logo-white.svg" alt="Petrofac logo">
+					</a>
+			</div>
+			<div class="footer-top__sections">
+						<div class="footer-top__section">
+								<span class="foter-top__section-title">Quick links</span>
+							<ul class="footer-top__list">
+										<li class="footer-top__item"><a class="footer-top__link" href="/media/">Media</a></li>
+										<li class="footer-top__item"><a class="footer-top__link" href="/careers/">Careers</a></li>
+										<li class="footer-top__item"><a class="footer-top__link" href="/who-we-are/">Who we are</a></li>
+										<li class="footer-top__item"><a class="footer-top__link" href="/services/">Services</a></li>
+										<li class="footer-top__item"><a class="footer-top__link" href="/markets/">Markets</a></li>
+							</ul>
+						</div>
+						<div class="footer-top__section">
+								<span class="foter-top__section-title">Privacy, cookies, and accessibility </span>
+							<ul class="footer-top__list">
+										<li class="footer-top__item"><a class="footer-top__link" href="/site-services/accessibility/">Accessibility</a></li>
+										<li class="footer-top__item"><a class="footer-top__link" href="/site-services/legal-notice/">Legal notice</a></li>
+										<li class="footer-top__item"><a class="footer-top__link" href="/site-services/privacy-policy/">Privacy policy</a></li>
+										<li class="footer-top__item"><a class="footer-top__link" href="/site-services/cookies/">Cookies</a></li>
+							</ul>
+						</div>
+						<div class="footer-top__section">
+								<span class="foter-top__section-title">Work with us</span>
+							<ul class="footer-top__list">
+										<li class="footer-top__item"><a class="footer-top__link" href="/site-services/vendors-and-suppliers/">Vendors and suppliers</a></li>
+										<li class="footer-top__item"><a class="footer-top__link" href="/where-we-operate/find-a-contact/">Find a contact</a></li>
+										<li class="footer-top__item"><a class="footer-top__link" href="/where-we-operate/find-an-office/">Find an office</a></li>
+										<li class="footer-top__item"><a class="footer-top__link" href="https://www.petrofac.com/services/#find-a-service">Find a service</a></li>
+							</ul>
+						</div>
+				<div class="footer-top__section div-top__section--contact">
+						<span class="foter-top__section-title">Connect with Petrofac</span>
+					<ul class="footer-top__list">
+							<li class="footer-top__item">
+								<span class="icon font-ico-ln"></span>
+								<a class="footer-top__link" href="https://www.linkedin.com/company/petrofac_3" target="_blank">LinkedIn</a>
+							</li>
+							<li class="footer-top__item">
+								<span class="icon font-ico-youtube"></span>
+								<a class="footer-top__link" href="https://www.youtube.com/PetrofacGroup" target="_blank">YouTube</a>
+							</li>
+							<li class="footer-top__item">
+								<span class="icon font-ico-insta"></span>
+								<a class="footer-top__link" href="https://www.instagram.com/petrofacgroup/" target="_blank">Instagram</a>
+							</li>
+							<li class="footer-top__item">
+								<span class="icon font-ico-twitter"></span>
+								<a class="footer-top__link" href="https://twitter.com/PetrofacGroup" target="_blank">Twitter</a>
+							</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer-bottom">
+		<div class="wrap">
+				<span class="footer-bottom__copy">&copy;Petrofac Limited 2026 | c/o Teneo Financial Advisory Limited, The Colmore Building, 20 Colmore Circus Queensway, Birmingham, B4 6AT | James Robert Bennett and Matthew James Cowlishaw were appointed Joint Administrators of Petrofac Limited (&#x201C;the Company&#x201D;) on 28 October 2025. The affairs, business and property of the Company are managed by the Joint Administrators. The Joint Administrators act as agents of the Company and contract without personal liability. </span>
+			<div class="footer-bottom__links">
+					<ul class="footer-bottom__list">
+							<li class="footer-bottom__item"><a class="footer-bottom__link" href="/home/">Home</a></li>
+							<li class="footer-bottom__item"><a class="footer-bottom__link" href="/site-services/site-index/">Sitemap</a></li>
+							<li class="footer-bottom__item"><a class="footer-bottom__link" href="https://www.petrofac.com/media/fvyj40gr/petrofac-modern-slavery-statement-2024.pdf" target="_blank">UK Modern Slavery Act</a></li>
+					</ul>
+			</div>
+		</div>
+	</div>
+</footer>
+    
+
+
+
+</body>
+</html>

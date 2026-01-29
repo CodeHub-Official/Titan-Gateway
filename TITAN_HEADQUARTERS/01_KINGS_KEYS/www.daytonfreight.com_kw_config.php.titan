@@ -1,0 +1,2185 @@
+
+
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="google-site-verification" content="GMyzhS9G-Ew3CrcuXHhj9jwo2-4mQHgLtLqLIA8Dst4" />
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<!--[if lt IE 9]>
+	<script src="https://daytonfreight.com/wp-content/themes/daytonfreight/js/html5.js"></script>
+	<![endif]-->
+    <title>Dayton Freight</title>
+	<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//tools.daytonfreight.com' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v9.11.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-BF0DRQNYZV"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '9.11.1';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/daytonfreight.com\/"};
+								if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+				}
+
+								var disableStrs = [
+										'ga-disable-G-BF0DRQNYZV',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+					if ( MonsterInsightsLocations.page_location ) {
+						__gtagTracker('set', MonsterInsightsLocations);
+					}
+										__gtagTracker('config', 'G-BF0DRQNYZV', {"forceSSL":"true","link_attribution":"true"} );
+										window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+							<!-- / Google Analytics by MonsterInsights -->
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+		if (window.hasOwnProperty('MonsterInsightsDualTracker')){
+			window.MonsterInsightsDualTracker.trackers['form:impression'] = function (parameters) {
+				__gtagDataLayer('event', 'form_impression', {
+					form_id: parameters.event_label,
+					content_type: 'form',
+					non_interaction: true,
+					send_to: parameters.send_to,
+				});
+			};
+
+			window.MonsterInsightsDualTracker.trackers['form:conversion'] = function (parameters) {
+				__gtagDataLayer('event', 'generate_lead', {
+					form_id: parameters.event_label,
+					send_to: parameters.send_to,
+				});
+			};
+		}
+	</script>
+	<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/daytonfreight.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.8"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://daytonfreight.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.8' type='text/css' media='all' />
+<style id='filebird-block-filebird-gallery-style-inline-css' type='text/css'>
+ul.filebird-block-filebird-gallery{margin:auto!important;padding:0!important;width:100%}ul.filebird-block-filebird-gallery.layout-grid{display:grid;grid-gap:20px;align-items:stretch;grid-template-columns:repeat(var(--columns),1fr);justify-items:stretch}ul.filebird-block-filebird-gallery.layout-grid li img{border:1px solid #ccc;box-shadow:2px 2px 6px 0 rgba(0,0,0,.3);height:100%;max-width:100%;-o-object-fit:cover;object-fit:cover;width:100%}ul.filebird-block-filebird-gallery.layout-masonry{-moz-column-count:var(--columns);-moz-column-gap:var(--space);column-gap:var(--space);-moz-column-width:var(--min-width);columns:var(--min-width) var(--columns);display:block;overflow:auto}ul.filebird-block-filebird-gallery.layout-masonry li{margin-bottom:var(--space)}ul.filebird-block-filebird-gallery li{list-style:none}ul.filebird-block-filebird-gallery li figure{height:100%;margin:0;padding:0;position:relative;width:100%}ul.filebird-block-filebird-gallery li figure figcaption{background:linear-gradient(0deg,rgba(0,0,0,.7),rgba(0,0,0,.3) 70%,transparent);bottom:0;box-sizing:border-box;color:#fff;font-size:.8em;margin:0;max-height:100%;overflow:auto;padding:3em .77em .7em;position:absolute;text-align:center;width:100%;z-index:2}ul.filebird-block-filebird-gallery li figure figcaption a{color:inherit}
+
+</style>
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://daytonfreight.com/wp-includes/css/classic-themes.min.css?ver=6.2.8' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='cptch_stylesheet-css' href='https://daytonfreight.com/wp-content/plugins/captcha-pro/css/front_end_style.css?ver=pro-5.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://daytonfreight.com/wp-includes/css/dashicons.min.css?ver=6.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='cptch_desktop_style-css' href='https://daytonfreight.com/wp-content/plugins/captcha-pro/css/desktop_style.css?ver=pro-5.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://daytonfreight.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.6' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-open-sans-css' href='//fonts.googleapis.com/css?family=Open+Sans%3A%2C300%2C400%2C700&#038;ver=6.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css' href='https://daytonfreight.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='boostrap-css-css' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css?ver=6.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='boostrap-theme-css-css' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css?ver=6.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='pullouts-style-css' href='https://daytonfreight.com/wp-content/themes/daytonfreight/lib/pullouts/css/pullouts.css?ver=6.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='daytonfreight-style-css' href='https://daytonfreight.com/wp-content/themes/daytonfreight/style.css?ver=6.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.1.0/css/all.min.css?ver=6.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='shiftnav-css' href='https://daytonfreight.com/wp-content/plugins/shiftnav-pro/pro/assets/css/shiftnav.min.css?ver=1.5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-css' href='https://daytonfreight.com/wp-content/plugins/ubermenu/pro/assets/css/ubermenu.min.css?ver=3.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-vanilla-css' href='https://daytonfreight.com/wp-content/plugins/ubermenu/assets/css/skins/vanilla.css?ver=6.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-font-awesome-css' href='https://daytonfreight.com/wp-content/plugins/ubermenu/assets/css/fontawesome/css/font-awesome.min.css?ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='shiftnav-font-awesome-css' href='https://daytonfreight.com/wp-content/plugins/shiftnav-pro/assets/css/fontawesome/css/font-awesome.min.css?ver=1.5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='shiftnav-slate-css' href='https://daytonfreight.com/wp-content/plugins/shiftnav-pro/pro/assets/css/skins/slate.css?ver=1.5.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://daytonfreight.com/wp-content/plugins/google-analytics-premium/assets/js/frontend-gtag.js?ver=9.11.1' id='monsterinsights-frontend-script-js'></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/daytonfreight.com","hash_tracking":"false","v4_id":"G-BF0DRQNYZV"};/* ]]> */
+</script>
+<script type='text/javascript' src='https://daytonfreight.com/wp-content/plugins/shortcode-for-current-date/dist/script.js?ver=6.2.8' id='shortcode-for-current-date-script-js'></script>
+<script type='text/javascript' src='https://daytonfreight.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://daytonfreight.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='//daytonfreight.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.2' async id='tp-tools-js'></script>
+<script type='text/javascript' src='//daytonfreight.com/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js?ver=6.7.4' async id='revmin-js'></script>
+<script type='text/javascript' src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js?ver=6.2.8' id='boostrap-js-js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.12.1/jquery-ui.min.js?ver=6.2.8' id='jquery-ui-script-js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://daytonfreight.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://daytonfreight.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.8" />
+<link rel="canonical" href="https://daytonfreight.com/" />
+<link rel='shortlink' href='https://daytonfreight.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://daytonfreight.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdaytonfreight.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://daytonfreight.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdaytonfreight.com%2F&#038;format=xml" />
+
+	<!-- ShiftNav CSS 
+	================================================================ -->
+	<style type="text/css" id="shiftnav-dynamic-css">
+		
+
+/** ShiftNav Custom Menu Styles (Customizer) **/
+/* togglebar */
+#shiftnav-toggle-main { background:#ffffff; color:#1c3f95; }
+#shiftnav-toggle-main.shiftnav-toggle-main-entire-bar:before, #shiftnav-toggle-main .shiftnav-toggle-burger { font-size:26px; }
+/* shiftnav-main */
+.shiftnav.shiftnav-shiftnav-main { background:#ffffff; color:#1c3f95; }
+.shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu li.menu-item > .shiftnav-target { background:#ffffff; color:#1c3f95; font-weight:bold; }
+.shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu li.menu-item.shiftnav-active > .shiftnav-target, .shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu li.menu-item.shiftnav-in-transition > .shiftnav-target, .shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu.shiftnav-active-on-hover li.menu-item > .shiftnav-target:hover, .shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu.shiftnav-active-highlight li.menu-item > .shiftnav-target:active { background:#ffffff; color:#1c3f95; }
+.shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu li.menu-item.current-menu-item > .shiftnav-target, .shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu li.menu-item ul.sub-menu .current-menu-item > .shiftnav-target, .shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu > li.shiftnav-sub-accordion.current-menu-ancestor > .shiftnav-target, .shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu > li.shiftnav-sub-shift.current-menu-ancestor > .shiftnav-target { background:#ffffff; color:#1c3f95; }
+.shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu li.menu-item.shiftnav-highlight > .shiftnav-target, .shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu li.menu-item ul.sub-menu .shiftnav-highlight > .shiftnav-target { background:#ffffff; color:#1c3f95; }
+.shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu li.menu-item > .shiftnav-submenu-activation { background:#ffffff; color:#1c3f95; }
+.shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu li.menu-item > .shiftnav-submenu-activation:hover, .shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu li.menu-item.shiftnav-active > .shiftnav-submenu-activation, .shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu li.menu-item.shiftnav-in-transition > .shiftnav-submenu-activation { background:#ffffff; color:#1c3f95; }
+.shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu ul.sub-menu { background:#ffffff; }
+.shiftnav.shiftnav-shiftnav-main ul.shiftnav-menu ul.sub-menu li.menu-item > .shiftnav-target { background:#ffffff; color:#1c3f95; }
+
+
+/** ShiftNav Custom Tweaks (General Settings) **/
+.shiftnav-depth-0 {
+    border-bottom: 1px solid #ddd;
+}
+.shiftnav:after {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+.shiftnav-search-input {
+    border: none;
+    border-bottom: 1px solid #ddd;
+}
+
+.shiftnav ul.shiftnav-menu li.menu-item.shiftnav-depth-1 > a {
+   border-top: 1px solid #eee;
+   padding-left: 40px;
+}
+
+.sub-menu {
+    overflow: hidden !important;
+}
+
+.shiftnav {
+    border-right: 1px solid #ddd;
+}
+
+.shiftnav li.menu-item.shiftnav-sub-accordion.shiftnav-active>ul.sub-menu {
+    max-height: 850px;
+    visibility: visible;
+}
+/* Status: Loaded from Transient */
+
+	</style>
+	<!-- end ShiftNav CSS -->
+
+	<style id="ubermenu-custom-generated-css">
+/** UberMenu Custom Menu Styles (Customizer) **/
+/* main */
+.ubermenu-main { margin-top:10px; margin-bottom:10px; }
+.ubermenu-main .ubermenu-item-level-0 > .ubermenu-target { font-size:1.2em; color:#1c3f95; }
+.ubermenu-main .ubermenu-nav .ubermenu-item.ubermenu-item-level-0 > .ubermenu-target { font-weight:bold; }
+.ubermenu.ubermenu-main .ubermenu-item-level-0:hover > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-active > .ubermenu-target { color:#f78f1e; }
+.ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-item > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-parent > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-ancestor > .ubermenu-target { color:#f78f1e; }
+.ubermenu-main .ubermenu-item.ubermenu-item-level-0 > .ubermenu-highlight { color:#1c3f95; }
+.ubermenu.ubermenu-main .ubermenu-item-level-0 { margin:0px 2px; }
+.ubermenu-main .ubermenu-submenu.ubermenu-submenu-drop { background-color:#ffffff; border:1px solid #dddddd; }
+.ubermenu-main .ubermenu-item-normal > .ubermenu-target,.ubermenu-main .ubermenu-submenu .ubermenu-target,.ubermenu-main .ubermenu-submenu .ubermenu-nonlink,.ubermenu-main .ubermenu-submenu .ubermenu-widget,.ubermenu-main .ubermenu-submenu .ubermenu-custom-content-padded,.ubermenu-main .ubermenu-submenu .ubermenu-retractor,.ubermenu-main .ubermenu-submenu .ubermenu-colgroup .ubermenu-column,.ubermenu-main .ubermenu-submenu.ubermenu-submenu-type-stack > .ubermenu-item-normal > .ubermenu-target,.ubermenu-main .ubermenu-submenu.ubermenu-submenu-padded { padding:5px 20px; }
+.ubermenu .ubermenu-grid-row { padding-right:5px 20px; }
+.ubermenu .ubermenu-grid-row .ubermenu-target { padding-right:0; }
+.ubermenu-main .ubermenu-submenu .ubermenu-item-header > .ubermenu-target, .ubermenu-main .ubermenu-tab > .ubermenu-target { font-size:1.2em; }
+.ubermenu-main .ubermenu-submenu .ubermenu-item-header > .ubermenu-target { color:#1c3f95; }
+.ubermenu-main .ubermenu-submenu .ubermenu-item-header > .ubermenu-target:hover { color:#f78f1e; }
+.ubermenu-main .ubermenu-submenu .ubermenu-item-header.ubermenu-current-menu-item > .ubermenu-target { color:#f78f1e; }
+.ubermenu-main .ubermenu-nav .ubermenu-submenu .ubermenu-item-header > .ubermenu-target { font-weight:normal; }
+.ubermenu-main .ubermenu-item-normal > .ubermenu-target { color:#1c3f95; font-size:1.2em; }
+.ubermenu.ubermenu-main .ubermenu-item-normal > .ubermenu-target:hover, .ubermenu.ubermenu-main .ubermenu-item-normal.ubermenu-active > .ubermenu-target { color:#f78f1e; }
+.ubermenu-main .ubermenu-item-normal.ubermenu-current-menu-item > .ubermenu-target { color:#f78f1e; }
+.ubermenu.ubermenu-main .ubermenu-search input.ubermenu-search-input { background:#ffffff; }
+.ubermenu-main, .ubermenu-main .ubermenu-target, .ubermenu-main .ubermenu-nav .ubermenu-item-level-0 .ubermenu-target, .ubermenu-main div, .ubermenu-main p, .ubermenu-main input { font-family:'Open Sans', sans-serif; font-weight:400; }
+
+
+
+/** UberMenu Custom Tweaks (General Settings) **/
+.ubermenu-submenu { margin-top: 11px; }
+/* Status: Loaded from Transient */
+
+</style><meta name="generator" content="Powered by Slider Revolution 6.7.4 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+
+		<!-- MonsterInsights Form Tracking -->
+		<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+			function monsterinsights_forms_record_impression(event) {
+				monsterinsights_add_bloom_forms_ids();
+				var monsterinsights_forms = document.getElementsByTagName("form");
+				var monsterinsights_forms_i;
+				for (monsterinsights_forms_i = 0; monsterinsights_forms_i < monsterinsights_forms.length; monsterinsights_forms_i++) {
+					var monsterinsights_form_id = monsterinsights_forms[monsterinsights_forms_i].getAttribute("id");
+					var skip_conversion = false;
+					/* Check to see if it's contact form 7 if the id isn't set */
+					if (!monsterinsights_form_id) {
+						monsterinsights_form_id = monsterinsights_forms[monsterinsights_forms_i].parentElement.getAttribute("id");
+						if (monsterinsights_form_id && monsterinsights_form_id.lastIndexOf('wpcf7-f', 0) === 0) {
+							/* If so, let's grab that and set it to be the form's ID*/
+							var tokens = monsterinsights_form_id.split('-').slice(0, 2);
+							var result = tokens.join('-');
+							monsterinsights_forms[monsterinsights_forms_i].setAttribute("id", result);/* Now we can do just what we did above */
+							monsterinsights_form_id = monsterinsights_forms[monsterinsights_forms_i].getAttribute("id");
+						} else {
+							monsterinsights_form_id = false;
+						}
+					}
+
+					/* Check if it's Ninja Forms & id isn't set. */
+					if (!monsterinsights_form_id && monsterinsights_forms[monsterinsights_forms_i].parentElement.className.indexOf('nf-form-layout') >= 0) {
+						monsterinsights_form_id = monsterinsights_forms[monsterinsights_forms_i].parentElement.parentElement.parentElement.getAttribute('id');
+						if (monsterinsights_form_id && 0 === monsterinsights_form_id.lastIndexOf('nf-form-', 0)) {
+							/* If so, let's grab that and set it to be the form's ID*/
+							tokens = monsterinsights_form_id.split('-').slice(0, 3);
+							result = tokens.join('-');
+							monsterinsights_forms[monsterinsights_forms_i].setAttribute('id', result);
+							/* Now we can do just what we did above */
+							monsterinsights_form_id = monsterinsights_forms[monsterinsights_forms_i].getAttribute('id');
+							skip_conversion = true;
+						}
+					}
+
+					if (monsterinsights_form_id && monsterinsights_form_id !== 'commentform' && monsterinsights_form_id !== 'adminbar-search') {
+						__gtagTracker('event', 'impression', {
+							event_category: 'form',
+							event_label: monsterinsights_form_id,
+							value: 1,
+							non_interaction: true
+						});
+
+						/* If a WPForms Form, we can use custom tracking */
+						if (monsterinsights_form_id && 0 === monsterinsights_form_id.lastIndexOf('wpforms-form-', 0)) {
+							continue;
+						}
+
+						/* Formiddable Forms, use custom tracking */
+						if (monsterinsights_forms_has_class(monsterinsights_forms[monsterinsights_forms_i], 'frm-show-form')) {
+							continue;
+						}
+
+						/* If a Gravity Form, we can use custom tracking */
+						if (monsterinsights_form_id && 0 === monsterinsights_form_id.lastIndexOf('gform_', 0)) {
+							continue;
+						}
+
+						/* If Ninja forms, we use custom conversion tracking */
+						if (skip_conversion) {
+							continue;
+						}
+
+						var custom_conversion_mi_forms = false;
+						if (custom_conversion_mi_forms) {
+							continue;
+						}
+
+						if (window.jQuery) {
+							(function (form_id) {
+								jQuery(document).ready(function () {
+									jQuery('#' + form_id).on('submit', monsterinsights_forms_record_conversion);
+								});
+							})(monsterinsights_form_id);
+						} else {
+							var __gaFormsTrackerWindow = window;
+							if (__gaFormsTrackerWindow.addEventListener) {
+								document.getElementById(monsterinsights_form_id).addEventListener("submit", monsterinsights_forms_record_conversion, false);
+							} else {
+								if (__gaFormsTrackerWindow.attachEvent) {
+									document.getElementById(monsterinsights_form_id).attachEvent("onsubmit", monsterinsights_forms_record_conversion);
+								}
+							}
+						}
+
+					} else {
+						continue;
+					}
+				}
+			}
+
+			function monsterinsights_forms_has_class(element, className) {
+				return (' ' + element.className + ' ').indexOf(' ' + className + ' ') > -1;
+			}
+
+			function monsterinsights_forms_record_conversion(event) {
+				var monsterinsights_form_conversion_id = event.target.id;
+				var monsterinsights_form_action = event.target.getAttribute("miforms-action");
+				if (monsterinsights_form_conversion_id && !monsterinsights_form_action) {
+					document.getElementById(monsterinsights_form_conversion_id).setAttribute("miforms-action", "submitted");
+					__gtagTracker('event', 'conversion', {
+						event_category: 'form',
+						event_label: monsterinsights_form_conversion_id,
+						value: 1,
+					});
+				}
+			}
+
+			/* Attach the events to all clicks in the document after page and GA has loaded */
+			function monsterinsights_forms_load() {
+				if (typeof (__gtagTracker) !== 'undefined' && __gtagTracker) {
+					var __gtagFormsTrackerWindow = window;
+					if (__gtagFormsTrackerWindow.addEventListener) {
+						__gtagFormsTrackerWindow.addEventListener("load", monsterinsights_forms_record_impression, false);
+					} else {
+						if (__gtagFormsTrackerWindow.attachEvent) {
+							__gtagFormsTrackerWindow.attachEvent("onload", monsterinsights_forms_record_impression);
+						}
+					}
+				} else {
+					setTimeout(monsterinsights_forms_load, 200);
+				}
+			}
+
+			/* Custom Ninja Forms impression tracking */
+			if (window.jQuery) {
+				jQuery(document).on('nfFormReady', function (e, layoutView) {
+					var label = layoutView.el;
+					label = label.substring(1, label.length);
+					label = label.split('-').slice(0, 3).join('-');
+					__gtagTracker('event', 'impression', {
+						event_category: 'form',
+						event_label: label,
+						value: 1,
+						non_interaction: true
+					});
+				});
+			}
+
+			/* Custom Bloom Form tracker */
+			function monsterinsights_add_bloom_forms_ids() {
+				var bloom_forms = document.querySelectorAll('.et_bloom_form_content form');
+				if (bloom_forms.length > 0) {
+					for (var i = 0; i < bloom_forms.length; i++) {
+						if ('' === bloom_forms[i].id) {
+							var form_parent_root = monsterinsights_find_parent_with_class(bloom_forms[i], 'et_bloom_optin');
+							if (form_parent_root) {
+								var classes = form_parent_root.className.split(' ');
+								for (var j = 0; j < classes.length; ++j) {
+									if (0 === classes[j].indexOf('et_bloom_optin')) {
+										bloom_forms[i].id = classes[j];
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+
+			function monsterinsights_find_parent_with_class(element, className) {
+				if (element.parentNode && '' !== className) {
+					if (element.parentNode.className.indexOf(className) >= 0) {
+						return element.parentNode;
+					} else {
+						return monsterinsights_find_parent_with_class(element.parentNode, className);
+					}
+				}
+				return false;
+			}
+
+			monsterinsights_forms_load();
+		</script>
+		<!-- End MonsterInsights Form Tracking -->
+		
+
+
+		<!-- MonsterInsights Media Tracking -->
+		<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+			var monsterinsights_tracked_video_marks = {};
+			var monsterinsights_youtube_percentage_tracking_timeouts = {};
+
+			/* Works for YouTube and Vimeo */
+			function monsterinsights_media_get_id_for_iframe( source, service ) {
+				var iframeUrlParts = source.split('?');
+				var stripedUrl = iframeUrlParts[0].split('/');
+				var videoId = stripedUrl[ stripedUrl.length - 1 ];
+
+				return service + '-player-' + videoId;
+			}
+
+			function monsterinsights_media_record_video_event( provider, event, label, parameters = {} ) {
+				__gtagTracker('event', event, {
+					event_category: 'video-' + provider,
+					event_label: label,
+					non_interaction: event === 'impression',
+					...parameters
+				});
+			}
+
+			function monsterinsights_media_maybe_record_video_progress( provider, label, videoId, videoParameters ) {
+				var progressTrackingAllowedMarks = [10,25,50,75];
+
+				if ( typeof monsterinsights_tracked_video_marks[ videoId ] == 'undefined' ) {
+					monsterinsights_tracked_video_marks[ videoId ] = [];
+				}
+
+				var { video_percent } = videoParameters;
+
+				if ( progressTrackingAllowedMarks.includes( video_percent ) && !monsterinsights_tracked_video_marks[ videoId ].includes( video_percent ) ) {
+					monsterinsights_media_record_video_event( provider, 'video_progress', label, videoParameters );
+
+					/* Prevent multiple records for the same percentage */
+					monsterinsights_tracked_video_marks[ videoId ].push( video_percent );
+				}
+			}
+
+			/* --- Vimeo --- */
+            var monsterinsights_media_vimeo_plays = {};
+
+            function monsterinsights_setup_vimeo_events_for_iframe(iframe, title, player) {
+                var playerId = iframe.getAttribute('id');
+                var videoLabel = title || iframe.title || iframe.getAttribute('src');
+
+                if ( !playerId ) {
+                    playerId = monsterinsights_media_get_id_for_iframe( iframe.getAttribute('src'), 'vimeo' );
+                    iframe.setAttribute( 'id', playerId );
+                }
+
+                monsterinsights_media_vimeo_plays[playerId] = 0;
+
+                var videoParameters = {
+                    video_provider: 'vimeo',
+                    video_title: title,
+                    video_url: iframe.getAttribute('src')
+                };
+
+                /**
+                 * Record Impression
+                 **/
+                monsterinsights_media_record_video_event( 'vimeo', 'impression', videoLabel, videoParameters );
+
+                /**
+                 * Record video start
+                 **/
+                player.on('play', function(data) {
+                    let playerId = this.element.id;
+                    if ( monsterinsights_media_vimeo_plays[playerId] === 0 ) {
+                        monsterinsights_media_vimeo_plays[playerId]++;
+
+                        videoParameters.video_duration = data.duration;
+                        videoParameters.video_current_time = data.seconds;
+                        videoParameters.video_percent = 0;
+
+                        monsterinsights_media_record_video_event( 'vimeo', 'video_start', videoLabel, videoParameters );
+                    }
+                });
+
+                /**
+                 * Record video progress
+                 **/
+                player.on('timeupdate', function(data) {
+                    var progress = Math.floor(data.percent * 100);
+
+                    videoParameters.video_duration = data.duration;
+                    videoParameters.video_current_time = data.seconds;
+                    videoParameters.video_percent = progress;
+
+                    monsterinsights_media_maybe_record_video_progress( 'vimeo', videoLabel, playerId, videoParameters );
+                });
+
+                /**
+                 * Record video complete
+                 **/
+                player.on('ended', function(data) {
+                    videoParameters.video_duration = data.duration;
+                    videoParameters.video_current_time = data.seconds;
+                    videoParameters.video_percent = 100;
+
+                    monsterinsights_media_record_video_event( 'vimeo', 'video_complete', videoLabel, videoParameters );
+                });
+            }
+
+			function monsterinsights_on_vimeo_load() {
+
+				var vimeoIframes = document.querySelectorAll("iframe[src*='vimeo']");
+
+				vimeoIframes.forEach(function( iframe ) {
+                    //  Set up the player
+					var player = new Vimeo.Player(iframe);
+
+                    //  The getVideoTitle function returns a promise
+                    player.getVideoTitle().then(function(title) {
+                        /*
+                         * Binding the events inside this callback guarantees that we
+                         * always have the correct title for the video
+                         */
+                        monsterinsights_setup_vimeo_events_for_iframe(iframe, title, player)
+                    });
+				});
+			}
+
+			function monsterinsights_media_init_vimeo_events() {
+				var vimeoIframes = document.querySelectorAll("iframe[src*='vimeo']");
+
+				if ( vimeoIframes.length ) {
+
+					/* Maybe load Vimeo API */
+					if ( window.Vimeo === undefined ) {
+						var tag = document.createElement("script");
+						tag.src = "https://player.vimeo.com/api/player.js";
+						tag.setAttribute("onload", "monsterinsights_on_vimeo_load()");
+						document.body.append(tag);
+					} else {
+						/* Vimeo API already loaded, invoke callback */
+						monsterinsights_on_vimeo_load();
+					}
+				}
+			}
+
+			/* --- End Vimeo --- */
+
+			/* --- YouTube --- */
+			function monsterinsights_media_on_youtube_load() {
+				var monsterinsights_media_youtube_plays = {};
+
+				function __onPlayerReady(event) {
+					monsterinsights_media_youtube_plays[event.target.h.id] = 0;
+
+					var videoParameters = {
+						video_provider: 'youtube',
+						video_title: event.target.videoTitle,
+						video_url: event.target.playerInfo.videoUrl
+					};
+					monsterinsights_media_record_video_event( 'youtube', 'impression', videoParameters.video_title, videoParameters );
+				}
+
+				/**
+				 * Record progress callback
+				 **/
+				function __track_youtube_video_progress( player, videoLabel, videoParameters ) {
+					var { playerInfo } = player;
+					var playerId = player.h.id;
+
+					var duration = playerInfo.duration; /* player.getDuration(); */
+					var currentTime = playerInfo.currentTime; /* player.getCurrentTime(); */
+
+					var percentage = (currentTime / duration) * 100;
+					var progress = Math.floor(percentage);
+
+					videoParameters.video_duration = duration;
+					videoParameters.video_current_time = currentTime;
+					videoParameters.video_percent = progress;
+
+					monsterinsights_media_maybe_record_video_progress( 'youtube', videoLabel, playerId, videoParameters );
+				}
+
+				function __youtube_on_state_change( event ) {
+					var state = event.data;
+					var player = event.target;
+					var { playerInfo } = player;
+					var playerId = player.h.id;
+
+					var videoParameters = {
+						video_provider: 'youtube',
+						video_title: player.videoTitle,
+						video_url: playerInfo.videoUrl
+					};
+
+					/**
+					 * YouTube's API doesn't offer a progress or timeupdate event.
+					 * We have to track progress manually by asking the player for the current time, every X milliseconds, using an
+    interval
+					 **/
+
+					if ( state === YT.PlayerState.PLAYING) {
+						if ( monsterinsights_media_youtube_plays[playerId] === 0 ) {
+							monsterinsights_media_youtube_plays[playerId]++;
+							/**
+							 * Record video start
+							 **/
+							videoParameters.video_duration = playerInfo.duration;
+							videoParameters.video_current_time = playerInfo.currentTime;
+							videoParameters.video_percent = 0;
+
+							monsterinsights_media_record_video_event( 'youtube', 'video_start', videoParameters.video_title, videoParameters );
+						}
+
+						monsterinsights_youtube_percentage_tracking_timeouts[ playerId ] = setInterval(
+							__track_youtube_video_progress,
+							500,
+							player,
+							videoParameters.video_title,
+							videoParameters
+						);
+					} else if ( state === YT.PlayerState.PAUSED ) {
+						/* When the video is paused clear the interval */
+						clearInterval( monsterinsights_youtube_percentage_tracking_timeouts[ playerId ] );
+					} else if ( state === YT.PlayerState.ENDED ) {
+
+						/**
+						 * Record video complete
+						 **/
+						videoParameters.video_duration = playerInfo.duration;
+						videoParameters.video_current_time = playerInfo.currentTime;
+						videoParameters.video_percent = 100;
+
+						monsterinsights_media_record_video_event( 'youtube', 'video_complete', videoParameters.video_title, videoParameters );
+						clearInterval( monsterinsights_youtube_percentage_tracking_timeouts[ playerId ] );
+					}
+				}
+
+				var youtubeIframes = document.querySelectorAll("iframe[src*='youtube'],iframe[src*='youtu.be']");
+
+				youtubeIframes.forEach(function( iframe ) {
+					var playerId = iframe.getAttribute('id');
+
+					if ( !playerId ) {
+						playerId = monsterinsights_media_get_id_for_iframe( iframe.getAttribute('src'), 'youtube' );
+						iframe.setAttribute( 'id', playerId );
+					}
+
+					new YT.Player(playerId, {
+						events: {
+							onReady: __onPlayerReady,
+							onStateChange: __youtube_on_state_change
+						}
+					});
+				});
+			}
+
+			function monsterinsights_media_load_youtube_api() {
+				if ( window.YT ) {
+					return;
+				}
+
+				var youtubeIframes = document.querySelectorAll("iframe[src*='youtube'],iframe[src*='youtu.be']");
+				if ( 0 === youtubeIframes.length ) {
+					return;
+				}
+
+				var tag = document.createElement("script");
+				tag.src = "https://www.youtube.com/iframe_api";
+				var firstScriptTag = document.getElementsByTagName('script')[0];
+				firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+			}
+
+			function monsterinsights_media_init_youtube_events() {
+				/* YouTube always looks for a function called onYouTubeIframeAPIReady */
+				window.onYouTubeIframeAPIReady = monsterinsights_media_on_youtube_load;
+			}
+			/* --- End YouTube --- */
+
+			/* --- HTML Videos --- */
+			function monsterinsights_media_init_html_video_events() {
+				var monsterinsights_media_html_plays = {};
+				var videos = document.querySelectorAll('video');
+				var videosCount = 0;
+
+				videos.forEach(function( video ) {
+
+					var videoLabel = video.title;
+
+					if ( !videoLabel ) {
+						var videoCaptionEl = video.nextElementSibling;
+
+						if ( videoCaptionEl && videoCaptionEl.nodeName.toLowerCase() === 'figcaption' ) {
+							videoLabel = videoCaptionEl.textContent;
+						} else {
+							videoLabel = video.getAttribute('src');
+						}
+					}
+
+					var videoTitle = videoLabel;
+
+					var playerId = video.getAttribute('id');
+
+					if ( !playerId ) {
+						playerId = 'html-player-' + videosCount;
+						video.setAttribute('id', playerId);
+					}
+
+					monsterinsights_media_html_plays[playerId] = 0
+
+					var videoSrc = video.getAttribute('src')
+
+					if ( ! videoSrc && video.currentSrc ) {
+						videoSrc = video.currentSrc;
+					}
+
+					var videoParameters = {
+						video_provider: 'html',
+						video_title: videoTitle ? videoTitle : videoSrc,
+						video_url: videoSrc,
+					};
+
+					/**
+					 * Record Impression
+					 **/
+					monsterinsights_media_record_video_event( 'html', 'impression', videoLabel, videoParameters );
+
+					/**
+					 * Record video start
+					 **/
+					video.addEventListener('play', function(event) {
+						let playerId = event.target.id;
+						if ( monsterinsights_media_html_plays[playerId] === 0 ) {
+							monsterinsights_media_html_plays[playerId]++;
+
+							videoParameters.video_duration = video.duration;
+							videoParameters.video_current_time = video.currentTime;
+							videoParameters.video_percent = 0;
+
+							monsterinsights_media_record_video_event( 'html', 'video_start', videoLabel, videoParameters );
+						}
+					}, false );
+
+					/**
+					 * Record video progress
+					 **/
+					video.addEventListener('timeupdate', function() {
+						var percentage = (video.currentTime / video.duration) * 100;
+						var progress = Math.floor(percentage);
+
+						videoParameters.video_duration = video.duration;
+						videoParameters.video_current_time = video.currentTime;
+						videoParameters.video_percent = progress;
+
+						monsterinsights_media_maybe_record_video_progress( 'html', videoLabel, playerId, videoParameters );
+					}, false );
+
+					/**
+					 * Record video complete
+					 **/
+					video.addEventListener('ended', function() {
+						var percentage = (video.currentTime / video.duration) * 100;
+						var progress = Math.floor(percentage);
+
+						videoParameters.video_duration = video.duration;
+						videoParameters.video_current_time = video.currentTime;
+						videoParameters.video_percent = progress;
+
+						monsterinsights_media_record_video_event( 'html', 'video_complete', videoLabel, videoParameters );
+					}, false );
+
+					videosCount++;
+				});
+			}
+			/* --- End HTML Videos --- */
+
+			function monsterinsights_media_init_video_events() {
+				/**
+				 * HTML Video - Attach events & record impressions
+				 */
+				monsterinsights_media_init_html_video_events();
+
+				/**
+				 * Vimeo - Attach events & record impressions
+				 */
+				monsterinsights_media_init_vimeo_events();
+
+				monsterinsights_media_load_youtube_api();
+			}
+
+			/* Attach events */
+			function monsterinsights_media_load() {
+
+				if ( typeof(__gtagTracker) === 'undefined' ) {
+					setTimeout(monsterinsights_media_load, 200);
+					return;
+				}
+
+				if ( document.readyState === "complete" ) { // Need this for cookie plugin.
+					monsterinsights_media_init_video_events();
+				} else if ( window.addEventListener ) {
+					window.addEventListener( "load", monsterinsights_media_init_video_events, false );
+				} else if ( window.attachEvent ) {
+					window.attachEvent( "onload", monsterinsights_media_init_video_events);
+				}
+
+				/**
+				 * YouTube - Attach events & record impressions.
+				 * We don't need to attach this into page load event
+				 * because we already use YT function "onYouTubeIframeAPIReady"
+				 * and this will help on using onReady event with the player instantiation.
+				 */
+				monsterinsights_media_init_youtube_events();
+			}
+
+			monsterinsights_media_load();
+		</script>
+		<!-- End MonsterInsights Media Tracking -->
+
+		
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
+			@media only screen and (max-width: 600px){.hero-condensed .hero-tag {
+    font-size: 2.25em;
+    font-weight: 300;
+    font-family: 'Oswald', 'Segoe UI', Tahoma, Verdana, sans-serif;
+    color: #fff;
+    line-height: 50px;
+    margin: 10px;
+}}
+
+.page-id-4716 .img-circle {
+    border-radius: 0%;
+		width: 75%;
+		margin-top: 15px;
+}
+
+.page-id-4973 .img-circle {
+    border-radius: 0%;
+		width: 75%;
+		margin-top: 15px;
+	}
+.page-id-4973 {
+	Font-size: 20px;
+}
+.page-id-4922 .img-circle {
+    border-radius: 0%;
+		width: 75%;
+		margin-top: 15px;
+}
+.page-id-6705 div.wp-block-column{
+	padding: 20px;
+}
+
+		</style>
+		</head>
+
+<body class="home page-template-default page page-id-223">
+
+<div id="navbar" class="navbar-container">
+<nav class="navbar navbar-fixed-top" aria-label="Primary Menu">
+        <div class="service-alertbar">
+            <a data-toggle="modal" data-target="#service-alert-modal">  
+                <div class="container">         
+                    <i class="fa fa-flag"></i>
+                    <strong>&nbsp;Service Alert</strong><span> - <span id="service-alert-title"></span> </span>
+                </div>
+            </a>
+        </div>   
+	<div class="container">
+        <div id="mobile-navbar">
+            <div class="row">
+                <a class="shiftnav-toggle" data-shiftnav-target="shiftnav-main">
+                    <div class="col-xs-1">
+                        <i class="fa fa-bars"></i>
+                    </div>
+                </a>
+                <a href="/">
+                    <div class="col-xs-11 center-block hidden-lg"> 
+                        <svg class="img-responsive" xmlns="http://www.w3.org/2000/svg" style="height: 55px !important; margin-top: -3px !important; width: 140px !important; margin-bottom: -15px !important;" viewBox="0 0 277.46 92.59"><defs><style>.a{fill:#1c3f94;}.b,.c{fill:#fff;}.b,.e{fill-rule:evenodd;}.d,.e{fill:#f78f1e;}</style></defs><title>Dayton Freight</title><path class="a" d="M167.42,442.48h244.3l2.38-6.62H169.65Zm31.1-92.07-16.2,47.93h245.3l17.27-47.93Z" transform="translate(-167.42 -349.99)"></path><path class="b" d="M239,393.72l19.58-27.95h17.73l1.05,27.95H267l-.1-2.24-13.93.05-1.55,2.18Zm19.21-9.82h8.11l-.41-10.9Z" transform="translate(-167.42 -349.99)"></path><path class="c" d="M230.42,365.44s4.84.63,6.14,1.43c6.1,2.43,8.19,8.63,6.85,14.13-1.47,6-6.15,11.64-13.55,12.6a41.54,41.54,0,0,1-5,.13l-21.71,0,5.62-16.26,11.27-.17L217.5,385l8.43,0c4-.28,5.37-2.71,5.73-4.91.46-2.85-.85-5.4-5.29-6.07l-8.43,0H203.34l3-8.66h24.1" transform="translate(-167.42 -349.99)"></path><polygon class="c" points="110.91 15.79 121.08 34 113.28 43.73 126.29 43.75 148.85 15.79 136.1 15.79 128.68 24.67 123.66 15.79 110.91 15.79"></polygon><polygon class="c" points="2.23 85.88 14.9 48.35 260.2 48.35 246.68 85.88 2.23 85.88"></polygon><polygon class="c" points="223.38 15.79 237.75 15.79 242.22 31.46 253.51 0 265.44 0 249.62 43.73 235.21 43.73 230.59 28.4 225.15 43.73 213.54 43.73 223.38 15.79"></polygon><polygon class="d" points="22.05 81.72 32.29 53.03 58.53 53.03 55.81 60.7 41.36 60.7 39.55 65.48 53.59 65.48 50.76 73.47 36.72 73.47 33.87 81.77 22.05 81.72"></polygon><polygon class="d" points="99.75 53.03 89.39 81.77 114.33 81.72 116.71 74.9 103.69 74.81 105.12 70.56 118.13 70.56 120.27 64.23 107.45 64.23 108.76 60.31 121.7 60.28 124.27 53.03 99.75 53.03"></polygon><polygon class="d" points="129.2 53.03 119.17 81.77 130.98 81.77 141.1 53.03 129.2 53.03"></polygon><path class="d" d="M343,402.81s-32.7-4.25-36.71,15.25,26.18,13.65,26.18,13.65l5.3-14.58H327l-1.92,5.7s-9.44,2.39-7.54-4.46c2.82-10.16,22.67-8,22.67-8l2.85-7.57" transform="translate(-167.42 -349.99)"></path><polygon class="d" points="179.93 52.82 169.82 81.77 181.27 81.77 184.96 71.6 194.31 71.6 190.62 81.77 202.31 81.77 212.6 52.82 201.04 52.82 197.23 63.61 187.58 63.61 191.5 52.82 179.93 52.82"></polygon><polygon class="d" points="216.25 52.82 213.25 61.59 223.55 61.59 216.32 81.77 227.12 81.77 234.28 61.59 243.46 61.59 246.58 52.82 216.25 52.82"></polygon><path class="e" d="M229.63,403H251s8.05,1.46,7.61,9.32c-.41,7.16-10.59,9.23-10.59,9.23l4.89,10.19H241.63l-4.46-10.19h-2.52L231,431.76H219.51L229.63,403m8.94,7.25-1.9,5.51h6.83s3.4-.18,3.75-2.17a2.57,2.57,0,0,0-2.63-3.22Z" transform="translate(-167.42 -349.99)"></path><path class="b" d="M370,364.28c-10.43-1.15-18.69,3.29-21.58,12.93-2.63,8.77,1.31,16.19,11.25,17.9,12.61,2.17,21.76-4.33,23.5-14.08,1.31-7.26-2.73-15.59-13.17-16.74m1.95,16c-.63,3.55-4,5.92-8.57,5.13-3.63-.62-5.07-3.33-4.11-6.52,1.06-3.51,4.07-5.13,7.87-4.71a5.12,5.12,0,0,1,4.81,6.11" transform="translate(-167.42 -349.99)"></path><polygon class="c" points="183.86 15.85 150.88 15.85 143.7 25.33 158.36 25.33 151.37 43.79 162.91 43.79 169.89 25.33 180.36 25.33 183.86 15.85"></polygon><path class="a" d="M420.68,435.86a3.36,3.36,0,1,1-3.35,3.37A3.36,3.36,0,0,1,420.68,435.86Zm0,6.11a2.76,2.76,0,1,0-2.75-2.75A2.76,2.76,0,0,0,420.68,442Zm-.66-1h-.77v-3.6h1.68c.21,0,1.37,0,1.37,1.07a1,1,0,0,1-.67,1l.67,1.56h-.81l-.58-1.43H420Zm0-2h.8c.26,0,.68-.07.68-.51,0-.21-.15-.47-.62-.47H420Z" transform="translate(-167.42 -349.99)"></path></svg>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="navbar-header hidden-xs">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse hidden-md">
+            
+<!-- UberMenu [Configuration:main] [Theme Loc:primary] [Integration:auto] -->
+<nav id="ubermenu-main-2-primary" class="ubermenu ubermenu-nojs ubermenu-main ubermenu-menu-2 ubermenu-loc-primary ubermenu-responsive-nocollapse ubermenu-horizontal ubermenu-transition-fade ubermenu-trigger-click ubermenu-skin-vanilla  ubermenu-bar-align-full ubermenu-items-align-right ubermenu-bound-inner ubermenu-disable-submenu-scroll ubermenu-sub-indicators ubermenu-retractors-responsive"><ul id="ubermenu-nav-main-2-primary" class="ubermenu-nav"><li id="menu-item-4" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-4 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-align-left ubermenu-item-mini" data-ubermenu-trigger="click" ><div class="ubermenu-content-block ubermenu-custom-content"><a href="https://www.daytonfreight.com">
+<img src="https://www.daytonfreight.com/wp-content/uploads/2018/03/logo.png" width="140px" />
+</a></div></li><li id="menu-item-8" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-8 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Shipping</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-8 ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width ubermenu-autoclear" ><li id="menu-item-367" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-367 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack" ><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded"><h3>Tracking</h3></div><ul class="ubermenu-submenu ubermenu-submenu-id-367 ubermenu-submenu-type-auto ubermenu-submenu-type-stack" ><li id="menu-item-292" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-292 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" data-ubermenu-trigger="click" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only icon-offset" href="https://tools.daytonfreight.com/tracking/bynumber"><span class="ubermenu-target-title ubermenu-target-text">Track By Number</span></a></li><li id="menu-item-295" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-295 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-icon ubermenu-item-layout-default ubermenu-item-layout-icon_left" href="https://tools.daytonfreight.com/tracking/bydate"><i class="ubermenu-icon fa fa-lock"></i><span class="ubermenu-target-title ubermenu-target-text">Track By Date</span></a></li><li id="menu-item-298" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-298 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-icon ubermenu-item-layout-default ubermenu-item-layout-icon_left" href="https://tools.daytonfreight.com/tracking/pending"><i class="ubermenu-icon fa fa-lock"></i><span class="ubermenu-target-title ubermenu-target-text">Shipments Pending Delivery</span></a></li><li id="menu-item-301" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-301 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto ubermenu-clear-row" ><a class="ubermenu-target ubermenu-target-with-icon ubermenu-item-layout-default ubermenu-item-layout-icon_left" href="https://tools.daytonfreight.com/imaging"><i class="ubermenu-icon fa fa-lock"></i><span class="ubermenu-target-title ubermenu-target-text">View Images</span></a></li><li id="menu-item-294" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-294 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-icon ubermenu-item-layout-default ubermenu-item-layout-icon_left" href="https://tools.daytonfreight.com/account/activity"><i class="ubermenu-icon fa fa-lock"></i><span class="ubermenu-target-title ubermenu-target-text">Recent Online Activity</span></a></li></ul></li><li id="menu-item-368" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-368 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack" ><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded"><h3>New Shipments</h3></div><ul class="ubermenu-submenu ubermenu-submenu-id-368 ubermenu-submenu-type-auto ubermenu-submenu-type-stack" ><li id="menu-item-293" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-293 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only icon-offset" href="https://tools.daytonfreight.com/service/eligibility"><span class="ubermenu-target-title ubermenu-target-text">Transit Times</span></a></li><li id="menu-item-296" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-296 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-icon ubermenu-item-layout-default ubermenu-item-layout-icon_left" href="https://tools.daytonfreight.com/rates/estimate"><i class="ubermenu-icon fa fa-lock"></i><span class="ubermenu-target-title ubermenu-target-text">Rate Estimate</span></a></li><li id="menu-item-300" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-300 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-icon ubermenu-item-layout-default ubermenu-item-layout-icon_left" href="https://tools.daytonfreight.com/billoflading/create"><i class="ubermenu-icon fa fa-lock"></i><span class="ubermenu-target-title ubermenu-target-text">Bill of Lading</span></a></li><li id="menu-item-299" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-299 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-icon ubermenu-item-layout-default ubermenu-item-layout-icon_left" href="https://tools.daytonfreight.com/pickup/create"><i class="ubermenu-icon fa fa-lock"></i><span class="ubermenu-target-title ubermenu-target-text">Pickup Request</span></a></li><li id="menu-item-302" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-302 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-icon ubermenu-item-layout-default ubermenu-item-layout-icon_left" href="https://tools.daytonfreight.com/shipping/labels"><i class="ubermenu-icon fa fa-lock"></i><span class="ubermenu-target-title ubermenu-target-text">Shipping Labels</span></a></li><li id="menu-item-304" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-304 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-icon ubermenu-item-layout-default ubermenu-item-layout-icon_left" href="https://tools.daytonfreight.com/shipping/volumequote"><i class="ubermenu-icon fa fa-lock"></i><span class="ubermenu-target-title ubermenu-target-text">Volume/Spot Quote</span></a></li></ul></li><li id="menu-item-369" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-369 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack" ><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded"><h3>Other</h3></div><ul class="ubermenu-submenu ubermenu-submenu-id-369 ubermenu-submenu-type-auto ubermenu-submenu-type-stack" ><li id="menu-item-297" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-297 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-icon ubermenu-item-layout-default ubermenu-item-layout-icon_left" target="_blank" href="https://www.phmsa.dot.gov/sites/phmsa.dot.gov/files/docs/training/hazmat/69186/hazmat-transportation-reqmts-web-final.pdf"><i class="ubermenu-icon fa fa-download"></i><span class="ubermenu-target-title ubermenu-target-text">HazMat Shipping Guide</span></a></li><li id="menu-item-303" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-303 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-icon ubermenu-item-layout-default ubermenu-item-layout-icon_left" target="_blank" href="https://daytonfreight.com/wp-content/uploads/2025/10/DFL_Wordpress_bill-of-lading-1.pdf" id="BOLdownload"><i class="ubermenu-icon fa fa-download"></i><span class="ubermenu-target-title ubermenu-target-text">Bill of Lading (download)</span></a></li><li id="menu-item-6225" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-6225 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-icon ubermenu-item-layout-default ubermenu-item-layout-icon_left" target="_blank" href="https://daytonfreight.com/wp-content/uploads/2025/10/DFL_Wordpress_bill-of-lading-2.pdf"><i class="ubermenu-icon fa fa-download"></i><span class="ubermenu-target-title ubermenu-target-text">BOL Supplemental Page (download)</span></a></li><li id="menu-item-2330" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-2330 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-icon ubermenu-item-layout-default ubermenu-item-layout-icon_left" href="https://tools.daytonfreight.com/reporting"><i class="ubermenu-icon fa fa-lock"></i><span class="ubermenu-target-title ubermenu-target-text">Reporting</span></a></li><li id="menu-item-305" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-305 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-icon ubermenu-item-layout-default ubermenu-item-layout-icon_left rulestariff" target="_blank" href="https://daytonfreight.com/wp-content/uploads/2025/07/DAFG-19-K-24th-Revision-effective-01.19.26.pdf"><i class="ubermenu-icon fa fa-download"></i><span class="ubermenu-target-title ubermenu-target-text">Rules Tariff</span></a></li><li id="menu-item-1213" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-1213 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-icon ubermenu-item-layout-default ubermenu-item-layout-icon_left" href="https://tools.daytonfreight.com/claims/create"><i class="ubermenu-icon fa fa-lock"></i><span class="ubermenu-target-title ubermenu-target-text">Claims</span></a></li></ul></li><li id="menu-item-2348" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-2348 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-full" ><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded"><div class="row" style="margin-top: 10px;"><div class="col-xs-4"><h4>Current Fuel Surcharge</h4><span>Effective <strong id="fuel-surcharge-effective-date"></strong> the fuel surcharge is <strong id="fuel-surcharge-percent"></strong></span></div><div class="col-xs-8" style="margin-top: 10px;"><p>Shipping with Dayton Freight is easy with tools and resources at your fingertips. You can track your shipment, request rate estimates, view your recent online activity, check transit times, get shipping labels and more. When you ship with Dayton Freight, you are backed by a team of experts who work hard to get your shipment safely to its destination on time. For support tracking LTL shipments, call Dayton Freight: 800.860.5102.</p></div></div></div></li></ul></li><li id="menu-item-9" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-9 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Services</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-9 ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width ubermenu-autoclear" ><li id="menu-item-370" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-370 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-full ubermenu-has-submenu-stack" ><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded"><h3>Services</h3></div><ul class="ubermenu-submenu ubermenu-submenu-id-370 ubermenu-submenu-type-auto ubermenu-submenu-type-stack" ><li id="menu-item-193" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-193 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3 ubermenu-clear-row" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/service-centers/"><span class="ubermenu-target-title ubermenu-target-text">Service Centers</span></a></li><li id="menu-item-142" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-142 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/dfxpedited-services/"><span class="ubermenu-target-title ubermenu-target-text">DFX Expedited Service</span></a></li><li id="menu-item-137" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-137 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/guaranteed-service/"><span class="ubermenu-target-title ubermenu-target-text">Guaranteed Service</span></a></li><li id="menu-item-157" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-157 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/strategic-partners/"><span class="ubermenu-target-title ubermenu-target-text">Strategic Partners</span></a></li><li id="menu-item-1074" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1074 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/dft/"><span class="ubermenu-target-title ubermenu-target-text">DFT Truckload</span></a></li><li id="menu-item-147" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-147 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/special-services/"><span class="ubermenu-target-title ubermenu-target-text">Special Services</span></a></li><li id="menu-item-659" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-659 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/it-integration/"><span class="ubermenu-target-title ubermenu-target-text">IT Integration</span></a></li></ul></li><li id="menu-item-2345" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-2345 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-full" ><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded"><p style="margin-top: 20px">Our multiple services provide you with flexibility, reliability, speed and special equipment. Backed by a total set of solutions, Dayton Freight is equipped to efficiently get deliveries to your location – on time, intact and with total freight visibility.</p></div></li></ul></li><li id="menu-item-10" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-10 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">About</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-10 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width ubermenu-autoclear" ><li id="menu-item-377" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-377 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack" ><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded"><h3>About</h3></div><ul class="ubermenu-submenu ubermenu-submenu-id-377 ubermenu-submenu-type-auto ubermenu-submenu-type-stack" ><li id="menu-item-3770" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-3770 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/builtforthelonghaul/"><span class="ubermenu-target-title ubermenu-target-text">Built for the Long Haul</span></a></li><li id="menu-item-101" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-101 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-full" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/company-facts/"><span class="ubermenu-target-title ubermenu-target-text">Company Facts</span></a></li><li id="menu-item-103" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-103 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-full" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/quality/"><span class="ubermenu-target-title ubermenu-target-text">Quality</span></a></li><li id="menu-item-102" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-has-children ubermenu-item-102 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-full ubermenu-has-submenu-stack" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/safety/"><span class="ubermenu-target-title ubermenu-target-text">Safety</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-102 ubermenu-submenu-type-auto ubermenu-submenu-type-stack" ><li id="menu-item-3029" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-3029 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/sustainability-and-diversity/"><span class="ubermenu-target-title ubermenu-target-text">Sustainability and Diversity</span></a></li></ul></li></ul></li><li id="menu-item-379" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-379 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack" ><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded"><h3>News</h3></div><ul class="ubermenu-submenu ubermenu-submenu-id-379 ubermenu-submenu-type-auto ubermenu-submenu-type-stack" ><li id="menu-item-2694" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-2694 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/a-note-to-our-customers/"><span class="ubermenu-target-title ubermenu-target-text">Letter to Customers</span></a></li><li id="menu-item-517" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-517 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-full" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/news/"><span class="ubermenu-target-title ubermenu-target-text">News</span></a></li><li id="menu-item-116" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-116 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-full" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/awards/"><span class="ubermenu-target-title ubermenu-target-text">Awards</span></a></li></ul></li><li id="menu-item-378" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-378 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack" ><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded"><h3>The Dayton Difference</h3></div><ul class="ubermenu-submenu ubermenu-submenu-id-378 ubermenu-submenu-type-auto ubermenu-submenu-type-stack" ><li id="menu-item-107" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-107 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-full" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/the-dayton-difference/"><span class="ubermenu-target-title ubermenu-target-text">What is The Dayton Difference?</span></a></li><li id="menu-item-104" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-104 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-full" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/our-community/"><span class="ubermenu-target-title ubermenu-target-text">Our Community</span></a></li><li id="menu-item-105" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-105 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-full" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/our-culture/"><span class="ubermenu-target-title ubermenu-target-text">Our Culture</span></a></li><li id="menu-item-106" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-106 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-full" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/our-commitment/"><span class="ubermenu-target-title ubermenu-target-text">Our Commitment</span></a></li></ul></li><li id="menu-item-2346" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-2346 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-full" ><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded"><p style="margin-top: 20px;"><b><em>Delivering Value Today. Driving The Standard For Tomorrow.</em></b> Our corporate vision statement focuses on the present while looking ahead to the technology-driven future. It describes our promise right now and will forge our pathway for the decades to come.</p></div></li></ul></li><li id="menu-item-11" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-11 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Resources</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-11 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width ubermenu-autoclear" ><li id="menu-item-386" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-has-children ubermenu-item-386 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-full ubermenu-has-submenu-stack" ><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded"><h3>Resources & Downloads</h3></div><ul class="ubermenu-submenu ubermenu-submenu-id-386 ubermenu-submenu-type-auto ubermenu-submenu-type-stack" ><li id="menu-item-381" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-381 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only icon-offset" href="http://tools.daytonfreight.com/service/alertsignup"><span class="ubermenu-target-title ubermenu-target-text">Service Alert Signup</span></a></li><li id="menu-item-7323" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-7323 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only icon-offset" href="https://daytonfreight.com/invoicing-billing/"><span class="ubermenu-target-title ubermenu-target-text">Invoicing/Billing</span></a></li><li id="menu-item-408" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-408 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only icon-offset" href="https://daytonfreight.com/faqs/"><span class="ubermenu-target-title ubermenu-target-text">FAQs</span></a></li><li id="menu-item-395" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-395 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only icon-offset" href="https://daytonfreight.com/forms/"><span class="ubermenu-target-title ubermenu-target-text">Forms</span></a></li><li id="menu-item-7086" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-7086 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only icon-offset" href="https://daytonfreight.com/nmfc/"><span class="ubermenu-target-title ubermenu-target-text">NMFC Changes</span></a></li><li id="menu-item-442" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-442 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only icon-offset" href="https://daytonfreight.com/glossary-of-terms/"><span class="ubermenu-target-title ubermenu-target-text">Glossary of Terms</span></a></li><li id="menu-item-384" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-384 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only icon-offset" href="http://tools.daytonfreight.com/shipping/fullvalueinsurance"><span class="ubermenu-target-title ubermenu-target-text">Insurance Calculator</span></a></li><li id="menu-item-334" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-334 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-target-with-icon ubermenu-item-layout-default ubermenu-item-layout-icon_left rulestariff" target="_blank" href="https://daytonfreight.com/wp-content/uploads/2025/07/DAFG-19-K-24th-Revision-effective-01.19.26.pdf"><i class="ubermenu-icon fa fa-download"></i><span class="ubermenu-target-title ubermenu-target-text">Rules Tariff</span></a></li><li id="menu-item-383" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-383 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only icon-offset" href="http://tools.daytonfreight.com/shipping/densitycalculator"><span class="ubermenu-target-title ubermenu-target-text">Density Calculator</span></a></li><li id="menu-item-380" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-380 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-target-with-icon ubermenu-item-layout-default ubermenu-item-layout-icon_left" target="_blank" href="https://tools.daytonfreight.com/pdf/routeguidepoints.pdf" id="routeguide"><i class="ubermenu-icon fa fa-download"></i><span class="ubermenu-target-title ubermenu-target-text">Route Guide</span></a></li><li id="menu-item-124" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-124 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only icon-offset" href="https://daytonfreight.com/it-integration/"><span class="ubermenu-target-title ubermenu-target-text">IT Integration</span></a></li><li id="menu-item-153" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-153 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only icon-offset" href="https://daytonfreight.com/holiday-schedule/"><span class="ubermenu-target-title ubermenu-target-text">Holiday Schedule</span></a></li></ul></li><li id="menu-item-2347" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-2347 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-full" ><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded"><p style="margin-top: 20px;">Partnering with Dayton Freight gives you up-to-the-minute resources at your fingertips. Our specialists are focused on giving you superior customer service, and we work hard to provide the resources you need to actively monitor your shipments. For support tracking LTL shipments, call Dayton Freight: 800.860.5102. </p></div></li></ul></li><li id="menu-item-12" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-12 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Contact</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-12 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-left_edge_item ubermenu-autoclear" ><li id="menu-item-822" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-822 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-full" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/contact/"><span class="ubermenu-target-title ubermenu-target-text">Contact Us</span></a></li><li id="menu-item-121" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-121 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-full" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://daytonfreight.com/employment-verification/"><span class="ubermenu-target-title ubermenu-target-text">Employment Verification</span></a></li><li id="menu-item-7321" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-7321 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-full" ><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded"><p style= "line-height: 1px; margin-top: 10px;">For support tracking LTL shipments,</p><p>call Dayton Freight: 800.860.5102.</p></div></li></ul></li><li id="menu-item-14" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-14 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://www.daytonfreight.com/careers/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Careers</span></a></li><li id="menu-item-624" class="user-logged-in ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-624 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-flyout ubermenu-submenu-rtl ubermenu-submenu-reverse" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only ubermenu-noindicator btn btn-sm btn-orange-white" href="#" tabindex="0" id="my-account-link"><span class="ubermenu-target-title ubermenu-target-text">My Account</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-624 ubermenu-submenu-type-flyout ubermenu-submenu-drop ubermenu-submenu-align-right_edge_item" ><li id="menu-item-1013" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-1013 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://tools.daytonfreight.com/account/update"><span class="ubermenu-target-title ubermenu-target-text">Update Account</span></a></li><li id="menu-item-1014" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-1014 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://tools.daytonfreight.com/service/alerts"><span class="ubermenu-target-title ubermenu-target-text">Notifications</span></a></li><li id="menu-item-901" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-901 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://tools.daytonfreight.com/aging/summary"><span class="ubermenu-target-title ubermenu-target-text">Account Aging</span></a></li><li id="menu-item-7352" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-7352 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://tools.daytonfreight.com/onlinepayments/summary"><span class="ubermenu-target-title ubermenu-target-text">Online Payments</span></a></li><li id="menu-item-2331" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-2331 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://tools.daytonfreight.com/reporting"><span class="ubermenu-target-title ubermenu-target-text">Reporting</span></a></li><li id="menu-item-625" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-625 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-1" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="https://tools.daytonfreight.com/account/logout"><span class="ubermenu-target-title ubermenu-target-text">Sign Out</span></a></li></ul></li><li id="menu-item-1234" class="loading-spinner ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-1234 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><div class="ubermenu-content-block ubermenu-custom-content"><button class="btn btn-sm btn-orange-white"><i class="fa fa-refresh fa-spin fa-fw"></i><span class="sr-only">Loading...</span></button></div></li><li id="menu-item-17" class="user-logged-out ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-17 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only btn btn-sm btn-orange-white" href="https://tools.daytonfreight.com/account/login" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Customer Login</span></a></li><li id="menu-item-2342" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-2342 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto" ><div class="ubermenu-content-block ubermenu-custom-content">	<!-- UberMenu Search Bar -->
+	<div class="ubermenu-search">
+		<form role="search" method="get" class="ubermenu-searchform" action="https://daytonfreight.com/">
+			<input type="text" placeholder="Search..." value="" name="s" class="ubermenu-search-input" />
+						<input type="submit" class="ubermenu-search-submit" value="&#xf002;" />
+		</form>
+	</div>
+	<!-- end .ubermenu-search -->
+	</div></li></ul></nav>
+<!-- End UberMenu -->
+        </div>
+    </div>
+</nav>
+</div>
+
+<div id="page-content">
+
+
+ 
+
+ 
+
+
+<div class="container">
+    
+			<!-- START Dayton Freight Home REVOLUTION SLIDER 6.7.4 --><p class="rs-p-wp-fix"></p>
+			<rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+				<rs-module id="rev_slider_1_1" style="" data-version="6.7.4">
+					<rs-slides style="overflow: hidden; position: absolute;">
+						<rs-slide style="position: absolute;" data-key="rs-186" data-title="Slide" data-anim="ms:600;" data-in="o:0;" data-out="a:false;">
+							<img src="//daytonfreight.com/wp-content/plugins/revslider/sr6/assets/assets/dummy.png" alt="Slide" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//daytonfreight.com/wp-content/plugins/revslider/sr6/assets/assets/transparent.png" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-1-slide-186-layer-1" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="x:-14px;y:-9px;"
+								data-text="l:22;a:inherit;"
+								data-dim="w:2028px;h:659px;"
+								data-frame_1="sp:290;sR:10;"
+								data-frame_999="o:0;st:w;sp:310;sR:8700;"
+								style="z-index:6;"
+							><img src="//daytonfreight.com/wp-content/plugins/revslider/sr6/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="2000" height="650" data-lazyload="//daytonfreight.com/wp-content/uploads/2022/08/Quality-Communication.jpg" data-no-retina> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-186-layer-2" 
+								class="tp-shape tp-shapewrapper"
+								data-type="shape"
+								data-rsp_ch="on"
+								data-xy="x:285px;y:273px;"
+								data-text="a:inherit;"
+								data-dim="w:409px;h:177px;"
+								data-frame_1="st:330;sp:310;sR:330;"
+								data-frame_999="o:0;st:w;sp:310;sR:8360;"
+								style="z-index:7;background-color:rgba(28,63,149,0.80);"
+							> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-186-layer-3" 
+								data-type="text"
+								data-color="rgba(255,255,255,1)"
+								data-rsp_ch="on"
+								data-xy="x:304px;y:299px;"
+								data-text="s:40;l:22;a:inherit;"
+								data-dim="w:455px;h:44px;"
+								data-frame_1="st:340;sp:280;sR:340;"
+								data-frame_999="o:0;st:w;sp:310;sR:8380;"
+								style="z-index:8;font-family:'Oswald';"
+							>Recognized for Excellence  
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-186-layer-4" 
+								data-type="text"
+								data-color="rgba(255,255,255,1)"
+								data-rsp_ch="on"
+								data-xy="x:306px;y:354px;"
+								data-text="w:normal;l:13;a:inherit;"
+								data-dim="w:453px;h:13px;"
+								data-frame_1="st:340;sp:280;sR:340;"
+								data-frame_999="o:0;st:w;sp:310;sR:8380;"
+								style="z-index:9;font-family:'Open Sans';"
+							>Thank you to our loyal customers 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-186-layer-11" 
+								class="rev-btn"
+								data-type="button"
+								data-color="rgba(255,255,255,1)"
+								data-xy="x:306px;y:388px;"
+								data-text="s:16;l:14;fw:900;a:inherit;"
+								data-actions='o:click;a:simplelink;target:_self;url:https://daytonfreight.com/awards/;'
+								data-padding="t:10;r:30;b:10;l:30;"
+								data-frame_1="st:330;sp:310;sR:330;"
+								data-frame_999="o:0;st:w;sp:310;sR:8360;"
+								data-frame_hover="c:#f78f1e;bgc:#fff;boc:transparent;bor:0px,0px,0px,0px;bos:solid;oX:50;oY:50;sp:0;"
+								style="z-index:10;background-color:rgba(247,143,30,1);font-family:'Roboto';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
+							>Read More 
+							</rs-layer><!--
+-->					</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-187" data-title="Slide" data-anim="ms:600;" data-in="o:0;" data-out="a:false;">
+							<img src="//daytonfreight.com/wp-content/plugins/revslider/sr6/assets/assets/dummy.png" alt="Slide" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//daytonfreight.com/wp-content/plugins/revslider/sr6/assets/assets/transparent.png" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-1-slide-187-layer-1" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="x:-14px;y:-9px;"
+								data-text="l:22;a:inherit;"
+								data-dim="w:2028px;h:659px;"
+								data-frame_1="sp:290;sR:10;"
+								data-frame_999="o:0;st:w;sp:310;sR:8700;"
+								style="z-index:6;"
+							><img src="//daytonfreight.com/wp-content/plugins/revslider/sr6/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="2000" height="650" data-lazyload="//daytonfreight.com/wp-content/uploads/2024/12/TMH-Giving-Tree.jpg" data-no-retina> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-187-layer-2" 
+								class="tp-shape tp-shapewrapper"
+								data-type="shape"
+								data-rsp_ch="on"
+								data-xy="x:405px;y:68px;"
+								data-text="a:inherit;"
+								data-dim="w:467px;h:177px;"
+								data-frame_1="st:330;sp:310;sR:330;"
+								data-frame_999="o:0;st:w;sp:310;sR:8360;"
+								style="z-index:7;background-color:rgba(28,63,149,0.80);"
+							> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-187-layer-3" 
+								data-type="text"
+								data-color="rgba(255,255,255,1)"
+								data-rsp_ch="on"
+								data-xy="x:430px;y:96px;"
+								data-text="s:40;l:22;a:inherit;"
+								data-dim="w:455px;h:44px;"
+								data-frame_1="st:340;sp:280;sR:340;"
+								data-frame_999="o:0;st:w;sp:310;sR:8380;"
+								style="z-index:8;font-family:'Oswald';"
+							>The Dayton Difference  
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-187-layer-4" 
+								data-type="text"
+								data-color="rgba(255,255,255,1)"
+								data-rsp_ch="on"
+								data-xy="x:430px;y:152px;"
+								data-text="w:normal;l:13;a:inherit;"
+								data-dim="w:453px;h:13px;"
+								data-frame_1="st:340;sp:280;sR:340;"
+								data-frame_999="o:0;st:w;sp:310;sR:8380;"
+								style="z-index:9;font-family:'Open Sans';"
+							>Supporting local communities Companywide 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-187-layer-11" 
+								class="rev-btn"
+								data-type="button"
+								data-color="rgba(255,255,255,1)"
+								data-xy="x:433px;y:184px;"
+								data-text="s:16;l:14;fw:900;a:inherit;"
+								data-actions='o:click;a:simplelink;target:_self;url:https://daytonfreight.com/our-community/;'
+								data-padding="t:10;r:30;b:10;l:30;"
+								data-frame_1="st:330;sp:310;sR:330;"
+								data-frame_999="o:0;st:w;sp:310;sR:8360;"
+								data-frame_hover="c:#f78f1e;bgc:#fff;boc:transparent;bor:0px,0px,0px,0px;bos:solid;oX:50;oY:50;sp:0;"
+								style="z-index:10;background-color:rgba(247,143,30,1);font-family:'Roboto';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
+							>Read More 
+							</rs-layer><!--
+-->					</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-188" data-title="Slide" data-anim="ms:600;" data-in="o:0;" data-out="a:false;">
+							<img src="//daytonfreight.com/wp-content/plugins/revslider/sr6/assets/assets/dummy.png" alt="Slide" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//daytonfreight.com/wp-content/plugins/revslider/sr6/assets/assets/transparent.png" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-1-slide-188-layer-1" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="x:-14px;y:-9px;"
+								data-text="l:22;a:inherit;"
+								data-dim="w:2028px;h:659px;"
+								data-frame_1="sp:290;sR:10;"
+								data-frame_999="o:0;st:w;sp:310;sR:8700;"
+								style="z-index:6;"
+							><img src="//daytonfreight.com/wp-content/plugins/revslider/sr6/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="2000" height="650" data-lazyload="//daytonfreight.com/wp-content/uploads/2025/11/Technicians.jpg" data-no-retina> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-188-layer-2" 
+								class="tp-shape tp-shapewrapper"
+								data-type="shape"
+								data-rsp_ch="on"
+								data-xy="x:436px;y:368px;"
+								data-text="a:inherit;"
+								data-dim="w:539px;h:177px;"
+								data-frame_1="st:330;sp:310;sR:330;"
+								data-frame_999="o:0;st:w;sp:310;sR:8360;"
+								style="z-index:7;background-color:rgba(28,63,149,0.80);"
+							> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-188-layer-3" 
+								data-type="text"
+								data-color="rgba(255,255,255,1)"
+								data-rsp_ch="on"
+								data-xy="x:465px;y:398px;"
+								data-text="s:40;l:22;a:inherit;"
+								data-dim="w:455px;h:44px;"
+								data-frame_1="st:340;sp:280;sR:340;"
+								data-frame_999="o:0;st:w;sp:310;sR:8380;"
+								style="z-index:8;font-family:'Oswald';"
+							>Shift your Career into Gear  
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-188-layer-4" 
+								data-type="text"
+								data-color="rgba(255,255,255,1)"
+								data-rsp_ch="on"
+								data-xy="x:467px;y:453px;"
+								data-text="w:normal;l:13;a:inherit;"
+								data-dim="w:509px;h:39px;"
+								data-frame_1="st:340;sp:280;sR:340;"
+								data-frame_999="o:0;st:w;sp:310;sR:8380;"
+								style="z-index:9;font-family:'Open Sans';"
+							> 
+Join our talented team of Maintenance Technicians! 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-188-layer-11" 
+								class="rev-btn"
+								data-type="button"
+								data-color="rgba(255,255,255,1)"
+								data-xy="x:462px;y:487px;"
+								data-text="s:16;l:14;fw:900;a:inherit;"
+								data-actions='o:click;a:simplelink;target:_self;url:https://daytonfreight.com/careers/;'
+								data-padding="t:10;r:30;b:10;l:30;"
+								data-frame_1="st:330;sp:310;sR:330;"
+								data-frame_999="o:0;st:w;sp:310;sR:8360;"
+								data-frame_hover="c:#f78f1e;bgc:#fff;boc:transparent;bor:0px,0px,0px,0px;bos:solid;oX:50;oY:50;sp:0;"
+								style="z-index:10;background-color:rgba(247,143,30,1);font-family:'Roboto';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
+							>Apply Today! 
+							</rs-layer><!--
+-->					</rs-slide>
+					</rs-slides>
+					<rs-static-layers class="rs-stl-visible"><!--
+					--></rs-static-layers>
+				</rs-module>
+				<script>
+					setREVStartSize({c: 'rev_slider_1_1',rl:[1240,1024,778,480],el:[600],gw:[2000],gh:[600],type:'standard',justify:'',layout:'fullwidth',mh:"0"});if (window.RS_MODULES!==undefined && window.RS_MODULES.modules!==undefined && window.RS_MODULES.modules["revslider11"]!==undefined) {window.RS_MODULES.modules["revslider11"].once = false;window.revapi1 = undefined;if (window.RS_MODULES.checkMinimal!==undefined) window.RS_MODULES.checkMinimal()}
+				</script>
+			</rs-module-wrap>
+			<!-- END REVOLUTION SLIDER -->
+
+     
+
+</div> <!-- /.container -->    
+<div class="content-section color-scheme-blue " style="margin-top; 0; margin-bottom: 0; ">
+    <div class="container-fluid">
+        <div class="container">
+
+<div class="row">
+    <div class="col-md-12 text-left">
+     
+    <p class="tag-line text-2xl">Delivering Value Today. Driving The Standard For Tomorrow.<sup>®</sup></p>
+ 
+     
+</div></div>
+
+            </div> <!-- /.container --> 
+        </div> <!-- /.container-fluid --> 
+    </div> <!-- /.content-section -->
+    <div class="container">
+    <div class="content-section customer-tools-section">
+        <h2>Power Tools</h2>
+        <p>The right tools for the job are at your fingertips. Rely on a personalized tool kit to keep your operations moving smoothly.</p>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-6 customer-tools-links">
+                <div class="row">
+                                                                        <div class="col-xs-12 col-sm-6 col-sm-offset-0 col-md-offset-0 col-md-6">
+                                <a class="customer-tools-link" href="https://tools.daytonfreight.com/rates/estimate">
+                                    <i class="fa fa-dollar"></i>
+                                    <p>Rate Estimate</p>  
+                                </a>  
+                            </div>
+                                                    <div class="col-xs-12 col-sm-6 col-sm-offset-0 col-md-offset-0 col-md-6">
+                                <a class="customer-tools-link" href="https://tools.daytonfreight.com/tracking/bynumber#bynumber">
+                                    <i class="fa fa-search"></i>
+                                    <p>Track Shipment</p>  
+                                </a>  
+                            </div>
+                                                    <div class="col-xs-12 col-sm-6 col-sm-offset-0 col-md-offset-0 col-md-6">
+                                <a class="customer-tools-link" href="https://tools.daytonfreight.com/pickup/create">
+                                    <i class="fa fa-truck"></i>
+                                    <p>Pickup Request</p>  
+                                </a>  
+                            </div>
+                                                    <div class="col-xs-12 col-sm-6 col-sm-offset-0 col-md-offset-0 col-md-6">
+                                <a class="customer-tools-link" href="https://tools.daytonfreight.com/billoflading/create">
+                                    <i class="fa fa-file"></i>
+                                    <p>Bill of Lading</p>  
+                                </a>  
+                            </div>
+                                                            </div> 
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 customer-tools-form">
+                <label>Quick Track Shipment</label>
+                <div class="row">
+                    <form method="get" action="https://tools.daytonfreight.com/tracking/detail">
+                        <div class="col-sm-9">
+                            <input type="text" name="id" class="form-control margin-bottom-10" placeholder="Dayton Freight PRO Number" />
+                        </div>
+                        <div class="col-sm-3">
+                            <input type="submit" class="btn btn-default" style="width: 115px;" value="Track" />
+                        </div>
+                    </form>
+                </div>
+                <label style="margin-top: 20px;">Get Transit Times</label>
+                <div class="row">
+                    <form method="get" action="https://tools.daytonfreight.com/service/eligibility" >
+                        <div class="col-sm-9">
+		            <div class="row">
+			    	<div class="col-sm-6">
+                            		<input type="text" maxlength="6" name="origin" class="form-control margin-bottom-10" placeholder="Origin Zip" />
+                            	</div>
+			    	<div class="col-sm-6">
+					<input type="text" maxlength="6" name="destination" class="form-control margin-bottom-10" placeholder="Destination Zip" />
+                            	</div>
+                            </div>
+			</div>
+                        <div class="col-sm-3">
+                            <input type="submit" class="btn btn-default" style="width: 115px;" value="Get Times" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+ 
+
+</div> <!-- /.container -->    
+<div class="content-section color-scheme-orange " style="padding: 50px 0; margin-bottom: 0; ">
+    <div class="container-fluid">
+        <div class="container">
+
+<div class="row">
+    <div class="col-md-12 text-center">
+    <h2>Solutions for Any Shipping Need</h2> 
+    <p>You get more than a fleet of trucks – you get a fleet of solutions. Whatever your shipping needs are, Dayton Freight will find the most efficient plan that fits your schedule and your budget. <span class="NormalTextRun SCXW222170545 BCX0">For </span><span class="NormalTextRun SCXW222170545 BCX0">additional</span><span class="NormalTextRun SCXW222170545 BCX0"> support tracking LTL shipments, call Dayton Freight</span><span class="NormalTextRun SCXW222170545 BCX0">:</span><span class="NormalTextRun SCXW222170545 BCX0"> 800.860.5102.</span></p>
+ 
+        
+<div class="row text-center">
+    <div class="col-xs-12 col-sm-6 col-md-4 margin-bottom-40 text-center callout callout-lg">    <a href="https://www.daytonfreight.com/service-centers/">
+		     
+	     
+               <img class="img-responsive img-circle" src="https://daytonfreight.com/wp-content/uploads/2016/12/LTL-1.png" alt="LTL" />
+	     
+	    <h3>LTL</h3>
+            </a>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 margin-bottom-40 text-center callout callout-lg">    <a href="https://www.daytonfreight.com/dft/">
+		     
+	     
+               <img class="img-responsive img-circle" src="https://daytonfreight.com/wp-content/uploads/2016/12/TRUCKLOAD-1.png" alt="Truckload" />
+	     
+	    <h3>Truckload</h3>
+            </a>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-4 margin-bottom-40 text-center callout callout-lg">    <a href="https://www.daytonfreight.com/dfxpedited-services/">
+		     
+	     
+               <img class="img-responsive img-circle" src="https://daytonfreight.com/wp-content/uploads/2016/12/LOGISTICS-1.png" alt="Expedite" />
+	     
+	    <h3>Expedite</h3>
+            </a>
+    </div>
+    </div>
+ 
+</div></div>
+
+            </div> <!-- /.container --> 
+        </div> <!-- /.container-fluid --> 
+    </div> <!-- /.content-section -->
+    <div class="container">
+ 
+
+</div> <!-- /.container -->    
+<div class="content-section color-scheme-blue " style="padding: 50px 0; margin-bottom: 0; ">
+    <div class="container-fluid">
+        <div class="container">
+
+<div class="row">
+    <div class="col-md-12 text-center">
+    <h2>Service Area</h2> 
+    <p>We’ve got the Midwest covered. Your shipments are in good hands, and your customers have never been more within reach.</p>
+<p>&nbsp;</p>
+<p><a href="/service-centers"><br />
+<img decoding="async" loading="lazy" class="alignleft size-full wp-image-2457" src="https://daytonfreight.com/wp-content/uploads/2025/03/2025.03.ServiceCenters.Map-01.png" alt="" width="100%" height="100%" /><br />
+</a></p>
+ 
+        
+<div class="row text-center">
+    <div class="col-xs-12 col-sm-6 col-md-4 margin-bottom-40 text-center callout callout-lg">    <a href="">
+	    </a>
+    </div>
+    </div>
+ 
+</div></div>
+
+            </div> <!-- /.container --> 
+        </div> <!-- /.container-fluid --> 
+    </div> <!-- /.content-section -->
+    <div class="container">
+         
+    <div class="recent-post-section" style="padding: 50px 0; margin-bottom: 0; "> 
+		<h2>In The News</h2> 
+                    <h3 class="margin-bottom-30"><a href="https://daytonfreight.com/dayton-freight-wins-3ms-silver-award/">DAYTON FREIGHT WINS 3M’S SILVER AWARD </a></h3>
+            <p>DAYTON, Ohio – Dayton Freight Lines, Inc., a leading provider of regional less-than-truckload (LTL) transportation services, has been recognized with 3M’s 2025 Silver Award. This honor is presented to carriers that maintain on-time delivery above 95%, accurate documentation, service growth, sustainability and partnership engagement.   3M is a global leader in innovation, producing a diverse range of products across industries such as healthcare, consumer goods and safety. Known for iconic brands like Post-it Notes and Scotch Tape, the company emphasizes research and development to create solutions that improve everyday life.  Dayton Freight’s VP of Sales, Dave Brady says, “We are proud to receive 3M’s 2025 Silver Award. This achievement reflects our strong collaboration and shared standards of excellence. We appreciate 3M’s continued trust. Our team remains committed to&hellip;<br /><a class="btn btn-default read-more" style="margin-top: 25px;" href="https://daytonfreight.com/dayton-freight-wins-3ms-silver-award/">Read More</a></p>            </div>	  
+         
+ 
+
+</div> <!-- /.container -->    
+<div class="content-section color-scheme-grey " style="padding: 50px 0; margin-bottom: 0; ">
+    <div class="container-fluid">
+        <div class="container">
+
+<div class="row">
+    <div class="col-md-12 text-center">
+    <h2>The Dayton Difference</h2> 
+    <p>Discover how Dayton Freight does shipping right. Get to know a hardworking, collaborative group ready to help you succeed.</p>
+<p>&nbsp;</p>
+ 
+        
+<div class="row text-center">
+    <div class="col-xs-12 col-sm-6 col-md-4 margin-bottom-40 text-center callout callout-lg">    <a href="https://www.daytonfreight.com/our-commitment/">
+		     
+	     
+               <img class="img-responsive img-circle" src="https://daytonfreight.com/wp-content/uploads/2023/02/Our-Commitment-2023.png" alt="Our Commitment" />
+	     
+	    <h3>Our Commitment</h3>
+            </a>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 margin-bottom-40 text-center callout callout-lg">    <a href="https://www.daytonfreight.com/our-community/">
+		     
+	     
+               <img class="img-responsive img-circle" src="https://daytonfreight.com/wp-content/uploads/2023/02/Our-Community-2023.png" alt="Our Community" />
+	     
+	    <h3>Our Community</h3>
+            </a>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-4 margin-bottom-40 text-center callout callout-lg">    <a href="https://www.daytonfreight.com/our-culture/">
+		     
+	     
+               <img class="img-responsive img-circle" src="https://daytonfreight.com/wp-content/uploads/2020/02/Our-Culture-Philosphy.png" alt="Our Culture" />
+	     
+	    <h3>Our Culture</h3>
+            </a>
+    </div>
+    </div>
+ 
+</div></div>
+
+            </div> <!-- /.container --> 
+        </div> <!-- /.container-fluid --> 
+    </div> <!-- /.content-section -->
+    <div class="container">
+</div>
+
+
+</div>
+
+<!--
+<div id="divicw" data-bind="63077D48-EB5B-471C-8F26-6CE7066AE352" data-org=""></div>
+<script>var i = { t: function (t) { var e = "https://media.imi.chat/widget/js/imichatinit.js"; try { var o = new XMLHttpRequest; o.onreadystatechange = function () { if (this.readyState == 4) { var t = document.getElementById("divicw"); if (this.status == 0) { i.o(t); return } var e = document.createElement("script"); e.innerHTML = this.responseText; t.parentNode.insertBefore(e, t.nextSibling) } }; o.open("GET", e, true); o.send() } catch (s) { console.error(s) } }, o: function (t) { t.insertAdjacentHTML("afterend", '<iframe id="tls_al_frm" frameborder="0" style="overflow: hidden;height: 208px;width: 394px;position: fixed;display: block;right: 48px;bottom: 12px;z-index: 99999; display:none;"></iframe>'); var e = document.getElementById("tls_al_frm"); var o = e.contentWindow || (e.contentDocument.document || e.contentDocument); o.document.open(); o.document.write('<!doctype html><html><head><meta charset="utf-8"><title>Untitled Document</title><style>body{font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;color: #99a0b0;font-size: 14px;}.popover__content{background-color: #fbfbfe; padding: 1.5rem; border-radius: 5px; width: 300px; box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);position: relative;}.popover__message{font-weight: 600;color:#56627c;font-size: 16px;}.pull-left{float:left;}.clearfix{clear: both;}.hdr-txt{width: 218px; margin-top: 3px;}.para-txt a{text-decoration: none;color: #005cde;}.close-btn{position: absolute;right:15px;top:15px;}.close-btn a{text-decoration: none;font-weight: 400; color: #56627c; font-size: 16px;}</style></head><body><div class="popover__content"><div class="close-btn"><a href="#" onclick="closeTLSAlert();">X</a></div><div class="popover__message"><div class="pull-left hdr-txt">This browser version is not supported on LiveChat.</div></div><div class="clearfix"></div><p class="para-txt">Please update your browser to the latest version and re-open the website to access the widget. </p></div><script>function closeTLSAlert(){window.parent.postMessage({key: "close_tls_alert",value: "close_tls_alert",action: "close_tls_alert"}, "*");}<\/script></body></html>'); o.document.close(); e.style.display = "block"; window.addEventListener("message", function (t) { if (t.data.action == "close_tls_alert") { i.s() } }) }, s: function () { var t = document.getElementById("tls_al_frm"); t.remove() } }; i.t(function (t) { });</script>
+-->
+
+<script type="text/javascript">!function (e, t, n) { function a() { var e = t.getElementsByTagName("script")[0], n = t.createElement("script"); n.type = "text/javascript", n.async = !0, n.src = "https://beacon-v2.helpscout.net", e.parentNode.insertBefore(n, e) } if (e.Beacon = n = function (t, n, a) { e.Beacon.readyQueue.push({ method: t, options: n, data: a }) }, n.readyQueue = [], "complete" === t.readyState) return a(); e.attachEvent ? e.attachEvent("onload", a) : e.addEventListener("load", a, !1) }(window, document, window.Beacon || function () { });</script>
+<script type="text/javascript">window.Beacon('init', 'bd4cf732-585b-462b-a327-9b6528e9b754')</script>
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-xs-12">
+                <img src="https://www.daytonfreight.com/wp-content/uploads/2017/08/footer-logo.png" style="width: 220px; margin-top: 30px;" />
+            </div>
+            <div class="col-md-4 col-xs-12">
+                <p class="address text-center">
+                    Dayton Freight Lines, Inc.<br>
+                    6450 Poe Ave. Dayton OH 45414<br>
+                    800.860.5102			
+                </p>
+            </div>
+            <div class="col-md-4 col-xs-12">
+                <ul class="social-icons list-inline text-center">
+                        <li>
+                            <a href="https://www.facebook.com/Dayton-Freight-Lines-Inc-129712857075286/" title="Facebook" target="_blank">
+                                <span class="fa fa-facebook"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/DaytonFreight?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" title="Twitter" target="_blank">
+                                <span class="fa fa-x-twitter"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/company/dayton-freight-lines" title="LinkedIn" target="_blank">
+                                <span class="fa fa-linkedin"></span>
+                            </a>
+                        </li>
+<li>                             <a href="https://www.instagram.com/daytonfreight" title="LinkedIn" target="_blank" class="">                                 <span class="fa fa-instagram"></span>                             </a>                         </li>
+                </ul>
+                
+            </div>
+        </div>
+    </div>
+</footer>
+<div class="bottom">
+	<div class="container">
+		<div class="col-sm-12">Copyright &copy; 2025 | All Rights Reserved  |  <a href="https://c-10326-20230419-www-daytonfreight-com.i.icims.com/terms-of-use/" class=""> Terms of Use </a> | <a href="https://c-10326-20230419-www-daytonfreight-com.i.icims.com/privacy-policy/" class=""> Privacy Policy </a></div>	</div>
+</div>
+
+<div id="pullout-widget-1" style="background: #fff;">
+    
+    <div class="content-section">
+        <h3 class="margin-top-0 text-center">Power Tools</h2>
+        <hr />
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row customer-tools-links">
+                    <div class="col-xs-12 col-sm-4 col-sm-offset-0 col-md-offset-0 col-md-4">
+                        <a class="customer-tools-link" href="https://tools.daytonfreight.com/rates/estimate">
+                            <i class="fa fa-dollar"></i>
+                            <p>Rate Estimate</p>  
+                        </a>  
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-sm-offset-0 col-md-offset-0 col-md-4">
+                        <a class="customer-tools-link" href="https://tools.daytonfreight.com/tracking/bynumber">
+                            <i class="fa fa-search"></i>
+                            <p>Track Shipments</p>  
+                        </a>  
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-sm-offset-0 col-md-offset-0 col-md-4">
+                        <a class="customer-tools-link" href="https://tools.daytonfreight.com/pickup/create">
+                            <i class="fa fa-truck"></i>
+                            <p>Pickup Request</p>  
+                        </a>  
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-sm-offset-0 col-md-offset-0 col-md-4">
+                        <a class="customer-tools-link" href="https://tools.daytonfreight.com/billoflading/create">
+                            <i class="fa fa-file"></i>
+                            <p>Bill of Lading</p>  
+                        </a>  
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-sm-offset-0 col-md-offset-0 col-md-4">
+                        <a class="customer-tools-link" href="https://tools.daytonfreight.com/service/eligibility">
+                            <i class="fa fa-clock-o"></i>
+                            <p>Transit Time</p>  
+                        </a>  
+                    </div>
+                     <div class="col-xs-12 col-sm-4 col-sm-offset-0 col-md-offset-0 col-md-4">
+                        <a class="customer-tools-link" href="https://tools.daytonfreight.com/imaging">
+                            <i class="fa fa-picture-o"></i>
+                            <p>View Images</p>  
+                        </a>  
+                    </div>
+                </div> 
+            </div>
+        </div>
+        <hr />        
+    </div>
+
+    <!-- Service Alert Modal --> 
+    <div class="modal fade" id="service-alert-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+        <div class="modal-header text-center">
+        <div class="center-icon">       
+            <span>!</i>
+        </div>
+        </div>
+        <div id="service-alert-content" class="modal-body">
+            <h4 id="service-alert-modal-title"></h4>
+            <p id="service-alert-modal-body"></p>
+            <span>Click <a href="https://tools.daytonfreight.com/service/alertsignup">here</a> to sign up for automatic notifications &amp; service alerts.</span>
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+        </div>
+    </div>
+    </div>
+<!-- /Service Alert Modal --> 
+
+</div>
+
+<script type="text/javascript">
+var powVars= 
+{
+	"pullout-widget-1": {
+		"position": {
+			"side": "right",
+			"anchor": "0",
+			"distance": "30%"
+		},
+		"style": {
+			"show_on": "click",
+			"speed": "800",
+			"width": "360",
+			"color": "#f78f1e",
+			"border_color": "#fff",
+			"text_color": "#fff",
+			"link_color": "#",
+			"tab_offset_type": "%",
+			"rotate": "1",
+			"open_label": "Power Tools",
+			"close_label": "Power Tools"
+		},
+		"behavior": {
+			"easing": "easeOutCubic"
+		}
+	}
+};
+</script>
+
+<!-- Google Analytics --> 
+<script>
+// This pulls the google analytics source code.
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject'] = r;i[r]=i[r]||function(){
+	(i[r].q = i[r].q || []).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+// We create the ga object with our id, setting cookie details to auto.
+ga('create', 'UA-110414026-1', 'auto');
+
+// Send the authenticated user to google analytics. 
+if (typeof userId !== 'undefined') {
+  ga('set', 'dimension1', userId);
+  ga('set', 'userId', userId);
+ }
+
+// This sends a pageview event to google analytics with the location's pathname.
+ga('send', 'pageview', location.pathname);
+
+</script>
+<!-- End Google Analytics -->
+
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = false;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		
+
+
+	<!-- ShiftNav #shiftnav-main -->
+	<div class="shiftnav shiftnav-nojs shiftnav-shiftnav-main shiftnav-left-edge shiftnav-skin-slate shiftnav-transition-standard" id="shiftnav-main" data-shiftnav-id="shiftnav-main">
+		<div class="shiftnav-inner">
+
+					<span class="shiftnav-panel-close"><i class="fa fa-times"></i></span>
+		
+			<div class="shiftnav-menu-image shiftnav-menu-image-padded" id="shiftnav-menu-image-shiftnav-main">
+		<a href="https://www.daytonfreight.com/">							<img width="1479" height="658" src="https://daytonfreight.com/wp-content/uploads/2017/11/DF-Logo-Color.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" />					</a>	</div>
+		<!-- ShiftNav Search Bar -->
+	<div class="shiftnav-search">
+		<form role="search" method="get" class="shiftnav-searchform" action="https://daytonfreight.com/">
+			<input type="text" placeholder="Search..." value="" name="s" class="shiftnav-search-input" />
+						<input type="submit" class="shiftnav-search-submit" value="&#xf002;" />
+		</form>
+	</div>
+	<!-- end .shiftnav-search -->
+
+	<nav class="shiftnav-nav"><ul id="menu-mobile-menu" class="shiftnav-menu shiftnav-targets-default shiftnav-targets-text-default shiftnav-targets-icon-default shiftnav-indent-subs"><li id="menu-item-540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-540 shiftnav-sub-accordion shiftnav-depth-0"><span class="shiftnav-target" >Shipping</span><span class="shiftnav-submenu-activation shiftnav-submenu-activation-open"><i class="fa fa-chevron-down"></i></span><span class="shiftnav-submenu-activation shiftnav-submenu-activation-close"><i class="fa fa-chevron-up"></i></span>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-542" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-542 shiftnav-depth-1"><a class="shiftnav-target"  href="http://tools.daytonfreight.com/tracking/bynumber">Track by Number</a></li><li id="menu-item-543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-543 shiftnav-depth-1"><a class="shiftnav-target"  href="http://tools.daytonfreight.com/tracking/bydate">Track by Date</a></li><li id="menu-item-595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-595 shiftnav-depth-1"><a class="shiftnav-target"  href="http://tools.daytonfreight.com/tracking/pending">Shipments Pending Delivery</a></li><li id="menu-item-594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-594 shiftnav-depth-1"><a class="shiftnav-target"  href="http://tools.daytonfreight.com/imaging">View Images</a></li><li id="menu-item-590" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-590 shiftnav-depth-1"><a class="shiftnav-target"  href="http://tools.daytonfreight.com/service/eligibility">Transit Times</a></li><li id="menu-item-591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-591 shiftnav-depth-1"><a class="shiftnav-target"  href="http://tools.daytonfreight.com/rates/estimate">Rate Estimate</a></li><li id="menu-item-592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-592 shiftnav-depth-1"><a class="shiftnav-target"  href="http://tools.daytonfreight.com/pickup/create">Pickup Request</a></li><li id="menu-item-593" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-593 shiftnav-depth-1"><a class="shiftnav-target"  href="http://tools.daytonfreight.com/shipping/labels">Shipping Labels</a></li><li id="menu-item-596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-596 shiftnav-depth-1"><a class="shiftnav-target"  href="https://tools.daytonfreight.com/shipping/volumequote">Volume/Spot Quote</a></li><li id="menu-item-602" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-602 shiftnav-depth-1"><a class="shiftnav-target"  href="http://tools.daytonfreight.com/account/activity">Recent Online Activity</a></li><li id="menu-item-604" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-604 shiftnav-depth-1"><a class="shiftnav-target"  target="_blank" href="https://www.phmsa.dot.gov/sites/phmsa.dot.gov/files/docs/training/hazmat/69186/hazmat-transportation-reqmts-web-final.pdf">HazMat Shipping Guide</a></li><li id="menu-item-605" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-605 shiftnav-depth-1"><a class="shiftnav-target"  href="http://tools.daytonfreight.com/billoflading/create">Bill of Lading</a></li><li id="menu-item-606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-606 shiftnav-depth-1"><a class="shiftnav-target"  target="_blank" href="https://daytonfreight.com/wp-content/uploads/2025/10/DFL_Wordpress_bill-of-lading-1.pdf">Bill of Lading (download)</a></li><li id="menu-item-7328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7328 shiftnav-depth-1"><a class="shiftnav-target"  target="_blank" href="https://daytonfreight.com/wp-content/uploads/2025/10/DFL_Wordpress_bill-of-lading-2.pdf">BOL Supplemental Page (download)</a></li><li id="menu-item-2333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2333 shiftnav-depth-1"><a class="shiftnav-target"  href="https://tools.daytonfreight.com/reporting">Reporting</a></li><li id="menu-item-607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-607 shiftnav-depth-1"><a class="shiftnav-target"  target="_blank" href="https://daytonfreight.com/wp-content/uploads/2025/07/DAFG-19-K-24th-Revision-effective-01.19.26.pdf">Rules Tariff</a></li><li id="menu-item-2631" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2631 shiftnav-depth-1"><a class="shiftnav-target"  href="https://tools.daytonfreight.com/claims/create">Claims</a></li><li class="shiftnav-retract"><a class="shiftnav-target"><i class="fa fa-chevron-left"></i> Back</a></li></ul>
+</li><li id="menu-item-544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-544 shiftnav-sub-accordion shiftnav-depth-0"><span class="shiftnav-target" >Services</span><span class="shiftnav-submenu-activation shiftnav-submenu-activation-open"><i class="fa fa-chevron-down"></i></span><span class="shiftnav-submenu-activation shiftnav-submenu-activation-close"><i class="fa fa-chevron-up"></i></span>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/service-centers/">Service Centers</a></li><li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/dft/">Truckload</a></li><li id="menu-item-555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/guaranteed-service/">Guaranteed Service</a></li><li id="menu-item-553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-553 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/strategic-partners/">Strategic Partners</a></li><li id="menu-item-1268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1268 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/it-integration/">IT Integration</a></li><li id="menu-item-589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-589 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/dfxpedited-services/">DFXpedited Service</a></li><li id="menu-item-554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-554 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/special-services/">Special Services</a></li><li class="shiftnav-retract"><a class="shiftnav-target"><i class="fa fa-chevron-left"></i> Back</a></li></ul>
+</li><li id="menu-item-545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-545 shiftnav-sub-accordion shiftnav-depth-0"><span class="shiftnav-target" >About</span><span class="shiftnav-submenu-activation shiftnav-submenu-activation-open"><i class="fa fa-chevron-down"></i></span><span class="shiftnav-submenu-activation shiftnav-submenu-activation-close"><i class="fa fa-chevron-up"></i></span>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-3771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3771 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/builtforthelonghaul/">Built for the Long Haul</a></li><li id="menu-item-557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/company-facts/">Company Facts</a></li><li id="menu-item-565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-565 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/quality/">Quality</a></li><li id="menu-item-566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-566 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/safety/">Safety</a></li><li id="menu-item-3031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3031 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/sustainability-and-diversity/">Sustainability and Diversity</a></li><li id="menu-item-560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-560 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/news/">News</a></li><li id="menu-item-2693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2693 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/a-note-to-our-customers/">Letter to Customers</a></li><li id="menu-item-556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/awards/">Awards</a></li><li id="menu-item-567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-567 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/the-dayton-difference/">The Dayton Difference</a></li><li id="menu-item-561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-561 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/our-commitment/">Our Commitment</a></li><li id="menu-item-562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-562 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/our-community/">Our Community</a></li><li id="menu-item-563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-563 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/our-culture/">Our Culture</a></li><li class="shiftnav-retract"><a class="shiftnav-target"><i class="fa fa-chevron-left"></i> Back</a></li></ul>
+</li><li id="menu-item-546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-546 shiftnav-sub-accordion shiftnav-depth-0"><span class="shiftnav-target" >Resources</span><span class="shiftnav-submenu-activation shiftnav-submenu-activation-open"><i class="fa fa-chevron-down"></i></span><span class="shiftnav-submenu-activation shiftnav-submenu-activation-close"><i class="fa fa-chevron-up"></i></span>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-599" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-599 shiftnav-depth-1"><a class="shiftnav-target"  href="http://tools.daytonfreight.com/service/alertsignup">Service Alert Signup</a></li><li id="menu-item-597" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-597 shiftnav-depth-1"><a class="shiftnav-target"  href="http://tools.daytonfreight.com/shipping/densitycalculator">Density Calculator</a></li><li id="menu-item-600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-600 shiftnav-depth-1"><a class="shiftnav-target"  target="_blank" href="https://tools.daytonfreight.com/pdf/routeguidepoints.pdf">Route Guide</a></li><li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-584 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/faqs/">FAQs</a></li><li id="menu-item-598" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-598 shiftnav-depth-1"><a class="shiftnav-target"  href="http://tools.daytonfreight.com/shipping/fullvalueinsurance">Insurance Calculator</a></li><li id="menu-item-588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-588 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/it-integration/">IT Integration</a></li><li id="menu-item-586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-586 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/glossary-of-terms/">Glossary of Terms</a></li><li id="menu-item-587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-587 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/holiday-schedule/">Holiday Schedule</a></li><li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-585 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/forms/">Forms</a></li><li id="menu-item-601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-601 shiftnav-depth-1"><a class="shiftnav-target"  target="_blank" href="https://daytonfreight.com/wp-content/uploads/2025/07/DAFG-19-K-24th-Revision-effective-01.19.26.pdf">Rules Tariff</a></li><li class="shiftnav-retract"><a class="shiftnav-target"><i class="fa fa-chevron-left"></i> Back</a></li></ul>
+</li><li id="menu-item-845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-845 shiftnav-sub-accordion shiftnav-depth-0"><span class="shiftnav-target" >Contact</span><span class="shiftnav-submenu-activation shiftnav-submenu-activation-open"><i class="fa fa-chevron-down"></i></span><span class="shiftnav-submenu-activation shiftnav-submenu-activation-close"><i class="fa fa-chevron-up"></i></span>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-843 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/contact/">Contact Us</a></li><li id="menu-item-844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-844 shiftnav-depth-1"><a class="shiftnav-target"  href="https://daytonfreight.com/employment-verification/">Employment Verification</a></li><li class="shiftnav-retract"><a class="shiftnav-target"><i class="fa fa-chevron-left"></i> Back</a></li></ul>
+</li><li id="menu-item-548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-548 shiftnav-depth-0"><a class="shiftnav-target"  href="https://www.daytonfreight.com/careers/">Careers</a></li><li id="menu-item-1219" class="user-logged-in menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1219 shiftnav-sub-accordion shiftnav-depth-0"><span class="shiftnav-target" >My Account</span><span class="shiftnav-submenu-activation shiftnav-submenu-activation-open"><i class="fa fa-chevron-down"></i></span><span class="shiftnav-submenu-activation shiftnav-submenu-activation-close"><i class="fa fa-chevron-up"></i></span>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-1220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1220 shiftnav-depth-1"><a class="shiftnav-target"  href="https://tools.daytonfreight.com/account/update">Update Account</a></li><li id="menu-item-1221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1221 shiftnav-depth-1"><a class="shiftnav-target"  href="https://tools.daytonfreight.com/service/alerts">Notifications</a></li><li id="menu-item-1222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1222 shiftnav-depth-1"><a class="shiftnav-target"  href="https://tools.daytonfreight.com/aging/summary">Account Aging</a></li><li id="menu-item-7353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7353 shiftnav-depth-1"><a class="shiftnav-target"  href="https://tools.daytonfreight.com/onlinepayments/summary">Online Payments</a></li><li id="menu-item-2332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2332 shiftnav-depth-1"><a class="shiftnav-target"  href="https://tools.daytonfreight.com/reporting">Reporting</a></li><li class="shiftnav-retract"><a class="shiftnav-target"><i class="fa fa-chevron-left"></i> Back</a></li></ul>
+</li><li id="menu-item-1224" class="user-logged-out menu-item menu-item-type-custom menu-item-object-custom menu-item-1224 shiftnav-depth-0"><a class="shiftnav-target"  href="https://tools.daytonfreight.com/account/login">Customer Login</a></li><li id="menu-item-1223" class="user-logged-in menu-item menu-item-type-custom menu-item-object-custom menu-item-1223 shiftnav-depth-0"><a class="shiftnav-target"  href="https://tools.daytonfreight.com/account/logout">Sign Out</a></li></ul></nav><div id="shiftnav-address">
+<h4>Dayton Freight Lines, Inc</h4>
+<h5>6450 Poe Ave.</h5>
+<h5>Dayton, Ohio 45414</h5>
+<a href="tel:8008605102" class="shiftnav-tagline"> 800.860.5102 </a>
+</div>
+                		</div><!-- /.shiftnav-inner -->
+	</div><!-- /.shiftnav #shiftnav-main -->
+
+
+	<link href="//fonts.googleapis.com/css?family=Roboto:400%2C900%7COswald:400%7COpen+Sans:400&display=swap" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
+
+<script>
+		if(typeof revslider_showDoubleJqueryError === "undefined") {function revslider_showDoubleJqueryError(sliderID) {console.log("You have some jquery.js library include that comes after the Slider Revolution files js inclusion.");console.log("To fix this, you can:");console.log("1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on");console.log("2. Find the double jQuery.js inclusion and remove it");return "Double Included jQuery Library";}}
+</script>
+<script type="text/javascript">
+		/* MonsterInsights Scroll Tracking */
+		if ( typeof(jQuery) !== 'undefined' ) {
+		jQuery( document ).ready(function(){
+		function monsterinsights_scroll_tracking_load() {
+		if ( ( typeof(__gaTracker) !== 'undefined' && __gaTracker && __gaTracker.hasOwnProperty( "loaded" ) && __gaTracker.loaded == true ) || ( typeof(__gtagTracker) !== 'undefined' && __gtagTracker ) ) {
+		(function(factory) {
+		factory(jQuery);
+		}(function($) {
+
+		/* Scroll Depth */
+		"use strict";
+		var defaults = {
+		percentage: true
+		};
+
+		var $window = $(window),
+		cache = [],
+		scrollEventBound = false,
+		lastPixelDepth = 0;
+
+		/*
+		* Plugin
+		*/
+
+		$.scrollDepth = function(options) {
+
+		var startTime = +new Date();
+
+		options = $.extend({}, defaults, options);
+
+		/*
+		* Functions
+		*/
+
+		function sendEvent(action, label, scrollDistance, timing) {
+		if ( 'undefined' === typeof MonsterInsightsObject || 'undefined' === typeof MonsterInsightsObject.sendEvent ) {
+		return;
+		}
+			var paramName = action.toLowerCase();
+	var fieldsArray = {
+	send_to: 'G-BF0DRQNYZV',
+	non_interaction: true
+	};
+	fieldsArray[paramName] = label;
+
+	if (arguments.length > 3) {
+	fieldsArray.scroll_timing = timing
+	MonsterInsightsObject.sendEvent('event', 'scroll_depth', fieldsArray);
+	} else {
+	MonsterInsightsObject.sendEvent('event', 'scroll_depth', fieldsArray);
+	}
+			}
+
+		function calculateMarks(docHeight) {
+		return {
+		'25%' : parseInt(docHeight * 0.25, 10),
+		'50%' : parseInt(docHeight * 0.50, 10),
+		'75%' : parseInt(docHeight * 0.75, 10),
+		/* Cushion to trigger 100% event in iOS */
+		'100%': docHeight - 5
+		};
+		}
+
+		function checkMarks(marks, scrollDistance, timing) {
+		/* Check each active mark */
+		$.each(marks, function(key, val) {
+		if ( $.inArray(key, cache) === -1 && scrollDistance >= val ) {
+		sendEvent('Percentage', key, scrollDistance, timing);
+		cache.push(key);
+		}
+		});
+		}
+
+		function rounded(scrollDistance) {
+		/* Returns String */
+		return (Math.floor(scrollDistance/250) * 250).toString();
+		}
+
+		function init() {
+		bindScrollDepth();
+		}
+
+		/*
+		* Public Methods
+		*/
+
+		/* Reset Scroll Depth with the originally initialized options */
+		$.scrollDepth.reset = function() {
+		cache = [];
+		lastPixelDepth = 0;
+		$window.off('scroll.scrollDepth');
+		bindScrollDepth();
+		};
+
+		/* Add DOM elements to be tracked */
+		$.scrollDepth.addElements = function(elems) {
+
+		if (typeof elems == "undefined" || !$.isArray(elems)) {
+		return;
+		}
+
+		$.merge(options.elements, elems);
+
+		/* If scroll event has been unbound from window, rebind */
+		if (!scrollEventBound) {
+		bindScrollDepth();
+		}
+
+		};
+
+		/* Remove DOM elements currently tracked */
+		$.scrollDepth.removeElements = function(elems) {
+
+		if (typeof elems == "undefined" || !$.isArray(elems)) {
+		return;
+		}
+
+		$.each(elems, function(index, elem) {
+
+		var inElementsArray = $.inArray(elem, options.elements);
+		var inCacheArray = $.inArray(elem, cache);
+
+		if (inElementsArray != -1) {
+		options.elements.splice(inElementsArray, 1);
+		}
+
+		if (inCacheArray != -1) {
+		cache.splice(inCacheArray, 1);
+		}
+
+		});
+
+		};
+
+		/*
+		* Throttle function borrowed from:
+		* Underscore.js 1.5.2
+		* http://underscorejs.org
+		* (c) 2009-2013 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+		* Underscore may be freely distributed under the MIT license.
+		*/
+
+		function throttle(func, wait) {
+		var context, args, result;
+		var timeout = null;
+		var previous = 0;
+		var later = function() {
+		previous = new Date;
+		timeout = null;
+		result = func.apply(context, args);
+		};
+		return function() {
+		var now = new Date;
+		if (!previous) previous = now;
+		var remaining = wait - (now - previous);
+		context = this;
+		args = arguments;
+		if (remaining <= 0) {
+		clearTimeout(timeout);
+		timeout = null;
+		previous = now;
+		result = func.apply(context, args);
+		} else if (!timeout) {
+		timeout = setTimeout(later, remaining);
+		}
+		return result;
+		};
+		}
+
+		/*
+		* Scroll Event
+		*/
+
+		function bindScrollDepth() {
+
+		scrollEventBound = true;
+
+		$window.on('scroll.scrollDepth', throttle(function() {
+		/*
+		* We calculate document and window height on each scroll event to
+		* account for dynamic DOM changes.
+		*/
+
+		var docHeight = $(document).height(),
+		winHeight = window.innerHeight ? window.innerHeight : $window.height(),
+		scrollDistance = $window.scrollTop() + winHeight,
+
+		/* Recalculate percentage marks */
+		marks = calculateMarks(docHeight),
+
+		/* Timing */
+		timing = +new Date - startTime;
+
+		checkMarks(marks, scrollDistance, timing);
+		}, 500));
+
+		}
+
+		init();
+		};
+
+		/* UMD export */
+		return $.scrollDepth;
+
+		}));
+
+		jQuery.scrollDepth();
+		} else {
+		setTimeout(monsterinsights_scroll_tracking_load, 200);
+		}
+		}
+		monsterinsights_scroll_tracking_load();
+		});
+		}
+		/* End MonsterInsights Scroll Tracking */
+			/* MonsterInsights Conversion Event */
+	jQuery(document).ready(function() {
+		jQuery('a[data-mi-conversion-event]')
+			.off('click.monsterinsightsConversion')
+			.on('click.monsterinsightsConversion', function() {
+				if ( typeof(__gtagTracker) !== 'undefined' && __gtagTracker ) {
+					var $link = jQuery(this);
+					var eventName = $link.attr('data-mi-event-name');
+					if ( typeof eventName === 'undefined' || ! eventName ) {
+						// Fallback to first word of the <a> tag, lowercase, strip html
+						var text = $link.text().trim();
+						text = text.replace(/(<([^>]+)>)/gi, '').toLowerCase();
+						var firstWord = text.split(/\s+/)[0] || '';
+
+						if ( firstWord ) {
+							eventName = 'click-' + firstWord;
+						} else {
+							eventName = $link.parent().hasClass('wp-block-image') ? 'image-click' : 'button-click';
+						}
+					}
+					__gtagTracker('event', 'mi-' + eventName);
+				}
+			});
+	});
+	/* End MonsterInsights Conversion Event */
+	
+</script><link rel='stylesheet' id='rs-plugin-settings-css' href='//daytonfreight.com/wp-content/plugins/revslider/sr6/assets/css/rs6.css?ver=6.7.4' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+		#rev_slider_1_1_wrapper .uranus .tp-bullet{border-radius:50%; box-shadow:0 0 0 2px rgba(255,255,255,0); -webkit-transition:box-shadow 0.3s ease; transition:box-shadow 0.3s ease; background:transparent; width:15px; height:15px}#rev_slider_1_1_wrapper .uranus .tp-bullet.selected,#rev_slider_1_1_wrapper .uranus .tp-bullet.rs-touchhover{box-shadow:0 0 0 2px rgba(255,255,255,1); border:none; border-radius:50%; background:transparent}#rev_slider_1_1_wrapper .uranus .tp-bullet-inner{-webkit-transition:background-color 0.3s ease,-webkit-transform 0.3s ease; transition:background-color 0.3s ease,transform 0.3s ease; top:0; left:0; width:100%; height:100%; outline:none; border-radius:50%; background-color:rgba(255,255,255,0); background-color:rgba(255,255,255,0.3); text-indent:-999em; cursor:pointer; position:absolute}#rev_slider_1_1_wrapper .uranus .tp-bullet.selected .tp-bullet-inner,#rev_slider_1_1_wrapper .uranus .tp-bullet.rs-touchhover .tp-bullet-inner{transform:scale(0.4); -webkit-transform:scale(0.4); background-color:rgba(255,255,255,1)}
+</style>
+<script type='text/javascript' src='https://daytonfreight.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.6' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/daytonfreight.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://daytonfreight.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.6' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://tools.daytonfreight.com/api/rates/fuelsurchargescript?ver=1769537058.3738' id='fuel-surcharge-script-js'></script>
+<script type='text/javascript' src='https://daytonfreight.com/wp-content/themes/daytonfreight/js/app.js?ver=1.0.0' id='app-scripts-js'></script>
+<script type='text/javascript' src='https://tools.daytonfreight.com/api/account/loginstatescript?ver=1769537058.3738' id='login-state-script-js'></script>
+<script type='text/javascript' src='https://daytonfreight.com/wp-content/themes/daytonfreight/js/auth-detect.js?ver=1.0.3' id='auth-detect-script-js'></script>
+<script type='text/javascript' src='https://daytonfreight.com/wp-content/themes/daytonfreight/lib/pullouts/js/jquery.appear-1.1.1.min.js?ver=1.0.0' id='jquery-appear-script-js'></script>
+<script type='text/javascript' src='https://daytonfreight.com/wp-content/themes/daytonfreight/lib/pullouts/js/pullouts.min.js?ver=1.0.0' id='pullouts-script-js'></script>
+<script type='text/javascript' id='ubermenu-js-extra'>
+/* <![CDATA[ */
+var ubermenu_data = {"remove_conflicts":"on","reposition_on_load":"off","intent_delay":"300","intent_interval":"100","intent_threshold":"7","scrollto_offset":"50","scrollto_duration":"1000","responsive_breakpoint":"959","accessible":"on","retractor_display_strategy":"responsive","touch_off_close":"on","collapse_after_scroll":"on","v":"3.2.7","configurations":["main"],"ajax_url":"https:\/\/daytonfreight.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/daytonfreight.com\/wp-content\/plugins\/ubermenu\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://daytonfreight.com/wp-content/plugins/ubermenu/assets/js/ubermenu.min.js?ver=3.2.7' id='ubermenu-js'></script>
+<script type='text/javascript' src='https://daytonfreight.com/wp-content/plugins/ubermenu/custom/custom.js?ver=3.2.7' id='ubermenu-custom-js'></script>
+<script type='text/javascript' id='shiftnav-js-extra'>
+/* <![CDATA[ */
+var shiftnav_data = {"shift_body":"off","shift_body_wrapper":"","lock_body":"on","lock_body_x":"off","swipe_close":"off","swipe_open":"off","swipe_tolerance_x":"150","swipe_tolerance_y":"60","swipe_edge_proximity":"80","open_current":"off","collapse_accordions":"on","scroll_panel":"on","breakpoint":"","touch_off_close":"on","scroll_offset":"100","disable_transforms":"off"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://daytonfreight.com/wp-content/plugins/shiftnav-pro/assets/js/shiftnav.min.js?ver=1.5.1.1' id='shiftnav-js'></script>
+<script id="rs-initialisation-scripts">
+		var	tpj = jQuery;
+
+		var	revapi1;
+
+		if(window.RS_MODULES === undefined) window.RS_MODULES = {};
+		if(RS_MODULES.modules === undefined) RS_MODULES.modules = {};
+		RS_MODULES.modules["revslider11"] = {once: RS_MODULES.modules["revslider11"]!==undefined ? RS_MODULES.modules["revslider11"].once : undefined, init:function() {
+			window.revapi1 = window.revapi1===undefined || window.revapi1===null || window.revapi1.length===0  ? document.getElementById("rev_slider_1_1") : window.revapi1;
+			if(window.revapi1 === null || window.revapi1 === undefined || window.revapi1.length==0) { window.revapi1initTry = window.revapi1initTry ===undefined ? 0 : window.revapi1initTry+1; if (window.revapi1initTry<20) requestAnimationFrame(function() {RS_MODULES.modules["revslider11"].init()}); return;}
+			window.revapi1 = jQuery(window.revapi1);
+			if(window.revapi1.revolution==undefined){ revslider_showDoubleJqueryError("rev_slider_1_1"); return;}
+			revapi1.revolutionInit({
+					revapi:"revapi1",
+					DPR:"dpr",
+					sliderLayout:"fullwidth",
+					visibilityLevels:"1240,1024,778,480",
+					gridwidth:2000,
+					gridheight:600,
+					hideSliderAtLimit:769,
+					lazyType:"smart",
+					perspective:600,
+					perspectiveType:"local",
+					editorheight:"600,768,960,720",
+					responsiveLevels:"1240,1024,778,480",
+					progressBar: {
+						color:"rgba(255,255,255,0.25)",
+						size:3,
+						x:0,
+						y:0
+						},
+					navigation: {
+						mouseScrollNavigation:false,
+						wheelCallDelay:1000,
+						onHoverStop:false,
+						touch: {
+							touchenabled:true
+						},
+						bullets: {
+							enable:true,
+							tmp:"<span class=\"tp-bullet-inner\"></span>",
+							style:"uranus",
+							h_align:"right",
+							h_offset:100,
+							v_offset:15
+						}
+					},
+					viewPort: {
+						global:true,
+						globalDist:"-200px",
+						enable:false,
+						visible_area:"20%"
+					},
+					fallbacks: {
+						allowHTML5AutoPlayOnAndroid:true
+					},
+			});
+			
+		}} // End of RevInitScript
+
+		if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
+	</script>
+
+</body>
+</html>
