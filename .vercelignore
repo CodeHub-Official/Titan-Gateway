@@ -1,6 +1,13 @@
 *.zip
 *.txt
 *.log
+*.jpg
+*.png
 TITAN_DATABASE_BACKUP/
 CodeHub_Leads/
+TITAN_CARGO/
+TITAN_GOLD_VAULT/
+TITAN_HEADQUARTERS/
+TITAN_SAFE_ZONE/
+Titan-Lab/
 venv/
