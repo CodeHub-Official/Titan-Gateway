@@ -10,3 +10,4 @@
 	addressFamily = ipv4
 [credential]
 	protectProtocol = false
+	helper = store
