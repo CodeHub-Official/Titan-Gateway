@@ -15,8 +15,5 @@ def home():
     </body>
     ''')
 
-# التعديل الجوهري لـ Vercel
-main = app
-
-if __name__ == "__main__":
-    app.run()
+# ده السطر اللي هيحل الـ 500 Error
+app = app
