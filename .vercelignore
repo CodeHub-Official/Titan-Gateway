@@ -1,0 +1,6 @@
+*.zip
+*.txt
+*.log
+TITAN_DATABASE_BACKUP/
+CodeHub_Leads/
+venv/
